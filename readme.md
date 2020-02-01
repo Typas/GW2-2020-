@@ -1,9 +1,9 @@
-## 近期的平衡性更新
+# 近期的平衡性更新
 > 聽說很大
 
-[開發者的話](./praise_cohen.md)
+[平衡團隊的話](./praise_cmc.md)
 
-# 全範圍的更新
+## 全範圍的更新
 * [General](./global/general.md) 通用
 * [Warrior](./global/warrior.md) 戰士
 * [Guardian](./global/guardian.md) 守護
@@ -15,7 +15,7 @@
 * [Mesmer](./global/mesmer.md) 幻術
 * [Elementalist](./global/elementalist.md) 元素
 
-# PvP 改動
+## PvP 改動
 * [Warrior](./pvp/warrior.md) 戰士
 * [Guardian](./pvp/guardian.md) 守護
 * [Revenant](./pvp/revenant.md) 返魂
@@ -26,7 +26,7 @@
 * [Mesmer](./pvp/mesmer.md) 幻術
 * [Elementalist](./pvp/elementalist.md) 元素
 
-# WvW 改動
+## WvW 改動
 * [Warrior](./wvw/warrior.md) 戰士
 * [Guardian](./wvw/guardian.md) 守護
 * [Revenant](./wvw/revenant.md) 返魂
