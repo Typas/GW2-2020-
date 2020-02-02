@@ -4,10 +4,10 @@
 
 > 我們覺得元素的召喚時間太短了，但又為了不要重覆到死靈的所以只好延長。我們又認為小的跟菁英的差不多，所以小的改成能召多隻而沒主動技能用。
 
-* ![][overload fire] Overload Fire: 在 PvE 中 ![][might] 的層數從每次 1 層增加到 2 層。修正技能說明。
-* ![][feel the burn] "Feel the Burn!": 技能的 ![][burning] 從 4 秒 1 層增為 4 秒 2 層。修正會導致無法分享給友軍 ![][might] 的 bug。
+* ![][overload fire] Overload Fire: 在 PvE 中 ![][might]Might 的層數從每次 1 層增加到 2 層。修正技能說明。
+* ![][feel the burn] "Feel the Burn!": 技能的 ![][burning]Burning 從 4 秒 1 層增為 4 秒 2 層。修正會導致無法分享給友軍 ![][might]Might 的 bug。
 * ![][obsidan flesh] Obsidan Flesh: 在 invulnerable 時技能會被鎖定。
-* 以下幾個技能新增在技能使用時會生成 ![] [stability，PvE 5 秒、PvP 與 WvW 3 秒。
+* 以下幾個技能新增在技能使用時會生成 ![][stability]Stability，PvE 5 秒、PvP 與 WvW 3 秒。
   * ![][stone resonance] Stone Resonance
   * ![][lava skin] Lava Skin
   * ![][lahar] Lahar
@@ -17,13 +17,13 @@
 * Summoned Elementals: 元素召喚時間從 60 秒延長到 120 秒。增加顯示剩餘時間的 buff。
   * ![][glyph of lesser elementals] Glyph of Lesser Elementals: 現在召出來的不能用主動技能，但可以同時召出多隻。換技能時召出來的會全死。
   * ![][glyph of elementals] Glyph of Elementals: PvE 的 CD 時間從 90 秒縮短到 40 秒。命令技能現在會被當成普通的菁英技來觸發 trait/rune 的效果。現在命令技能會像死靈的 golem 一樣能在任何時間使用，而且會有新的特效。
-  * ![][flame burst] Flame Burst (Fire Elemental/Lesser Fire Elemental): 以 1 層 3 秒的 ![][burning] 取代 ![][crippled]。
+  * ![][flame burst] Flame Burst (Fire Elemental/Lesser Fire Elemental): 以 1 層 3 秒的 ![][burning]Burning 取代 ![][crippled]Crippled。
   * ![][flame barrage] Flame Barrage (Fire Elemental): 射程 300 -> 360 以對齊 360 的爆炸範圍，傷害增為 1.5 倍，CD 從 10 秒增為 15 秒。
   * ![][windborne speed] Windborne Speed (Air Elemental/Lesser Air Elemental): 範圍半徑從 240 增為 360。
-  * ![][shocking bolt] Shocking Bolt (Air Elemental): ![][stun] 時間從 1 秒增為 1.5 秒，CD 從 10 秒增為 15 秒。
-  * ![][stomp] Stomp (Earth Elemental): 增加 ![][immobile] 1 秒的效果。
+  * ![][shocking bolt] Shocking Bolt (Air Elemental): ![][stun]Stun 時間從 1 秒增為 1.5 秒，CD 從 10 秒增為 15 秒。
+  * ![][stomp] Stomp (Earth Elemental): 增加 ![][immobile]Immobilized 1 秒的效果。
 * ![][stone flesh] Stone Flesh: 不再增加 150 Toughness，改成切換到 ![][earth]Earth 時減傷 7%。
-* ![][bolstered elements] Bolstered Elements: 使用 stance 技能時不再產生 ![][stability]，改為產生 ![][barrier]barrier。
+* ![][bolstered elements] Bolstered Elements: 使用 stance 技能時不再產生 ![][stability]Stability，改為產生 ![][barrier]Barrier。
 * ![][elemental lockdown] Elemental Lockdown: 你在 disable 一個敵人時會根據所在 attunement 得到 boon
   * ![][fire] Fire: 5 層 5 秒的 ![][might]
   * ![][water] Water: 10 秒 ![][regeneration]
