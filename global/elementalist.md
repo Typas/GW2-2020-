@@ -33,7 +33,7 @@
 
 
 ###### 貢獻者
-Richun (Richun.9045)
+Richun (Richun.9045), Alik
 
 [底下這些別動，上面才是正文]: https://wiki.guildwars2.com
 
