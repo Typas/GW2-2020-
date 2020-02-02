@@ -75,7 +75,7 @@ Richun (Richun.9045), Sia
 [backbreaker]: https://wiki.guildwars2.com/images/thumb/d/d1/Backbreaker.png/32px-Backbreaker.png
 [disrupting stab]: https://wiki.guildwars2.com/images/thumb/7/77/Disrupting_Stab.png/32px-Disrupting_Stab.png
 [imminent threat]: https://wiki.guildwars2.com/images/thumb/0/06/Imminent_Threat.png/32px-Imminent_Threat.png
-[signet of might]: https://wiki.guildwars2.com/images/thumb/4/40/Signet_of_Might.png/64px-Signet_of_Might.png
+[signet of might]: https://wiki.guildwars2.com/images/thumb/4/40/Signet_of_Might.png/32px-Signet_of_Might.png
 [unblockable SoM]: https://wiki.guildwars2.com/images/thumb/6/6e/Unblockable.png/32px-Unblockable.png
 [unblockable]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
 
