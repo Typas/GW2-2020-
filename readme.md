@@ -5,15 +5,12 @@
 
 ## 全範圍的更新
 * [General](./global/general.md) 通用
-* [Warrior](./global/warrior.md) 戰士
-* [Guardian](./global/guardian.md) 守護
-* [Revenant](./global/revenant.md) 返魂
-* [Ranger](./global/ranger.md) 遊俠
-* [Engineer](./global/engineer.md) 工程
-* [Thief](./global/thief.md) 盜賊
-* [Necromancer](./global/necromancer.md) 死靈
-* [Mesmer](./global/mesmer.md) 幻術
-* [Elementalist](./global/elementalist.md) 元素
+| | | |
+-------
+| [Warrior](./global/warrior.md) 戰士         | [Guardian](./global/guardian.md) 守護 | [Revenant](./global/revenant.md) 返魂         |
+| [Ranger](./global/ranger.md) 遊俠           | [Engineer](./global/engineer.md) 工程 | [Thief](./global/thief.md) 盜賊               |
+| [Necromancer](./global/necromancer.md) 死靈 | [Mesmer](./global/mesmer.md) 幻術     | [Elementalist](./global/elementalist.md) 元素 |
+
 
 ## PvP 改動
 * [Warrior](./pvp/warrior.md) 戰士
