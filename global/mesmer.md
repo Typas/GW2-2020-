@@ -2,18 +2,18 @@
 
 ###### tags: `Global` `GW2` `2020 Feb Update` `Mesmer`
 
-> 在這次的更新中，我們對大劍與 Domination 特性線做了一些變動，以提供幻術遠程攻擊 build 更可靠的基準。我們把過去因為太過強力而造成平衡問題的 ![][confounding suggestions 20]Confounding Suggestions 給拔掉了，並新增了 ![][vicious expression 20]Vicious Expression 這個能與 Domination 線的拔 boon 所共生的特性。最後我們把 Mirage 的 ![][elusive mind 20]Elusive Mind 改成不再會 ![][breakstun]，因為我們覺得把包含 ![][exhaustion]Exhaustion 作為平衡的必要手段這件事太兩極了。
+> 在這次的更新中，我們對大劍與 Domination 特性線做了一些變動，以提供幻術遠程攻擊 build 更可靠的基準。我們把過去因為太過強力而造成平衡問題的 ![][confounding suggestions 20]Confounding Suggestions 給拔掉了，並新增了 ![][vicious expression 20]Vicious Expression 這個能與 Domination 線的拔 boon 所共生的特性。最後我們把 Mirage 的 ![][elusive mind 20]Elusive Mind 改成不再會 ![][breakstun]Break Stun，因為我們覺得把包含 ![][exhaustion]Exhaustion 作為平衡的必要手段這件事太兩極了。
 
 * ![][signet of domination] Signet of Domination: 放慢動作時間，從 360 ms 延長至 560 ms。
 * ![][spatial surge] Spatial Surge: 文字說明會先寫最大攻擊再寫最小攻擊。
 * ![][mirror blade] Mirror Blade: 修正效果會在玩家而不是目標身上的 bug。CD 從 8 秒降為 5 秒。攻擊係數從 1.0/0.6 改成每次反彈會降低 15% 傷害。
-* ![][mind stab] Mind Stab: CD 從 12 秒降為 10 秒。不再拔 boon，改為在 PvE 造成 5 秒 ![][crippled]，在 PvP/WvW 造成 ??? 秒 ![][crippled]。
-* ![][phantasmal berserker] Phantasmal Berserker: CD 從 15 秒降為 12 秒。幻影不再造成 ![][crippled]，改為其投射物會移除 2 個 boon，但投射物不再是迴力鏢型。
+* ![][mind stab] Mind Stab: CD 從 12 秒降為 10 秒。不再拔 boon，改為在 PvE 造成 5 秒 ![][crippled]Crippled，在 PvP/WvW 造成 ??? 秒 ![][crippled]Crippled。
+* ![][phantasmal berserker] Phantasmal Berserker: CD 從 15 秒降為 12 秒。幻影不再造成 ![][crippled]Crippled，改為其投射物會移除 2 個 boon，但投射物不再是迴力鏢型。
 * ![][bountiful blades] Bountiful Blades: ![][mirror blade 20]Mirror Blade 會多反彈 2 次。![][phantasmal berserker 20]Phantasmal Berserker 會多召喚一個 berserker，但兩個 berserker 都會減傷 33%。
 > * ![][confounding suggestions] Confounding Suggestions: 此特性被 Bountiful Blades 取代。
 * ![][vicious expression] Vicious Expression: 玩家與幻影對沒 boon 的目標增傷。對目標造成 disable 在 PvE 會移除其 2 個 boon，在 PvP 與 WvW 則是 1 個。
 > * ![][imagined burden] Imagined Burden: 此特性被 Vicious Expression 取代。
-* ![][elusive mind] Elusive Mind: 不再會 ![][breakstun] 與造成 ![][exhaustion]。在 PvE 的症狀移除數量從 1 -> 3，在 PvP 與 WvW 則是 1 -> 2。
+* ![][elusive mind] Elusive Mind: 不再會 ![][breakstun]Break Stun 與造成 ![][exhaustion]Exhaustion。在 PvE 的症狀移除數量從 1 -> 3，在 PvP 與 WvW 則是 1 -> 2。
 
 ###### 貢獻者
 Richun (Richun.9045), Alik
