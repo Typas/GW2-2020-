@@ -9,7 +9,7 @@
 * ![][mirror blade] Mirror Blade: 修正效果會在玩家而不是目標身上的 bug。CD 從 8 秒降為 5 秒。攻擊係數從 1.0/0.6 改成每次反彈會降低 15% 傷害。
 * ![][mind stab] Mind Stab: CD 從 12 秒降為 10 秒。不再拔 boon，改為在 PvE 造成 5 秒 ![][crippled]，在 PvP/WvW 造成 ??? 秒 ![][crippled]。
 * ![][phantasmal berserker] Phantasmal Berserker: CD 從 15 秒降為 12 秒。幻影不再造成 ![][crippled]，改為其投射物會移除 2 個 boon，但投射物不再是迴力鏢型。
-* ![][bountiful blades] Bountiful Blades: ![][mirror blades 20]Mirror Blade 會多反彈 2 次。![][phantasmal berserker 20]Phantasmal Berserker 會多召喚一個 berserker，但兩者都會減傷 33%。
+* ![][bountiful blades] Bountiful Blades: ![][mirror blade 20]Mirror Blade 會多反彈 2 次。![][phantasmal berserker 20]Phantasmal Berserker 會多召喚一個 berserker，但兩者都會減傷 33%。
 > * ![][confounding suggestions] Confounding Suggestions: 此特性被 Bountiful Blades 取代。
 * ![][vicious expression] Vicious Expression: 玩家與幻影對沒 boon 的目標增傷。對目標造成 disable 在 PvE 會移除其 2 個 boon，在 PvP 與 WvW 則是 1 個。
 > * ![][imagined burden] Imagined Burden: 此特性被 Vicious Expression 取代。
