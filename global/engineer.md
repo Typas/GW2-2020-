@@ -2,12 +2,52 @@
 
 ###### tags: `Global` `GW2` `2020 Feb Update` `Engineer`
 
-> 請以 `![][might]` 的方式來取用 buff 的圖片。
-> 目前支援的 buff: aegis, alacrity, fury, might, protection, quickness, regeneration, resistance, retaliation, stability, swiftness, vigor, bleeding, burning, confusion, poisoned, torment, blinded, chilled, crippled, fear, immobile, slow, taunt, weakness, vulnerability, stealth, revealed, daze, stun, knockdown, pull, knockback, launch, float, sink, superspeed, breakstun, barrier, chaos aura, dark aura, fire aura, frost aura, light aura, magnetic aura, shocking aura
+> 工程師的![][Explosives 25]Explosives天賦線在這次更新有一些重要的變動. 我們刪除了一些弱勢或效果乏善可陳的天賦, 如![][Minesweeper]Minesweeper, ![][Orbital Command]Orbital Command及![][Blasting Zone]Blasting Zone, 以及重組了別的天賦以統一功能性, 如![][Short Fuse 20]Short Fuse及![][Big Boomer 20]Big Boomer. ![][Evasive Powder Keg]Evasive Powder Keg已被刪除及被![][Explosive Entrance]Explosive Entrance取代, 依然是在迴避時追加攻擊, 但是一個更加可控和調整的方式. 最後, 我們令不同[grenade](https://wiki.guildwars2.com/wiki/Grenade)技能在競爭模式的差異更清晰, 因為在丟出時實在很難分辨不同的[grenade](https://wiki.guildwars2.com/wiki/Grenade)之間差異.
+
+* ![][Overheat]Overheat: 與其禁用所有[toolbelt](https://wiki.guildwars2.com/wiki/Tool_belt)技能直到全部熱能流失, 現在會增加![][Photon Forge 20]Photon Forge以外的所有[toolbelt](https://wiki.guildwars2.com/wiki/Tool_belt)技能15秒冷卻時間. ![][Photon Forge 20]Photon Forge維持禁用直到全部熱能流失.
+* ![][Photonic Blasting Module]Photonic Blasting Module: 當裝備這天賦時, ![][Overheat 20]Overheat所造成的額外冷卻時間由15秒減至5秒.
+* ![][Overcharged Shot]Overcharged Shot: 發射前的技能動作由240ms延長至550ms.
+* ![][Personal Battering Ram]Personal Battering Ram: 攻擊前的技能動作由300ms延長至600ms.
+* ![][Orbital Strike]Orbital Strike: 現在全使用一個更精緻的特效. 友軍, 敵軍及在顯示設定勾選了"Effect LoD"的觀眾會顯示低特效版本.
+* ![][Grenade Kit]Grenade Kit: 這工具包的依據各個技能有不同的熱身特效. 修正熱身時![][Grenade Kit 20]grenade kit技能令到手雷消失了的問題.
+* ![][Crystal Configuration: Eclipse]Crystal Configuration: Eclipse: 不再令![][Corona Burst 25]Corona Burst給予穩固. 基本![][barrier]護盾由374增加至991(PvE)或748(PvP/WvW).
+> * ![][Short Fuse]Short Fuse: 刪除了天賦, 縮減冷卻時間效果已併入至以下技能.
+* ![][Fire Bomb]Fire Bomb: 冷卻時間由10秒減至8秒.
+* ![][Concussion Bomb]Concussion Bomb: 冷卻時間由20秒減至16秒.
+* ![][Smoke Bomb]Smoke Bomb: 冷卻時間由25秒減至20秒.
+* ![][Glue Bomb]Glue Bomb: 冷卻時間由25秒減至20秒. 修正技能特效比實際範圍大的問題.
+* ![][Big Ol' Bomb]Big Ol' Bomb: 冷卻時間由25秒減至20秒.
+
+
+---
+
+
+![][Explosives]Explosives: 天賦線已被重製, 新天賦如下.
+
+* 次要天賦 Minor Traits
+    * ![][Explosive Entrance 32]Explosive Entrance **(新天賦)**: 進入戰鬥後第一次攻擊會爆炸並傷害附近敵人 (算![][Explosion]explosion攻擊). 迴避或脫離戰鬥後會重置.
+    * ![][Steel-Packed Powder]Steel-Packed Powder: 效果不變
+    * ![][Shaped Charge]Shaped Charge: 效果不變
+
+* 熟練 Adept
+    * ![][Grenadier]Grenadier: 效果不變
+    * ![][Short Fuse]Short Fuse (重製): 不再減少[bomb](https://wiki.guildwars2.com/wiki/Bomb_Kit)技能的引爆或冷卻時間. 用![][Explosion]explosion技能打中敵人會給予4秒![][fury]狂怒 (3秒內建冷卻)
+    * ![][Glass Cannon]Glass Cannon: 效果不變
+
+    大師 Master
+    * ![][Aim-Assisted Rocket]Aim-Assisted Rocket (重製): 現在只有暴擊時會發射![][Aim-Assisted Rocket trait skill]Rockets. ![][Aim-Assisted Rocket trait skill]Rocket冷卻時間由10秒減至3秒. ![][Aim-Assisted Rocket trait skill]Rockets現在只有在距離目標最少450才會發射. 每第5個![][Aim-Assisted Rocket trait skill]rocket會變成發射![][Orbital Strike 20]orbital strike.
+    * ![][Explosive Temper]Explosive Temper **(新天賦)**: ![][Explosion]Explosions每次命中會給予10秒 +20 [Ferocity](https://wiki.guildwars2.com/wiki/Ferocity) (上限10層).
+    * ![][Blast Shield]Blast Shield **(新天賦)**: ![][Explosive Entrance]Explosive Entrance給予![][barrier]護盾 (PvE基本1508, WvW/PvP基本340). 以及轉換10% power至vitality.
+
+* 宗師 Grandmaster
+    * ![][Flashbang]Flashbang **(新天賦)**: ![][Explosive Entrance]Explosive Entrance命中時引致3秒![][blinded]致盲. 另外會對90%血量以上的敵人引致1秒![][daze]暈眩.
+    * ![][Shrapnel]Shrapnel: 效果不變
+    * ![][Big Boomer]Big Boomer (重製): 對血量比率較工程師低的敵人增加10%傷害. 另外用![][Explosion]Explosion技能攻擊時會持續回復工程師的生命3秒, 每秒回復202. (效果不可堆疊.)
+
 
 
 ###### 貢獻者
-Richun、
+Richun (Richun.9045), 赤木 (Alik.9651)
 
 [底下這些別動，上面才是正文]: https://wiki.guildwars2.com
 
@@ -58,3 +98,45 @@ Richun、
 [magnetic aura]: https://wiki.guildwars2.com/images/thumb/5/5a/Magnetic_Aura.png/20px-Magnetic_Aura.png
 [shocking aura]: https://wiki.guildwars2.com/images/thumb/3/31/Shocking_Aura.png/20px-Shocking_Aura.png
 
+[Explosives]: https://wiki.guildwars2.com/images/thumb/1/10/Explosives.png/32px-Explosives.png
+[Explosives 20]: https://wiki.guildwars2.com/images/thumb/1/10/Explosives.png/20px-Explosives.png
+[Explosives 25]: https://wiki.guildwars2.com/images/thumb/1/10/Explosives.png/25px-Explosives.png
+[Minesweeper]: https://wiki.guildwars2.com/images/thumb/4/41/Thermobaric_Detonation.png/20px-Thermobaric_Detonation.png
+[Orbital Command]: https://wiki.guildwars2.com/images/thumb/6/62/Orbital_Command.png/20px-Orbital_Command.png
+[Short Fuse]: https://wiki.guildwars2.com/images/thumb/2/22/Short_Fuse.png/32px-Short_Fuse.png
+[Short Fuse 20]: https://wiki.guildwars2.com/images/thumb/2/22/Short_Fuse.png/20px-Short_Fuse.png
+[Big Boomer]: https://wiki.guildwars2.com/images/thumb/8/83/Big_Boomer.png/32px-Big_Boomer.png
+[Big Boomer 20]: https://wiki.guildwars2.com/images/thumb/8/83/Big_Boomer.png/20px-Big_Boomer.png
+[Evasive Powder Keg]: https://wiki.guildwars2.com/images/thumb/a/a4/Evasive_Powder_Keg.png/20px-Evasive_Powder_Keg.png
+[Explosive Entrance 32]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
+[Explosive Entrance]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
+[Overheat]: https://wiki.guildwars2.com/images/thumb/4/4b/Overheat.png/32px-Overheat.png
+[Overheat 20]: https://wiki.guildwars2.com/images/thumb/4/4b/Overheat.png/20px-Overheat.png
+[Photon Forge 20]: https://wiki.guildwars2.com/images/thumb/d/dd/Engage_Photon_Forge.png/20px-Engage_Photon_Forge.png
+[Photonic Blasting Module]: https://wiki.guildwars2.com/images/thumb/e/e4/Photonic_Blasting_Module.png/32px-Photonic_Blasting_Module.png
+[Overcharged Shot]: https://wiki.guildwars2.com/images/thumb/f/f4/Overcharged_Shot.png/32px-Overcharged_Shot.png
+[Personal Battering Ram]: https://wiki.guildwars2.com/images/thumb/a/a0/Personal_Battering_Ram.png/32px-Personal_Battering_Ram.png
+[Orbital Strike]: https://wiki.guildwars2.com/images/thumb/6/61/Orbital_Strike.png/32px-Orbital_Strike.png
+[Orbital Strike 20]: https://wiki.guildwars2.com/images/thumb/6/61/Orbital_Strike.png/20px-Orbital_Strike.png
+[Grenade Kit]: https://wiki.guildwars2.com/images/thumb/d/dd/Grenade_Kit.png/32px-Grenade_Kit.png
+[Grenade Kit 20]: https://wiki.guildwars2.com/images/thumb/d/dd/Grenade_Kit.png/20px-Grenade_Kit.png
+[Crystal Configuration: Eclipse]: https://wiki.guildwars2.com/images/thumb/0/0a/Crystal_Configuration-_Eclipse.png/32px-Crystal_Configuration-_Eclipse.png
+[Corona Burst]: https://wiki.guildwars2.com/images/thumb/b/b3/Corona_Burst.png/20px-Corona_Burst.png
+[Corona Burst 25]: https://wiki.guildwars2.com/images/thumb/b/b3/Corona_Burst.png/25px-Corona_Burst.png
+[Fire Bomb]: https://wiki.guildwars2.com/images/thumb/f/f8/Fire_Bomb.png/32px-Fire_Bomb.png
+[Concussion Bomb]: https://wiki.guildwars2.com/images/thumb/8/8d/Concussion_Bomb.png/32px-Concussion_Bomb.png
+[Smoke Bomb]: https://wiki.guildwars2.com/images/thumb/0/02/Smoke_Bomb_%28engineer_skill%29.png/32px-Smoke_Bomb_%28engineer_skill%29.png
+[Glue Bomb]: https://wiki.guildwars2.com/images/thumb/4/42/Glue_Bomb.png/32px-Glue_Bomb.png
+[Big Ol' Bomb]: https://wiki.guildwars2.com/images/thumb/7/7f/Big_Ol%27_Bomb.png/32px-Big_Ol%27_Bomb.png
+
+[Explosion]: https://wiki.guildwars2.com/images/thumb/0/09/Explosion.png/20px-Explosion.png
+[Steel-Packed Powder]: https://wiki.guildwars2.com/images/thumb/f/f4/Steel-Packed_Powder.png/32px-Steel-Packed_Powder.png
+[Shaped Charge]: https://wiki.guildwars2.com/images/thumb/f/f3/Explosive_Powder.png/32px-Explosive_Powder.png
+[Grenadier]: https://wiki.guildwars2.com/images/thumb/6/69/Grenadier.png/32px-Grenadier.png
+[Glass Cannon]: https://wiki.guildwars2.com/images/thumb/6/6e/Glass_Cannon.png/32px-Glass_Cannon.png
+[Aim-Assisted Rocket]: https://wiki.guildwars2.com/images/thumb/e/e3/Aim-Assisted_Rocket.png/32px-Aim-Assisted_Rocket.png
+[Aim-Assisted Rocket trait skill]: https://wiki.guildwars2.com/images/thumb/9/9e/Fire_Rocket_Barrage.png/20px-Fire_Rocket_Barrage.png
+[Explosive Temper]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
+[Blast Shield]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
+[Flashbang]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
+[Shrapnel]: https://wiki.guildwars2.com/images/thumb/c/ce/Shrapnel.png/32px-Shrapnel.png
