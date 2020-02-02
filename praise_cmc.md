@@ -1,6 +1,6 @@
 # 平衡團隊的話
 
-### tags: `GW2` `2020 Feb Update`
+###### tags: `GW2` `2020 Feb Update`
 
 > 原出處：[PvP](https://en-forum.guildwars2.com/discussion/96744), [WvW](https://en-forum.guildwars2.com/discussion/96744)
 
