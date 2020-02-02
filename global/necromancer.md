@@ -16,8 +16,8 @@
 * ![][Necrotic Traversal]Necrotic Traversal: 技能半徑由180增至240.
 * ![][Doom]Doom: 現在有一個640ms的技能動作. ![][fear]恐怖時效不論距離, 由1秒/1.5秒增至接近2秒.
 * ![][Death's Carapace]Death's Carapace: 增加一個根據層數的視覺效果.
-* ![][Foot in the Grave]Foot in the Grave: 被Eternal Life取代.
-    * Eternal Life (NEW): 不在F1時持續獲得[生命能量](https://wiki.guildwars2.com/wiki/Life_force)直至特定數值 (PvE為66%, PvP/WvW為20%). 進入F1時獲得保護.
+* Eternal Life (NEW): 不在F1時持續獲得[生命能量](https://wiki.guildwars2.com/wiki/Life_force)直至特定數值 (PvE為66%, PvP/WvW為20%). 進入F1時獲得保護.
+> * ![][Foot in the Grave]Foot in the Grave: 被Eternal Life取代.
 * ![][Flesh of the Master]Flesh of the Master: 修正給予錯誤![][Death's Carapace 20]Death's Carapace層數的bug.
 
 ###### 貢獻者
