@@ -1,8 +1,7 @@
 # 近期的平衡性更新
 > 真的很大
 
-[平衡團隊的話](./praise_cmc.md)
-
+* [平衡團隊的話](./praise_cmc.md)
 * [General](./global/general.md) 通用
 
 | Global                                        | PvP                                        | WvW                                        |
