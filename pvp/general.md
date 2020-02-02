@@ -10,12 +10,12 @@
 * ![][sigil of annulment] Sigil of Annulment 從 PvP Build 面板中移除
 * ![][sigil of agility] Sigil of Agility 從 PvP Build 面板中移除
 > 以下屬性的 amulet 從 PvP Build 面板中移除
-    * ![][deadshot amulet] Deadshot Amulet
-    * ![][viper amulet] Viper Amulet
-    * ![][wanderer amulet] Wanderer Amulet
-    * ![][diviner amulet] Diviner Amulet
-    * ![][harrier amulet] Harrier Amulet
-    * ![][seeker amulet] Seeker Amulet
+* ![][deadshot amulet] Deadshot Amulet
+* ![][viper amulet] Viper Amulet
+* ![][wanderer amulet] Wanderer Amulet
+* ![][diviner amulet] Diviner Amulet
+* ![][harrier amulet] Harrier Amulet
+* ![][seeker amulet] Seeker Amulet
 
 #### 部分 PvP rune 調整
   - 第 2 項效果為增加特定 boon 或 condition 持續時間的從 10% 降為 4%
