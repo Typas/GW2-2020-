@@ -3,41 +3,56 @@
 ###### tags: `Global` `GW2` `2020 Feb Update` `Ranger`
 
 > Soulbeasts, long standing without a tradeoff, are now receiving theirs - they lose combat access to a second pet and must choose carefully which pet they are going to be bonded with in battle.
->> 已經長久沒有被更動的 Soulbeast，現在輪到他們了。他們將會在戰鬥中失去第二隻寵物，換句話說，必須要小心謹慎的再進入戰鬥前做好選擇。
+>> 已經長久沒有被更動的 Soulbeast，現在輪到他們了。他們將會在戰鬥中失去第二隻寵物，換句話說，必須要小心謹慎的做好選擇再進入戰鬥前。
 
-* ![][Soulbeast] Soulbeast: 
-	- Soulbeasts 無法再於戰鬥中切換寵物，![][Clarion Bond 20]Clarion Bond 和 ![][Zephyr's Speed]Zephyr's Speed 這兩個特性依然可以運作，合體與分離將會視為切換寵物。
-* ![][Lightning Assault] Lightning Assault: 
-	- 在衝刺前增加 500ms 的暖身時間。
-* ![][Glyph of the Stars] Glyph of the Stars: 
-	- 減少冷卻時間，由 90s 降至 60s。
-* ![][Call of the Wild] Call of the Wild: 
-	- 這個技能現在將會使用新的「無法隔擋」的效果。（請前往 [通用更新](https://hackmd.io/@Richun/Hy13BrQfU) 查看詳細內容。）
-* ![][Throw Torch] Throw Torch: 
-	- 火炬擊中目標的同時，目標的半徑 180 範圍內野同時會受到火炬的傷害。
-* ![][Winter's Bite] Winter's Bite: 
-	- 現在這個技能將永遠變成範圍技能（不再受到特性影響），增加 ![][bleeding]Bleeding 層數，由 2 層提升為 3 層。![][bleeding]Bleeding 持續時間也提升，由 8s 提升到 12s。
-* ![][Honed Axes] Honed Axes: 
-	- 現在寵物也會受惠於此特性所提升的 Ferocity，同時不再影響 ![][Winter's Bite 20]Winter's Bite 的範圍傷害。
-* ![][Hunter's Tactics] Hunter's Tactics: 
-	- 現在這個特性使玩家從側邊或後方攻擊敵方時增加 10% 傷害。
-* ![][Lead the Wind] Lead the Wind: 
-	- 玩家完成了 Projectile 任何類型的 Combo 後，將不會再讓玩家獲得 ![][swiftness]Swiftness，取而代之的特性是，當玩家在距離 1200 之外攻擊敵方時，將獲得 10s ![][swiftness]Swiftness 與 5s ![][quickness]Quickness，冷卻時間 15s。
-* ![][Druidic Clarity] Druidic Clarity: 
-	- 這個特性將不會再讓玩家進入 Celestial Avatar 時 ![][breakstun]Stunbreak。
-* ![][Unstoppable Union] Unstoppable Union: 
-	- 現在這個特性將不會再讓玩家進入 Beastmode 時 ![][breakstun]stunbreak，取而代之的是，當玩家進入 Beastmode 時將會獲得 ![][protection]Protection 和 ![][vigor]Vigor，以及移除身上的緩速類型的 Condition。
-* ![][Beastly Warden] Beastly Warden: 
-	- 現在這個特性將會在寵物的 ![][taunt]Taunt 發動之前，增加 1s 的延遲時間。修正水下的寵物無法使用這個特性的的 bug。
-* ![][Clarion Bond] Clarion Bond: 
-	- 這個技能現在將會使用新的「無法隔擋」的效果。（請前往 [通用更新](https://hackmd.io/@Richun/Hy13BrQfU) 查看詳細內容。）
-* ![][Twice as Vicious] Twice as Vicious: 
-	- 現在這個特性增加 5% 傷害以及 10% Condition 傷害。
+![][Soulbeast] Soulbeast
+> Soulbeasts 無法再於戰鬥中切換寵物，![][Clarion Bond 20] Clarion Bond 和 ![][Zephyr's Speed] Zephyr's Speed 這兩個特性依然可以運作，合體與分離將會視為切換寵物。
+
+![][Lightning Assault] Lightning Assault
+> 在衝刺前增加 500ms 的暖身時間。
+
+![][Glyph of the Stars] Glyph of the Stars
+> 減少冷卻時間，由 90s 降至 60s。
+
+![][Call of the Wild] Call of the Wild
+> 這個技能現在將會使用新的「無法隔擋」的效果。（請前往 [通用更新](https://hackmd.io/@Richun/Hy13BrQfU) 查看詳細內容。）
+
+![][Throw Torch] Throw Torch
+> 火炬擊中目標的同時，目標的半徑 180 範圍內野同時會受到火炬的傷害。
+
+![][Winter's Bite] Winter's Bite
+> 現在這個技能將永遠變成範圍技能（不再受到特性影響），增加 ![][bleeding] Bleeding 層數，由 2 層提升為 3 層。![][bleeding] Bleeding 持續時間也提升，由 8s 提升到 12s。
+
+![][Honed Axes] Honed Axes
+> 現在寵物也會受惠於此特性所提升的 Ferocity，同時不再影響 ![][Winter's Bite] Winter's Bite 的範圍傷害。
+
+![][Hunter's Tactics] Hunter's Tactics
+> 現在這個特性使玩家從側邊或後方攻擊敵方時增加 10% 傷害。
+
+![][Lead the Wind] Lead the Wind
+> 玩家完成了 Projectile 任何類型的 Combo 後，將不會再讓玩家獲得 ![][swiftness] Swiftness，取而代之的特性是，當玩家在距離 1200 之外攻擊敵方時，將獲得 10s ![][swiftness] Swiftness 與 5s ![][quickness] Quickness，冷卻時間 15s。
+
+![][Druidic Clarity] Druidic Clarity
+> 這個特性將不會再讓玩家進入 Celestial Avatar 時 ![][breakstun] Stunbreak。
+
+![][Unstoppable Union] Unstoppable Unio 
+> 現在這個特性將不會再讓玩家進入 Beastmode 時 ![][breakstun] Stunbreak，取而代之的是，當玩家進入 Beastmode 時將會獲得 ![][protection] Protection 和 ![][vigor] Vigor，以及移除身上的緩速類型的 Condition。
+
+![][Beastly Warden] Beastly Warden: 
+> 現在這個特性將會在寵物的 ![][taunt] Taunt 發動之前，增加 1s 的延遲時間。修正水下的寵物無法使用這個特性的的 bug。
+
+![][Clarion Bond] Clarion Bond
+> 這個技能現在將會使用新的「無法隔擋」的效果。（請前往 [通用更新](https://hackmd.io/@Richun/Hy13BrQfU) 查看詳細內容。）
+
+![][Twice as Vicious] Twice as Vicious
+> 現在這個特性增加 5% 傷害以及 10% Condition 傷害。
 
 
 
-###### 貢獻者
-Richun, Sia
+
+## 貢獻者
+1. Richun
+2. Sia
 
 [底下這些別動，上面才是正文]: https://wiki.guildwars2.com
 
