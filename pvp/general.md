@@ -34,13 +34,16 @@
 > > (4) +20% Bleeding 持續時間  
 > > (5) +100 Condition Damage  
 > > (6) +10% Condition 持續時間；在目標死透時在其所在創造一個 death nova。  
+
 > 改成  
+
 > > (1) +25 Condition Damage  
 > > (2) +4% Poison 持續時間  
 > > (3) +50 Condition Damage  
 > > (4) +6% Bleeding 持續時間  
 > > (5) +100 Condition Damage  
 > > (6) +5% Condition 持續時間；在目標死透時在其所在創造一個 death nova。  
+
 > 被影響的 rune 請到 [官方 wiki](https://wiki.guildwars2.com/wiki/Upcoming_changes_and_features/Game_updates/2020-02/PvP#Build_Items) 查閱。
 
 ###### 貢獻者: Richun (Richun.9045)
