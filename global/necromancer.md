@@ -16,7 +16,7 @@
 * ![][Necrotic Traversal]Necrotic Traversal: 技能半徑由180增至240.
 * ![][Doom]Doom: 現在有一個640ms的技能動作. ![][fear]恐怖時效不論距離, 由1秒/1.5秒增至接近2秒.
 * ![][Death's Carapace]Death's Carapace: 增加一個根據層數的視覺效果.
-* Eternal Life (NEW): 不在F1時持續獲得[生命能量](https://wiki.guildwars2.com/wiki/Life_force)直至特定數值 (PvE為66%, PvP/WvW為20%). 進入F1時獲得保護.
+* ![][Eternal Life]Eternal Life (NEW): 不在F1時持續獲得[生命能量](https://wiki.guildwars2.com/wiki/Life_force)直至特定數值 (PvE為66%, PvP/WvW為20%). 進入F1時獲得保護.
 > * ![][Foot in the Grave]Foot in the Grave: 被Eternal Life取代.
 * ![][Flesh of the Master]Flesh of the Master: 修正給予錯誤![][Death's Carapace 20]Death's Carapace層數的bug.
 
@@ -83,6 +83,7 @@ Richun (Richun.9045), 赤木 (Alik.9651)
 [Doom]: https://wiki.guildwars2.com/images/thumb/0/0b/Doom.png/32px-Doom.png
 [Death's Carapace]: https://wiki.guildwars2.com/images/thumb/5/58/Death%27s_Carapace.png/32px-Death%27s_Carapace.png
 [Death's Carapace 20]: https://wiki.guildwars2.com/images/thumb/5/58/Death%27s_Carapace.png/20px-Death%27s_Carapace.png
+[Eternal Life]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
 [Foot in the Grave]: https://wiki.guildwars2.com/images/thumb/8/85/Foot_in_the_Grave.png/32px-Foot_in_the_Grave.png
 [Flesh of the Master]: https://wiki.guildwars2.com/images/thumb/e/e9/Flesh_of_the_Master.png/32px-Flesh_of_the_Master.png
 
