@@ -16,7 +16,7 @@
 * ![][Throw Torch] Throw Torch: 
 	- 火炬擊中目標的同時，目標的半徑 180 範圍內野同時會受到火炬的傷害。
 * ![][Winter's Bite] Winter's Bite: 
-	- 現在這個技能將永遠變成範圍技能（不再受到特性影響），增加 Bleeding 層數，由 2 層提升為 3 層。Bleeding 持續時間也提升，由 8s 提升到 12s。
+	- 現在這個技能將永遠變成範圍技能（不再受到特性影響），增加 ![][bleeding]Bleeding 層數，由 2 層提升為 3 層。![][bleeding]Bleeding 持續時間也提升，由 8s 提升到 12s。
 * ![][Honed Axes] Honed Axes: 
 	- 現在寵物也會受惠於此特性所提升的 Ferocity，同時不再影響 ![][Winter's Bite 20]Winter's Bite 的範圍傷害。
 * ![][Hunter's Tactics] Hunter's Tactics: 
