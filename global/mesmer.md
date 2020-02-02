@@ -16,7 +16,7 @@
 * ![][elusive mind] Elusive Mind: 不再會 ![][breakstun] 與造成 ![][exhaustion]。在 PvE 的症狀移除數量從 1 -> 3，在 PvP 與 WvW 則是 1 -> 2。
 
 ###### 貢獻者
-Richun (Richun.9045)
+Richun (Richun.9045), Alik
 
 [底下這些別動，上面才是正文]: https://wiki.guildwars2.com
 
@@ -80,4 +80,5 @@ Richun (Richun.9045)
 [phantasmal berserker 20]: https://wiki.guildwars2.com/images/thumb/e/e8/Phantasmal_Berserker.png/20px-Phantasmal_Berserker.png
 [bountiful blades]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
 [vicious expression]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
+[vicious expression 20]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
 [imagined burden]: https://wiki.guildwars2.com/images/thumb/3/3c/Imagined_Burden.png/32px-Imagined_Burden.png
