@@ -1,5 +1,7 @@
 # Necromancer 死靈
-
+===
+###### tags: `WvW` `GW2` `2020 Feb Update` `Necromancer`
+===
 > 請以 `![][might]` 的方式來取用 buff 的圖片。
 > 目前支援的 buff: aegis, alacrity, fury, might, protection, quickness, regeneration, resistance, retaliation, stability, swiftness, vigor, bleeding, burning, confusion, poisoned, torment, blinded, chilled, crippled, fear, immobile, slow, taunt, weakness, vulnerability, stealth, revealed, daze, stun, knockdown, pull, knockback, launch, float, sink, superspeed, breakstun, barrier, chaos aura, dark aura, fire aura, frost aura, light aura, magnetic aura, shocking aura
 
