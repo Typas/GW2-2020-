@@ -2,12 +2,42 @@
 
 ###### tags: `Global` `GW2` `2020 Feb Update` `Ranger`
 
-> 請以 `![][might]` 的方式來取用 buff 的圖片。
-> 目前支援的 buff: aegis, alacrity, fury, might, protection, quickness, regeneration, resistance, retaliation, stability, swiftness, vigor, bleeding, burning, confusion, poisoned, torment, blinded, chilled, crippled, fear, immobile, slow, taunt, weakness, vulnerability, stealth, revealed, daze, stun, knockdown, pull, knockback, launch, float, sink, superspeed, breakstun, barrier, chaos aura, dark aura, fire aura, frost aura, light aura, magnetic aura, shocking aura
+> Soulbeasts, long standing without a tradeoff, are now receiving theirs - they lose combat access to a second pet and must choose carefully which pet they are going to be bonded with in battle.
+>> 已經長久沒有被更動的 Soulbeast，現在輪到他們了。他們將會在戰鬥中失去第二隻寵物，換句話說，必須要小心謹慎的再進入戰鬥前做好選擇。
+
+1. ![][Soulbeast] Soulbeast: 
+	- Soulbeasts 無法再於戰鬥中切換寵物，Clarion Bond 和 Zephyr's Speed 這兩個特性依然可以運作，合體與分離將會視為切換寵物。
+1. ![][Lightning Assault] Lightning Assault: 
+	- 在衝刺前增加 500ms 的暖身時間。
+1. ![][Glyph of the Stars] Glyph of the Stars: 
+	- 減少冷卻時間，由 90s 降至 60s。
+1. ![][Call of the Wild] Call of the Wild: 
+	- 這個技能現在將會使用新的「無法隔擋」的效果。（請前往 [通用更新](https://hackmd.io/@Richun/Hy13BrQfU) 查看詳細內容。）
+1. ![][Throw Torch] Throw Torch: 
+	- 火炬擊中目標的同時，目標的半徑 180 範圍內野同時會受到火炬的傷害。
+1. ![][Winter's Bite] Winter's Bite: 
+	- 現在這個技能將永遠變成範圍技能（不再受到特性影響），增加 Bleeding 層數，由 2 層提升為 3 層。Bleeding 持續時間也提升，由 8s 提升到 12s。
+1. ![][Honed Axes] Honed Axes: 
+	- 現在寵物也會受惠於此特性所提升的 Ferocity，同時不再影響 Winter's Bite 的範圍傷害。
+1. ![][Hunter's Tactics] Hunter's Tactics: 
+	- 現在這個特性使玩家從側邊或後方攻擊敵方時增加 10% 傷害。
+1. ![][Lead the Wind] Lead the Wind: 
+	- 玩家完成了 Projectile 任何類型的 Combo 後，將不會再讓玩家獲得 Swiftness，取而代之的特性是，當玩家在距離 1200 之外攻擊敵方時，將獲得 10s Swiftness 與 5s Quickness，冷卻時間 15s。
+1. ![][Druidic Clarity] Druidic Clarity: 
+	- 這個特性將不會再讓玩家進入 Celestial Avatar 時 Stunbreak。
+1. ![][Unstoppable Union] Unstoppable Union: 
+	- 現在這個特性將不會再讓玩家進入 Beastmode 時 stunbreak，取而代之的是，當玩家進入 Beastmode 時將會獲得 Protection 和 Vigor，以及移除身上的緩速類型的 Condition。
+1. ![][Beastly Warden] Beastly Warden: 
+	- 現在這個特性將會在寵物的 Taunt 發動之前，增加 1s 的延遲時間。修正水下的寵物無法使用這個特性的的 bug。
+1. ![][Clarion Bond] Clarion Bond: 
+	- 這個技能現在將會使用新的「無法隔擋」的效果。（請前往 [通用更新](https://hackmd.io/@Richun/Hy13BrQfU) 查看詳細內容。）
+1. ![][Twice as Vicious] Twice as Vicious: 
+	- 現在這個特性增加 5% 傷害以及 10% Condition 傷害。
+
 
 
 ###### 貢獻者
-Richun、
+Richun, Sia
 
 [底下這些別動，上面才是正文]: https://wiki.guildwars2.com
 
@@ -58,3 +88,17 @@ Richun、
 [magnetic aura]: https://wiki.guildwars2.com/images/thumb/5/5a/Magnetic_Aura.png/20px-Magnetic_Aura.png
 [shocking aura]: https://wiki.guildwars2.com/images/thumb/3/31/Shocking_Aura.png/20px-Shocking_Aura.png
 
+[Soulbeast]: https://wiki.guildwars2.com/images/7/7c/Soulbeast_tango_icon_20px.png
+[Lightning Assault]: https://wiki.guildwars2.com/images/6/64/Lightning_Assault.png
+[Glyph of the Stars]: https://wiki.guildwars2.com/images/d/d7/Glyph_of_the_Stars.png
+[Call of the Wild]: https://wiki.guildwars2.com/images/8/8d/Call_of_the_Wild.png
+[Throw Torch]: https://wiki.guildwars2.com/images/b/b4/Throw_Torch.png
+[Winter's Bite]: https://wiki.guildwars2.com/images/c/c2/Winter%27s_Bite.png
+[Honed Axes]: https://wiki.guildwars2.com/images/f/fa/Honed_Axes.png
+[Hunter's Tactics]: https://wiki.guildwars2.com/images/b/bb/Hunter%27s_Tactics.png
+[Lead the Wind]: https://wiki.guildwars2.com/images/6/65/Lead_the_Wind.png
+[Druidic Clarity]: https://wiki.guildwars2.com/images/9/97/Druidic_Clarity.png
+[Unstoppable Union]: https://wiki.guildwars2.com/images/b/b2/Unstoppable_Union.png
+[Beastly Warden]: https://wiki.guildwars2.com/images/3/3f/Beastly_Warden.png
+[Clarion Bond]: https://wiki.guildwars2.com/images/d/d7/Clarion_Bond.png
+[Twice as Vicious]: https://wiki.guildwars2.com/images/0/00/Twice_as_Vicious.png
