@@ -137,39 +137,38 @@ Richun (Richun.9045), 赤木 (Alik.9651)
 [Unwavering Avoidance]: https://wiki.guildwars2.com/images/thumb/e/e3/Unwavering_Avoidance.png/32px-Unwavering_Avoidance.png
 [Determined Resolution]: https://wiki.guildwars2.com/images/thumb/c/c7/Determined_Resolution.png/32px-Determined_Resolution.png
 [Fierce Infusion]: https://wiki.guildwars2.com/images/thumb/5/55/Fierce_Infusion.png/32px-Fierce_Infusion.png
-[Glaring Resolve]: https://wiki.guildwars2.com/images/4/44/Hero_point.png
+[Glaring Resolve]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
 [Empty Vessel]: https://wiki.guildwars2.com/images/thumb/1/16/Empty_Vessel.png/32px-Empty_Vessel.png
-[Contained Temper]: https://wiki.guildwars2.com/images/4/44/Hero_point.png
+[Contained Temper]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
 [Sudden Reversal]: https://wiki.guildwars2.com/images/thumb/9/98/Sudden_Reversal.png/32px-Sudden_Reversal.png
-[Bold Reversal]: https://wiki.guildwars2.com/images/4/44/Hero_point.png
+[Bold Reversal]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
 [Kalla's Fervor]: https://wiki.guildwars2.com/images/thumb/9/9e/Kalla%27s_Fervor.png/20px-Kalla%27s_Fervor.png
 [Malicious Reprisal]: https://wiki.guildwars2.com/images/thumb/0/00/Malicious_Reprisal.png/20px-Malicious_Reprisal.png
 [Jade Echo]: https://wiki.guildwars2.com/images/thumb/4/43/Jade_Echo.png/20px-Jade_Echo.png
 [Ferocious Strikes]: https://wiki.guildwars2.com/images/thumb/a/ab/Ferocious_Strikes_%28revenant%29.png/20px-Ferocious_Strikes_%28revenant%29.png
 [Vicious Lacerations]: https://wiki.guildwars2.com/images/thumb/c/cd/Vicious_Lacerations.png/20px-Vicious_Lacerations.png
 [Expose Defenses]: https://wiki.guildwars2.com/images/thumb/5/5c/Mutilate_Defenses.png/32px-Mutilate_Defenses.png
-[Destructive Impulses]: https://wiki.guildwars2.com/images/4/44/Hero_point.png
+[Destructive Impulses]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
 [Targeted Destruction]: https://wiki.guildwars2.com/images/thumb/e/ed/Targeted_Destruction.png/32px-Targeted_Destruction.png
-[Aggressive Agility]: https://wiki.guildwars2.com/images/4/44/Hero_point.png
-[Unsuspecting Strikes]: https://wiki.guildwars2.com/images/4/44/Hero_point.png
-[Battle Scarred]: https://wiki.guildwars2.com/images/4/44/Hero_point.png
-[Battle Scar]: https://wiki.guildwars2.com/images/4/44/Hero_point.png
+[Aggressive Agility]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
+[Unsuspecting Strikes]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
+[Battle Scarred]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
+[Battle Scar]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
 [Assassin's Presence]: https://wiki.guildwars2.com/images/thumb/5/54/Assassin%27s_Presence.png/32px-Assassin%27s_Presence.png
 [Notoriety]: https://wiki.guildwars2.com/images/thumb/9/9c/Notoriety.png/32px-Notoriety.png
-[Thrill of Combat]: https://wiki.guildwars2.com/images/4/44/Hero_point.png
+[Thrill of Combat]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
 [Brutality]: https://wiki.guildwars2.com/images/thumb/b/ba/Brutality.png/32px-Brutality.png
 [Brutality 20]: https://wiki.guildwars2.com/images/thumb/b/ba/Brutality.png/20px-Brutality.png
 [Swift Termination]: https://wiki.guildwars2.com/images/thumb/b/bb/Swift_Termination.png/32px-Swift_Termination.png
 [Swift Termination 20]: https://wiki.guildwars2.com/images/thumb/b/bb/Swift_Termination.png/20px-Swift_Termination.png
-[Dance of Death]: https://wiki.guildwars2.com/images/4/44/Hero_point.png
+[Dance of Death]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
 [Pain Absorption]: https://wiki.guildwars2.com/images/thumb/1/13/Pain_Absorption.png/20px-Pain_Absorption.png
-[Invoking Torment]: https://wiki.guildwars2.com/images/4/44/Hero_point.png
-[Invoke Torment]: https://wiki.guildwars2.com/images/4/44/Hero_point.png
-[Seething Malice]: https://wiki.guildwars2.com/images/4/44/Hero_point.png
+[Invoking Torment]: https://github.com/Typas/GW2-2020-Feb-Balance-TC [Invoke Torment]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
+[Seething Malice]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
 [Yearning Empowerment]: https://wiki.guildwars2.com/images/thumb/6/6b/Yearning_Empowerment.png/32px-Yearning_Empowerment.png
-[Acolyte of Torment]: https://wiki.guildwars2.com/images/4/44/Hero_point.png
+[Acolyte of Torment]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
 [Demonic Defiance]: https://wiki.guildwars2.com/images/thumb/b/b1/Demonic_Defiance.png/32px-Demonic_Defiance.png
-[Pact of Pain]: https://wiki.guildwars2.com/images/4/44/Hero_point.png
+[Pact of Pain]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
 [Replenishing Despair]: https://wiki.guildwars2.com/images/thumb/5/5c/Replenishing_Despair.png/32px-Replenishing_Despair.png
 [Abyssal Chill]: https://wiki.guildwars2.com/images/thumb/7/7a/Abyssal_Chill.png/32px-Abyssal_Chill.png
 [Demonic Resistance]: https://wiki.guildwars2.com/images/thumb/b/b8/Demonic_Resistance.png/32px-Demonic_Resistance.png

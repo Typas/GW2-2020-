@@ -103,7 +103,7 @@ Richun (Richun.9045)
 [earth]: https://wiki.guildwars2.com/images/thumb/a/a8/Earth_Attunement.png/20px-Earth_Attunement.png
 [bolstered elements]: https://wiki.guildwars2.com/images/thumb/f/f1/Bolstered_Elements.png/32px-Bolstered_Elements.png
 [elemental contingency]: https://wiki.guildwars2.com/images/thumb/6/63/Elemental_Contingency.png/32px-Elemental_Contingency.png
-[elemental lockdown]: https://wiki.guildwars2.com/images/4/44/Hero_point.png
+[elemental lockdown]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
 [fire]: https://wiki.guildwars2.com/images/thumb/b/b4/Fire_Attunement.png/20px-Fire_Attunement.png
 [water]: https://wiki.guildwars2.com/images/thumb/3/31/Water_Attunement.png/20px-Water_Attunement.png
 [air]: https://wiki.guildwars2.com/images/thumb/9/91/Air_Attunement.png/20px-Air_Attunement.png
