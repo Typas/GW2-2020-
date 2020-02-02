@@ -13,12 +13,12 @@
 * ![][Phase Traversal]Phase Traversal: 不再增加技能使用後數次攻擊傷害. 在PvE傷害增加100%. 在WvW能量消費由30增至35.
 * ![][Unwavering Avoidance]Unwavering Avoidance: 現在於迴避時給予![][vigor]活力而非![][stability]穩固. 冷卻時間由8秒減至5秒.
 * ![][Determined Resolution]Determined Resolution: 現在會於持有![][vigor]活力時有減傷效果而非![][stability]穩固. 不再增加![][stability]穩固的時效.
-> ![][Fierce Infusion]Fierce Infusion: 被Glaring Resolve取代.
 * ![][Glaring Resolve]Glaring Resolve: ![][breakstun]破控時給予![][stability]穩固及回復生命.
-> ![][Empty Vessel]Empty Vessel: 被Contained Temper取代.
+> ![][Fierce Infusion]Fierce Infusion: 被Glaring Resolve取代.
 * ![][Contained Temper]Contained Temper: 控場時給予![][fury]狂怒.
-> ![][Sudden Reversal]Sudden Reversal: 被Bold Reversal取代.
+> ![][Empty Vessel]Empty Vessel: 被Contained Temper取代.
 * ![][Bold Reversal]Bold Reversal: ![][breakstun]破控時, 給予數個攻擊系的恩賜及![][Kalla's Fervor]Kalla's Fervor全滿.
+> ![][Sudden Reversal]Sudden Reversal: 被Bold Reversal取代.
 
 ---
 
@@ -174,4 +174,5 @@ Richun (Richun.9045), 赤木 (Alik.9651)
 [Abyssal Chill]: https://wiki.guildwars2.com/images/thumb/7/7a/Abyssal_Chill.png/32px-Abyssal_Chill.png
 [Demonic Resistance]: https://wiki.guildwars2.com/images/thumb/b/b8/Demonic_Resistance.png/32px-Demonic_Resistance.png
 [Diabolic Inferno]: https://wiki.guildwars2.com/images/thumb/9/98/Diabolic_Inferno.png/32px-Diabolic_Inferno.png
+[Fiendish Tenacity]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
 [Pulsating Pestilence]: https://wiki.guildwars2.com/images/thumb/7/77/Pulsating_Pestilence.png/32px-Pulsating_Pestilence.png
