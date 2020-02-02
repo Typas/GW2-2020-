@@ -1,4 +1,7 @@
 # 平衡團隊的話
+
+### tags: `GW2` `2020 Feb Update`
+
 > 原出處：[PvP](https://en-forum.guildwars2.com/discussion/96744), [WvW](https://en-forum.guildwars2.com/discussion/96744)
 
 這個更新的範圍大得有點誇張，不過這些技能與特性的改動，是因為抵觸少數幾個基礎的想法。剛好有太多東西要改了，所以最後才動到這麼多。
