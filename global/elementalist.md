@@ -7,7 +7,7 @@
 * ![][overload fire]Overload Fire: 在 PvE 中 ![][might] 的層數從每次 1 層增加到 2 層。修正技能說明。
 * ![][feel the burn]"Feel the Burn!": 技能的 ![][burning] 從 4 秒 1 層增為 4 秒 2 層。修正會導致無法分享給友軍 ![][might] 的 bug。
 * ![][obsidan flesh]Obsidan Flesh: 在 invulnerable 時技能會被鎖定。
-* 以下幾個技能新增在技能使用時會生成 stability，PvE 5 秒、PvP 與 WvW 3 秒。
+* 以下幾個技能新增在技能使用時會生成 ![][stability]，PvE 5 秒、PvP 與 WvW 3 秒。
   * ![][stone resonance]Stone Resonance
   * ![][lava skin]Lava Skin
   * ![][lahar]Lahar
@@ -33,7 +33,7 @@
 
 
 ###### 貢獻者
-Richun、
+Richun (Richun.9045)
 
 [底下這些別動，上面才是正文]: https://wiki.guildwars2.com
 
