@@ -2,13 +2,20 @@
 
 ###### tags: `Global` `GW2` `2020 Feb Update` `Warrior`
 
-> 請以 `![][might]` 的方式來取用 buff 的圖片。
-> 目前支援的 buff: aegis, alacrity, fury, might, protection, quickness, regeneration, resistance, retaliation, stability, swiftness, vigor, bleeding, burning, confusion, poisoned, torment, blinded, chilled, crippled, fear, immobile, slow, taunt, weakness, vulnerability, stealth, revealed, daze, stun, knockdown, pull, knockback, launch, float, sink, superspeed, breakstun, barrier, chaos aura, dark aura, fire aura, frost aura, light aura, magnetic aura, shocking aura
+> Rifle 有點無聊，所以我們用 ammunition (彈藥系統) 讓它看起來好玩一點。Hammer 很棒，我們決定讓他更 hammer 一點。
 
-
+* ![][aimed shot] Aimed Shot: 現在有 2 發，每發間隔 3 秒，回填需要 8 -> 10 秒。
+* ![][volley] Volley: 現在有 2 發，每發間隔 5 秒，回填需要 10 -> 12 秒。
+* ![][brutal shot] Brutal Shot: 現在有 2 發，每發間隔 8 秒，回填需要 15 -> 20 秒。
+* ![][rifle butt] Rifle Butt: 冷卻時間從 15 秒提升到 20 秒，動作時間從 367 ms 延後至 600 ms。當你用這技能擊中目標時所有的 Rifle 技能回填 1 發。
+* ![][fierce blow] Fierce Blow: 在 PvE 中對被 disable 的目標再增傷 25%。
+* ![][backbreaker] Backbreaker: 在成功 ![][knockdown]knockdown 或是對有 CC 條的目標攻擊時，![][fierce blow 20]Fierce Blow 冷卻歸零。
+* ![][disrupting stab] Disrupting Stab: 對使用技能中的敵人攻擊時，從 stun 改為延長 daze 時間。在 PvE 延長到 1.5 秒，在 PvP/WvW 延長到 1 秒。移除增傷。僅在 PvE 增加 50% 傷害。
+* ![][imminent threat] Imminent Threat: 技能時間從 333 ms 延長至 600 ms。
+* ![][signet of might] Signet of Might: 主動技從 6 秒 ![][unblockable SoM]unblockable 狀態改為給 10 層 6 秒 ![][unblockable]unblockable。
 
 ###### 貢獻者
-Richun、
+Richun (Richun.9045), Sia
 
 [底下這些別動，上面才是正文]: https://wiki.guildwars2.com
 
@@ -58,4 +65,17 @@ Richun、
 [light aura]: https://wiki.guildwars2.com/images/thumb/5/5a/Light_Aura.png/20px-Light_Aura.png
 [magnetic aura]: https://wiki.guildwars2.com/images/thumb/5/5a/Magnetic_Aura.png/20px-Magnetic_Aura.png
 [shocking aura]: https://wiki.guildwars2.com/images/thumb/3/31/Shocking_Aura.png/20px-Shocking_Aura.png
+
+[aimed shot]: https://wiki.guildwars2.com/images/thumb/8/86/Aimed_Shot.png/32px-Aimed_Shot.png
+[volley]: https://wiki.guildwars2.com/images/thumb/5/5d/Volley.png/32px-Volley.png
+[brutal shot]: https://wiki.guildwars2.com/images/thumb/f/ff/Brutal_Shot.png/32px-Brutal_Shot.png
+[rifle butt]: https://wiki.guildwars2.com/images/thumb/2/2e/Rifle_Butt.png/32px-Rifle_Butt.png
+[fierce blow]: https://wiki.guildwars2.com/images/thumb/6/66/Fierce_Blow.png/32px-Fierce_Blow.png
+[fierce blow 20]: https://wiki.guildwars2.com/images/thumb/6/66/Fierce_Blow.png/20px-Fierce_Blow.png
+[backbreaker]: https://wiki.guildwars2.com/images/thumb/d/d1/Backbreaker.png/32px-Backbreaker.png
+[disrupting stab]: https://wiki.guildwars2.com/images/thumb/7/77/Disrupting_Stab.png/32px-Disrupting_Stab.png
+[imminent threat]: https://wiki.guildwars2.com/images/thumb/0/06/Imminent_Threat.png/32px-Imminent_Threat.png
+[signet of might]: https://wiki.guildwars2.com/images/thumb/4/40/Signet_of_Might.png/64px-Signet_of_Might.png
+[unblockable SoM]: https://wiki.guildwars2.com/images/thumb/6/6e/Unblockable.png/32px-Unblockable.png
+[unblockable]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
 
