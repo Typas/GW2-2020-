@@ -2,10 +2,10 @@
 > 真的很大
 
 * [平衡團隊的話](./praise_cmc.md)
-* [General](./global/general.md) 通用
 
 | Global                                        | PvP                                        | WvW                                        |
 |-----------------------------------------------|--------------------------------------------|--------------------------------------------|
+| [General](./global/general.md) 通用           | [General](./pvp/general.md)                |                                            |
 | [Warrior](./global/warrior.md) 戰士           | [Warrior](./pvp/warrior.md) 戰士           | [Warrior](./wvw/warrior.md) 戰士           |
 | [Guardian](./global/guardian.md) 守護         | [Guardian](./pvp/guardian.md) 守護         | [Guardian](./wvw/guardian.md) 守護         |
 | [Revenant](./global/revenant.md) 返魂         | [Revenant](./pvp/revenant.md) 返魂         | [Revenant](./wvw/revenant.md) 返魂         |
