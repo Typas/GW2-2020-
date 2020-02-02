@@ -2,7 +2,10 @@
 
 ###### tags: `Global` `GW2` `2020 Feb Update` `Warrior`
 
-> Rifle 有點無聊，所以我們用 ammunition (彈藥系統) 讓它看起來好玩一點。Hammer 很棒，我們決定讓他更 hammer 一點。
+> Warrior's rifle has been somewhat lackluster in its gameplay feel, so we're updating it to create some rotations by giving its 2-4 skills ammunition, shorter cooldowns between uses and slightly longer cooldowns to recover shots, plus successfully using Rifle Butt will allow the rapid recovery of the ammunition for those skills. Warrior hammer has a pretty good gameplay cadence, so we're pushing a bit further on what it does well - hurting crowd controlled enemies. Its iconic second skill, Fierce Blow, now does significantly greater damage to disabled foes, and Backbreaker will automatically recharge fierce blow for immediate use when you successfully knockdown an enemy.
+>> Warrior 的 Rifle 已經顯得有些乏味，所以我們決定更新他，我們現在給彈藥的系統並且使其有個循環，使用上的冷卻時間將會縮短許多，而填充彈藥將會有比前者更長的冷卻時間；此外，如果成功使用 ![][rifle butt 20]Rifle Butt 的話，將可以給這些技能快速填充彈藥。
+>> 
+>> Warrior 的 Hammer 在遊戲中有著非常漂亮的韻律感，我們決定要讓這個優點更加突出。當玩家攻擊 crowd controlled（正在被控場的）敵方時，他的招牌 2 號技能 ![][fierce blow 20]Fierce Blow，現在會使這些殘廢的敵人受到顯著的巨大傷害，以及 ![][backbreaker 20]Backbreaker 將會在成功 ![][knockdown]Knockdown 敵方後，自動回復 ![][fierce blow 20]Fierce Blow 的技能冷卻。
 
 * ![][aimed shot] Aimed Shot: 現在有 2 發，每發間隔 3 秒，回填需要 8 -> 10 秒。
 * ![][volley] Volley: 現在有 2 發，每發間隔 5 秒，回填需要 10 -> 12 秒。
@@ -70,12 +73,14 @@ Richun (Richun.9045), Sia
 [volley]: https://wiki.guildwars2.com/images/thumb/5/5d/Volley.png/32px-Volley.png
 [brutal shot]: https://wiki.guildwars2.com/images/thumb/f/ff/Brutal_Shot.png/32px-Brutal_Shot.png
 [rifle butt]: https://wiki.guildwars2.com/images/thumb/2/2e/Rifle_Butt.png/32px-Rifle_Butt.png
+[rifle butt 20]: https://wiki.guildwars2.com/images/thumb/2/2e/Rifle_Butt.png/20px-Rifle_Butt.png
 [fierce blow]: https://wiki.guildwars2.com/images/thumb/6/66/Fierce_Blow.png/32px-Fierce_Blow.png
 [fierce blow 20]: https://wiki.guildwars2.com/images/thumb/6/66/Fierce_Blow.png/20px-Fierce_Blow.png
 [backbreaker]: https://wiki.guildwars2.com/images/thumb/d/d1/Backbreaker.png/32px-Backbreaker.png
+[backbreaker 20]: https://wiki.guildwars2.com/images/thumb/d/d1/Backbreaker.png/20px-Backbreaker.png
 [disrupting stab]: https://wiki.guildwars2.com/images/thumb/7/77/Disrupting_Stab.png/32px-Disrupting_Stab.png
 [imminent threat]: https://wiki.guildwars2.com/images/thumb/0/06/Imminent_Threat.png/32px-Imminent_Threat.png
 [signet of might]: https://wiki.guildwars2.com/images/thumb/4/40/Signet_of_Might.png/32px-Signet_of_Might.png
-[unblockable SoM]: https://wiki.guildwars2.com/images/thumb/6/6e/Unblockable.png/32px-Unblockable.png
+[unblockable SoM]: https://wiki.guildwars2.com/images/thumb/6/6e/Unblockable.png/20px-Unblockable.png
 [unblockable]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
 
