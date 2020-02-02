@@ -24,12 +24,12 @@
   * ![][stomp] Stomp (Earth Elemental): 增加 ![][immobile] 1 秒的效果。
 * ![][stone flesh] Stone Flesh: 不再增加 150 Toughness，改成切換到 ![][earth]Earth 時減傷 7%。
 * ![][bolstered elements] Bolstered Elements: 使用 stance 技能時不再產生 ![][stability]，改為產生 ![][barrier]barrier。
-* ![][elemental contingency] Elemental Contingency: 此特性被 Elemental Lockdown 取代。
 * ![][elemental lockdown] Elemental Lockdown: 你在 disable 一個敵人時會根據所在 attunement 得到 boon
   * ![][fire] Fire: 5 層 5 秒的 ![][might]
   * ![][water] Water: 10 秒 ![][regeneration]
   * ![][air] Air: 5 秒 ![][fury]
   * ![][earth] Earth: 4 秒 ![][protection]
+> * ![][elemental contingency] Elemental Contingency: 此特性被 Elemental Lockdown 取代。
 
 
 ###### 貢獻者
