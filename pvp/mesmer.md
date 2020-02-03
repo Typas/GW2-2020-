@@ -5,7 +5,22 @@
 > 請以 `![][might]` 的方式來取用 buff 的圖片。
 > 目前支援的 buff: aegis, alacrity, fury, might, protection, quickness, regeneration, resistance, retaliation, stability, swiftness, vigor, bleeding, burning, confusion, poisoned, torment, blinded, chilled, crippled, fear, immobile, slow, taunt, weakness, vulnerability, stealth, revealed, daze, stun, knockdown, pull, knockback, launch, float, sink, superspeed, breakstun, barrier, chaos aura, dark aura, fire aura, frost aura, light aura, magnetic aura, shocking aura
 
+> 翻譯參考：  
+> Power Coefficient: 直傷係數
+
 ## 職業機制
+
+#### Shatters 粉碎
+* ![][mind wrack] Mind Wrack: 如下調整。
+  * 粉碎一個分身：直傷係數從 1.15 下修到 1.0
+  * 粉碎兩個分身：每擊的直傷係數從 0.92 下修到 0.7
+  * 粉碎三個分身：每擊的直傷係數從 0.805 下修到 0.613
+
+#### Chrono Shatters
+* ![][split second] Split Second: 如下調整。
+  * 粉碎一個分身：直傷係數從 1.15 下修到 1.0
+  * 粉碎兩個分身：每擊的直傷係數從 0.92 下修到 0.7
+  * 粉碎三個分身：每擊的直傷係數從 0.805 下修到 0.613
 
 ## 武器技能
 
@@ -18,7 +33,7 @@
 ## 特性
 
 ###### 貢獻者
-Richun、
+Richun (Richun.9045)
 
 [底下這些別動，上面才是正文]: https://wiki.guildwars2.com
 
