@@ -10,140 +10,132 @@
 > Heal Coefficient: 治療係數  
 
 ## 職業機制
-Photon Forge
-
-* ![][Autoattack Chain]Autoattack Chain: Reduced power coefficients from 0.6/1.0/1.6 to 0.4/.666/1.066
-* ![][Holo Leap]Holo Leap: Reduced power coefficient from 1.25 to 0.91
-* ![][Corona Burst]Corona Burst: Reduced might and vulnerability durations from 8 seconds to 6 seconds
-* ![][Photon Blitz]Photon Blitz: Reduced power coefficient per strike from 0.3 to 0.2
-* ![][Holographic Shockwave]Holographic Shockwave: Reduced power coefficient from 0.56 to 0.01
+### Photon Forge
+* Autoattack Chain: Skills have been adjusted as follows: 
+  * ![][Light Strike] Light Strike: Reduced power coefficient from 0.6 to 0.4
+  * ![][Bright Slash] Bright Slash: Reduced power coefficient from 1.0 to .666
+  * ![][Flash Cutter] Flash Cutter: Reduced power coefficient from 1.6 to 1.066
+* ![][Holo Leap] Holo Leap: Reduced power coefficient from 1.25 to 0.91
+* ![][Corona Burst] Corona Burst: Reduced might and vulnerability durations from 8 seconds to 6 seconds
+* ![][Photon Blitz] Photon Blitz: Reduced power coefficient per strike from 0.3 to 0.2
+* ![][Holographic Shockwave] Holographic Shockwave: Reduced power coefficient from 0.56 to 0.01
 
 ## 武器技能
-Rifle
+### Rifle 步槍
+* ![][Hip Shot] Hip Shot: Reduced power coefficient from 0.65 to 0.44
+* ![][Net Shot] Net Shot: Reduced power coefficient from 0.5 to 0.3. Increased cooldown from 9 seconds to 10 seconds
+* ![][Blunderbuss] Blunderbuss: Reduced minimum power coefficient from 1.1 to 0.5. Reduced maximum power coefficient from 1.76 to 1.31. Increased cooldown from 9 seconds to 12 seconds
+* ![][Overcharged Shot] Overcharged Shot: Reduced power coefficient from 1.0 to 0.01. Increased cooldown from 14 seconds to 15 seconds
+* ![][Jump Shot] Jump Shot: Reduced initial leap power coefficient from 0.3 to 0.1. Reduced landing power coefficient from 2.4 to 1.74. Reduced vulnerability duration from 7 seconds to 6 seconds. Increased cooldown from 18 seconds to 20 seconds
 
-* ![][Hip Shot]Hip Shot: Reduced power coefficient from 0.65 to 0.44
-* ![][Net Shot]Net Shot: Reduced power coefficient from 0.5 to 0.3. Increased cooldown from 9 seconds to 10 seconds
-* ![][Blunderbuss]Blunderbuss: Reduced minimum power coefficient from 1.1 to 0.5. Reduced maximum power coefficient from 1.76 to 1.31. Increased cooldown from 9 seconds to 12 seconds
-* ![][Overcharged Shot]Overcharged Shot: Reduced power coefficient from 1.0 to 0.01. Increased cooldown from 14 seconds to 15 seconds
-* ![][Jump Shot]Jump Shot: Reduced initial leap power coefficient from 0.3 to 0.1. Reduced landing power coefficient from 2.4 to 1.74. Reduced vulnerability duration from 7 seconds to 6 seconds. Increased cooldown from 18 seconds to 20 seconds
+### Pistol 手槍
+* ![][Fragmentation Shot] Fragmentation Shot: Reduced power coefficient from 0.4 to 0.266
+* ![][Poison Dart Volley] Poison Dart Volley: Reduced power coefficient per hit from 0.4 to 0.2. Increased poison duration from 7 seconds to 10 seconds.
+* ![][Static Shot] Static Shot: Reduced power coefficient per hit from 0.4 to 0.3
+* ![][Blowtorch] Blowtorch: Adjusted minimum burning from 4 stacks for 3 seconds to 2 stacks for 6 seconds. Adjusted maximum burning from 4 stacks for 6 seconds to 2 stacks for 12 seconds. Increased cooldown from 12 seconds to 15 seconds
 
-Pistol
+### Hammer 大槌
+* Autoattack Chain: Skills have been adjusted as follows: 
+  * ![][Positive Strike] Positive Strike: Reduced power coefficient from 0.7 to 0.533. Reduced might duration from 8 seconds to 6 seconds
+  * ![][Negative Bash] Negative Bash: Reduced power coefficient from 1.0 to 0.666. Reduced vulnerability duration from 8 seconds to 6 seconds
+  * ![][Equalizing Blow] Equalizing Blow: Reduced power coefficient from 1.4 to 0.933. Reduced might and vulnerability durations from 8 seconds to 6 seconds
+* ![][Electro-whirl] Electro-whirl: Reduced power coefficient per strike from 1.2 to 0.68. Increased cooldown from 6 seconds to 8 seconds
 
-* ![][Fragmentation Shot]Fragmentation Shot: Reduced power coefficient from 0.4 to 0.266
-* ![][Poison Dart Volley]Poison Dart Volley: Reduced power coefficient per hit from 0.4 to 0.2. Increased poison duration from 7 seconds to 10 seconds.
-* ![][Static Shot]Static Shot: Reduced power coefficient per hit from 0.4 to 0.3
-* ![][Blowtorch]Blowtorch: Adjusted minimum burning from 4 stacks for 3 seconds to 2 stacks for 6 seconds. Adjusted maximum burning from 4 stacks for 6 seconds to 2 stacks for 12 seconds. Increased cooldown from 12 seconds to 15 seconds
+* ![][Rocket Charge] Rocket Charge: Reduced power coefficient per strike from 1.1 to 0.74. Increased cooldown from 12 seconds to 18 seconds
+* ![][Shock Shield] Shock Shield: Reduced power coefficient per strike from 0.25 to 0.1
+* ![][Thunderclap] Thunderclap: Reduced power coefficient per strike from 0.8 to 0.45. Reduced vulnerability duration from 8 seconds to 6 seconds
 
-Hammer
-
-Autoattack Chain
-
-
-* ![][Positive Strike]Positive Strike: Reduced power coefficient from 0.7 to 0.533. Reduced might duration from 8 seconds to 6 seconds
-* ![][Negative Bash]Negative Bash: Reduced power coefficient from 1.0 to 0.666. Reduced vulnerability duration from 8 seconds to 6 seconds
-* ![][Equalizing Blow]Equalizing Blow: Reduced power coefficient from 1.4 to 0.933. Reduced might and vulnerability durations from 8 seconds to 6 seconds
-
-* ![][Electro-whirl]Electro-whirl: Reduced power coefficient per strike from 1.2 to 0.68. Increased cooldown from 6 seconds to 8 seconds
-
-* ![][Rocket Charge]Rocket Charge: Reduced power coefficient per strike from 1.1 to 0.74. Increased cooldown from 12 seconds to 18 seconds
-* ![][Shock Shield]Shock Shield: Reduced power coefficient per strike from 0.25 to 0.1
-* ![][Thunderclap]Thunderclap: Reduced power coefficient per strike from 0.8 to 0.45. Reduced vulnerability duration from 8 seconds to 6 seconds
-
-Sword
-
-* ![][Autoattack Chain]Autoattack Chain: Reduced power coefficients from 0.88/0.93/1.5 to 0.586/0.62/1.0. Reduced vulnerability duration from 10 seconds to 6 seconds
-* ![][Refraction Cutter]Refraction Cutter: Reduced strike power coefficient from 1.0 to 0.75
-* ![][Radiant Arc]Radiant Arc: Reduced base quickness duration from 2 seconds to 1 second. Reduced bonus quickness duration per 50% heat from 2 seconds to 1 second
+### Sword 單手劍
+* Autoattack Chain: Skills have been adjusted as follows: 
+  * ![][Sun Edge] Sun Edge: Reduced power coefficient from 0.88 to 0.586. Reduced vulnerability duration from 10 seconds to 6 seconds
+  * ![][Sun Ripper] Sun Ripper: Reduced power coefficient from 0.93 to 0.62. Reduced vulnerability duration from 10 seconds to 6 seconds
+  * ![][Gleam Saber] Gleam Saber: Reduced power coefficient from 1.5 to 1.0.
+* ![][Refraction Cutter] Refraction Cutter: Reduced strike power coefficient from 1.0 to 0.75
+* ![][Radiant Arc] Radiant Arc: Reduced base quickness duration from 2 seconds to 1 second. Reduced bonus quickness duration per 50% heat from 2 seconds to 1 second
 
 ## 治療技能
-* ![][Static Shock]Static Shock (AED Toolbelt): Reduced power coefficient from 1.0 to 0.01
-* ![][Healing Turret]Healing Turret: Increased cooldown from 20 seconds to 30 seconds
-* ![][Med Blaster]Med Blaster (Med Kit 1): Reduced heal coefficient from 0.2 to 0.1
-* ![][Medic Gyro]Medic Gyro: Increased cooldown from 20 seconds to 30 seconds. Reduced pulse heal coefficient from 0.6 to 0.25. Reduced initial heal coeffcient from 0.7 to 0.2
-* ![][Reconstruction Field]Reconstruction Field (Medic Gyro Toolbelt): Reduced protection duration from 2 seconds to 1 second
-* ![][Coolant Blast]Coolant Blast: Increased cooldown from 20 seconds to 25 seconds
+* ![][Static Shock] Static Shock (AED Toolbelt): Reduced power coefficient from 1.0 to 0.01
+* ![][Healing Turret] Healing Turret: Increased cooldown from 20 seconds to 30 seconds
+* ![][Med Blaster] Med Blaster (Med Kit 1): Reduced heal coefficient from 0.2 to 0.1
+* ![][Medic Gyro] Medic Gyro: Increased cooldown from 20 seconds to 30 seconds. Reduced pulse heal coefficient from 0.6 to 0.25. Reduced initial heal coeffcient from 0.7 to 0.2
+* ![][Reconstruction Field] Reconstruction Field (Medic Gyro Toolbelt): Reduced protection duration from 2 seconds to 1 second
+* ![][Coolant Blast] Coolant Blast: Increased cooldown from 20 seconds to 25 seconds
 
 ## 通用技能
-* ![][Big Ol' Bomb]Big Ol' Bomb (Bomb Kit Toolbelt): Reduced power coefficient from 2.475 to 0.01. Reduced cooldown from 25 seconds to 20 seconds
-* ![][Grenade Barrage]Grenade Barrage (Grenade Kit Toolbelt): Reduced power coefficient per grenade from 0.6 to 0.5
-* ![][Super Elixir]Super Elixir (Elixir Gun 5): Reduced pulse base heal from 204 to 163. Reduced pulse heal coefficient from 0.1 to 0.05
-* ![][Magnet]Magnet (Tool Kit 5): Increased cooldown from 20 seconds to 25 seconds
-* ![][Elixir B]Elixir B: Reduced boon durations from 10 seconds to 6 seconds. Reduced cooldown from 40 seconds to 30 seconds
-* ![][Toss Elixir B]Toss Elixir B (Elixir B Toolbelt): Reduced might duration from 10 seconds to 6 seconds
-* ![][Toss Elixir S]Toss Elixir S: Reduced stealth duration from 5 seconds to 3 seconds
-* ![][Personal Battering Ram]Personal Battering Ram: Reduced power coefficient from 1.25 to 0.01. Reduced ammo recharge from 25 seconds to 20 seconds
-* ![][Launch Personal Battering Ram]Launch Personal Battering Ram (Personal Battering Ram Toolbelt): Reduced power coefficient from 1.5 to 0.5
-* ![][Rocket Boots]Rocket Boots: Reduced power coefficient from 1.25 to 0.5
-* ![][Super Speed]Super Speed (Slick Shoes Toolbelt): Reduced superspeed duration from 5 seconds to 3 seconds
-* ![][Throw Mine]Throw Mine: Reduced power coefficient from 2.0 to 0.01. Increased boons removed from 1 to 3
-* ![][Mine Field]Mine Field (Throw Mine Toolbelt): Reduced power coefficient per mine from 0.77 to 0.5
-* ![][Surprise Shot]Surprise Shot (Rifle Turret Toolbelt): Reduced power coefficient from 1.0 to 0.5
-* ![][Rocket Turret]Rocket Turret: Reduced overcharge power coefficient from 2.75 to 0.01
-* ![][Thump]Thump (Thumper Turret Toolbelt): Reduced power coefficient from 1.0 to 0.01
-* ![][Blast Gyro]Blast Gyro: Reduced power coefficient from 2.25 to 0.01. Reduced might duration from 8 seconds to 6 seconds. Reduced cooldown from 25 seconds to 20 seconds
-* ![][Bypass Coating]Bypass Coating (Blast Gyro Toolbelt): Increased cooldown from 30 seconds to 35 seconds
-* ![][Defense Field]Defense Field (Bulwark Gyro Toolbelt): Increased cooldown from 30 seconds to 40 seconds
-* ![][Spectrum Shield]Spectrum Shield: WvW will now use the PvP version of the skill (25% reduced recharge over heat threshold)
-* ![][Hard Light Arena]Hard Light Arena: Reduced field duration from 8 seconds to 4 seconds. Reduced bonus field duration from 4 seconds to 2 seconds. Reduced cooldown from 45 seconds to 30 seconds
-* ![][Prismatic Singularity]Prismatic Singularity (Hard Light Arena Toolbelt): Reduced power coefficient from 0.1 to 0.01. Reduced cooldown from 45 seconds to 35 seconds
-* ![][Photon Wall]Photon Wall: Reduced power coefficient per wall from 1.5 to 0.5
-* ![][Particle Accelerator]Particle Accelerator (Photon Wall Toolbelt): Reduced power coefficient from 0.7 to 0.4. Increased cooldown from 8 seconds to 10 seconds
+* ![][Big Ol' Bomb] Big Ol' Bomb (Bomb Kit Toolbelt): Reduced power coefficient from 2.475 to 0.01. Reduced cooldown from 25 seconds to 20 seconds
+* ![][Grenade Barrage] Grenade Barrage (Grenade Kit Toolbelt): Reduced power coefficient per grenade from 0.6 to 0.5
+* ![][Super Elixir] Super Elixir (Elixir Gun 5): Reduced pulse base heal from 204 to 163. Reduced pulse heal coefficient from 0.1 to 0.05
+* ![][Magnet] Magnet (Tool Kit 5): Increased cooldown from 20 seconds to 25 seconds
+* ![][Elixir B] Elixir B: Reduced boon durations from 10 seconds to 6 seconds. Reduced cooldown from 40 seconds to 30 seconds
+* ![][Toss Elixir B] Toss Elixir B (Elixir B Toolbelt): Reduced might duration from 10 seconds to 6 seconds
+* ![][Toss Elixir S] Toss Elixir S: Reduced stealth duration from 5 seconds to 3 seconds
+* ![][Personal Battering Ram] Personal Battering Ram: Reduced power coefficient from 1.25 to 0.01. Reduced ammo recharge from 25 seconds to 20 seconds
+* ![][Launch Personal Battering Ram] Launch Personal Battering Ram (Personal Battering Ram Toolbelt): Reduced power coefficient from 1.5 to 0.5
+* ![][Rocket Boots] Rocket Boots: Reduced power coefficient from 1.25 to 0.5
+* ![][Super Speed] Super Speed (Slick Shoes Toolbelt): Reduced superspeed duration from 5 seconds to 3 seconds
+* ![][Throw Mine] Throw Mine: Reduced power coefficient from 2.0 to 0.01. Increased boons removed from 1 to 3
+* ![][Mine Field] Mine Field (Throw Mine Toolbelt): Reduced power coefficient per mine from 0.77 to 0.5
+* ![][Surprise Shot] Surprise Shot (Rifle Turret Toolbelt): Reduced power coefficient from 1.0 to 0.5
+* ![][Rocket Turret] Rocket Turret: Reduced overcharge power coefficient from 2.75 to 0.01
+* ![][Thump] Thump (Thumper Turret Toolbelt): Reduced power coefficient from 1.0 to 0.01
+* ![][Blast Gyro] Blast Gyro: Reduced power coefficient from 2.25 to 0.01. Reduced might duration from 8 seconds to 6 seconds. Reduced cooldown from 25 seconds to 20 seconds
+* ![][Bypass Coating] Bypass Coating (Blast Gyro Toolbelt): Increased cooldown from 30 seconds to 35 seconds
+* ![][Defense Field] Defense Field (Bulwark Gyro Toolbelt): Increased cooldown from 30 seconds to 40 seconds
+* ![][Spectrum Shield] Spectrum Shield: WvW will now use the PvP version of the skill (25% reduced recharge over heat threshold)
+* ![][Hard Light Arena] Hard Light Arena: Reduced field duration from 8 seconds to 4 seconds. Reduced bonus field duration from 4 seconds to 2 seconds. Reduced cooldown from 45 seconds to 30 seconds
+* ![][Prismatic Singularity] Prismatic Singularity (Hard Light Arena Toolbelt): Reduced power coefficient from 0.1 to 0.01. Reduced cooldown from 45 seconds to 35 seconds
+* ![][Photon Wall] Photon Wall: Reduced power coefficient per wall from 1.5 to 0.5
+* ![][Particle Accelerator] Particle Accelerator (Photon Wall Toolbelt): Reduced power coefficient from 0.7 to 0.4. Increased cooldown from 8 seconds to 10 seconds
 
 ## 菁英技能
-* ![][Supply Crate]Supply Crate: Reduced power coefficient from 1.0 to 0.01. Increased stun duration from 2 seconds to 3 seconds. Reduced cooldown from 120 seconds to 90 seconds
+* ![][Supply Crate] Supply Crate: Reduced power coefficient from 1.0 to 0.01. Increased stun duration from 2 seconds to 3 seconds. Reduced cooldown from 120 seconds to 90 seconds
 * ![][Sneak Gyro]Sneak Gyro: PvP will now use the WvW version of the skill (60s cd)
-* ![][Prime Light Beam]Prime Light Beam: Reduced power coefficient from 3.0 to 0.01. Reduced cooldown from 60 seconds to 40 seconds
+* ![][Prime Light Beam] Prime Light Beam: Reduced power coefficient from 3.0 to 0.01. Reduced cooldown from 60 seconds to 40 seconds
 
 ## 特性
-Firearms
+### Firearms
+* ![][Sharpshooter] Sharpshooter: Reduced bleeding duration from 3 seconds to 1 second
+* ![][Serrated Steel] Serrated Steel: Reduced bonus bleeding duration from 33% to 15%
+* ![][Thermal Vision] Thermal Vision: Reduced expertise from 150 to 60
+* ![][Juggernaut] Juggernaut: Reduced might duration from 12 seconds to 6 seconds. Reduced bonus might duration from 20% to 10%
+* ![][Incendiary Powder] Incendiary Powder: Reduced bonus burning duration from 33% to 10%. Reduced burning duration from 8 seconds to 4 seconds
 
-* ![][Sharpshooter]Sharpshooter: Reduced bleeding duration from 3 seconds to 1 second
-* ![][Serrated Steel]Serrated Steel: Reduced bonus bleeding duration from 33% to 15%
-* ![][Thermal Vision]Thermal Vision: Reduced expertise from 150 to 60
-* ![][Juggernaut]Juggernaut: Reduced might duration from 12 seconds to 6 seconds. Reduced bonus might duration from 20% to 10%
-* ![][Incendiary Powder]Incendiary Powder: Reduced bonus burning duration from 33% to 10%. Reduced burning duration from 8 seconds to 4 seconds
+### Inventions
+* ![][Experimental Turrets] Experimental Turrets: Reduced might duration from 10 seconds to 6 seconds
+* ![][Bunker Down] Bunker Down: Increased internal cooldown from 3 seconds to 4 seconds
+* ![][Medical Dispersion Field] Medical Dispersion Field: Reduced heal share percentage from 50% to 25%
 
-Inventions
-
-* ![][Experimental Turrets]Experimental Turrets: Reduced might duration from 10 seconds to 6 seconds
-* ![][Bunker Down]Bunker Down: Increased internal cooldown from 3 seconds to 4 seconds
-* ![][Medical Dispersion Field]Medical Dispersion Field: Reduced heal share percentage from 50% to 25%
-
-Alchemy
-
-* ![][Hidden Flask]Hidden Flask: Reduced boon durations from 8 seconds to 4 seconds
-* ![][Compounding Chemicals]Compounding Chemicals: Reduced concentration from 240 to 75
-* ![][Invigorating Speed]Invigorating Speed: Increased internal cooldown from 5 seconds to 10 seconds
-* ![][Protection Injection]Protection Injection: Increased internal cooldown from 20 seconds to 30 seconds
-* ![][Health Insurance]Health Insurance: Reduced outgoing heal bonus from 20% to 7%
-* ![][Comeback Cure]Comeback Cure: Reduced regeneration duration from 4 seconds to 1.5 seconds
-* ![][Emergency Elixir]Emergency Elixir: Increased internal cooldown from 40 seconds to 60 seconds
-* ![][HGH]HGH: Adjusted might duration from 2 stacks for 15 seconds to 3 stacks for 6 seconds
-* ![][Purity of Purpose]Purity of Purpose: Boon durations have been adjusted as follows
+### Alchemy
+* ![][Hidden Flask] Hidden Flask: Reduced boon durations from 8 seconds to 4 seconds
+* ![][Compounding Chemicals] Compounding Chemicals: Reduced concentration from 240 to 75
+* ![][Invigorating Speed] Invigorating Speed: Increased internal cooldown from 5 seconds to 10 seconds
+* ![][Protection Injection] Protection Injection: Increased internal cooldown from 20 seconds to 30 seconds
+* ![][Health Insurance] Health Insurance: Reduced outgoing heal bonus from 20% to 7%
+* ![][Comeback Cure] Comeback Cure: Reduced regeneration duration from 4 seconds to 1.5 seconds
+* ![][Emergency Elixir] Emergency Elixir: Increased internal cooldown from 40 seconds to 60 seconds
+* ![][HGH] HGH: Adjusted might duration from 2 stacks for 15 seconds to 3 stacks for 6 seconds
+* ![][Purity of Purpose] Purity of Purpose: Boon durations have been adjusted as follows
 * Protection, Quickness, Stability, Alacrity: Reduced from 3 seconds to 1.5 seconds
-* Resistance: Reduced from 2 seconds to 1.5 seconds
-* Fury, Aegis, Retaliation, Regeneration: Reduced from 5 seconds to 3 seconds
-* Vigor: Reduced from 10 seconds to 3 seconds
-* Might, Swiftness: Reduced from 10 seconds to 5 seconds
+* ![][resistance] Resistance: Reduced from 2 seconds to 1.5 seconds
+* ![][fury] Fury, ![][aegis] Aegis, ![][retaliation] Retaliation, ![][regeneration] Regeneration: Reduced from 5 seconds to 3 seconds
+* ![][vigor] Vigor: Reduced from 10 seconds to 3 seconds
+* ![][might] Might, ![][swiftness] Swiftness: Reduced from 10 seconds to 5 seconds
 
-Tools
+### Tools
+* ![][Static Discharge] Static Discharge: Reduced power coefficient from 0.33 to 0.2
+* ![][Power Wrench] Power Wrench: Reduced cooldown reduction from 33% to 20%. Reduced elite skill recharge from 3 seconds to 1 second
+* ![][Lock On] Lock On: Reduced fury duration from 5 seconds to 2.5 seconds. Adjusted vulnerability from 10 stacks for 8 seconds to 5 stacks for 6 seconds
+* ![][Takedown Round] Takedown Round: Reduced power coefficient from 2.0 to 0.5
+* ![][Kinetic Battery] Kinetic Battery: Reduced quickness duration from 3 seconds to 2 seconds
 
-* ![][Static Discharge]Static Discharge: Reduced power coefficient from 0.33 to 0.2
-* ![][Power Wrench]Power Wrench: Reduced cooldown reduction from 33% to 20%. Reduced elite skill recharge from 3 seconds to 1 second
-* ![][Lock On]Lock On: Reduced fury duration from 5 seconds to 2.5 seconds. Adjusted vulnerability from 10 stacks for 8 seconds to 5 stacks for 6 seconds
-* ![][Takedown Round]Takedown Round: Reduced power coefficient from 2.0 to 0.5
-* ![][Kinetic Battery]Kinetic Battery: Reduced quickness duration from 3 seconds to 2 seconds
+### Scrapper
+* ![][Gyroscopic Acceleration] Gyroscopic Acceleration: Reduced superspeed duration from 5 seconds to 3 seconds
+* ![][Mass Momentum] Mass Momentum: Reduced stability duration from 5 seconds to 3 seconds
+* ![][Expert Examination] Expert Examination: Reduced weakness duration from 4 seconds to 3 seconds
 
-Scrapper
-
-* ![][Gyroscopic Acceleration]Gyroscopic Acceleration: Reduced superspeed duration from 5 seconds to 3 seconds
-* ![][Mass Momentum]Mass Momentum: Reduced stability duration from 5 seconds to 3 seconds
-* ![][Expert Examination]Expert Examination: Reduced weakness duration from 4 seconds to 3 seconds
-
-Holosmith
-
-* ![][Heat Therapy]Heat Therapy: Reduced base heal per stack from 49 to 39
-* ![][Thermal Release Valve]Thermal Release Valve: Reduced power coefficient from 0.75 to 0.1. Reduced burning duration from 6 seconds to 2 seconds
+### Holosmith
+* ![][Heat Therapy] Heat Therapy: Reduced base heal per stack from 49 to 39
+* ![][Thermal Release Valve] Thermal Release Valve: Reduced power coefficient from 0.75 to 0.1. Reduced burning duration from 6 seconds to 2 seconds
 
 ###### 貢獻者
 Richun, 赤木 (Alik.9651)
@@ -197,7 +189,12 @@ Richun, 赤木 (Alik.9651)
 [magnetic aura]: https://wiki.guildwars2.com/images/thumb/5/5a/Magnetic_Aura.png/20px-Magnetic_Aura.png
 [shocking aura]: https://wiki.guildwars2.com/images/thumb/3/31/Shocking_Aura.png/20px-Shocking_Aura.png
 
-[Autoattack Chain]: https://to.be.repalced
+[Light Strike]: https://wiki.guildwars2.com/images/thumb/f/f7/Light_Strike.png/32px-Light_Strike.png
+[Bright Slash]: https://wiki.guildwars2.com/images/thumb/f/fa/Bright_Slash.png/32px-Bright_Slash.png
+[Flash Cutter]: https://wiki.guildwars2.com/images/thumb/1/1c/Flash_Cutter.png/32px-Flash_Cutter.png
+[Sun Edge]: https://wiki.guildwars2.com/images/thumb/a/aa/Sun_Edge.png/32px-Sun_Edge.png
+[Sun Ripper]: https://wiki.guildwars2.com/images/thumb/8/80/Sun_Ripper.png/32px-Sun_Ripper.png
+[Gleam Saber]: https://wiki.guildwars2.com/images/thumb/0/0c/Gleam_Saber.png/32px-Gleam_Saber.png
 
 [Holo Leap]: https://wiki.guildwars2.com/images/thumb/3/3b/Holo_Leap.png/32px-Holo_Leap.png
 [Corona Burst]: https://wiki.guildwars2.com/images/thumb/b/b3/Corona_Burst.png/32px-Corona_Burst.png
