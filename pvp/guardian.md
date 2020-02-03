@@ -94,7 +94,7 @@
 * ![][Puncture Shot] Puncture Shot: Reduced power coefficient from 0.85 to 0.566
 * ![][True Shot] True Shot: Reduced power coefficient from 2.0 to 1.91. Increased cooldown from 6 seconds to 8 seconds
 * ![][Symbol of Energy] Symbol of Energy: Reduced power coefficient per strike from 0.69 to 0.43
-* ![][Hunters Ward] Hunters Ward: Reduced pulsing strike power coefficient from 0.25 to 0.1. Reduced final impact power coefficient from 2.0 to 1.666
+* ![][Hunter's Ward] Hunter's Ward: Reduced pulsing strike power coefficient from 0.25 to 0.1. Reduced final impact power coefficient from 2.0 to 1.666
 
 ### Axe 斧
 * Autoattack Chain: Skills have been adjusted as follows: 
@@ -105,7 +105,7 @@
 * ![][Blazing Edge] Blazing Edge: Reduced power coefficient from 0.8 to 0.01. Reduced burning duration from 3 seconds to 1 second. Increased cooldown from 12 seconds to 15 seconds
 
 ## 治療技能
-* ![][Receive the Light] Receive the Light: Reduced initial self-heal coefficient from 0.8 to 0.4. Reduced allied pulse heal coefficient from 0.6 to 0.2
+* ![][Receive the Light] "Receive the Light!": Reduced initial self-heal coefficient from 0.8 to 0.4. Reduced allied pulse heal coefficient from 0.6 to 0.2
 * ![][Litany of Wrath] Litany of Wrath: Increased cooldown from 25 seconds to 30 seconds
 * ![][Signet of Resolve] Signet of Resolve: Increased cooldown from 30 seconds to 35 seconds
 * ![][Purification] Purification: Reduced trap heal coefficient from 1.0 to 0.667. Reduced trap base heal from 5475 to 4380
@@ -297,7 +297,7 @@ Richun, 赤木 (Alik.9651)
 [Hunter's Ward]: https://wiki.guildwars2.com/images/thumb/e/e6/Hunter%27s_Ward.png/32px-Hunter%27s_Ward.png
 [Symbol of Vengeance]: https://wiki.guildwars2.com/images/thumb/8/80/Symbol_of_Vengeance.png/32px-Symbol_of_Vengeance.png
 [Blazing Edge]: https://wiki.guildwars2.com/images/thumb/9/94/Blazing_Edge.png/32px-Blazing_Edge.png
-[!Receive the Light!"]: https://wiki.guildwars2.com/images/thumb/e/eb/%22Receive_the_Light%21%22.png/32px-%22Receive_the_Light%21%22.png
+[Receive the Light]: https://wiki.guildwars2.com/images/thumb/e/eb/%22Receive_the_Light%21%22.png/32px-%22Receive_the_Light%21%22.png
 [Litany of Wrath]: https://wiki.guildwars2.com/images/thumb/4/4a/Litany_of_Wrath.png/32px-Litany_of_Wrath.png
 [Signet of Resolve]: https://wiki.guildwars2.com/images/thumb/7/75/Signet_of_Resolve.png/32px-Signet_of_Resolve.png
 [Purification]: https://wiki.guildwars2.com/images/thumb/7/79/Purification.png/32px-Purification.png
@@ -307,8 +307,8 @@ Richun, 赤木 (Alik.9651)
 [Judge's Intervention]: https://wiki.guildwars2.com/images/thumb/8/8e/Judge%27s_Intervention.png/32px-Judge%27s_Intervention.png
 [Merciful Intervention]: https://wiki.guildwars2.com/images/thumb/1/15/Merciful_Intervention.png/32px-Merciful_Intervention.png
 [Smite Condition]: https://wiki.guildwars2.com/images/thumb/b/bd/Smite_Condition.png/32px-Smite_Condition.png
-["Hold the Line!"]: https://wiki.guildwars2.com/images/thumb/8/82/%22Hold_the_Line%21%22.png/32px-%22Hold_the_Line%21%22.png
-["Stand Your Ground!"]: https://wiki.guildwars2.com/images/thumb/3/31/%22Stand_Your_Ground%21%22.png/32px-%22Stand_Your_Ground%21%22.png
+[Hold the Line]: https://wiki.guildwars2.com/images/thumb/8/82/%22Hold_the_Line%21%22.png/32px-%22Hold_the_Line%21%22.png
+[Stand Your Ground]: https://wiki.guildwars2.com/images/thumb/3/31/%22Stand_Your_Ground%21%22.png/32px-%22Stand_Your_Ground%21%22.png
 [Bane Signet]: https://wiki.guildwars2.com/images/thumb/5/56/Bane_Signet.png/32px-Bane_Signet.png
 [Bow of Truth]: https://wiki.guildwars2.com/images/thumb/a/a2/Bow_of_Truth.png/32px-Bow_of_Truth.png
 [Hammer of Wisdom]: https://wiki.guildwars2.com/images/thumb/b/bd/Hammer_of_Wisdom.png/32px-Hammer_of_Wisdom.png
