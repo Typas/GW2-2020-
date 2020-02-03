@@ -1,9 +1,10 @@
 # Necromancer 死靈
 
-###### tags: `PvP` `GW2` `2020 Feb Update` `Necromancer`
+###### tags: `PvP` `WvW` `GW2` `2020 Feb Update` `Necromancer`
 
-> 請以 `![][might]` 的方式來取用 buff 的圖片。
-> 目前支援的 buff: aegis, alacrity, fury, might, protection, quickness, regeneration, resistance, retaliation, stability, swiftness, vigor, bleeding, burning, confusion, poisoned, torment, blinded, chilled, crippled, fear, immobile, slow, taunt, weakness, vulnerability, stealth, revealed, daze, stun, knockdown, pull, knockback, launch, float, sink, superspeed, breakstun, barrier, chaos aura, dark aura, fire aura, frost aura, light aura, magnetic aura, shocking aura
+> 翻譯參考：  
+> Power Coefficient: 直傷係數  
+> Heal Coefficient: 治療係數  
 
 ## 職業機制
 * ![][Death Shroud]Death Shroud
@@ -129,7 +130,7 @@
     * ![][Demonic Lore]Demonic Lore: ![][burning]燃燒時效由3秒減至1秒
 
 ###### 貢獻者
-Richun、
+Richun, 赤木 (Alik.9651)
 
 [底下這些別動，上面才是正文]: https://wiki.guildwars2.com
 
