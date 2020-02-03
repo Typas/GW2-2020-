@@ -7,47 +7,47 @@
 > Heal Coefficient: 治療係數  
 
 ## 武器技能
-* 短弓
-    * ![][Trick Shot]Trick Shot: 直傷系數由0.55減至0.366
-    * ![][Detonate Cluster Bomb]Detonate Cluster Bomb: 每擊直傷系數由0.5減至0.375
-    * ![][Disabling Shot]Disabling Shot: 行動點消費由4增至5
+### Short Bow 短弓
+* ![][Trick Shot]Trick Shot: 直傷系數由0.55減至0.366
+* ![][Detonate Cluster Bomb]Detonate Cluster Bomb: 每擊直傷系數由0.5減至0.375
+* ![][Disabling Shot]Disabling Shot: 行動點消費由4增至5
 
-* 單手劍
-    * ![][Slice]自動攻擊串: 直傷系數由0.6/0.6/1.3減至0.4/0.4/0.866
-    * ![][Infiltrator's Strike]Infiltrator's Strike: 直傷系數由0.75減至0.5
-    * ![][Flanking Strike]Flanking Strike: 直傷系數由0.8減至0.5
-    * ![][Pistol Whip]Pistol Whip: 初擊直傷系數由0.37減至0.01. ![][stun]休克時效由0.75秒減至0.5秒. 連擊直傷系數由0.79減至0.53. 行動點消費由5增至6.
+### Sword 單手劍
+* ![][Slice]自動攻擊串: 直傷系數由0.6/0.6/1.3減至0.4/0.4/0.866
+* ![][Infiltrator's Strike]Infiltrator's Strike: 直傷系數由0.75減至0.5
+* ![][Flanking Strike]Flanking Strike: 直傷系數由0.8減至0.5
+* ![][Pistol Whip]Pistol Whip: 初擊直傷系數由0.37減至0.01. ![][stun]休克時效由0.75秒減至0.5秒. 連擊直傷系數由0.79減至0.53. 行動點消費由5增至6.
 
-* 匕首 主手
-    * ![][Double Strike]自動攻擊串: 直傷系數由0.6/0.65/1.1減至0.4/0.433/0.733
-    * ![][Shadow Shot]Shadow Shot: 行動點消費由4增至5
-    * ![][Death Blossom]Death Blossom: 行動點消費由4增至5
-    * ![][Backstab]Backstab: base 直傷系數由1.2減至0.9. 側翼攻擊直傷系數由2.4減至1.8
+### Dagger 匕首 主手
+* ![][Double Strike]自動攻擊串: 直傷系數由0.6/0.65/1.1減至0.4/0.433/0.733
+* ![][Shadow Shot]Shadow Shot: 行動點消費由4增至5
+* ![][Death Blossom]Death Blossom: 行動點消費由4增至5
+* ![][Backstab]Backstab: base 直傷系數由1.2減至0.9. 側翼攻擊直傷系數由2.4減至1.8
+#### Dagger 匕首 副手
+* ![][Dancing Dagger]Dancing Dagger: 直傷系數由0.6減至0.45
 
-* 手槍 主手
-    * ![][Vital Shot]Vital Shot: 直傷系數由0.575減至0.383
-    * ![][Unload]Unload: 每擊直傷系數由0.4減至0.27. ![][might]威能時效由8秒減至6秒
-    * ![][Sneak Attack]Sneak Attack: 每擊直傷系數由0.36減至0.3
+### Pistol 手槍 主手
+* ![][Vital Shot]Vital Shot: 直傷系數由0.575減至0.383
+* ![][Unload]Unload: 每擊直傷系數由0.4減至0.27. ![][might]威能時效由8秒減至6秒
+* ![][Sneak Attack]Sneak Attack: 每擊直傷系數由0.36減至0.3
 
-* 匕首 副手
-    * ![][Dancing Dagger]Dancing Dagger: 直傷系數由0.6減至0.45
 
-* 長杖
-    * ![][Staff Strike]自動攻擊串: 直傷系數由0.666/0.666/1.672減至0.444/0.444/1.114
-    * ![][Weakening Charge]Weakening Charge: 每擊直傷系數由0.7減至0.45. 每擊的![][weakness]衰弱時效由2秒減至1秒
-    * ![][Debilitating Arc]Debilitating Arc: 直傷系數由1.0減至0.5. WvW會使用PvP版本 行動點消費為5
-    * ![][Dust Strike]Dust Strike: ![][vulnerability]破甲層數由5層增至8層
-    * ![][Vault]Vault: 直傷系數由2.25減至1.82. WvW會使用PvP版本 行動點消費為6
-    * ![][Hook Strike]Hook Strike: 直傷系數由0.65減至0.01
+### Staff 長杖
+* ![][Staff Strike]自動攻擊串: 直傷系數由0.666/0.666/1.672減至0.444/0.444/1.114
+* ![][Weakening Charge]Weakening Charge: 每擊直傷系數由0.7減至0.45. 每擊的![][weakness]衰弱時效由2秒減至1秒
+* ![][Debilitating Arc]Debilitating Arc: 直傷系數由1.0減至0.5. WvW會使用PvP版本 行動點消費為5
+* ![][Dust Strike]Dust Strike: ![][vulnerability]破甲層數由5層增至8層
+* ![][Vault]Vault: 直傷系數由2.25減至1.82. WvW會使用PvP版本 行動點消費為6
+* ![][Hook Strike]Hook Strike: 直傷系數由0.65減至0.01
 
-* 步槍
-    * ![][Brutal Aim]Brutal Aim: 直傷系數由0.6減至0.4
-    * ![][Deadly Aim]Deadly Aim: 直傷系數由0.8減至0.533
-    * ![][Spotter's Shot]Spotter's Shot: 直傷系數由0.8減至0.4. ![][immobile]綁定時效由1秒增至1.5秒
-    * ![][Double Tap]Double Tap: 每擊的![][might]威能層數由3層減至1層. 每擊直傷系數由0.65減至0.5
-    * ![][Three Round Burst]Three Round Burst: 每擊直傷系數由0.55減至0.5. 每擊的![][might]威能層數由3層減至1層
-    * ![][Death's Retreat]Death's Retreat: 行動點消費由5增至6
-    * ![][Death's Judgment]Death's Judgment: 直傷系數由1.65減至1.11
+### Rifle 步槍
+* ![][Brutal Aim]Brutal Aim: 直傷系數由0.6減至0.4
+* ![][Deadly Aim]Deadly Aim: 直傷系數由0.8減至0.533
+* ![][Spotter's Shot]Spotter's Shot: 直傷系數由0.8減至0.4. ![][immobile]綁定時效由1秒增至1.5秒
+* ![][Double Tap]Double Tap: 每擊的![][might]威能層數由3層減至1層. 每擊直傷系數由0.65減至0.5
+* ![][Three Round Burst]Three Round Burst: 每擊直傷系數由0.55減至0.5. 每擊的![][might]威能層數由3層減至1層
+* ![][Death's Retreat]Death's Retreat: 行動點消費由5增至6
+* ![][Death's Judgment]Death's Judgment: 直傷系數由1.65減至1.11
 
 ## 治療技能
 * ![][Skelk Venom]Skelk Venom: 初始治療系數由0.75減至0.4. 初始基本治療由4210減至3578
@@ -79,47 +79,47 @@
 * ![][Shadow Meld]Shadow Meld: ![][stealth]隱身時效由3秒減至2秒
 
 ## 特性
-* ![][Deadly Arts]Deadly Arts
-    * ![][Lotus Poison]Lotus Poison: ![][weakness]衰弱時效由4秒減至3秒
-    * ![][Mug]Mug: 直傷系數由1.5減至0.75
-    * ![][Even the Odds]Even the Odds: ![][might]威能及![][vulnerability]破甲時效由10秒減至6秒
-    * ![][Panic Strike]Panic Strike: ![][poisoned]中毒時效由2秒減至1秒
-    * ![][Potent Poison]Potent Poison: 額外![][poisoned]中毒時效由20%減至5%
+### ![][Deadly Arts]Deadly Arts
+* ![][Lotus Poison]Lotus Poison: ![][weakness]衰弱時效由4秒減至3秒
+* ![][Mug]Mug: 直傷系數由1.5減至0.75
+* ![][Even the Odds]Even the Odds: ![][might]威能及![][vulnerability]破甲時效由10秒減至6秒
+* ![][Panic Strike]Panic Strike: ![][poisoned]中毒時效由2秒減至1秒
+* ![][Potent Poison]Potent Poison: 額外![][poisoned]中毒時效由20%減至5%
 
-* ![][Critical Strikes]Critical Strikes
-    * ![][Assassin's Fury]Assassin's Fury: ![][might]威能時效由8秒減至6秒. ![][might]威能層數由3層減至2層
-    * ![][Ankle Shots]Ankle Shots: ![][crippled]殘廢時效由3秒減至2秒
+### ![][Critical Strikes]Critical Strikes
+* ![][Assassin's Fury]Assassin's Fury: ![][might]威能時效由8秒減至6秒. ![][might]威能層數由3層減至2層
+* ![][Ankle Shots]Ankle Shots: ![][crippled]殘廢時效由3秒減至2秒
 
-* ![][Shadow Arts]Shadow Arts
-    * ![][Merciful Ambush]Merciful Ambush: 救援比率由3%減至1%
-    * ![][Shadow's Rejuvenation]Shadow's Rejuvenation: 基本回復由293減至219
+### ![][Shadow Arts]Shadow Arts
+* ![][Merciful Ambush]Merciful Ambush: 救援比率由3%減至1%
+* ![][Shadow's Rejuvenation]Shadow's Rejuvenation: 基本回復由293減至219
 
-* ![][Acrobatics]Acrobatics
-    * ![][Feline Grace]Feline Grace: ![][vigor]活力時效由5秒減至3秒
-    * ![][Endless Stamina]Endless Stamina: Concentration由240減至60
-    * ![][Pain Response]Pain Response: 冷卻時間由40秒增至60秒
-    * ![][Hard to Catch]Hard to Catch: 冷卻時間由90秒增至300秒
-    * ![][Instant Reflexes]Instant Reflexes: 冷卻時間由90秒增至300秒
+### ![][Acrobatics]Acrobatics
+* ![][Feline Grace]Feline Grace: ![][vigor]活力時效由5秒減至3秒
+* ![][Endless Stamina]Endless Stamina: Concentration由240減至60
+* ![][Pain Response]Pain Response: 冷卻時間由40秒增至60秒
+* ![][Hard to Catch]Hard to Catch: 冷卻時間由90秒增至300秒
+* ![][Instant Reflexes]Instant Reflexes: 冷卻時間由90秒增至300秒
 
-* ![][Trickery]Trickery
-    * ![][Uncatchable]Uncatchable: ![][bleeding]流血時效由3秒減至1秒
-    * ![][Lesser Haste]Lesser Haste: ![][quickness]急速時效由6秒減至3秒
-    * ![][Bountiful Theft]Bountiful Theft: 恩賜移除數由3減至2
-    * ![][Thrill of the Crime]Thrill of the Crime: ![][might]威能時效由10秒減至6秒
+### ![][Trickery]Trickery
+* ![][Uncatchable]Uncatchable: ![][bleeding]流血時效由3秒減至1秒
+* ![][Lesser Haste]Lesser Haste: ![][quickness]急速時效由6秒減至3秒
+* ![][Bountiful Theft]Bountiful Theft: 恩賜移除數由3減至2
+* ![][Thrill of the Crime]Thrill of the Crime: ![][might]威能時效由10秒減至6秒
 
-* ![][Daredevil]Daredevil
-    * ![][Weakening Strikes]Weakening Strikes: ![][weakness]衰弱時效由3秒減至2秒
-    * ![][Escapist's Fortitude]Escapist's Fortitude: 基本回復由456減至150
-    * ![][Pulmonary Impact]Pulmonary Impact: 直傷系數由2.0減至0.75
-    * ![][Lotus Training]Lotus Training: 直傷系數由0.1875減至0.0625. ![][bleeding]流血時效由4秒減至1.5秒. ![][torment]折磨時效由4秒減至1.5秒. 額外癥狀傷害由10%增至15%
-    * ![][Bounding Dodger]Bounding Dodger: 直傷系數由1.33減至0.5. 額外傷害由10%增至15%
+### ![][Daredevil]Daredevil
+* ![][Weakening Strikes]Weakening Strikes: ![][weakness]衰弱時效由3秒減至2秒
+* ![][Escapist's Fortitude]Escapist's Fortitude: 基本回復由456減至150
+* ![][Pulmonary Impact]Pulmonary Impact: 直傷系數由2.0減至0.75
+* ![][Lotus Training]Lotus Training: 直傷系數由0.1875減至0.0625. ![][bleeding]流血時效由4秒減至1.5秒. ![][torment]折磨時效由4秒減至1.5秒. 額外癥狀傷害由10%增至15%
+* ![][Bounding Dodger]Bounding Dodger: 直傷系數由1.33減至0.5. 額外傷害由10%增至15%
 
-* ![][Deadeye]Deadeye
-    * ![][Payback]Payback: 全遊戲模式統一使用較低的(20%)冷卻數值
-    * ![][Premeditation]Premeditation: Concentration由180減至60
-    * ![][Be Quick or Be Killed]Be Quick or Be Killed: ![][quickness]急速時效由4秒減至2.5秒
-    * ![][Maleficent Seven]Maleficent Seven: ![][might]威能時效由10秒減至6秒
-    * ![][Fire for Effect]Fire for Effect: ![][might]威能時效由12秒減至6秒
+### ![][Deadeye]Deadeye
+* ![][Payback]Payback: 全遊戲模式統一使用較低的(20%)冷卻數值
+* ![][Premeditation]Premeditation: Concentration由180減至60
+* ![][Be Quick or Be Killed]Be Quick or Be Killed: ![][quickness]急速時效由4秒減至2.5秒
+* ![][Maleficent Seven]Maleficent Seven: ![][might]威能時效由10秒減至6秒
+* ![][Fire for Effect]Fire for Effect: ![][might]威能時效由12秒減至6秒
 
 ###### 貢獻者
 Richun, 赤木 (Alik.9651)
