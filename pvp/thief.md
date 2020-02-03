@@ -221,7 +221,7 @@ Richun, 赤木 (Alik.9651)
 [Binding Shadow]: https://wiki.guildwars2.com/images/thumb/6/65/Binding_Shadow.png/32px-Binding_Shadow.png
 [Shadow Gust]: https://wiki.guildwars2.com/images/thumb/5/5e/Shadow_Gust.png/32px-Shadow_Gust.png
 [Dagger Storm]: https://wiki.guildwars2.com/images/thumb/c/c0/Dagger_Storm.png/32px-Dagger_Storm.png
-[Uppercut]: https://wiki.guildwars2.com/images/thumb/2/27/Uppercut.png/32px-Uppercut.png
+[Uppercut]: https://wiki.guildwars2.com/images/thumb/3/3b/Uppercut_%28Daredevil_skill%29.png/32px-Uppercut_%28Daredevil_skill%29.png
 [Finishing Blow]: https://wiki.guildwars2.com/images/thumb/a/a4/Finishing_Blow.png/32px-Finishing_Blow.png
 [Shadow Meld]: https://wiki.guildwars2.com/images/thumb/3/32/Shadow_Meld.png/32px-Shadow_Meld.png
 [Deadly Arts]: https://wiki.guildwars2.com/images/thumb/5/5b/Deadly_Arts.png/32px-Deadly_Arts.png
