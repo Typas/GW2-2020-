@@ -10,166 +10,157 @@
 > Heal Coefficient: 治療係數  
 
 ## 職業機制
-Primal Bursts
+### Primal Bursts
 
-* ![][Arc Divider]Arc Divider: Reduced power coefficient per strike from 1.05 to 0.704
-* ![][Rupturing Smash]Rupturing Smash: Reduced power coefficient from 1.5 to 1.14
-* ![][Gun Flame]Gun Flame: Reduced power coefficient from 2.2 to 1.54
-* ![][Decapitate]Decapitate: Reduced power coefficient from 2.5 to 1.666. Reduced might stacks from 5 to 1
-* ![][Skull Grinder]Skull Grinder: Reduced bleeding stacks from 4 to 3. Reduced cripple duration from 8 seconds to 5 seconds
+* ![][Arc Divider] Arc Divider: Reduced power coefficient per strike from 1.05 to 0.704
+* ![][Rupturing Smash] Rupturing Smash: Reduced power coefficient from 1.5 to 1.14
+* ![][Gun Flame] Gun Flame: Reduced power coefficient from 2.2 to 1.54
+* ![][Decapitate] Decapitate: Reduced power coefficient from 2.5 to 1.666. Reduced might stacks from 5 to 1
+* ![][Skull Grinder] Skull Grinder: Reduced bleeding stacks from 4 to 3. Reduced cripple duration from 8 seconds to 5 seconds
 
-Spellbreaker
+### Spellbreaker
 
-* ![][Full Counter]Full Counter: Reduced power coefficient from 0.5 to 0.1. Increased daze duration from 1.5 seconds to 2 seconds
+* ![][Full Counter] Full Counter: Reduced power coefficient from 0.5 to 0.1. Increased daze duration from 1.5 seconds to 2 seconds
 
 ## 武器技能
-Greatsword
+### Greatsword 大劍
+* Autoattack Chain: Skills have been adjusted as follows:
+   * ![][Greatsword Swing] Greatsword Swing: Reduced power coefficient from 0.7 to 0.469. Reduced vulnerability duration from 8 seconds to 6 seconds
+   * ![][Greatsword Slice] Greatsword Slice: Reduced power coefficient from 0.95 to 0.6365. Reduced vulnerability duration from 8 seconds to 6 seconds
+   * ![][Brutal Strike] Brutal Strike: Reduced power coefficient from 1.25 to 0.8375
+* ![][Hundred Blades] Hundred Blades: Reduced power coefficient of each strike from 0.525 to 0.35. Reduced final strike power coefficient from 1.1 to 0.8
+* ![][Whirlwind Attack] Whirlwind Attack: Reduced power coefficient per strike from 0.665 to 0.333
+* ![][Rush] Rush: Reduced power coefficient from 1.7 to 1.36
+* ![][Arcing Slice] Arcing Slice: Reduced base power coefficient from 1.32 to 1.213. Reduced bonus power coefficient from 1.98 to 1.82
 
-* ![][Autoattack Chain]Autoattack Chain: Reduced power coefficients from 0.7/0.95/1.25 to 0.469/0.6365/0.8375. Reduced vulnerability duration from 8 seconds to 6 seconds
-* ![][Hundred Blades]Hundred Blades: Reduced power coefficient of each strike from 0.525 to 0.35. Reduced final strike power coefficient from 1.1 to 0.8
-* ![][Whirlwind Attack]Whirlwind Attack: Reduced power coefficient per strike from 0.665 to 0.333
-* ![][Rush]Rush: Reduced power coefficient from 1.7 to 1.36
-* ![][Arcing Slice]Arcing Slice: Reduced base power coefficient from 1.32 to 1.213. Reduced bonus power coefficient from 1.98 to 1.82
+### Hammer 大槌
+* Autoattack Chain: Skills have been adjusted as follows: 
+   * ![][Hammer Swing] Hammer Swing: Reduced power coefficient from 0.9 to 0.6
+   * ![][Hammer Bash] Hammer Bash: Reduced power coefficient from 0.9 to 0.6
+   * ![][Hammer Smash] Hammer Smash: Reduced power coefficient from 1.2 to 0.8
+* ![][Fierce Blow] Fierce Blow: Reduced base power coefficient from 1.8 to 0.77. Reduced power coefficient vs controlled foes from 2.16 to 1.82. Reduced weakness duration from 4 seconds to 2 seconds. Reduced cooldown from 6 seconds to 4 seconds
+* ![][Hammer Shock] Hammer Shock: Reduced power coefficient from 1.0 to 0.7
+* ![][Staggering Blow] Staggering Blow: Reduced power coefficient from 1.0 to 0.01
+* ![][Backbreaker] Backbreaker: Reduced power coefficient from 1.5 to 0.01
+* ![][Earthshaker] Earthshaker: Reduced power coefficient from 1.0 to 0.01
 
-Hammer
+### Longbow 長弓
+* ![][Dual Shot] Dual Shot: Reduced power coefficient per hit from 0.44 to 0.293
+* ![][Fan of Fire] Fan of Fire: Reduced power coefficient per hit from 0.44 to 0.39
+* ![][Arcing Arrow] Arcing Arrow: Reduced power coefficient from 2.0 to 1.5
 
-* ![][Autoattack Chain]Autoattack Chain: Reduced power coefficients from 0.9/0.9/1.2 to 0.6/0.6/0.8
-* ![][Fierce Blow]Fierce Blow: Reduced base power coefficient from 1.8 to 0.77. Reduced power coefficient vs controlled foes from 2.16 to 1.82. Reduced weakness duration from 4 seconds to 2 seconds. Reduced cooldown from 6 seconds to 4 seconds
-* ![][Hammer Shock]Hammer Shock: Reduced power coefficient from 1.0 to 0.7
-* ![][Staggering Blow]Staggering Blow: Reduced power coefficient from 1.0 to 0.01
-* ![][Backbreaker]Backbreaker: Reduced power coefficient from 1.5 to 0.01
-* ![][Earthshaker]Earthshaker: Reduced power coefficient from 1.0 to 0.01
+### Rifle 步槍
+* ![][Fierce Shot] Fierce Shot: Reduced power coefficient from 0.605 to 0.403
+* ![][Aimed Shot] Aimed Shot: Reduced power coefficient from 0.8 to 0.53. Adjusted vulnerability from 10 stacks for 8 seconds to 12 stacks for 6 seconds
+* ![][Volley] Volley: Reduced power coefficient per strike from 0.75 to 0.5
+* ![][Brutal Shot] Brutal Shot: Reduced power coefficient from 1.0 to 0.4. Adjusted vulnerability from 8 stacks for 12 seconds to 12 stacks for 6 seconds
+* ![][Rifle Butt] Rifle Butt: Reduced power coefficient from 1.0 to 0.01
+* ![][Kill Shot] Kill Shot: Reduced power coefficient from 2.25/2.75/3.25 to 1.4/1.7/2.0
 
-Longbow
+### Axe 斧
+* ![][Autoattack Chain] Autoattack Chain: Skills have been adjusted as follows
+  * ![][Chop] Chop: Reduced power coefficient from 0.7 to 0.47
+  * ![][Double Chop] Double Chop: Reduced first strike power coefficient from 0.45 to 0.3. Reduced second strike power coefficient from 1.05 to 0.7
+  * ![][Triple Chop] Triple Chop: Reduced first two strikes power coefficients from 0.75 to 0.5. Reduced final strike power coefficient from 1.6 to 1.06
+* ![][Cyclone Axe] Cyclone Axe: Reduced power coefficient per strike from 0.88 to 0.66. Reduced fury duration per hit from 2 seconds to 1 seconds. Adjusted vulnerability per hit from 3 stacks for 8 seconds to 1 stack for 6 seconds. Increased cooldown from 6 seconds to 8 seconds
+* ![][Throw Axe] Throw Axe: Increase ammo recharge from 10 seconds to 15 seconds
+* ![][Eviscerate] Eviscerate: Reduced power coefficient from 2.0/2.5/3.0 to 1.333/1.666/2.0. Reduced number of might stacks from 5 to 1
+#### Axe Off-Hand
+* ![][Dual Strike] Dual Strike: Reduced power coefficient per strike from 1.175 to 1.0. Reduced quickness per strike from 1.5 seconds to 0.5 seconds. Increased cooldown from 12 seconds to 15 seconds
+* ![][Whirling Axe] Whirling Axe: Reduced power coefficient per strike from 0.5592 to 0.373. Increased cooldown from 15 seconds to 18 seconds
 
-* ![][Dual Shot]Dual Shot: Reduced power coefficient per hit from 0.44 to 0.293
-* ![][Fan of Fire]Fan of Fire: Reduced power coefficient per hit from 0.44 to 0.39
-* ![][Arcing Arrow]Arcing Arrow: Reduced power coefficient from 2.0 to 1.5
+### Sword 單手劍
+* Autoattack Chain: Skills have been adjusted as follows: 
+  * ![][Sever Artery] Sever Artery: Reduced power coefficient from 0.6 to 0.4
+  * ![][Gash] Gash: Reduced power coefficient from 0.6 to 0.4
+  * ![][Hamstring] Hamstring: Reduced power coefficient from 1.0 to 0.666
+* ![][Savage Leap] Savage Leap: Reduced power coefficient from 1.66 to 0.75
+* ![][Final Thrust] Final Thrust: Reduced base power coefficient from 1.5 to 1.0. Reduced bonus power coefficient from 3.0 to 2.0. Increased cooldown from 12 seconds to 15 seconds
 
-Rifle
+### Mace 小錘
+* Autoattack Chain: Skills have been adjusted as follows: 
+  * ![][Mace Smash] Mace Smash: Reduced power coefficient from 0.8 to 0.533
+  * ![][Mace Bash] Mace Bash: Reduced power coefficient from 0.8 to 0.533
+  * ![][Pulverize] Pulverize: Reduced power coefficient from 1.6 to 1.067
+* ![][Counterblow] Counterblow: Reduced power coefficient from 2.0 to 1.0. Adjusted vulnerability from 10 stacks for 8 seconds to 15 stacks for 6 seconds
+* ![][Skull Crack] Skull Crack: Reduced power coefficient from 1.5 to 0.01
+#### Mace Off-Hand
+* ![][Crushing Blow] Crushing Blow: Increased cooldown from 12 seconds to 15 seconds.
+* ![][Tremor] Tremor: Reduced power coefficient per strike from 0.8 to 0.01. Reduced cooldown from 25 seconds to 20 seconds
 
-* ![][Fierce Shot]Fierce Shot: Reduced power coefficient from 0.605 to 0.403
-* ![][Aimed Shot]Aimed Shot: Reduced power coefficient from 0.8 to 0.53. Adjusted vulnerability from 10 stacks for 8 seconds to 12 stacks for 6 seconds
-* ![][Volley]Volley: Reduced power coefficient per strike from 0.75 to 0.5
-* ![][Brutal Shot]Brutal Shot: Reduced power coefficient from 1.0 to 0.4. Adjusted vulnerability from 8 stacks for 12 seconds to 12 stacks for 6 seconds
-* ![][Rifle Butt]Rifle Butt: Reduced power coefficient from 1.0 to 0.01
-* ![][Kill Shot]Kill Shot: Reduced power coefficient from 2.25/2.75/3.25 to 1.4/1.7/2.0
+### Shield 盾
+* ![][Shield Bash] Shield Bash: Reduced power coefficient from 1.0 to 0.01
+* ![][Shield Stance] Shield Stance: Increased power coefficient from 25 seconds to 30 seconds
 
-Axe MH
+### Warhorn 號角
+* ![][Charge] Charge: PvP will now use the WvW version of the skill (10% damage bonus)
+* ![][Call of Valor] Call of Valor: Reduced number of conditions cleansed from 3 to 2
 
-* ![][Autoattack Chain]Autoattack Chain: Skills have been adjusted as follows
-
-
-* ![][Chop]Chop: Reduced power coefficient from 0.7 to 0.47
-* ![][Double Chop]Double Chop: Reduced first strike power coefficient from 0.45 to 0.3. Reduced second strike power coefficient from 1.05 to 0.7
-* ![][Triple Chop]Triple Chop: Reduced first two strikes power coefficients from 0.75 to 0.5. Reduced final strike power coefficient from 1.6 to 1.06
-
-* ![][Cyclone Axe]Cyclone Axe: Reduced power coefficient per strike from 0.88 to 0.66. Reduced fury duration per hit from 2 seconds to 1 seconds. Adjusted vulnerability per hit from 3 stacks for 8 seconds to 1 stack for 6 seconds. Increased cooldown from 6 seconds to 8 seconds
-
-* ![][Throw Axe]Throw Axe: Increase ammo recharge from 10 seconds to 15 seconds
-* ![][Eviscerate]Eviscerate: Reduced power coefficient from 2.0/2.5/3.0 to 1.333/1.666/2.0. Reduced number of might stacks from 5 to 1
-
-Sword MH
-
-* ![][Autoattack Chain]Autoattack Chain: Reduced power coefficients from 0.6/0.6/1.0 to 0.4/0.4/0.666
-* ![][Savage Leap]Savage Leap: Reduced power coefficient from 1.66 to 0.75
-* ![][Final Thrust]Final Thrust: Reduced base power coefficient from 1.5 to 1.0. Reduced bonus power coefficient from 3.0 to 2.0. Increased cooldown from 12 seconds to 15 seconds
-
-Mace MH
-
-* ![][Autoattack Chain]Autoattack Chain: Reduced power coefficients from 0.8/0.8/1.6 to 0.533/0.533/1.067
-* ![][Counterblow]Counterblow: Reduced power coefficient from 2.0 to 1.0. Adjusted vulnerability from 10 stacks for 8 seconds to 15 stacks for 6 seconds
-* ![][Skull Crack]Skull Crack: Reduced power coefficient from 1.5 to 0.01
-
-Axe OH
-
-* ![][Dual Strike]Dual Strike: Reduced power coefficient per strike from 1.175 to 1.0. Reduced quickness per strike from 1.5 seconds to 0.5 seconds. Increased cooldown from 12 seconds to 15 seconds
-* ![][Whirling Axe]Whirling Axe: Reduced power coefficient per strike from 0.5592 to 0.373. Increased cooldown from 15 seconds to 18 seconds
-
-Mace OH
-
-* ![][Crushing Blow]Crushing Blow: Increased cooldown from 12 seconds to 15 seconds.
-* ![][Tremor]Tremor: Reduced power coefficient per strike from 0.8 to 0.01. Reduced cooldown from 25 seconds to 20 seconds
-
-Shield
-
-* ![][Shield Bash]Shield Bash: Reduced power coefficient from 1.0 to 0.01
-* ![][Shield Stance]Shield Stance: Increased power coefficient from 25 seconds to 30 seconds
-
-Warhorn
-
-* ![][Charge]Charge: PvP will now use the WvW version of the skill (10% damage bonus)
-* ![][Call of Valor]Call of Valor: Reduced number of conditions cleansed from 3 to 2
-
-Dagger MH
-
-* ![][Autoattack Chain]Autoattack Chain: Reduced power coefficients from 0.4/0.4/0.85 to 0.32/0.32/0.68
-* ![][Disrupting Stab]Disrupting Stab: reduced power coefficient from 0.8 to 0.4
-* ![][Breaching Strike]Breaching Strike: Reduced power coefficient from 1.2 to 0.7. Increased number of boons removed from 2 to 3
-
-Dagger OH
-
-* ![][Wastrel's Ruin]Wastrel's Ruin: Reduced power coefficient from 1.5 to 1.0. Increased cooldown from 12 seconds to 15 seconds
-* ![][Bladestorm]Bladestorm: Reduced power coefficient per hit from 0.35 to 0.235. Reduced vulnerability duration from 10 seconds to 6 seconds
+### Dagger 匕首
+* Autoattack Chain: Skills have been adjusted as follows: 
+  * ![][Precise Cut] Precise Cut: Reduced power coefficient from 0.4 to 0.32
+  * ![][Focused Slash] Focused Slash: Reduced power coefficient from 0.4 to 0.32
+  * ![][Keen Strike] Keen Strike: Reduced power coefficient from 0.85 to 0.68
+* ![][Disrupting Stab] Disrupting Stab: reduced power coefficient from 0.8 to 0.4
+* ![][Breaching Strike] Breaching Strike: Reduced power coefficient from 1.2 to 0.7. Increased number of boons removed from 2 to 3
+#### Dagger Off-Hand
+* ![][Wastrel's Ruin] Wastrel's Ruin: Reduced power coefficient from 1.5 to 1.0. Increased cooldown from 12 seconds to 15 seconds
+* ![][Bladestorm] Bladestorm: Reduced power coefficient per hit from 0.35 to 0.235. Reduced vulnerability duration from 10 seconds to 6 seconds
 
 ## 治療技能
-* ![][Healing Signet]Healing Signet: Reduced base heal from 344 to 230
-* ![]["To the Limit!"]To the Limit: Reduced base heal from 9100 to 7735
-* ![][Mending]Mending: Increased cooldown from 15 seconds to 20 seconds
-* ![][Blood Reckoning]Blood Reckoning: Increased cooldown from 20 seconds to 25 seconds
-* ![][Natural Healing]Natural Healing: Reduced base heal from 11670 to 8519
+* ![][Healing Signet] Healing Signet: Reduced base heal from 344 to 230
+* ![]["To the Limit!"] "To the Limit!": Reduced base heal from 9100 to 7735
+* ![][Mending] Mending: Increased cooldown from 15 seconds to 20 seconds
+* ![][Blood Reckoning] Blood Reckoning: Increased cooldown from 20 seconds to 25 seconds
+* ![][Natural Healing] Natural Healing: Reduced base heal from 11670 to 8519
 
 ## 通用技能
-* ![][Bull's Charge]Bull's Charge: Reduced power coefficient from 2.0 to 0.01
-* ![][Kick]Kick: Reduced power coefficient from 1.0 to 0.01. Reduced ammo recharge from 30 seconds to 25 seconds
-* ![][Stomp]Stomp: Reduced power coefficient from 0.75 to 0.01. Reduced initial stability duration from 6 seconds to 1 second. Reduced on-hit stability duration from 6 seconds to 3 seconds. Reduced cooldown from 40 seconds to 30 seconds
-* ![][For Great Justice]For Great Justice: Reduced might duration from 15 seconds to 6 seconds
-* ![]["Shake it Off!"]Shake it Off: Reduced the number of conditions cleansed from 6 to 4. Increased ammo recharge from 50 seconds to 75 seconds
-* ![][Dolyak Signet]Dolyak Signet: Reduced stability duration from 8 seconds to 6 seconds. Increased cooldown from 40 seconds to 60 seconds
-* ![][Balanced Stance]Balanced Stance: Increased cooldown from 40 seconds to 60 seconds
-* ![][Berserker Stance]Berserker Stance: Increased cooldown from 30 seconds to 40 seconds
-* ![][Endure Pain]Endure Pain: Increased cooldown from 30 seconds to 40 seconds. Increased duration from 2 seconds to 3 seconds
-* ![][Frenzy]Frenzy: Reduced quickness duration from 6 seconds to 4 seconds. Increased cooldown from 40 seconds to 45 seconds
-* ![][Outrage]Outrage: Increased cooldown from 10 seconds to 25 seconds
-* ![][Shattering Blow]Shattering Blow: Reduced power coefficient from 1.0 to 0.5. Reduced number of bleeding stacks from 4 to 2. Increased cooldown from 15 seconds to 20 seconds
-* ![][Sundering Leap]Sundering Leap: Reduced vulnerability duration from 8 seconds to 6 seconds. Reduced cooldown from 25 seconds to 20 seconds
-* ![][Wild Blow]Wild Blow: Reduced power coefficient from 2.5 to 0.01
-* ![][Featherfoot Grace]Featherfoot Grace: Increased cooldown from 40 seconds to 45 seconds
-* ![][Break Enchantments]Break Enchantments: Reduced power coefficient from 0.5 to 0.1. Increased number of boons removed from 3 to 4. Increased cooldown from 15 seconds to 25 seconds
+* ![][Bull's Charge] Bull's Charge: Reduced power coefficient from 2.0 to 0.01
+* ![][Kick] Kick: Reduced power coefficient from 1.0 to 0.01. Reduced ammo recharge from 30 seconds to 25 seconds
+* ![][Stomp] Stomp: Reduced power coefficient from 0.75 to 0.01. Reduced initial stability duration from 6 seconds to 1 second. Reduced on-hit stability duration from 6 seconds to 3 seconds. Reduced cooldown from 40 seconds to 30 seconds
+* ![][For Great Justice] "For Great Justice!": Reduced might duration from 15 seconds to 6 seconds
+* ![]["Shake it Off!"] "Shake it Off!": Reduced the number of conditions cleansed from 6 to 4. Increased ammo recharge from 50 seconds to 75 seconds
+* ![][Dolyak Signet] Dolyak Signet: Reduced stability duration from 8 seconds to 6 seconds. Increased cooldown from 40 seconds to 60 seconds
+* ![][Balanced Stance] Balanced Stance: Increased cooldown from 40 seconds to 60 seconds
+* ![][Berserker Stance] Berserker Stance: Increased cooldown from 30 seconds to 40 seconds
+* ![][Endure Pain] Endure Pain: Increased cooldown from 30 seconds to 40 seconds. Increased duration from 2 seconds to 3 seconds
+* ![][Frenzy] Frenzy: Reduced quickness duration from 6 seconds to 4 seconds. Increased cooldown from 40 seconds to 45 seconds
+* ![][Outrage] Outrage: Increased cooldown from 10 seconds to 25 seconds
+* ![][Shattering Blow] Shattering Blow: Reduced power coefficient from 1.0 to 0.5. Reduced number of bleeding stacks from 4 to 2. Increased cooldown from 15 seconds to 20 seconds
+* ![][Sundering Leap] Sundering Leap: Reduced vulnerability duration from 8 seconds to 6 seconds. Reduced cooldown from 25 seconds to 20 seconds
+* ![][Wild Blow] Wild Blow: Reduced power coefficient from 2.5 to 0.01
+* ![][Featherfoot Grace] Featherfoot Grace: Increased cooldown from 40 seconds to 45 seconds
+* ![][Break Enchantments] Break Enchantments: Reduced power coefficient from 0.5 to 0.1. Increased number of boons removed from 3 to 4. Increased cooldown from 15 seconds to 25 seconds
 
 ## 菁英技能
-* ![][Signet of Rage]Signet of Rage: Reduced fury and swiftness durations from 25 seconds to 6 seconds. Adjusted might from 5 stacks for 25 seconds to 20 stacks for 4 seconds. Reduced cooldown from 60 seconds to 40 seconds
-* ![][Rampage]Rampage: Some Rampage skills have been adjusted as follows
-* ![][Smash]Smash: Reduced power coefficient from 1.6 to 0.91
-* ![][Bash]Bash: Reduced power coefficient from 1.6 to 0.91
-* ![][Uppercut]Uppercut: Reduced power coefficient from 2.0 to 1.36
-* ![][Dash]Dash: Reduced power coefficient from 2.4 to 1.82
-* ![][Head Butt]Head Butt: Reduced power coefficient from 3.0 to 0.01. Reduced cooldown from 25 seconds to 18 seconds
-* ![][Winds of Disenchantment]Winds of Disenchantment: Reduced target cap from 10 to 5
+* ![][Signet of Rage] Signet of Rage: Reduced fury and swiftness durations from 25 seconds to 6 seconds. Adjusted might from 5 stacks for 25 seconds to 20 stacks for 4 seconds. Reduced cooldown from 60 seconds to 40 seconds
+* ![][Rampage] Rampage: Some Rampage skills have been adjusted as follows
+* ![][Smash] Smash: Reduced power coefficient from 1.6 to 0.91
+* ![][Bash] Bash: Reduced power coefficient from 1.6 to 0.91
+* ![][Uppercut] Uppercut: Reduced power coefficient from 2.0 to 1.36
+* ![][Dash] Dash: Reduced power coefficient from 2.4 to 1.82
+* ![][Head Butt] Head Butt: Reduced power coefficient from 3.0 to 0.01. Reduced cooldown from 25 seconds to 18 seconds
+* ![][Winds of Disenchantment] Winds of Disenchantment: Reduced target cap from 10 to 5
 
 ## 特性
-Strength
-
+### Strength
 * ![][Reckless Dodge]Reckless Dodge: Reduced power coefficient from 1.5 to 0.5
 * ![][Brave Stride]Brave Stride: Reduced stability duration from 8 seconds to 4 seconds
 * ![][Might Makes Right]Might Makes Right: Reduced base heal from 133 to 64
 
-Arms
-
+### Arms
 * ![][Bloodlust]Bloodlust: Reduced bleeding duration from 3 seconds to 1 second. Reduced bonus bleeding duration from 33% to 15%
 * ![][Wounding Precision]Wounding Precision: Reduced precision to expertise conversion from 7% to 4%
 * ![][Sundering Burst]Sundering Burst: Reduced vulnerability duration from 8 seconds to 6 seconds
 
-Defense
-
+### Defense
 * ![][Adrenal Health]Adrenal Health: Reduced healing per second per stack from 133 to 100
 * ![][Shield Master]Shield Master: Reduced might duration from 8 seconds to 1 second
 * ![][Defy Pain]Defy Pain: Increased cooldown from 90 seconds to 300 seconds
 * ![][Last Stand]Last Stand: Increased cooldown from 90 seconds to 300 seconds
 * ![][Rousing Resilience]Rousing Resilience: Reduced base heal from 2113 to 1056. Reduced healing coefficient from 0.5 to 0.1
 
-Tactics
-
+### Tactics
 * ![][Marching Orders]Marching Orders: Reduced might duration from 15 seconds to 6 seconds
 * ![][Mending Might]Mending Might: Reduced base heal from 69 to 50
 * ![][Leg Specialist]Leg Specialist: Increased internal cooldown from 5 seconds to 12 seconds
@@ -177,20 +168,17 @@ Tactics
 * ![][Shrug it Off]Shrug it Off: Reduced base heal from 517 to 310
 * ![][Vigorous Shouts]Vigorous Shouts: Reduced healing coefficient from 1.2 to 1.0
 
-Discipline
-
+### Discipline
 * ![][Versatile Power]Versatile Power: Reduced might duration from 10 seconds to 6 seconds
 * ![][Crack Shot]Crack Shot: Reduced burning duration from 2 seconds to 1 second
 * ![][Heightened Focus]Heightened Focus: Reduced quickness duration from 4 seconds to 2.5 seconds
 
-Berserker
-
+### Berserker
 * ![][Burst of Aggression]Burst of Aggression: Reduced quickness duration from 3 seconds to 2 seconds.
 * ![][King of Fires]King of Fires: Reduced bonus burning duration from 33% to 10%
 * ![][Eternal Champion]Eternal Champion: Reduced might duration from 8 seconds to 6 seconds. Reduced stability duration from 3 seconds to 2 seconds
 
-Spellbreaker
-
+### Spellbreaker
 * ![][Loss Aversion]Loss Aversion: Reduced power coefficient from 0.2 to 0.1
 * ![][Slow Counter]Slow Counter: Reduced slow duration from 3 seconds to 2 seconds.
 * ![][Sun and Moon Style]Sun and Moon Style: Reduced quickness duration from 3 seconds to 2 seconds
@@ -248,8 +236,21 @@ Richun, 赤木 (Alik.9651)
 [magnetic aura]: https://wiki.guildwars2.com/images/thumb/5/5a/Magnetic_Aura.png/20px-Magnetic_Aura.png
 [shocking aura]: https://wiki.guildwars2.com/images/thumb/3/31/Shocking_Aura.png/20px-Shocking_Aura.png
 
-[Autoattack Chain]: https://to.be.repalced
-
+[Greatsword Swing]: https://wiki.guildwars2.com/images/thumb/b/b3/Greatsword_Swing.png/32px-Greatsword_Swing.png
+[Greatsword Slice]: https://wiki.guildwars2.com/images/thumb/3/37/Greatsword_Slice.png/32px-Greatsword_Slice.png
+[Brutal Strike]: https://wiki.guildwars2.com/images/thumb/f/fb/Brutal_Strike.png/32px-Brutal_Strike.png
+[Hammer Swing]: https://wiki.guildwars2.com/images/thumb/2/25/Hammer_Swing_%28warrior_skill%29.png/32px-Hammer_Swing_%28warrior_skill%29.png
+[Hammer Bash]: https://wiki.guildwars2.com/images/thumb/d/d0/Hammer_Bash_%28warrior_skill%29.png/32px-Hammer_Bash_%28warrior_skill%29.png
+[Hammer Smash]: https://wiki.guildwars2.com/images/thumb/9/92/Hammer_Smash.png/32px-Hammer_Smash.png
+[Sever Artery]: https://wiki.guildwars2.com/images/thumb/e/e1/Sever_Artery.png/32px-Sever_Artery.png
+[Gash]: https://wiki.guildwars2.com/images/thumb/7/7e/Gash.png/32px-Gash.png
+[Hamstring]: https://wiki.guildwars2.com/images/thumb/7/78/Hamstring.png/32px-Hamstring.png
+[Mace Smash]: https://wiki.guildwars2.com/images/thumb/3/37/Mace_Smash.png/32px-Mace_Smash.png
+[Mace Bash]: https://wiki.guildwars2.com/images/thumb/f/fe/Mace_Bash.png/32px-Mace_Bash.png
+[Pulverize]: https://wiki.guildwars2.com/images/thumb/1/18/Pulverize.png/32px-Pulverize.png
+[Precise Cut]: https://wiki.guildwars2.com/images/thumb/d/de/Precise_Cut.png/32px-Precise_Cut.png
+[Focused Slash]: https://wiki.guildwars2.com/images/thumb/2/2c/Focused_Slash.png/32px-Focused_Slash.png
+[Keen Strike]: https://wiki.guildwars2.com/images/thumb/5/59/Keen_Strike.png/32px-Keen_Strike.png
 [Arc Divider]: https://wiki.guildwars2.com/images/thumb/e/e2/Arc_Divider.png/32px-Arc_Divider.png
 [Rupturing Smash]: https://wiki.guildwars2.com/images/thumb/a/ab/Rupturing_Smash.png/32px-Rupturing_Smash.png
 [Gun Flame]: https://wiki.guildwars2.com/images/thumb/d/d5/Gun_Flame.png/32px-Gun_Flame.png
