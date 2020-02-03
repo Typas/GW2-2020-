@@ -12,19 +12,17 @@
 ## 職業機制
 * ![][Spear of Justice] Spear of Justice: Reduced damage from 0.6 to 0.01. Reduced cripple duration from 1.5 seconds to 1 second
 
-### Tome of Justice
+#### Tome of Justice
 * ![][Searing Spell] Searing Spell: Reduced power coefficient from 1.1 to 0.6
 * ![][Igniting Burst] Igniting Burst: Reduced weakness duration from 4 seconds to 2 seconds
 * ![][Heated Rebuke] Heated Rebuke: Reduced power coefficient from 0.45 to 0.01. Increased cooldown from 8 seconds to 10 seconds
 * ![][Scorched Aftermath] Scorched Aftermath: Reduced power coefficient per strike from from 0.64 to 0.4
-
-### Tome of Resolve
+#### Tome of Resolve
 * ![][Desert Bloom] Desert Bloom: Reduced heal coefficient from 0.7272 to 0.3
 * ![][Radiant Recovery] Radiant Recovery: Reduced number of conditions cleansed from 2 to 1
 * ![][Shining River] Shining River: Reduced pulse heal coefficient from 0.26 to 0.1
 * ![][Eternal Oasis] Eternal Oasis: Reduced number of conditions converted to boons from 5 to 2
-
-### Tome of Courage
+#### Tome of Courage
 * ![][Unflinching Charge] Unflinching Charge: Reduced stability duration from 2 seconds to 1 second.
 * ![][Daring Challenge] Daring Challenge: Reduced power coefficient from 1.4 to 0.01
 
