@@ -11,13 +11,13 @@
 
 ## 職業機制
 
-#### Shatters 粉碎
+### Shatters 粉碎
 * ![][mind wrack] Mind Wrack: 如下調整。
   * 粉碎一個分身：直傷係數從 1.15 下修到 1.0
   * 粉碎兩個分身：每擊的直傷係數從 0.92 下修到 0.7
   * 粉碎三個分身：每擊的直傷係數從 0.805 下修到 0.613
 
-#### Chrono Shatters
+### Chrono Shatters
 * ![][split second] Split Second: 如下調整。
   * 粉碎一個分身：直傷係數從 1.15 下修到 1.0
   * 粉碎兩個分身：每擊的直傷係數從 0.92 下修到 0.7
@@ -25,19 +25,19 @@
 
 ## 武器技能
 
-#### Greatsword 大劍
+### Greatsword 大劍
   * ![][spatial surge] Spatial Surge: 最小直傷係數從 0.23 下修到 0.15，最大直傷係數從 0.335 下修到 0.223。
   * ![][mirror blade] Mirror Blade: 冷卻時間從 5 秒增加到 8 秒
   * ![][mind stab] Mind Stab: 直傷係數從 1.0 下修到 0.7
   * ![][phantasmal berserker] Phantasmal Berserker: 幻影的直傷係數從 0.23 下修到 0.15
   * ![][illusionary wave] Illusionary Wave: 直傷係數從 0.3 下修到 0.01，冷卻時間從 30 秒減少到 25 秒。
   
-#### Staff 長杖
+### Staff 長杖
   * ![][winds of chaos] Winds of Chaos: 直傷係數從 0.3 下修到 0.2
   * ![][phase retreat] Phase Retreat: 冷卻時間從 10 秒增加到 12 秒
   * ![][phantasmal warlock] Phantasmal Warlock: WvW 現在使用 PvP 一個幻影的版本
   
-#### Scepter 權杖
+### Scepter 權杖
   * Autoattack Chain 自動攻擊鍊: 技能調整如下
     * ![][ether bolt] Ether Bolt: 直傷係數從 0.5 下修到 0.333
     * ![][ether blast] Ether Blast: 直傷係數從 0.5 下修到 0.333
@@ -45,30 +45,30 @@
   * ![][illusionary counter] Illusionary Counter: 冷卻時間從 8 秒增加到 12 秒，WvW 現在使用 PvP 一個分身的版本。
   * ![][confusing images] Confusing Images: 直傷係數從 0.38 下修到 0.255
 
-#### Sword 單手劍
+### Sword 單手劍
   * Autoattack Chain 自動攻擊鍊: 技能調整如下
     * ![][mind slash] Mind Slash: 直傷係數從 0.75 下修到 0.5
     * ![][mind gash] Mind Gash: 直傷係數從 0.75 下修到 0.5
     * ![][mind spike] Mind Spike: 直傷係數從 1.0 下修到 0.666，對無 boon 目標的直傷係數則從 2.0 下修到 1.333。
   * ![][blurred frenzy] Blurred Frenzy: 每擊的直傷係數從 0.2564 下修到 0.128
-##### Sword Off-Hand 副手劍
+#### Sword Off-Hand 副手劍
   * ![][illusionary riposte] Illusionary Riposte: 直傷係數從 2.0 下修到 1.0
   * ![][phantasmal swordsman] Phantasmal Swordsman: 幻影的跳躍攻擊的直傷係數從 0.5 下修到 0.35，幻影的亂舞攻擊的直傷係數從 0.15 下修到 0.1。
   
-#### Focus 聚能器
+### Focus 聚能器
   * ![][phantasmal warden] Phantasmal Warden: 每擊的直傷係數從 0.138 下修到 0.1
 
-#### Pistol 手槍
+### Pistol 手槍
   * ![][phantasmal duelist] Phantasmal Duelist: 幻影每擊的直傷係數從 0.115 下修到 0.1
   * ![][magic bullet] Magic Bullet: 直傷係數從 0.2 下修到 0.01，![][stun] Stun 的時長從 2.5 秒下修到 2 秒。
   
-#### Torch 火把
+### Torch 火把
   * ![][the prestige] The Prestige: 直傷係數從 1.0 下修到 0.5
 
-#### Shield 盾
+### Shield 盾
   * ![][tides of time] Tides of Time: 直傷係數從 0.8 下修到 0.01
 
-#### Axe 斧
+### Axe 斧
   * Autoattack Chain 自動攻擊鍊: 技能調整如下
     * ![][lacerating chop] Lacerating Chop: 直傷係數從 0.55 下修到 0.366
     * ![][ethernal chop] Ethernal Chop: 直傷係數從 0.55 下修到 0.366
