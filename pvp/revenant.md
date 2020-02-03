@@ -1,85 +1,86 @@
 # Revenant 返魂
 
-###### tags: `PvP` `GW2` `2020 Feb Update` `Revenant`
+###### tags: `PvP` `WvW` `GW2` `2020 Feb Update` `Revenant`
 
-> 請以 `![][might]` 的方式來取用 buff 的圖片。
-> 目前支援的 buff: aegis, alacrity, fury, might, protection, quickness, regeneration, resistance, retaliation, stability, swiftness, vigor, bleeding, burning, confusion, poisoned, torment, blinded, chilled, crippled, fear, immobile, slow, taunt, weakness, vulnerability, stealth, revealed, daze, stun, knockdown, pull, knockback, launch, float, sink, superspeed, breakstun, barrier, chaos aura, dark aura, fire aura, frost aura, light aura, magnetic aura, shocking aura
+> 翻譯參考：  
+> Power Coefficient: 直傷係數  
+> Heal Coefficient: 治療係數  
 
 ## 職業機制
 * ![][Facet of Nature]Facet of Nature
-    * ![][Facet of Nature (Ventari)]Facet of Nature (Ventari): 基本脈動回復量由471減至306. Healing Power系數由0.4減至0.1
+    * ![][Facet of Nature (Ventari)]Facet of Nature (Ventari): 基本脈動回復量由471減至306. 治療係數由0.4減至0.1
     * ![][True Nature]True Nature (Ventari): 清除每個癥狀的基本回復量由970減至323
     * ![][True Nature]True Nature (Mallyx): ![][might]威能時效由10秒減至6秒
 * ![][Heroic Command]Heroic Command: ![][might]威能時效由8秒減至6秒
-* [Healing Orb](https://wiki.guildwars2.com/wiki/Healing_Orb): Healing Power系數由0.15減至0.075
+* [Healing Orb](https://wiki.guildwars2.com/wiki/Healing_Orb): 治療係數由0.15減至0.075
 
 ## 武器技能
 * 大鎚
-    * ![][Hammer Bolt]Hammer Bolt: Power系數由0.95減至0.633
+    * ![][Hammer Bolt]Hammer Bolt: 直傷係數由0.95減至0.633
     * ![][Coalescence of Ruin]Coalescence of Ruin: 冷卻時間由4秒增至10秒
-    * ![][Phase Smash]Phase Smash: Power系數由1.75減至1.36. 冷卻時間由8秒增至12秒
-    * ![][Drop the Hammer]Drop the Hammer: Power系數由1.5減至0.01
+    * ![][Phase Smash]Phase Smash: 直傷係數由1.75減至1.36. 冷卻時間由8秒增至12秒
+    * ![][Drop the Hammer]Drop the Hammer: 直傷係數由1.5減至0.01
 
 * 長杖
-    * ![][Rapid Swipe]Autoattack Chain: Power系數由0.65/0.75/1.0減至0.433/0.5/0.666
-    * ![][Mender's Rebuke]Mender's Rebuke: Power系數由1.5減至0.91. 冷卻時間由5秒增至8秒
-    * ![][Warding Rift]Warding Rift: Power系數由0.2減至0.1. 冷卻時間由15秒增至20秒
-    * ![][Surge of the Mists]Surge of the Mists: 每擊的Power系數由0.18減至0.001
+    * ![][Rapid Swipe]Autoattack Chain: 直傷係數由0.65/0.75/1.0減至0.433/0.5/0.666
+    * ![][Mender's Rebuke]Mender's Rebuke: 直傷係數由1.5減至0.91. 冷卻時間由5秒增至8秒
+    * ![][Warding Rift]Warding Rift: 直傷係數由0.2減至0.1. 冷卻時間由15秒增至20秒
+    * ![][Surge of the Mists]Surge of the Mists: 每擊的直傷係數由0.18減至0.001
 
 * 單手劍
     * 自動攻擊串: 調整如下
-        * ![][Preparation Thrust]Preparation Thrust: Power系數由0.6減至0.4
-        * ![][Brutal Blade]Brutal Blade: Power系數由0.7減至0.466
-        * ![][Rift Slash]Rift Slash: 初擊Power系數由0.9減至0.6. 追加攻擊Power系數由0.2175減至0.145
-    * ![][Unrelenting Assault]Unrelenting Assault: Power系數由0.57減至0.38. 每擊的![][might]威能時效由5秒減至3秒. 冷卻時間由12秒增至15秒
+        * ![][Preparation Thrust]Preparation Thrust: 直傷係數由0.6減至0.4
+        * ![][Brutal Blade]Brutal Blade: 直傷係數由0.7減至0.466
+        * ![][Rift Slash]Rift Slash: 初擊直傷係數由0.9減至0.6. 追加攻擊直傷係數由0.2175減至0.145
+    * ![][Unrelenting Assault]Unrelenting Assault: 直傷係數由0.57減至0.38. 每擊的![][might]威能時效由5秒減至3秒. 冷卻時間由12秒增至15秒
 
 * 單手鎚
     * 自動攻擊串: 調整如下
-        * ![][Misery Swipe]Misery Swipe: Power系數由0.35減至0.233
-        * ![][Anguish Swipe]Anguish Swipe: Power系數由0.4減至0.266
-        * ![][Manifest Toxin]Manifest Toxin: 初擊Power系數由0.6減至0.4. 投射物Power系數由0.3減至0.2
+        * ![][Misery Swipe]Misery Swipe: 直傷係數由0.35減至0.233
+        * ![][Anguish Swipe]Anguish Swipe: 直傷係數由0.4減至0.266
+        * ![][Manifest Toxin]Manifest Toxin: 初擊直傷係數由0.6減至0.4. 投射物直傷係數由0.3減至0.2
     * ![][Searing Fissure]Searing Fissure: 最初![][burning]燃燒由3層3秒改成1層10秒. 追加![][burning]燃燒時效由1秒增至4秒
 
 * 單手劍 副手
-    * ![][Shackling Wave]Shackling Wave: 初擊Power系數由1.0減至0.1. ![][vulnerability]破甲層數由8增至12
-    * ![][Deathstrike]Deathstrike: 初擊Power系數由0.33減至0.1. 次擊Power系數由2.0減至1.7. 冷卻時間由15秒增至18秒
+    * ![][Shackling Wave]Shackling Wave: 初擊直傷係數由1.0減至0.1. ![][vulnerability]破甲層數由8增至12
+    * ![][Deathstrike]Deathstrike: 初擊直傷係數由0.33減至0.1. 次擊直傷係數由2.0減至1.7. 冷卻時間由15秒增至18秒
 
 * 斧頭 副手
     * ![][Frigid Blitz]Frigid Blitz: 冷卻時間由10秒增至15秒
-    * ![][Temporal Rift]Temporal Rift: Power系數由0.75減至0.01. ![][torment]折磨由2層12秒改成1層1秒
+    * ![][Temporal Rift]Temporal Rift: 直傷係數由0.75減至0.01. ![][torment]折磨由2層12秒改成1層1秒
 
 * 盾
     * ![][Envoy of Exuberance]Envoy of Exuberance: 基本脈動回復量由1620減至1215. ![][protection]保護時效由2秒增至3秒
-    * ![][Crystal Hibernation]Crystal Hibernation: 脈動回復量Healing Power系數由0.5減至0.125
+    * ![][Crystal Hibernation]Crystal Hibernation: 脈動回復量治療係數由0.5減至0.125
 
 * 短弓
-    * ![][Shattershot]Shattershot: Power系數由0.65減至0.44. ![][bleeding]流血時效由3秒增至4秒
+    * ![][Shattershot]Shattershot: 直傷係數由0.65減至0.44. ![][bleeding]流血時效由3秒增至4秒
     * ![][Bloodbane Path]Bloodbane Path: 冷卻時間由3秒增至5秒
-    * ![][Scorchrazor]Scorchrazor: Power系數由1.0減至0.01. ![][burning]燃燒時效由4秒減至1秒
+    * ![][Scorchrazor]Scorchrazor: 直傷係數由1.0減至0.01. ![][burning]燃燒時效由4秒減至1秒
 
 ## 傳說技能
 * ![][Shiro]刺客 Shiro
     * ![][Riposting Shadows]Riposting Shadows: 能量消費由30增至40. 耐久收益由25減至15
     * ![][Phase Traversal]Phase Traversal: WvW現在會使用PvP版本 (35能量消費)
-    * ![][Jade Winds]Jade Winds: Power系數由1.5減至0.01. ![][vulnerability]破甲層數由6增至10
+    * ![][Jade Winds]Jade Winds: 直傷係數由1.5減至0.01. ![][vulnerability]破甲層數由6增至10
 
 * ![][Jalis]矮人 Jalis
-    * ![][Forced Engagement]Forced Engagement: Power系數由1.5減至0.01
+    * ![][Forced Engagement]Forced Engagement: 直傷係數由1.5減至0.01
 
 * ![][Ventari]人馬 Ventari
-    * ![][Ventari's Will]Ventari's Will: Healing Power系數由0.33減至0.1. 基本回復量由613減至306
-    * ![][Natural Harmony]Natural Harmony: Healing Power系數由2.25減至1.25
-    * ![][Energy Expulsion]Energy Expulsion: 碎片的基本回復量由985減至739. 碎片的Healing Power系數由0.5減至0.25
+    * ![][Ventari's Will]Ventari's Will: 治療係數由0.33減至0.1. 基本回復量由613減至306
+    * ![][Natural Harmony]Natural Harmony: 治療係數由2.25減至1.25
+    * ![][Energy Expulsion]Energy Expulsion: 碎片的基本回復量由985減至739. 碎片的治療係數由0.5減至0.25
 
 * ![][Glint]龍 Glint
     * ![][Facet of Darkness]Facet of Darkness: 冷卻時間由20秒增至25秒
-    * ![][Elemental Blast]Elemental Blast: 每擊的Power系數由1.15減至0.89. ![][weakness]衰弱時效由4秒減至2秒
+    * ![][Elemental Blast]Elemental Blast: 每擊的直傷係數由1.15減至0.89. ![][weakness]衰弱時效由4秒減至2秒
     * ![][Facet of Strength]Facet of Strength: ![][might]威能時效由12秒減至6秒
-    * ![][Burst of Strength]Burst of Strength: 傷害加乘由15%減至7%
-    * ![][Chaotic Release]Chaotic Release: Power系數由2.0減至0.01. 冷卻時間由45秒減至35秒
+    * ![][Burst of Strength]Burst of Strength: 傷害加成由15%減至7%
+    * ![][Chaotic Release]Chaotic Release: 直傷係數由2.0減至0.01. 冷卻時間由45秒減至35秒
 
 * ![][Kalla]叛逆 Kalla
-    * ![][Breakrazor's Bastion]Breakrazor's Bastion: 脈動回復量Healing Power系數由0.7減至0.3. 初始回復量Healing Power系數由1.3減至0.8
+    * ![][Breakrazor's Bastion]Breakrazor's Bastion: 脈動回復量治療係數由0.7減至0.3. 初始回復量治療係數由1.3減至0.8
 
 ## 特性
 * ![][Retribution]Retribution
@@ -99,14 +100,14 @@
     * ![][Spirit Boon]Spirit Boon: ![][might]威能時效由10秒減至6秒
     * ![][Rapid Flow]Rapid Flow: 基本回復量由500減至333
     * ![][Song of the Mists]Song of the Mists: 轉換傳說時的技能調整如下
-        * ![][Shiro]Shiro: Power系數由0.93減至0.1
-        * ![][Jalis]Jalis: Power系數由0.75減至0.1. ![][weakness]衰弱時效由5秒減至3秒. 每擊的基本![][barrier]護盾由586增至879
-        * ![][Mallyx]Mallyx: Power系數由0.9減至0.3
-        * ![][Glint]Glint: Power系數由0.75減至0.3. ![][burning]燃燒層數由2層減至1層
-        * ![][Kalla]Kalla: Power系數由0.5減至0.3
+        * ![][Shiro]Shiro: 直傷係數由0.93減至0.1
+        * ![][Jalis]Jalis: 直傷係數由0.75減至0.1. ![][weakness]衰弱時效由5秒減至3秒. 每擊的基本![][barrier]護盾由586增至879
+        * ![][Mallyx]Mallyx: 直傷係數由0.9減至0.3
+        * ![][Glint]Glint: 直傷係數由0.75減至0.3. ![][burning]燃燒層數由2層減至1層
+        * ![][Kalla]Kalla: 直傷係數由0.5減至0.3
 
 * ![][Herald]Herald
-    * ![][Reinforced Potency]Reinforced Potency: Concentration加乘由120減至60
+    * ![][Reinforced Potency]Reinforced Potency: Concentration加成由120減至60
     * ![][Elder's Respite]Elder's Respite: ![][regeneration]再生時效由8秒減至3秒
     * ![][Elevated Compassion]Elevated Compassion: 基本回復量由389減至292
     * ![][Shared Empowerment]Shared Empowerment: WvW現在會使用PvP版本 (4秒![][might]威能時效). 目標上限由10減至5
@@ -116,7 +117,7 @@
     * ![][Lasting Legacy]Lasting Legacy: 額外![][might]威能時效由12秒減至6秒
 
 ###### 貢獻者
-Richun、
+Richun, 赤木 (Alik.9651)
 
 [底下這些別動，上面才是正文]: https://wiki.guildwars2.com
 
