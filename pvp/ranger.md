@@ -118,8 +118,8 @@
 * ![]["We Heal As One!"] "We Heal As One!": Increased cooldown from 25 seconds to 30 seconds
 * ![][Troll Unguent] Troll Unguent: Increased cooldown from 25 seconds to 30 seconds
 Glyph of Rejuvenation
-* ![][Glyph of Rejuvenation Non-Celestial] Non-Celestial: Reduced self heal coefficient from 1.708 to 1.25. Reduced ally heal coefficient from 1.4 to 1.0
-* ![][Glyph of Rejuvenation Celestial] Celestial: Reduced self heal coefficient from 1.4 to 1.0. Reduced ally heal coefficient from 1.708 to 1.25
+* ![][Glyph of Rejuvenation Non-Celestial] Glyph of Rejuvenation (Non-Celestial): Reduced self heal coefficient from 1.708 to 1.25. Reduced ally heal coefficient from 1.4 to 1.0
+* ![][Glyph of Rejuvenation Celestial] Glyph of Rejuvenation (Celestial): Reduced self heal coefficient from 1.4 to 1.0. Reduced ally heal coefficient from 1.708 to 1.25
 * ![][Bear Stance] Bear Stance: Increased cooldown from 25 seconds to 30 seconds
 
 ## 通用技能
