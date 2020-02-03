@@ -50,7 +50,7 @@
   * ![][stone shards] Stone Shards: 直傷係數從 0.15 降為 0.1
   * ![][dust devil] Dust Devil: 直傷係數從 0.4 降為 0.2
 
-### Dagger
+### Dagger 匕首
 #### ![][fire attunement] Fire
   * ![][dragon's claw] Dragon's Claw: 每擊的直傷係數從 0.375 降為 0.25
   * ![][drake's breath] Drake's Breath: 每擊的直傷係數從 0.7 降為 0.4，冷卻時間從 5 秒延長到 6 秒。
@@ -77,11 +77,11 @@
   * ![][earthquake] Earthquake: 直傷係數從 1.0 降為 0.01
   * ![][churning earth] Churning Earth: 直傷係數從 3.5 降為 2.25
 
-### Focus
+### Focus 聚能器
 #### ![][earth attunement] Earth
   * ![][magnetic wave] Magnetic Wave: 直傷係數從 1.0 降為 0.25
 
-### Warhorn
+### Warhorn 號角
 #### ![][fire attunement] Fire
   * ![][heat sync] Heat Sync: ![][might] Might 從 3 層 10 秒調整為 6 層 6 秒，目標上限從 10 減少到 5。
   * ![][wildfire] Wildfire: 直傷係數從 0.66 降為 0.5
@@ -97,7 +97,7 @@
 #### ![][earth attunement] Earth
   * ![][sand squall] Sand Squall: 基礎的 ![][protection] Protection 時長從 2 秒縮短為 0.5 秒，目標上限從 10 減少到 5。
 
-### Sword
+### Sword 單手劍
 #### ![][fire attunement] Fire
   * Autoattack Chain 自動攻擊鍊：技能調整如下
     * ![][fire strike] Fire Strike: 直傷係數從 0.66 降為 0.44
@@ -130,15 +130,15 @@
   * ![][rust frenzy] Rust Frenzy: 直傷係數從 0.33 降為 0.25
 
 ### Dual Skills (Weaver)
-#### Staff
+#### Staff 長杖
   * ![][plasma blast] Plasma Blast: 冷卻時間從 12 秒延長到 15 秒
   * ![][pile driver] Pile Driver: 直傷係數從 2.1 降為 1.6
   
-#### Dagger
+#### Dagger 匕首
   * ![][steam surge] Steam Surge: 直傷係數從 1.5 降為 1.0，場地的基礎治療量從 427 降為 213。
   * ![][mud slide] Mud Slide: 直傷係數從 0.15 降為 0.01
   
-#### Sword
+#### Sword 單手劍
   * ![][pyro vortex] Pyro Vortex: 冷卻時間從 12 秒延長到 15 秒
   * ![][twin strike] Twin Strike: 第二擊的直傷係數從 1.5 降為 1.0，冷卻時間從 10 秒延長到 12 秒。
   * ![][lava skin] Lava Skin: 基本 ![][barrier] Barrier 量從 379 降為 227。
