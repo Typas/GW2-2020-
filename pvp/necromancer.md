@@ -7,126 +7,125 @@
 > Heal Coefficient: 治療係數  
 
 ## 職業機制
-* ![][Death Shroud]Death Shroud
-    * ![][Life Blast]Life Blast: 直傷系數由1.4減至1.15
-    * ![][Life Transfer]Life Transfer: 直傷系數由0.425減至0.3
+### ![][Death Shroud] Death Shroud
+* ![][Life Blast] Life Blast: 直傷系數由1.4減至1.15
+* ![][Life Transfer] Life Transfer: 直傷系數由0.425減至0.3
 
-* ![][Reaper Shroud]Reaper Shroud
-    * ![][Life Rend]自動攻擊串: 直傷系數由0.875/0.92/1.7減至0.583/0.613/1.13
-    * ![][Death's Charge]Death's Charge: 初擊直傷系數由0.125減至0.06. 終擊直傷系數由1.625減至1.3
-    * ![][Infusing Terror]Infusing Terror: ![][stability]穩固時效由6秒減至3秒
-    * ![][Soul Spiral]Soul Spiral: 每擊直傷系數由0.4減至0.225
-    * ![][Executioner's Scythe]Executioner's Scythe: 直傷系數由2.0/2.6/3.2減至0.01/0.015/0.02 (大於50%/低於50%/低於25%). ![][stun]休克時效由1.5秒增至2.5秒
+### ![][Reaper Shroud] Reaper Shroud
+* ![][Life Rend] 自動攻擊串: 直傷系數由0.875/0.92/1.7減至0.583/0.613/1.13
+* ![][Death's Charge] Death's Charge: 初擊直傷系數由0.125減至0.06. 終擊直傷系數由1.625減至1.3
+* ![][Infusing Terror] Infusing Terror: ![][stability]穩固時效由6秒減至3秒
+* ![][Soul Spiral] Soul Spiral: 每擊直傷系數由0.4減至0.225
+* ![][Executioner's Scythe] Executioner's Scythe: 直傷系數由2.0/2.6/3.2減至0.01/0.015/0.02 (大於50%/低於50%/低於25%). ![][stun]休克時效由1.5秒增至2.5秒
 
-* [Shade Skills](https://wiki.guildwars2.com/wiki/Shade)
-    * ![][Manifest Sand Shade]Manifest Sand Shade: 直傷系數由0.666減至0.1. ![][torment]折磨時效由2秒減至1秒. 全遊戲模式使用PvE的子彈系統8秒冷卻時間
-    * ![][Nefarious Favor]Nefarious Favor: 癥狀轉換恩賜數由1增至2. 冷卻時間由10秒增至12秒
-    * ![][Sand Cascade]Sand Cascade: 冷卻時間由10秒增至12秒
-    * ![][Desert Shroud]Desert Shroud: 每擊直傷系數由0.45減至0.3
+### [Shade Skills](https://wiki.guildwars2.com/wiki/Shade)
+* ![][Manifest Sand Shade] Manifest Sand Shade: 直傷系數由0.666減至0.1. ![][torment]折磨時效由2秒減至1秒. 全遊戲模式使用PvE的子彈系統8秒冷卻時間
+* ![][Nefarious Favor] Nefarious Favor: 癥狀轉換恩賜數由1增至2. 冷卻時間由10秒增至12秒
+* ![][Sand Cascade] Sand Cascade: 冷卻時間由10秒增至12秒
+* ![][Desert Shroud] Desert Shroud: 每擊直傷系數由0.45減至0.3
 
 ## 武器技能
-* 長杖
-    * ![][Necrotic Grasp]Necrotic Grasp: 直傷系數由0.666減至0.444
-    * ![][Reaper's Mark]Reaper's Mark: 直傷系數由0.275減至0.01
+### Staff 長杖
+* ![][Necrotic Grasp] Necrotic Grasp: 直傷系數由0.666減至0.444
+* ![][Reaper's Mark] Reaper's Mark: 直傷系數由0.275減至0.01
 
-* 斧頭
-    * ![][Rending Claws]Rending Claws: 每擊直傷系數由0.5減至0.333. ![][vulnerability]破甲時效由7秒減至6秒
-    * ![][Ghastly Claws]Ghastly Claws: 每擊直傷系數由0.5減至0.333. 冷卻時間由8秒增至10秒
-    * ![][Unholy Feast]Unholy Feast: 直傷系數由0.88增至1.0. 額外傷害的生命量門檻由25%增至50%. 恩賜腐化量由2減至1
+### Axe 斧頭
+* ![][Rending Claws] Rending Claws: 每擊直傷系數由0.5減至0.333. ![][vulnerability]破甲時效由7秒減至6秒
+* ![][Ghastly Claws] Ghastly Claws: 每擊直傷系數由0.5減至0.333. 冷卻時間由8秒增至10秒
+* ![][Unholy Feast] Unholy Feast: 直傷系數由0.88增至1.0. 額外傷害的生命量門檻由25%增至50%. 恩賜腐化量由2減至1
 
-* 權杖
-    * ![][Blood Curse]自動攻擊串: 直傷系數由0.35/0.35/0.5減至0.233/0.233/0.333
-    * ![][Grasping Dead]Grasping Dead: ![][bleeding]流血由3層10秒改成2層12秒. ![][crippled]殘廢時效由7秒減至5秒. 直傷系數由0.8減至0.6
-    * ![][Feast of Corruption]Feast of Corruption: 直傷系數由1.0減至0.75. 恩賜腐化量由2減至1
+### Scepter 權杖
+* ![][Blood Curse] 自動攻擊串: 直傷系數由0.35/0.35/0.5減至0.233/0.233/0.333
+* ![][Grasping Dead] Grasping Dead: ![][bleeding]流血由3層10秒改成2層12秒. ![][crippled]殘廢時效由7秒減至5秒. 直傷系數由0.8減至0.6
+* ![][Feast of Corruption] Feast of Corruption: 直傷系數由1.0減至0.75. 恩賜腐化量由2減至1
 
-* 匕首 主手
-    * ![][Necrotic Slash]自動攻擊串: 直傷系數由0.9/0.7/1.2減至0.6/0.466/0.8
-    * ![][Life Siphon]Life Siphon: 每擊直傷系數由0.3減至0.25. 基本脈動回復量由450減至300
-    * ![][Dark Pact]Dark Pact: 恩賜腐化量由2減至1
+### Dagger 匕首
+* ![][Necrotic Slash] 自動攻擊串: 直傷系數由0.9/0.7/1.2減至0.6/0.466/0.8
+* ![][Life Siphon] Life Siphon: 每擊直傷系數由0.3減至0.25. 基本脈動回復量由450減至300
+* ![][Dark Pact] Dark Pact: 恩賜腐化量由2減至1
+#### Dagger Off-Hand 副手匕首
+* ![][Deathly Swarm] Deathly Swarm: 直傷系數由0.6減至0.1
+* ![][Enfeebling Blood] Enfeebling Blood: ![][weakness]衰弱時效由6秒減至4秒
 
-* 匕首 副手
-    * ![][Deathly Swarm]Deathly Swarm: 直傷系數由0.6減至0.1
-    * ![][Enfeebling Blood]Enfeebling Blood: ![][weakness]衰弱時效由6秒減至4秒
+### Focus 聚能器
+* ![][Soul Grasp] Soul Grasp: ![][vulnerability]破甲層數由5層增至8層
 
-* 聚能器
-    * ![][Soul Grasp]Soul Grasp: ![][vulnerability]破甲層數由5層增至8層
+### Greatsword 大劍
+* ![][Dusk Strike] 自動攻擊串: 直傷系數由1.0/1.3/1.7減至0.666/0.866/1.133
+* ![][Gravedigger] Gravedigger: 直傷系數由3.0減至1.82
+* ![][Death Spiral] Death Spiral: 每擊直傷系數由0.35減至0.3. ![][vulnerability]破甲時效由10秒減至6秒
+* ![][Nightfall] Nightfall: 每擊直傷系數由0.7減至0.364
+* ![][Grasping Darkness] Grasping Darkness: 直傷系數由1.3減至0.01
 
-* 大劍
-    * ![][Dusk Strike]自動攻擊串: 直傷系數由1.0/1.3/1.7減至0.666/0.866/1.133
-    * ![][Gravedigger]Gravedigger: 直傷系數由3.0減至1.82
-    * ![][Death Spiral]Death Spiral: 每擊直傷系數由0.35減至0.3. ![][vulnerability]破甲時效由10秒減至6秒
-    * ![][Nightfall]Nightfall: 每擊直傷系數由0.7減至0.364
-    * ![][Grasping Darkness]Grasping Darkness: 直傷系數由1.3減至0.01
-
-* 火炬
-    * ![][Oppressive Collapse]Oppressive Collapse: 直傷系數由1.2減至0.01. ![][might]威能時效由8秒減至6秒
+### Torch 火炬
+* ![][Oppressive Collapse] Oppressive Collapse: 直傷系數由1.2減至0.01. ![][might]威能時效由8秒減至6秒
 
 ## 治療技能
-* ![][Well of Blood]Well of Blood: 初始基本回復量由6026減至5122. 脈動回復量治療系數由0.4減至0.2
-* ![][Sand Flare]Sand Flare: 治療對![][barrier]護盾的系數由1.5125減至0.75. 治療系數由1.1減至0.75. 冷卻時間由25秒增至30秒
+* ![][Well of Blood] Well of Blood: 初始基本回復量由6026減至5122. 脈動回復量治療系數由0.4減至0.2
+* ![][Sand Flare] Sand Flare: 治療對![][barrier]護盾的系數由1.5125減至0.75. 治療系數由1.1減至0.75. 冷卻時間由25秒增至30秒
 
 ## 通用技能
-* ![][Corrupt Boon]Corrupt Boon: 恩賜腐化量由3減至2. 子彈冷卻時間18秒增至24秒
-* ![][Plague Signet]Plague Signet: 冷卻時間由40秒增至45秒
-* ![][Signet of Spite]Signet of Spite: ![][vulnerability]破甲時效由10秒減至6秒
-* ![][Spectral Armor]Spectral Armor: 冷卻時間由40秒增至45秒
-* ![][Spectral Walk]Spectral Walk: 冷卻時間由40秒增至50秒
-* ![][Well of Corruption]Well of Corruption: 脈動攻擊直傷系數由0.5減至0.45
-* ![][Well of Power]Well of Power: ![][might]威能時效由8秒減至6秒
-* ![][Well of Suffering]Well of Suffering: 脈動攻擊直傷系數由1.0減至0.9
-* ![]["Nothing Can Save You!"]"Nothing Can Save You!": ![][vulnerability]破甲時效由10秒減至6秒
-* ![]["Rise!"]"Rise!": 直傷系數由0.8減至0.4. 冷卻時間由60秒減至50秒
-* ![]["Suffer!"]"Suffer!": 直傷系數由0.7減至0.3
-* ![]["You Are All Weaklings!"]"You Are All Weaklings!": 直傷系數由0.7減至0.4. ![][might]威能時效由10秒減至6秒. ![][weakness]衰弱時效由8秒減至3秒
-* ![][Trail of Anguish]Trail of Anguish: 冷卻時間由35秒增至50秒
-* ![][Desiccate]Desiccate: ![][might]威能時效由8秒減至6秒. ![][might]威能層數由5層增至8層
+* ![][Corrupt Boon] Corrupt Boon: 恩賜腐化量由3減至2. 子彈冷卻時間18秒增至24秒
+* ![][Plague Signet] Plague Signet: 冷卻時間由40秒增至45秒
+* ![][Signet of Spite] Signet of Spite: ![][vulnerability]破甲時效由10秒減至6秒
+* ![][Spectral Armor] Spectral Armor: 冷卻時間由40秒增至45秒
+* ![][Spectral Walk] Spectral Walk: 冷卻時間由40秒增至50秒
+* ![][Well of Corruption] Well of Corruption: 脈動攻擊直傷系數由0.5減至0.45
+* ![][Well of Power] Well of Power: ![][might]威能時效由8秒減至6秒
+* ![][Well of Suffering] Well of Suffering: 脈動攻擊直傷系數由1.0減至0.9
+* ![]["Nothing Can Save You!"] "Nothing Can Save You!": ![][vulnerability]破甲時效由10秒減至6秒
+* ![]["Rise!"] "Rise!": 直傷系數由0.8減至0.4. 冷卻時間由60秒減至50秒
+* ![]["Suffer!"] "Suffer!": 直傷系數由0.7減至0.3
+* ![]["You Are All Weaklings!"] "You Are All Weaklings!": 直傷系數由0.7減至0.4. ![][might]威能時效由10秒減至6秒. ![][weakness]衰弱時效由8秒減至3秒
+* ![][Trail of Anguish] Trail of Anguish: 冷卻時間由35秒增至50秒
+* ![][Desiccate] Desiccate: ![][might]威能時效由8秒減至6秒. ![][might]威能層數由5層增至8層
 
 ## 菁英技能
-* ![][Charge]Charge: 直傷系數減至0.01. 冷卻時間由40秒減至30秒
-* ![]["Chilled to the Bone!"]"Chilled to the Bone!": ![][stability]穩固時效由10秒減至6秒. 直傷系數由2.0減至0.01. ![][stun]休克時效由2秒增至3秒. 冷卻時間由90秒減至75秒
-* ![][Ghastly Breach]Ghastly Breach: ![][slow]遲緩時效由2秒減至1秒
+* ![][Charge] Charge: 直傷系數減至0.01. 冷卻時間由40秒減至30秒
+* ![]["Chilled to the Bone!"] "Chilled to the Bone!": ![][stability]穩固時效由10秒減至6秒. 直傷系數由2.0減至0.01. ![][stun]休克時效由2秒增至3秒. 冷卻時間由90秒減至75秒
+* ![][Ghastly Breach] Ghastly Breach: ![][slow]遲緩時效由2秒減至1秒
 
 ## 特性
-* ![][Spite]Spite
-    * ![][Reaper's might]Reaper's might: ![][might]威能時效由15秒減至6秒
-    * ![][Death's Embrace]Death's Embrace: 倒地時的額外傷害由25%減至5%. ![][vulnerability]破甲時效由8秒減至6秒
-    * ![][Siphoned Power]Siphoned Power: ![][might]威能時效由8秒減至6秒. ![][might]威能層數由3層減至2層
-    * ![][Bitter Chill]Bitter Chill: ![][vulnerability]破甲時效由8秒減至6秒
-    * ![][Chill of Death]Chill of Death: 直傷系數變動如下
-        * 0個恩賜: 0.35減至0.03
-        * 1個恩賜: 0.525減至0.045
-        * 2個恩賜: 0.875減至0.075
-        * 3個恩賜: 1.225減至0.105
-    * ![][Dread]Dread: 額外傷害由33%減至15%
-    * ![][Spiteful Spirit]Spiteful Spirit: 直傷系數由0.4減至0.1. 恩賜腐化量由2減至1. 對50%血量以下敵人的額外恩賜腐化量由2減至1
+### ![][Spite] Spite
+* ![][Reaper's might] Reaper's might: ![][might]威能時效由15秒減至6秒
+* ![][Death's Embrace] Death's Embrace: 倒地時的額外傷害由25%減至5%. ![][vulnerability]破甲時效由8秒減至6秒
+* ![][Siphoned Power] Siphoned Power: ![][might]威能時效由8秒減至6秒. ![][might]威能層數由3層減至2層
+* ![][Bitter Chill] Bitter Chill: ![][vulnerability]破甲時效由8秒減至6秒
+* ![][Chill of Death] Chill of Death: 直傷系數變動如下
+* 0個恩賜: 0.35減至0.03
+* 1個恩賜: 0.525減至0.045
+* 2個恩賜: 0.875減至0.075
+* 3個恩賜: 1.225減至0.105
+* ![][Dread] Dread: 額外傷害由33%減至15%
+* ![][Spiteful Spirit] Spiteful Spirit: 直傷系數由0.4減至0.1. 恩賜腐化量由2減至1. 對50%血量以下敵人的額外恩賜腐化量由2減至1
 
-* ![][Curses]Curses
-    * ![][Barbed Precision]Barbed Precision: ![][bleeding]流血時效由2秒減至1秒
-    * ![][Weakening Shroud]Weakening Shroud: ![][weakness]衰弱時效由5秒減至2.5秒
-    * ![][Devouring Darkness]Devouring Darkness: PvP現在使用WvW版本 (腐化1個恩賜)
+### ![][Curses] Curses
+    * ![][Barbed Precision] Barbed Precision: ![][bleeding]流血時效由2秒減至1秒
+    * ![][Weakening Shroud] Weakening Shroud: ![][weakness]衰弱時效由5秒減至2.5秒
+    * ![][Devouring Darkness] Devouring Darkness: PvP現在使用WvW版本 (腐化1個恩賜)
 
-* ![][Death Magic]Death Magic
-    * ![][Dark Defiance]Dark Defiance: 冷卻時間由20秒增至35秒
+### ![][Death Magic] Death Magic
+    * ![][Dark Defiance] Dark Defiance: 冷卻時間由20秒增至35秒
 
-* ![][Blood Magic]Blood Magic
-    * ![][Lesser Mark of Blood]Lesser Mark of Blood: 直傷系數由0.33減至0.1. ![][bleeding]流血層數由2層減至1層
-    * ![][Life From Death]Life From Death: 救援脈動由10%減至5%
-    * ![][Transfusion]Transfusion (配合![][Scourge 20]Scourge菁英特化時): 基本脈動回復量由292減至204. 脈動回復的治療系數由0.3減至0.1. 救援脈動由2%減至1%
+### ![][Blood Magic] Blood Magic
+    * ![][Lesser Mark of Blood] Lesser Mark of Blood: 直傷系數由0.33減至0.1. ![][bleeding]流血層數由2層減至1層
+    * ![][Life From Death] Life From Death: 救援脈動由10%減至5%
+    * ![][Transfusion] Transfusion (配合![][Scourge 20]Scourge菁英特化時): 基本脈動回復量由292減至204. 脈動回復的治療系數由0.3減至0.1. 救援脈動由2%減至1%
 
-* ![][Soul Reaping]Soul Reaping
-    * ![][Fear of Death]Fear of Death: 額外![][fear]恐怖時效由100%減至50%
-    * ![][Unyielding Blast]Unyielding Blast: ![][vulnerability]破甲時效由10秒減至6秒
-    * ![][Dhuumfire]Dhuumfire (配合![][Scourge 20]Scourge菁英特化時): ![][burning]燃燒時效由3秒減至1秒
+### ![][Soul Reaping] Soul Reaping
+    * ![][Fear of Death] Fear of Death: 額外![][fear]恐怖時效由100%減至50%
+    * ![][Unyielding Blast] Unyielding Blast: ![][vulnerability]破甲時效由10秒減至6秒
+    * ![][Dhuumfire] Dhuumfire (配合![][Scourge 20]Scourge菁英特化時): ![][burning]燃燒時效由3秒減至1秒
 
-* ![][Reaper]Reaper
-    * ![][Chilling Nova]Chilling Nova: 直傷系數由0.6減至0.1. ![][chilled]凍結時效由1.5秒增至2秒. 冷卻時間由8秒增至10秒
-    * ![][Chilling Victory]Chilling Victory: ![][might]威能時效由8秒減至6秒
+### ![][Reaper] Reaper
+    * ![][Chilling Nova] Chilling Nova: 直傷系數由0.6減至0.1. ![][chilled]凍結時效由1.5秒增至2秒. 冷卻時間由8秒增至10秒
+    * ![][Chilling Victory] Chilling Victory: ![][might]威能時效由8秒減至6秒
 
-* ![][Scourge]Scourge
-    * ![][Sand Sage]Sand Sage: 每個沙影增加的Concentration及Expertise由75減至45
-    * ![][Fell Beacon]Fell Beacon: 癥狀傷害轉換至Expertise的轉換率由7%減至4%
-    * ![][Nourishing Ashes]Nourishing Ashes: 生命能量收益由5%減至3%
-    * ![][Sadistic Searing]Sadistic Searing: ![][burning]燃燒時效由4秒減至2秒
+### ![][Scourge] Scourge
+    * ![][Sand Sage] Sand Sage: 每個沙影增加的Concentration及Expertise由75減至45
+    * ![][Fell Beacon] Fell Beacon: 癥狀傷害轉換至Expertise的轉換率由7%減至4%
+    * ![][Nourishing Ashes] Nourishing Ashes: 生命能量收益由5%減至3%
+    * ![][Sadistic Searing] Sadistic Searing: ![][burning]燃燒時效由4秒減至2秒
     * ![][Demonic Lore]Demonic Lore: ![][burning]燃燒時效由3秒減至1秒
 
 ###### 貢獻者
