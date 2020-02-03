@@ -3,22 +3,23 @@
 ###### tags: `Global` `GW2` `2020 Feb Update` `Warrior`
 
 > Warrior's rifle has been somewhat lackluster in its gameplay feel, so we're updating it to create some rotations by giving its 2-4 skills ammunition, shorter cooldowns between uses and slightly longer cooldowns to recover shots, plus successfully using Rifle Butt will allow the rapid recovery of the ammunition for those skills. Warrior hammer has a pretty good gameplay cadence, so we're pushing a bit further on what it does well - hurting crowd controlled enemies. Its iconic second skill, Fierce Blow, now does significantly greater damage to disabled foes, and Backbreaker will automatically recharge fierce blow for immediate use when you successfully knockdown an enemy.
->> Warrior 的 Rifle 已經顯得有些乏味，所以我們決定更新他，我們現在給彈藥的系統並且使其有個循環，使用上的冷卻時間將會縮短許多，而填充彈藥將會有比前者更長的冷卻時間；此外，如果成功使用 ![][rifle butt 20]Rifle Butt 的話，將可以給這些技能快速填充彈藥。
+>> Warrior 的 Rifle 已經顯得有些乏味，所以我們決定更新他，我們現在給了他彈藥系統，並使其有個循環，使用上的冷卻時間將會縮短許多，而填充彈藥將會有比前者更長的冷卻時間；此外，如果成功使用 ![][rifle butt 20] Rifle Butt 的話，將可以使這些技能快速填充彈藥。
 >> 
->> Warrior 的 Hammer 在遊戲中有著非常漂亮的韻律感，我們決定要讓這個優點更加突出。當玩家攻擊 crowd controlled（正在被控場的）敵方時，他的招牌 2 號技能 ![][fierce blow 20]Fierce Blow，現在會使這些殘廢的敵人受到顯著的巨大傷害，以及 ![][backbreaker 20]Backbreaker 將會在成功 ![][knockdown]Knockdown 敵方後，自動回復 ![][fierce blow 20]Fierce Blow 的技能冷卻。
+>> Warrior 的 Hammer 在遊戲中有著非常漂亮的韻律感，我們決定要讓這個優點更加突出。當玩家攻擊 crowd controlled（正在被控場的）敵方時，他的招牌 2 號技能 ![][fierce blow 20] Fierce Blow，現在會使這些殘廢的敵人受到顯著的巨大傷害，以及 ![][backbreaker 20] Backbreaker 將會在成功 ![][knockdown] Knockdown 敵方後，自動回復 ![][fierce blow 20] Fierce Blow 的技能冷卻。
 
 * ![][aimed shot] Aimed Shot: 現在有 2 發，每發間隔 3 秒，回填需要 8 -> 10 秒。
 * ![][volley] Volley: 現在有 2 發，每發間隔 5 秒，回填需要 10 -> 12 秒。
 * ![][brutal shot] Brutal Shot: 現在有 2 發，每發間隔 8 秒，回填需要 15 -> 20 秒。
 * ![][rifle butt] Rifle Butt: 冷卻時間從 15 秒提升到 20 秒，動作時間從 367 ms 延後至 600 ms。當你用這技能擊中目標時所有的 Rifle 技能回填 1 發。
 * ![][fierce blow] Fierce Blow: 在 PvE 中對被 disable 的目標再增傷 25%。
-* ![][backbreaker] Backbreaker: 在成功 ![][knockdown]knockdown 或是對有 CC 條的目標攻擊時，![][fierce blow 20]Fierce Blow 冷卻歸零。
+* ![][backbreaker] Backbreaker: 在成功 ![][knockdown] knockdown 或是對有 CC 條的目標攻擊時，![][fierce blow 20] Fierce Blow 冷卻歸零。
 * ![][disrupting stab] Disrupting Stab: 對使用技能中的敵人攻擊時，從 stun 改為延長 daze 時間。在 PvE 延長到 1.5 秒，在 PvP/WvW 延長到 1 秒。移除增傷。僅在 PvE 增加 50% 傷害。
 * ![][imminent threat] Imminent Threat: 技能時間從 333 ms 延長至 600 ms。
-* ![][signet of might] Signet of Might: 主動技從 6 秒 ![][unblockable SoM]unblockable 狀態改為給 10 層 6 秒 ![][unblockable]unblockable。
+* ![][signet of might] Signet of Might: 主動技從 6 秒 ![][unblockable SoM] Unblockable 狀態改為給 10 層 6 秒 ![][unblockable SoM] Unblockable。
 
-###### 貢獻者
-Richun (Richun.9045), Sia
+## 貢獻者
+1. Richun (Richun.9045)
+2. Sia
 
 [底下這些別動，上面才是正文]: https://wiki.guildwars2.com
 
