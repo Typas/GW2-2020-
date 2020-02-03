@@ -105,6 +105,46 @@
 
 ## 特性
 
+### Domination
+  * ![][dazzling] Dazzling: ![][vulnerability] Vulnerability 的時長從 8 秒降為 6 秒
+  * ![][rending shatter] Rending Shatter: ![][vulnerability] Vulnerability 的時長從 8 秒降為 6 秒
+  * ![][furious interruption] Furious Interruption: ![][quickness] Quickness 的時長從 3 秒降為 2 秒
+  * ![][power block] Power Block: ![][weakness] Weakness 的時長從 5 秒降為 3 秒
+
+### Dueling
+  * ![][sharper images] Sharper Images: ![][bleeding] Bleeding 的時長從 5 秒降為 2 秒
+  * ![][desperate decoy] Desperate Decoy: 冷卻時間從 40 秒延長到 120 秒
+  * ![][duelist's discipline] Duelist's Discipline: ![][bleeding] Bleeding 的時長從 3 秒降為 2 秒
+  * ![][evasive mirror] Evasive Mirror: ![][mirror 20] Mirror 的時長從 2 秒降為 1.5 秒
+
+### Chaos
+  * ![][metaphysical rejuvenation] Metaphysical Rejuvenation: ![][regeneration] Regeneration 的時長從 10 秒降為 5 秒
+  * ![][illusionary membrane] Illusionary Membrane: ![][protection] Protection 的時長從 3 秒降為 2 秒
+  * ![][chaotic persistence] Chaotic Persistence: 每個 boon 所額外給的 boon 與 condition 時長從 2% 下修到 1%
+  * ![][method of madness] Method of Madness: 冷卻時間從 35 秒延長到 75 秒
+  * ![][master of manipulation] Master of Manipulation: ![][superspeed] Superspeed 的時長從 3 秒降為 1.5 秒
+  * ![][chaotic transference] Chaotic Transference: Toughness 轉換到 Condition Damage 的比率從 7% 上修到 13%，Concentration 轉換到 Expertise 的比率從 13% 下修到 5%。
+  * ![][chaotic dampening] Chaotic Dampening: ![][protection] Protection 的時長從 4 秒降為 2.5 秒
+  * ![][bountiful disillusionment] Bountiful Disillusionment: ![][might] Might 的時長從 8 秒降為 6 秒
+
+### Inspiration
+  * ![][restorative illusions] Restorative Illusions: 治療係數從 0.77 下修到 0.46
+  * ![][mental defense] Mental Defense: ICD 從 50 秒延長到 90 秒
+
+### Illusions
+  * ![][phantasmal haste] Phantasmal Haste: ![][quickness] Quickness 的時長從 1.5 秒降為 1 秒
+  * ![][maim the disillusioned] Maim the Disillusioned: ![][torment] Torment 的時長從 4 秒降為 3 秒
+  * ![][phantasmal force] Phantasmal Force: ![][might] Might 的時長從 10 秒降為 6 秒
+
+### Chronomancer
+  * ![][delayed reactions] Delayed Reactions: ![][slow] Slow 的時長從 3 秒降為 1.5 秒
+  * ![][seize the moment] Seize the Moment: ![][quickness] Quickness 的時長從 2 秒降為 1 秒
+
+### Mirage
+  * ![][mirage cloak] Mirage Cloak: 這特性現在在 PvP 與 WvW 會降低 mirage 50 耐力 (endurance)
+  * ![][renewing oasis] Renewing Oasis: ![][regeneration] Regeneration 的時長從 4 秒降為 2.5 秒
+  * ![][dune cloak] Dune Cloak: 直傷係數從 1.0 下修到 0.5
+
 ###### 貢獻者
 Richun (Richun.9045)
 
@@ -191,6 +231,7 @@ Richun (Richun.9045)
 [ether feast]: https://wiki.guildwars2.com/images/thumb/6/64/Ether_Feast.png/32px-Ether_Feast.png
 [mantra of recovery]: https://wiki.guildwars2.com/images/thumb/3/3f/Mantra_of_Recovery.png/32px-Mantra_of_Recovery.png
 [mirror]: https://wiki.guildwars2.com/images/thumb/b/b8/Mirror.png/32px-Mirror.png
+[mirror 20]: https://wiki.guildwars2.com/images/thumb/b/b8/Mirror.png/20px-Mirror.png
 [signet of ether]: https://wiki.guildwars2.com/images/thumb/7/7a/Signet_of_the_Ether.png/32px-Signet_of_the_Ether.png
 [well of eternity]: https://wiki.guildwars2.com/images/thumb/b/b4/Well_of_Eternity.png/32px-Well_of_Eternity.png
 [false oasis]: https://wiki.guildwars2.com/images/thumb/3/32/False_Oasis.png/32px-False_Oasis.png
@@ -210,4 +251,29 @@ Richun (Richun.9045)
 [sand through glass]: https://wiki.guildwars2.com/images/thumb/2/2a/Sand_Through_Glass.png/32px-Sand_Through_Glass.png
 [mass invisibility]: https://wiki.guildwars2.com/images/thumb/4/46/Mass_Invisibility.png/32px-Mass_Invisibility.png
 [gravity well]: https://wiki.guildwars2.com/images/thumb/4/41/Gravity_Well.png/32px-Gravity_Well.png
-
+[dazzling]: https://wiki.guildwars2.com/images/thumb/0/0b/Dazzling.png/32px-Dazzling.png
+[rending shatter]: https://wiki.guildwars2.com/images/thumb/2/2f/Rending_Shatter.png/32px-Rending_Shatter.png
+[furious interruption]: https://wiki.guildwars2.com/images/thumb/b/b2/Furious_Interruption.png/32px-Furious_Interruption.png
+[power block]: https://wiki.guildwars2.com/images/thumb/a/af/Power_Block.png/32px-Power_Block.png
+[sharper images]: https://wiki.guildwars2.com/images/thumb/e/ec/Sharper_Images.png/32px-Sharper_Images.png
+[desperate decoy]: https://wiki.guildwars2.com/images/thumb/2/2d/Desperate_Decoy.png/32px-Desperate_Decoy.png
+[duelist's discipline]: https://wiki.guildwars2.com/images/thumb/1/10/Duelist%27s_Discipline.png/32px-Duelist%27s_Discipline.png
+[evasive mirror]: https://wiki.guildwars2.com/images/thumb/8/87/Evasive_Mirror.png/32px-Evasive_Mirror.png
+[metaphysical rejuvenation]: https://wiki.guildwars2.com/images/thumb/b/b1/Metaphysical_Rejuvenation.png/32px-Metaphysical_Rejuvenation.png
+[illusionary membrane]: https://wiki.guildwars2.com/images/thumb/b/bf/Illusionary_Membrane.png/32px-Illusionary_Membrane.png
+[chaotic persistence]: https://wiki.guildwars2.com/images/thumb/c/cc/Chaotic_Persistence.png/32px-Chaotic_Persistence.png
+[method of madness]: https://wiki.guildwars2.com/images/thumb/b/be/Method_of_Madness.png/32px-Method_of_Madness.png
+[master of manipulation]: https://wiki.guildwars2.com/images/thumb/f/fe/Master_of_Manipulation.png/32px-Master_of_Manipulation.png
+[chaotic transference]: https://wiki.guildwars2.com/images/thumb/0/07/Chaotic_Transference.png/32px-Chaotic_Transference.png
+[chaotic dampening]: https://wiki.guildwars2.com/images/thumb/f/f3/Chaotic_Dampening.png/32px-Chaotic_Dampening.png
+[bountiful disillusionment]: https://wiki.guildwars2.com/images/thumb/4/43/Bountiful_Disillusionment.png/32px-Bountiful_Disillusionment.png
+[restorative illusions]: https://wiki.guildwars2.com/images/thumb/b/bc/Restorative_Illusions.png/32px-Restorative_Illusions.png
+[mental defense]: https://wiki.guildwars2.com/images/thumb/7/70/Mental_Defense.png/32px-Mental_Defense.png
+[phantasmal haste]: https://wiki.guildwars2.com/images/thumb/9/9b/Phantasmal_Haste.png/32px-Phantasmal_Haste.png
+[maim the disillusioned]: https://wiki.guildwars2.com/images/thumb/a/a0/Maim_the_Disillusioned.png/32px-Maim_the_Disillusioned.png
+[phantasmal force]: https://wiki.guildwars2.com/images/thumb/5/5f/Mistrust.png/32px-Mistrust.png
+[delayed reactions]: https://wiki.guildwars2.com/images/thumb/a/a8/Delayed_Reactions.png/32px-Delayed_Reactions.png
+[seize the moment]: https://wiki.guildwars2.com/images/thumb/6/61/Seize_the_Moment.png/32px-Seize_the_Moment.png
+[mirage cloak]: https://wiki.guildwars2.com/images/thumb/f/f3/Mirage_Cloak.png/32px-Mirage_Cloak.png
+[renewing oasis]: https://wiki.guildwars2.com/images/thumb/a/a8/Renewing_Oasis.png/32px-Renewing_Oasis.png
+[dune cloak]: https://wiki.guildwars2.com/images/thumb/2/20/Dune_Cloak.png/32px-Dune_Cloak.png
