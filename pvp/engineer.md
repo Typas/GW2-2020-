@@ -40,7 +40,6 @@
   * ![][Negative Bash] Negative Bash: Reduced power coefficient from 1.0 to 0.666. Reduced vulnerability duration from 8 seconds to 6 seconds
   * ![][Equalizing Blow] Equalizing Blow: Reduced power coefficient from 1.4 to 0.933. Reduced might and vulnerability durations from 8 seconds to 6 seconds
 * ![][Electro-whirl] Electro-whirl: Reduced power coefficient per strike from 1.2 to 0.68. Increased cooldown from 6 seconds to 8 seconds
-
 * ![][Rocket Charge] Rocket Charge: Reduced power coefficient per strike from 1.1 to 0.74. Increased cooldown from 12 seconds to 18 seconds
 * ![][Shock Shield] Shock Shield: Reduced power coefficient per strike from 0.25 to 0.1
 * ![][Thunderclap] Thunderclap: Reduced power coefficient per strike from 0.8 to 0.45. Reduced vulnerability duration from 8 seconds to 6 seconds
@@ -115,7 +114,7 @@
 * ![][Emergency Elixir] Emergency Elixir: Increased internal cooldown from 40 seconds to 60 seconds
 * ![][HGH] HGH: Adjusted might duration from 2 stacks for 15 seconds to 3 stacks for 6 seconds
 * ![][Purity of Purpose] Purity of Purpose: Boon durations have been adjusted as follows
-* Protection, Quickness, Stability, Alacrity: Reduced from 3 seconds to 1.5 seconds
+* ![][protection] Protection, ![][quickness] Quickness, ![][stability] Stability, ![][alacrity] Alacrity: Reduced from 3 seconds to 1.5 seconds
 * ![][resistance] Resistance: Reduced from 2 seconds to 1.5 seconds
 * ![][fury] Fury, ![][aegis] Aegis, ![][retaliation] Retaliation, ![][regeneration] Regeneration: Reduced from 5 seconds to 3 seconds
 * ![][vigor] Vigor: Reduced from 10 seconds to 3 seconds
