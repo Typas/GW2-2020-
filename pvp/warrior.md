@@ -58,7 +58,7 @@
 * ![][Kill Shot] Kill Shot: Reduced power coefficient from 2.25/2.75/3.25 to 1.4/1.7/2.0
 
 ### Axe 斧
-* ![][Autoattack Chain] Autoattack Chain: Skills have been adjusted as follows
+* Autoattack Chain: Skills have been adjusted as follows
   * ![][Chop] Chop: Reduced power coefficient from 0.7 to 0.47
   * ![][Double Chop] Double Chop: Reduced first strike power coefficient from 0.45 to 0.3. Reduced second strike power coefficient from 1.05 to 0.7
   * ![][Triple Chop] Triple Chop: Reduced first two strikes power coefficients from 0.75 to 0.5. Reduced final strike power coefficient from 1.6 to 1.06
@@ -135,54 +135,54 @@
 ## 菁英技能
 * ![][Signet of Rage] Signet of Rage: Reduced fury and swiftness durations from 25 seconds to 6 seconds. Adjusted might from 5 stacks for 25 seconds to 20 stacks for 4 seconds. Reduced cooldown from 60 seconds to 40 seconds
 * ![][Rampage] Rampage: Some Rampage skills have been adjusted as follows
-* ![][Smash] Smash: Reduced power coefficient from 1.6 to 0.91
-* ![][Bash] Bash: Reduced power coefficient from 1.6 to 0.91
-* ![][Uppercut] Uppercut: Reduced power coefficient from 2.0 to 1.36
-* ![][Dash] Dash: Reduced power coefficient from 2.4 to 1.82
+  * ![][Smash] Smash: Reduced power coefficient from 1.6 to 0.91
+  * ![][Bash] Bash: Reduced power coefficient from 1.6 to 0.91
+  * ![][Uppercut] Uppercut: Reduced power coefficient from 2.0 to 1.36
+  * ![][Dash] Dash: Reduced power coefficient from 2.4 to 1.82
 * ![][Head Butt] Head Butt: Reduced power coefficient from 3.0 to 0.01. Reduced cooldown from 25 seconds to 18 seconds
 * ![][Winds of Disenchantment] Winds of Disenchantment: Reduced target cap from 10 to 5
 
 ## 特性
 ### Strength
-* ![][Reckless Dodge]Reckless Dodge: Reduced power coefficient from 1.5 to 0.5
-* ![][Brave Stride]Brave Stride: Reduced stability duration from 8 seconds to 4 seconds
-* ![][Might Makes Right]Might Makes Right: Reduced base heal from 133 to 64
+* ![][Reckless Dodge] Reckless Dodge: Reduced power coefficient from 1.5 to 0.5
+* ![][Brave Stride] Brave Stride: Reduced stability duration from 8 seconds to 4 seconds
+* ![][Might Makes Right] Might Makes Right: Reduced base heal from 133 to 64
 
 ### Arms
-* ![][Bloodlust]Bloodlust: Reduced bleeding duration from 3 seconds to 1 second. Reduced bonus bleeding duration from 33% to 15%
-* ![][Wounding Precision]Wounding Precision: Reduced precision to expertise conversion from 7% to 4%
-* ![][Sundering Burst]Sundering Burst: Reduced vulnerability duration from 8 seconds to 6 seconds
+* ![][Bloodlust] Bloodlust: Reduced bleeding duration from 3 seconds to 1 second. Reduced bonus bleeding duration from 33% to 15%
+* ![][Wounding Precision] Wounding Precision: Reduced precision to expertise conversion from 7% to 4%
+* ![][Sundering Burst] Sundering Burst: Reduced vulnerability duration from 8 seconds to 6 seconds
 
 ### Defense
-* ![][Adrenal Health]Adrenal Health: Reduced healing per second per stack from 133 to 100
-* ![][Shield Master]Shield Master: Reduced might duration from 8 seconds to 1 second
-* ![][Defy Pain]Defy Pain: Increased cooldown from 90 seconds to 300 seconds
-* ![][Last Stand]Last Stand: Increased cooldown from 90 seconds to 300 seconds
-* ![][Rousing Resilience]Rousing Resilience: Reduced base heal from 2113 to 1056. Reduced healing coefficient from 0.5 to 0.1
+* ![][Adrenal Health] Adrenal Health: Reduced healing per second per stack from 133 to 100
+* ![][Shield Master] Shield Master: Reduced might duration from 8 seconds to 1 second
+* ![][Defy Pain] Defy Pain: Increased cooldown from 90 seconds to 300 seconds
+* ![][Last Stand] Last Stand: Increased cooldown from 90 seconds to 300 seconds
+* ![][Rousing Resilience] Rousing Resilience: Reduced base heal from 2113 to 1056. Reduced healing coefficient from 0.5 to 0.1
 
 ### Tactics
-* ![][Marching Orders]Marching Orders: Reduced might duration from 15 seconds to 6 seconds
-* ![][Mending Might]Mending Might: Reduced base heal from 69 to 50
-* ![][Leg Specialist]Leg Specialist: Increased internal cooldown from 5 seconds to 12 seconds
-* ![][Roaring Reveille]Roaring Reveille: Reduced concentration from 120 to 60.
-* ![][Shrug it Off]Shrug it Off: Reduced base heal from 517 to 310
-* ![][Vigorous Shouts]Vigorous Shouts: Reduced healing coefficient from 1.2 to 1.0
+* ![][Marching Orders] Marching Orders: Reduced might duration from 15 seconds to 6 seconds
+* ![][Mending Might] Mending Might: Reduced base heal from 69 to 50
+* ![][Leg Specialist] Leg Specialist: Increased internal cooldown from 5 seconds to 12 seconds
+* ![][Roaring Reveille] Roaring Reveille: Reduced concentration from 120 to 60.
+* ![][Shrug it Off] Shrug it Off: Reduced base heal from 517 to 310
+* ![][Vigorous Shouts] Vigorous Shouts: Reduced healing coefficient from 1.2 to 1.0
 
 ### Discipline
-* ![][Versatile Power]Versatile Power: Reduced might duration from 10 seconds to 6 seconds
-* ![][Crack Shot]Crack Shot: Reduced burning duration from 2 seconds to 1 second
-* ![][Heightened Focus]Heightened Focus: Reduced quickness duration from 4 seconds to 2.5 seconds
+* ![][Versatile Power] Versatile Power: Reduced might duration from 10 seconds to 6 seconds
+* ![][Crack Shot] Crack Shot: Reduced burning duration from 2 seconds to 1 second
+* ![][Heightened Focus] Heightened Focus: Reduced quickness duration from 4 seconds to 2.5 seconds
 
 ### Berserker
-* ![][Burst of Aggression]Burst of Aggression: Reduced quickness duration from 3 seconds to 2 seconds.
-* ![][King of Fires]King of Fires: Reduced bonus burning duration from 33% to 10%
-* ![][Eternal Champion]Eternal Champion: Reduced might duration from 8 seconds to 6 seconds. Reduced stability duration from 3 seconds to 2 seconds
+* ![][Burst of Aggression] Burst of Aggression: Reduced quickness duration from 3 seconds to 2 seconds.
+* ![][King of Fires] King of Fires: Reduced bonus burning duration from 33% to 10%
+* ![][Eternal Champion] Eternal Champion: Reduced might duration from 8 seconds to 6 seconds. Reduced stability duration from 3 seconds to 2 seconds
 
 ### Spellbreaker
-* ![][Loss Aversion]Loss Aversion: Reduced power coefficient from 0.2 to 0.1
-* ![][Slow Counter]Slow Counter: Reduced slow duration from 3 seconds to 2 seconds.
-* ![][Sun and Moon Style]Sun and Moon Style: Reduced quickness duration from 3 seconds to 2 seconds
-* ![][Magebane Tether]Magebane Tether: Reduced the number of might stacks from 2 to 1
+* ![][Loss Aversion] Loss Aversion: Reduced power coefficient from 0.2 to 0.1
+* ![][Slow Counter] Slow Counter: Reduced slow duration from 3 seconds to 2 seconds.
+* ![][Sun and Moon Style] Sun and Moon Style: Reduced quickness duration from 3 seconds to 2 seconds
+* ![][Magebane Tether] Magebane Tether: Reduced the number of might stacks from 2 to 1
 
 ###### 貢獻者
 Richun, 赤木 (Alik.9651)
@@ -334,7 +334,7 @@ Richun, 赤木 (Alik.9651)
 [Sundering Burst]: https://wiki.guildwars2.com/images/thumb/f/f7/Rending_Strikes.png/32px-Rending_Strikes.png
 [Adrenal Health]: https://wiki.guildwars2.com/images/thumb/2/24/Adrenal_Health.png/32px-Adrenal_Health.png
 [Shield Master]: https://wiki.guildwars2.com/images/thumb/a/a2/Shield_Master.png/32px-Shield_Master.png
-[Defy Pain]: https://wiki.guildwars2.com/images/thumb/f/f9/Defy_Pain.png/32px-Defy_Pain.png
+[Defy Pain]: https://wiki.guildwars2.com/images/thumb/0/01/Defy_Pain_%28warrior_trait%29.png/32px-Defy_Pain_%28warrior_trait%29.png
 [Last Stand]: https://wiki.guildwars2.com/images/thumb/4/41/Last_Stand.png/32px-Last_Stand.png
 [Rousing Resilience]: https://wiki.guildwars2.com/images/thumb/c/ca/Rousing_Resilience.png/32px-Rousing_Resilience.png
 [Marching Orders]: https://wiki.guildwars2.com/images/thumb/9/97/Marching_Orders_%28trait%29.png/32px-Marching_Orders_%28trait%29.png
