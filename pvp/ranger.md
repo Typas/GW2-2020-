@@ -10,204 +10,169 @@
 > Heal Coefficient: 治療係數  
 
 ## 職業機制
-Celestial Avatar
+### Celestial Avatar
+* ![][Cosmic Ray] Cosmic Ray: Reduced heal coefficient from 0.469 to 0.25
+* ![][Seed of Life] Seed of Life: Reduced heal coefficient from 0.4745 to 0.2. Increased number of conditions cleansed from 1 to 2. Increased cooldown from 3 seconds to 4 seconds
+* ![][Lunar Impact] Lunar Impact: Reduced base heal from 1620 to 1215. Reduced heal coefficient from 1.44 to 0.72. Increased daze duration from 1.5 seconds to 2 seconds
+* ![][Rejuvenating Tides] Rejuvenating Tides: Reduced pulse heal coefficient from 0.3 to 0.15
 
-* ![][Cosmic Ray]Cosmic Ray: Reduced heal coefficient from 0.469 to 0.25
-* ![][Seed of Life]Seed of Life: Reduced heal coefficient from 0.4745 to 0.2. Increased number of conditions cleansed from 1 to 2. Increased cooldown from 3 seconds to 4 seconds
-* ![][Lunar Impact]Lunar Impact: Reduced base heal from 1620 to 1215. Reduced heal coefficient from 1.44 to 0.72. Increased daze duration from 1.5 seconds to 2 seconds
-* ![][Rejuvenating Tides]Rejuvenating Tides: Reduced pulse heal coefficient from 0.3 to 0.15
+### Soulbeast Merge Skills
+* ![][Swoop] Swoop (Bird): Increased cooldown from 10 seconds to 18 seconds
+* ![][Brutal Charge (Canine)] Brutal Charge (Canine): Reduced power coefficient from 0.64 to 0.01
+* ![][Tail Lash] Tail Lash (Devourer): Reduced power coefficient from 0.5 to 0.01
+* ![][Call Lightning] Call Lightning (Jacaranda): Reduced power coefficient per hit from 0.5 to 0.4
+* ![][Maul] Maul (Porcine): Increased cooldown from 12 seconds to 15 seconds
+* ![][Brutal Charge (Porcine)] Brutal Charge (Porcine): Reduced power coefficient from 0.67 to 0.01
+* ![][Takedown] Takedown (Smokescale): Reduced power coefficient from 0.7 to 0.01
+* ![][Smoke Assault] Smoke Assault (Smokescale): Reduced might duration from 8 seconds to 6 seconds. Reduced power coefficient per hit from 0.5 to 0.35
+* ![][Wing Buffet] Wing Buffet (Wyvern): Reduced power coefficient from 0.3 to 0.01
 
-Soulbeast Merge Skills
+### Beast Skills
+* ![][Unflinching Fortitude] Unflinching Fortitude: Increased cooldown from 35 seconds to 50 seconds
+* ![][Worldly Impact] Worldly Impact: Reduced power coefficient from 1.89 to 1.512
 
-* ![][Swoop]Swoop (Bird): Increased cooldown from 10 seconds to 18 seconds
-* ![][Brutal Charge (Canine)]Brutal Charge (Canine): Reduced power coefficient from 0.64 to 0.01
-* ![][Tail Lash]Tail Lash (Devourer): Reduced power coefficient from 0.5 to 0.01
-* ![][Call Lightning]Call Lightning (Jacaranda): Reduced power coefficient per hit from 0.5 to 0.4
-* ![][Maul]Maul (Porcine): Increased cooldown from 12 seconds to 15 seconds
-* ![][Brutal Charge (Porcine)]Brutal Charge (Porcine): Reduced power coefficient from 0.67 to 0.01
-* ![][Takedown]Takedown (Smokescale): Reduced power coefficient from 0.7 to 0.01
-* ![][Smoke Assault]Smoke Assault (Smokescale): Reduced might duration from 8 seconds to 6 seconds. Reduced power coefficient per hit from 0.5 to 0.35
-* ![][Wing Buffet]Wing Buffet (Wyvern): Reduced power coefficient from 0.3 to 0.01
-
-Beast Skills
-
-* ![][Unflinching Fortitude]Unflinching Fortitude: Increased cooldown from 35 seconds to 50 seconds
-* ![][Worldly Impact]Worldly Impact: Reduced power coefficient from 1.89 to 1.512
-
-Pet Skills
-
-Pig Family
-
-* ![][Brutal Charge (Porcine)]Brutal Charge: Reduced power coefficient from 0.67 to 0.01
-
-Canine Family
-
-* ![][Brutal Charge (Canine)]Brutal Charge: Reduced power coefficient from 0.67 to 0.01
-
-Wolf
-
-* ![][Terrifying Howl]Terrifying Howl (F2): Reduced power coefficient from 0.2 to 0.01
-
-Devourer
-
-* ![][Tail Lash]Tail Lash: Reduced power coefficient from 0.5 to 0.01
-
-Iboga
-
-* ![][Fang Grapple]Fang Grapple (F2): Reduced power coefficient from 0.2 to 0.01
-
-Bristleback
-
-* ![][Spike Barrage]Spike Barrage: Reduced power coefficient per strike from 0.22 to 0.165
-
-Rock Gazelle
-
-* ![][Head Toss]Head Toss (F2): Reduced power coefficient from 1.11 to 0.01
-* ![][Charge]Charge: Reduced power coefficient from 1.1 to 0.825
-
-Smokescale
-
-* ![][Takedown]Takedown: Reduced power coefficient from 0.5 to 0.01
-* ![][Smoke Assault]Smoke Assault: Reduced power coefficient per strike from 0.25 to 0.2
-
-Wyvern Family
-
-* ![][Wing Buffet]Wing Buffet: Reduced power coefficient from 0.3 to 0.01
-
-Lightning Wyvern
-
-* ![][Lightning Assault]Lightning Assault (F2): Reduced power coefficient from 0.6 to 0.01
+## Pet Skills
+### Pig Family
+* ![][Brutal Charge (Porcine)] Brutal Charge: Reduced power coefficient from 0.67 to 0.01
+### Canine Family
+* ![][Brutal Charge (Canine)] Brutal Charge: Reduced power coefficient from 0.67 to 0.01
+### Wolf
+* ![][Terrifying Howl] Terrifying Howl (F2): Reduced power coefficient from 0.2 to 0.01
+### Devourer
+* ![][Tail Lash] Tail Lash: Reduced power coefficient from 0.5 to 0.01
+### Iboga
+* ![][Fang Grapple] Fang Grapple (F2): Reduced power coefficient from 0.2 to 0.01
+### Bristleback
+* ![][Spike Barrage] Spike Barrage: Reduced power coefficient per strike from 0.22 to 0.165
+### Rock Gazelle
+* ![][Head Toss] Head Toss (F2): Reduced power coefficient from 1.11 to 0.01
+* ![][Charge] Charge: Reduced power coefficient from 1.1 to 0.825
+### Smokescale
+* ![][Takedown] Takedown: Reduced power coefficient from 0.5 to 0.01
+* ![][Smoke Assault] Smoke Assault: Reduced power coefficient per strike from 0.25 to 0.2
+### Wyvern Family
+* ![][Wing Buffet] Wing Buffet: Reduced power coefficient from 0.3 to 0.01
+### Lightning Wyvern
+* ![][Lightning Assault] Lightning Assault (F2): Reduced power coefficient from 0.6 to 0.01
 
 ## 武器技能
-Greatsword
+### Greatsword 大劍
+* Autoattack Chain: Skills have been adjusted as follows: 
+  * ![][Slash] Slash: Reduced power coefficient from 0.64 to 0.45
+  * ![][Slice] Slice: Reduced power coefficient from 0.8 to 0.6
+  * ![][Enduring Swing] Enduring Swing: Reduced power coefficient from 1.3 to 0.866
+* ![][Maul GS] Maul: Reduced power coefficient from 1.75 to 1.5. Reduced vulnerability duration from 8 seconds to 6 seconds. Increased cooldown from 4 seconds to 6 seconds
+* ![][Swoop] Swoop: Reduced power coefficient from 1.0 to 0.91. Increased cooldown from 12 seconds to 15 seconds
+* ![][Counterattack] Counterattack: Increased cooldown from 15 seconds to 25 seconds.
+  * ![][Counterattack Kick] Counterattack Kick (from Counterattack): Reduced power coefficient from 1.3 to 0.01
+* ![][Hilt Bash] Hilt Bash: Reduced power coefficient from 0.72 to 0.01. Reduced cooldown from 25 seconds to 20 seconds
 
-* ![][Autoattack Chain]Autoattack Chain: Reduced power coefficients from 0.64/0.8/1.3 to 0.45/0.6/0.866
-* ![][Maul GS]Maul: Reduced power coefficient from 1.75 to 1.5. Reduced vulnerability duration from 8 seconds to 6 seconds. Increased cooldown from 4 seconds to 6 seconds
-* ![][Swoop]Swoop: Reduced power coefficient from 1.0 to 0.91. Increased cooldown from 12 seconds to 15 seconds
+### Longbow 長弓
+* ![][Long Range Shot] Long Range Shot: Reduced maximum power coefficient from 0.9 to 0.6. Reduced minimum power coefficient from 0.7 to 0.466
+* ![][Rapid Fire] Rapid Fire: Reduced power coefficient per strike from 0.375 to 0.275. Reduced vulnerability duration from 10 seconds to 6 seconds
+* ![][Point Blank Shot] Point Blank Shot: Reduced power coefficient from 0.8 to 0.01
+* ![][Barrage] Barrage: Reduced power coefficient per strike from 0.5 to 0.381
 
-* ![][Counterattack]Counterattack: Increased cooldown from 15 seconds to 25 seconds.
+### Short Bow 短弓
+* ![][Crossfire] Crossfire: Reduced power coefficient from 0.4 to 0.266
+* ![][Quick Shot] Quick Shot: Increased cooldown from 8 seconds to 12 seconds
+* ![][Concussion Shot] Concussion Shot: Reduced power coefficient from 0.4 to 0.01
 
+### Sword 單手劍
+* Autoattack Chain: Skills have been adjusted as follows: 
+  * ![][Slash] Slash: Reduced power coefficient from 0.7 to 0.466
+  * ![][Crippling Thrust] Crippling Thrust: Reduced power coefficient from 0.7 to 0.466
+  * ![][Precision Swipe] Precision Swipe: Reduced power coefficient from 0.96 to 0.64
+* ![][Monarch's Leap] Monarch's Leap: Reduced power coefficient from 1.25 to 0.75
 
-* ![][Counterattack Kick]Counterattack Kick (from Counterattack): Reduced power coefficient from 1.3 to 0.01
+### Axe 斧
+* ![][Ricochet] Ricochet: Reduced power coefficient from 0.8 to 0.533. Reduced might duration from 10 seconds to 5 seconds
+* ![][Splitblade] Splitblade: Reduced power coefficient per axe from 0.4 to 0.1. Increased bleeding duration from 6 seconds to 12 seconds. Increased cooldown from 6 seconds to 8 seconds
+* ![][Winter's Bite] Winter's Bite: Reduced power coefficient from 1.5 to 1.0. Increased bleeding stacks from 2 to 3.
+#### Axe Off-Hand 副手斧
+* ![][Path of Scars] Path of Scars: Reduced power coefficient from 1.2 to 0.01
+* ![][Whirling Defense] Whirling Defense: reduced power coefficient per strike from 0.66 to 0.44. Reduced vulnerability duration from 10 seconds to 6 seconds
 
-* ![][Hilt Bash]Hilt Bash: Reduced power coefficient from 0.72 to 0.01. Reduced cooldown from 25 seconds to 20 seconds
+### Dagger Off-Hand 副手匕首
+* ![][Stalker's Strike] Stalker's Strike: Increased cooldown from 10 seconds to 15 seconds
+* ![][Crippling Talon] Crippling Talon: Reduced power coefficient from 0.75 to 0.5
 
-Longbow
+### Warhorn 號角
+* ![][Hunter's Call] Hunter's Call: Reduced power coefficient per strike from 0.15 to 0.1
+* ![][Call of the Wild] Call of the Wild: Reduced might duration from 10 seconds to 6 seconds
 
-* ![][Long Range Shot]Long Range Shot: Reduced maximum power coefficient from 0.9 to 0.6. Reduced minimum power coefficient from 0.7 to 0.466
-* ![][Rapid Fire]Rapid Fire: Reduced power coefficient per strike from 0.375 to 0.275. Reduced vulnerability duration from 10 seconds to 6 seconds
-* ![][Point Blank Shot]Point Blank Shot: Reduced power coefficient from 0.8 to 0.01
-* ![][Barrage]Barrage: Reduced power coefficient per strike from 0.5 to 0.381
+### Staff 長杖
+* ![][Solar Beam] Solar Beam: Reduced base heal per pulse from 66 to 30
+* ![][Ancestral Grace] Ancestral Grace: Reduced healing coefficient from 1.0 to 0.5
 
-Short Bow
-
-* ![][Crossfire]Crossfire: Reduced power coefficient from 0.4 to 0.266
-* ![][Quick Shot]Quick Shot: Increased cooldown from 8 seconds to 12 seconds
-* ![][Concussion Shot]Concussion Shot: Reduced power coefficient from 0.4 to 0.01
-
-Sword
-
-* ![][Autoattack Chain]Autoattack Chain: Reduced power coefficients from 0.7/0.7/0.96 to 0.466/0.466/0.64
-* ![][Monarch's Leap]Monarch's Leap: Reduced power coefficient from 1.25 to 0.75
-
-Axe MH
-
-* ![][Ricochet]Ricochet: Reduced power coefficient from 0.8 to 0.533. Reduced might duration from 10 seconds to 5 seconds
-* ![][Splitblade]Splitblade: Reduced power coefficient per axe from 0.4 to 0.1. Increased bleeding duration from 6 seconds to 12 seconds. Increased cooldown from 6 seconds to 8 seconds
-* ![][Winter's Bite]Winter's Bite: Reduced power coefficient from 1.5 to 1.0. Increased bleeding stacks from 2 to 3.
-
-Axe OH
-
-* ![][Path of Scars]Path of Scars: Reduced power coefficient from 1.2 to 0.01
-* ![][Whirling Defense]Whirling Defense: reduced power coefficient per strike from 0.66 to 0.44. Reduced vulnerability duration from 10 seconds to 6 seconds
-
-Dagger OH
-
-* ![][Stalker's Strike]Stalker's Strike: Increased cooldown from 10 seconds to 15 seconds
-* ![][Crippling Talon]Crippling Talon: Reduced power coefficient from 0.75 to 0.5
-
-Warhorn
-
-* ![][Hunter's Call]Hunter's Call: Reduced power coefficient per strike from 0.15 to 0.1
-* ![][Call of the Wild]Call of the Wild: Reduced might duration from 10 seconds to 6 seconds
-
-Staff
-
-* ![][Solar Beam]Solar Beam: Reduced base heal per pulse from 66 to 30
-* ![][Ancestral Grace]Ancestral Grace: Reduced healing coefficient from 1.0 to 0.5
-
-Dagger MH
-
-* ![][Autoattack Chain]Autoattack Chain: Reduced power coefficients from 0.4/0.42/0.44/0.88 to 0.32/0.336/0.352/0.704
-* ![][Double Arc]Double Arc: Adjusted bleeding per hit from 3 stacks for 6 seconds to 2 stacks for 9 seconds
-* ![][Instinctive Engage]Instinctive Engage: Reduced quickness duration from 3 seconds to 1.5 seconds
+### Dagger 匕首
+* Autoattack Chain: Skills have been adjusted as follows: 
+  * ![][Groundwork Gouge] Groundwork Gouge: Reduced power coefficient from 0.4 to 0.32
+  * ![][Leading Swipe] Leading Swipe: Reduced power coefficient from 0.42 to 0.336
+  * ![][Serpent Stab] Serpent Stab: Reduced power coefficient from 0.44 to 0.352
+  * ![][Deadly Delivery] Deadly Delivery: Reduced power coefficient from 0.88 to 0.704
+* ![][Double Arc] Double Arc: Adjusted bleeding per hit from 3 stacks for 6 seconds to 2 stacks for 9 seconds
+* ![][Instinctive Engage] Instinctive Engage: Reduced quickness duration from 3 seconds to 1.5 seconds
 
 ## 治療技能
-* ![]["We Heal As One!"]"We Heal As One!": Increased cooldown from 25 seconds to 30 seconds
-* ![][Troll Unguent]Troll Unguent: Increased cooldown from 25 seconds to 30 seconds
+* ![]["We Heal As One!"] "We Heal As One!": Increased cooldown from 25 seconds to 30 seconds
+* ![][Troll Unguent] Troll Unguent: Increased cooldown from 25 seconds to 30 seconds
 Glyph of Rejuvenation
-* ![][Glyph of Rejuvenation Non-Celestial]Non-Celestial: Reduced self heal coefficient from 1.708 to 1.25. Reduced ally heal coefficient from 1.4 to 1.0
-* ![][Glyph of Rejuvenation Celestial]Celestial: Reduced self heal coefficient from 1.4 to 1.0. Reduced ally heal coefficient from 1.708 to 1.25
-* ![][Bear Stance]Bear Stance: Increased cooldown from 25 seconds to 30 seconds
+* ![][Glyph of Rejuvenation Non-Celestial] Non-Celestial: Reduced self heal coefficient from 1.708 to 1.25. Reduced ally heal coefficient from 1.4 to 1.0
+* ![][Glyph of Rejuvenation Celestial] Celestial: Reduced self heal coefficient from 1.4 to 1.0. Reduced ally heal coefficient from 1.708 to 1.25
+* ![][Bear Stance] Bear Stance: Increased cooldown from 25 seconds to 30 seconds
 
 ## 通用技能
-* ![][Lightning Reflexes]Lightning Reflexes: Reduced power coefficient from 1.0 to 0.1
-* ![][Quickening Zephyr]Quickening Zephyr: Reduced quickness and superspeed duration from 6 seconds to 4 seconds. Reduced cooldown from 45 seconds to 40 seconds
-* ![][Glyph of Alignment]Glyph of Alignment: Increased cooldown from 20 seconds to 25 seconds
-* ![][Glyph of the Tides]Glyph of the Tides: Reduced power coefficient from 1.5 to 0.01. Reduced cooldown from 25 seconds to 20 seconds
-* ![][Dolyak Stance]Dolyak Stance: Increased cooldown from 40 seconds to 60 seconds
-* ![][Griffon Stance]Griffon Stance: Reduced might duration from 8 seconds to 6 seconds
-* ![][Moa Stance]Moa Stance: Reduced bonus boon duration from 66% to 20%
-* ![][Glyph of Equality non-celestial]Glyph of Equality (non-celestial): Reduced power coefficient from 1.5 to 0.01
-* ![][Spike Trap]Spike Trap: Reduced power coefficient from 0.2 to 0.01. Adjusted bleeding from 6 stacks from 6.25 seconds to 1 stack for 1 second. Reduced cooldown from 30 seconds to 20 seconds
+* ![][Lightning Reflexes] Lightning Reflexes: Reduced power coefficient from 1.0 to 0.1
+* ![][Quickening Zephyr] Quickening Zephyr: Reduced quickness and superspeed duration from 6 seconds to 4 seconds. Reduced cooldown from 45 seconds to 40 seconds
+* ![][Glyph of Alignment] Glyph of Alignment: Increased cooldown from 20 seconds to 25 seconds
+* ![][Glyph of the Tides] Glyph of the Tides: Reduced power coefficient from 1.5 to 0.01. Reduced cooldown from 25 seconds to 20 seconds
+* ![][Dolyak Stance] Dolyak Stance: Increased cooldown from 40 seconds to 60 seconds
+* ![][Griffon Stance] Griffon Stance: Reduced might duration from 8 seconds to 6 seconds
+* ![][Moa Stance] Moa Stance: Reduced bonus boon duration from 66% to 20%
+* ![][Glyph of Equality non-celestial] Glyph of Equality (non-celestial): Reduced power coefficient from 1.5 to 0.01
+* ![][Spike Trap] Spike Trap: Reduced power coefficient from 0.2 to 0.01. Adjusted bleeding from 6 stacks from 6.25 seconds to 1 stack for 1 second. Reduced cooldown from 30 seconds to 20 seconds
 
 ## 菁英技能
-* ![][Strength of the Pack]Strength of the Pack: Reduced might duration from 10 seconds to 6 seconds. Reduced stability duration from 8 seconds to 6 seconds
+* ![][Strength of the Pack] Strength of the Pack: Reduced might duration from 10 seconds to 6 seconds. Reduced stability duration from 8 seconds to 6 seconds
 
 ## 特性
-Marksmanship
+### Marksmanship
+* ![][Stoneform] Stoneform: Increased cooldown from 90 seconds to 300 seconds
+* ![][Lesser Call of the Wild] Lesser Call of the Wild (from Clarion Bond): Reduced boon durations from 15 seconds to 6 seconds
 
-* ![][Stoneform]Stoneform: Increased cooldown from 90 seconds to 300 seconds
-* ![][Lesser Call of the Wild]Lesser Call of the Wild (from Clarion Bond): Reduced boon durations from 15 seconds to 6 seconds
+### Skirmishing
+* ![][Sharpened Edges] Sharpened Edges: Reduced bleeding duration from 3 seconds to 1 second
+* ![][Primal Reflexes] Primal Reflexes: Reduced vigor duration from 8 seconds to 4 seconds
+* ![][Strider's Defense] Strider's Defense: Reduced quickness duration from 3 seconds to 1.5 seconds
 
-Skirmishing
+### Wilderness Survival
+* ![][Rugged Growth] Rugged Growth: Reduced base heal from 259 to 155
+* ![][Lesser Muddy Terrain] Lesser Muddy Terrain (from Child of Earth): Reduced duration from 10 seconds to 4 seconds
+* ![][Taste for Danger] Taste for Danger: Reduced vitality to expertise conversion from 7% to 4%
+* ![][Refined Toxins] Refined Toxins: Reduced poison duration from 6 seconds to 4 seconds
+* ![][Shared Anguish] Shared Anguish: Increased cooldown from 90 seconds to 300 seconds
 
-* ![][Sharpened Edges]Sharpened Edges: Reduced bleeding duration from 3 seconds to 1 second
-* ![][Primal Reflexes]Primal Reflexes: Reduced vigor duration from 8 seconds to 4 seconds
-* ![][Strider's Defense]Strider's Defense: Reduced quickness duration from 3 seconds to 1.5 seconds
+### Nature Magic
+* ![][Rejuvenation] Rejuvenation: Reduced regeneration duration from 5 seconds to 3 seconds
+* ![][Lingering Magic] Lingering Magic: Reduced concentration from 240 to 120
+* ![][Instinctive Reaction] Instinctive Reaction: Reduced quickness duration from 3 seconds to 2 seconds
+* ![][Windborne Notes] Windborne Notes: Reduced regeneration duration from 6 seconds to 4 seconds
+* ![][Protective Ward] Protective Ward: Reduced weakness duration from 6 seconds to 4 seconds
 
-Wilderness Survival
+### Beastmastery
+* ![][Wilting Strike] Wilting Strike: Reduced weakness duration from 4 seconds to 3 seconds
+* ![][Lesser Quickening Zephyr] Lesser Quickening Zephyr (from Zephyr's Speed): Reduced quickness and superspeed durations from 3 seconds to 2 seconds
 
-* ![][Rugged Growth]Rugged Growth: Reduced base heal from 259 to 155
-* ![][Lesser Muddy Terrain]Lesser Muddy Terrain (from Child of Earth): Reduced duration from 10 seconds to 4 seconds
-* ![][Taste for Danger]Taste for Danger: Reduced vitality to expertise conversion from 7% to 4%
-* ![][Refined Toxins]Refined Toxins: Reduced poison duration from 6 seconds to 4 seconds
-* ![][Shared Anguish]Shared Anguish: Increased cooldown from 90 seconds to 300 seconds
+### Druid
+* ![][Live Vicariously] Live Vicariously: Reduced base healing from 207 to 144
+* ![][Natural Mender] Natural Mender: Reduced bonus outgoing healing per stack from 2% to 1%
+* ![][Celestial Shadow] Celestial Shadow: Reduced stealth duration from 3 seconds to 2 seconds
+* ![][Grace of the Land] Grace of the Land: Reduced might duration from 12 seconds to 6 seconds. Reduced target cap from 10 to 5
 
-Nature Magic
-
-* ![][Rejuvenation]Rejuvenation: Reduced regeneration duration from 5 seconds to 3 seconds
-* ![][Lingering Magic]Lingering Magic: Reduced concentration from 240 to 120
-* ![][Instinctive Reaction]Instinctive Reaction: Reduced quickness duration from 3 seconds to 2 seconds
-* ![][Windborne Notes]Windborne Notes: Reduced regeneration duration from 6 seconds to 4 seconds
-* ![][Protective Ward]Protective Ward: Reduced weakness duration from 6 seconds to 4 seconds
-
-Beastmastery
-
-* ![][Wilting Strike]Wilting Strike: Reduced weakness duration from 4 seconds to 3 seconds
-* ![][Lesser Quickening Zephyr]Lesser Quickening Zephyr (from Zephyr's Speed): Reduced quickness and superspeed durations from 3 seconds to 2 seconds
-
-Druid
-
-* ![][Live Vicariously]Live Vicariously: Reduced base healing from 207 to 144
-* ![][Natural Mender]Natural Mender: Reduced bonus outgoing healing per stack from 2% to 1%
-* ![][Celestial Shadow]Celestial Shadow: Reduced stealth duration from 3 seconds to 2 seconds
-* ![][Grace of the Land]Grace of the Land: Reduced might duration from 12 seconds to 6 seconds. Reduced target cap from 10 to 5
-
-Soulbeast
-
-* ![][Live Fast]Live Fast: Reduced quickness duration from 3 seconds to 2 seconds
-* ![][Eternal Bond]Eternal Bond: Increased cooldown from 90 seconds to 300 seconds
+### Soulbeast
+* ![][Live Fast] Live Fast: Reduced quickness duration from 3 seconds to 2 seconds
+* ![][Eternal Bond] Eternal Bond: Increased cooldown from 90 seconds to 300 seconds
 
 ###### 貢獻者
 Richun, 赤木 (Alik.9651)
@@ -261,7 +226,16 @@ Richun, 赤木 (Alik.9651)
 [magnetic aura]: https://wiki.guildwars2.com/images/thumb/5/5a/Magnetic_Aura.png/20px-Magnetic_Aura.png
 [shocking aura]: https://wiki.guildwars2.com/images/thumb/3/31/Shocking_Aura.png/20px-Shocking_Aura.png
 
-[Autoattack Chain]: https://to.be.repalced
+[Slash]: https://wiki.guildwars2.com/images/thumb/e/e9/Slash_%28ranger_greatsword_skill%29.png/32px-Slash_%28ranger_greatsword_skill%29.png
+[Slice]: https://wiki.guildwars2.com/images/thumb/0/0f/Slice_%28ranger_skill%29.png/32px-Slice_%28ranger_skill%29.png
+[Enduring Swing]: https://wiki.guildwars2.com/images/thumb/5/59/Enduring_Swing.png/32px-Enduring_Swing.png
+[Slash]: https://wiki.guildwars2.com/images/thumb/b/b4/Slash_%28ranger_sword_skill%29.png/32px-Slash_%28ranger_sword_skill%29.png
+[Crippling Thrust]: https://wiki.guildwars2.com/images/thumb/b/b8/Crippling_Thrust.png/32px-Crippling_Thrust.png
+[Precision Swipe]: https://wiki.guildwars2.com/images/thumb/9/94/Precision_Swipe.png/32px-Precision_Swipe.png
+[Groundwork Gouge]: https://wiki.guildwars2.com/images/thumb/3/3a/Groundwork_Gouge.png/32px-Groundwork_Gouge.png
+[Leading Swipe]: https://wiki.guildwars2.com/images/thumb/7/78/Leading_Swipe.png/32px-Leading_Swipe.png
+[Serpent Stab]: https://wiki.guildwars2.com/images/thumb/1/1d/Serpent_Stab.png/32px-Serpent_Stab.png
+[Deadly Delivery]: https://wiki.guildwars2.com/images/thumb/1/1d/Serpent_Stab.png/32px-Serpent_Stab.png
 
 [Cosmic Ray]: https://wiki.guildwars2.com/images/thumb/3/37/Cosmic_Ray.png/32px-Cosmic_Ray.png
 [Seed of Life]: https://wiki.guildwars2.com/images/thumb/9/9e/Seed_of_Life.png/32px-Seed_of_Life.png
