@@ -161,7 +161,7 @@
   * ![][armor of earth] Armor of Earth: 冷卻時間從 50 秒延長到 60 秒。
   * ![][glyph of elemental power] Glyph of Elemental Power: 冷卻時間從 25 秒延長到 30 秒，![][burning] Burning 時長從 3 秒縮短為 1.5 秒。
   * ![][feel the burn] "Feel the Burn!": 直傷係數從 1.0 降為 0.1，![][might] Might 從 3 層 10 秒調整為 6 層 6 秒。
-  * ![][flash freeze] "Flash Freeze!": 直傷係數從 0.7 降為 0.1，![][chilled] Chill 時長從 3 秒延長到 4 秒。
+  * ![][flash-freeze] "Flash Freeze!": 直傷係數從 0.7 降為 0.1，![][chilled] Chill 時長從 3 秒延長到 4 秒。
   * ![][eye of the storm] "Eye of the Storm!": ![][superspeed] Superspeed 的時長從 5 秒縮短為 3 秒。冷卻時間從 40 秒縮短為 35 秒。
   * ![][aftershock] "Aftershock!": 直傷係數從 1.5 降為 0.1，![][immobile] Immobilize 時長從 2 秒延長到 3 秒，![][protection] Protection 的時長從 5 秒縮短為 3 秒，冷卻時間從 35 秒縮短為 30 秒。
   * ![][primordial stance] Primordial Stance: 充填時間從 20 秒延長到 25 秒，![][burning] Burning 的時長從 3 秒縮短為 1.5 秒。
@@ -398,7 +398,7 @@ Richun
 [lightning rod]: https://wiki.guildwars2.com/images/thumb/6/62/Lightning_Rod.png/32px-Lightning_Rod.png
 [earthen blast]: https://wiki.guildwars2.com/images/thumb/e/e2/Earthen_Blast.png/32px-Earthen_Blast.png
 [earth's embrace]: https://wiki.guildwars2.com/images/thumb/f/f0/Earth%27s_Embrace.png/32px-Earth%27s_Embrace.png
-[strenvgth of stone]: https://wiki.guildwars2.com/images/thumb/a/a1/Strength_of_Stone.png/32px-Strength_of_Stone.png
+[strength of stone]: https://wiki.guildwars2.com/images/thumb/a/a1/Strength_of_Stone.png/32px-Strength_of_Stone.png
 [earthen blessing]: https://wiki.guildwars2.com/images/thumb/c/c4/Earthen_Blessing.png/32px-Earthen_Blessing.png
 [arcane prowess]: https://wiki.guildwars2.com/images/thumb/2/2c/Arcane_Fury.png/32px-Arcane_Fury.png
 [elemental attunement]: https://wiki.guildwars2.com/images/thumb/4/48/Elemental_Attunement.png/32px-Elemental_Attunement.png
