@@ -280,10 +280,10 @@ Richun
 [overload water]: https://wiki.guildwars2.com/images/thumb/3/39/Overload_Water.png/32px-Overload_Water.png
 [overload air]: https://wiki.guildwars2.com/images/thumb/4/4b/Overload_Air.png/32px-Overload_Air.png
 [overload earth]: https://wiki.guildwars2.com/images/thumb/c/cb/Overload_Earth.png/32px-Overload_Earth.png
-[fire attunement]: https://wiki.guildwars2.com/images/thumb/b/b4/Fire_Attunement.png/32px-Fire_Attunement.png
-[water attunement]: https://wiki.guildwars2.com/images/thumb/3/31/Water_Attunement.png/32px-Water_Attunement.png
-[air attunement]: https://wiki.guildwars2.com/images/thumb/9/91/Air_Attunement.png/32px-Air_Attunement.png
-[earth attunement]: https://wiki.guildwars2.com/images/thumb/a/a8/Earth_Attunement.png/32px-Earth_Attunement.png
+[fire attunement]: https://wiki.guildwars2.com/images/thumb/b/b4/Fire_Attunement.png/20px-Fire_Attunement.png
+[water attunement]: https://wiki.guildwars2.com/images/thumb/3/31/Water_Attunement.png/20px-Water_Attunement.png
+[air attunement]: https://wiki.guildwars2.com/images/thumb/9/91/Air_Attunement.png/20px-Air_Attunement.png
+[earth attunement]: https://wiki.guildwars2.com/images/thumb/a/a8/Earth_Attunement.png/20px-Earth_Attunement.png
 [fireball]: https://wiki.guildwars2.com/images/thumb/a/ae/Fireball.png/32px-Fireball.png
 [lava font]: https://wiki.guildwars2.com/images/thumb/4/48/Lava_Font.png/32px-Lava_Font.png
 [meteor shower]: https://wiki.guildwars2.com/images/thumb/c/cf/Meteor_Shower.png/32px-Meteor_Shower.png
