@@ -100,33 +100,33 @@
 * ![][Spiteful Spirit] Spiteful Spirit: 直傷系數由0.4減至0.1. 恩賜腐化量由2減至1. 對50%血量以下敵人的額外恩賜腐化量由2減至1
 
 ### ![][Curses] Curses
-    * ![][Barbed Precision] Barbed Precision: ![][bleeding]流血時效由2秒減至1秒
-    * ![][Weakening Shroud] Weakening Shroud: ![][weakness]衰弱時效由5秒減至2.5秒
-    * ![][Devouring Darkness] Devouring Darkness: PvP現在使用WvW版本 (腐化1個恩賜)
+* ![][Barbed Precision] Barbed Precision: ![][bleeding]流血時效由2秒減至1秒
+* ![][Weakening Shroud] Weakening Shroud: ![][weakness]衰弱時效由5秒減至2.5秒
+* ![][Devouring Darkness] Devouring Darkness: PvP現在使用WvW版本 (腐化1個恩賜)
 
 ### ![][Death Magic] Death Magic
-    * ![][Dark Defiance] Dark Defiance: 冷卻時間由20秒增至35秒
+* ![][Dark Defiance] Dark Defiance: 冷卻時間由20秒增至35秒
 
 ### ![][Blood Magic] Blood Magic
-    * ![][Lesser Mark of Blood] Lesser Mark of Blood: 直傷系數由0.33減至0.1. ![][bleeding]流血層數由2層減至1層
-    * ![][Life From Death] Life From Death: 救援脈動由10%減至5%
-    * ![][Transfusion] Transfusion (配合![][Scourge 20]Scourge菁英特化時): 基本脈動回復量由292減至204. 脈動回復的治療系數由0.3減至0.1. 救援脈動由2%減至1%
+* ![][Lesser Mark of Blood] Lesser Mark of Blood: 直傷系數由0.33減至0.1. ![][bleeding]流血層數由2層減至1層
+* ![][Life From Death] Life From Death: 救援脈動由10%減至5%
+* ![][Transfusion] Transfusion (配合![][Scourge 20]Scourge菁英特化時): 基本脈動回復量由292減至204. 脈動回復的治療系數由0.3減至0.1. 救援脈動由2%減至1%
 
 ### ![][Soul Reaping] Soul Reaping
-    * ![][Fear of Death] Fear of Death: 額外![][fear]恐怖時效由100%減至50%
-    * ![][Unyielding Blast] Unyielding Blast: ![][vulnerability]破甲時效由10秒減至6秒
-    * ![][Dhuumfire] Dhuumfire (配合![][Scourge 20]Scourge菁英特化時): ![][burning]燃燒時效由3秒減至1秒
+* ![][Fear of Death] Fear of Death: 額外![][fear]恐怖時效由100%減至50%
+* ![][Unyielding Blast] Unyielding Blast: ![][vulnerability]破甲時效由10秒減至6秒
+* ![][Dhuumfire] Dhuumfire (配合![][Scourge 20]Scourge菁英特化時): ![][burning]燃燒時效由3秒減至1秒
 
 ### ![][Reaper] Reaper
-    * ![][Chilling Nova] Chilling Nova: 直傷系數由0.6減至0.1. ![][chilled]凍結時效由1.5秒增至2秒. 冷卻時間由8秒增至10秒
-    * ![][Chilling Victory] Chilling Victory: ![][might]威能時效由8秒減至6秒
+* ![][Chilling Nova] Chilling Nova: 直傷系數由0.6減至0.1. ![][chilled]凍結時效由1.5秒增至2秒. 冷卻時間由8秒增至10秒
+* ![][Chilling Victory] Chilling Victory: ![][might]威能時效由8秒減至6秒
 
 ### ![][Scourge] Scourge
-    * ![][Sand Sage] Sand Sage: 每個沙影增加的Concentration及Expertise由75減至45
-    * ![][Fell Beacon] Fell Beacon: 癥狀傷害轉換至Expertise的轉換率由7%減至4%
-    * ![][Nourishing Ashes] Nourishing Ashes: 生命能量收益由5%減至3%
-    * ![][Sadistic Searing] Sadistic Searing: ![][burning]燃燒時效由4秒減至2秒
-    * ![][Demonic Lore]Demonic Lore: ![][burning]燃燒時效由3秒減至1秒
+* ![][Sand Sage] Sand Sage: 每個沙影增加的Concentration及Expertise由75減至45
+* ![][Fell Beacon] Fell Beacon: 癥狀傷害轉換至Expertise的轉換率由7%減至4%
+* ![][Nourishing Ashes] Nourishing Ashes: 生命能量收益由5%減至3%
+* ![][Sadistic Searing] Sadistic Searing: ![][burning]燃燒時效由4秒減至2秒
+* ![][Demonic Lore]Demonic Lore: ![][burning]燃燒時效由3秒減至1秒
 
 ###### 貢獻者
 Richun, 赤木 (Alik.9651)
