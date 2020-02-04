@@ -122,7 +122,7 @@
 * ![][Maleficent Seven]Maleficent Seven: ![][might]威能時效由10秒減至6秒
 * ![][Fire for Effect]Fire for Effect: ![][might]威能時效由12秒減至6秒
 
-###### 貢獻者
+## 貢獻者
 1. Richun
 2. Alik (赤木)
 
