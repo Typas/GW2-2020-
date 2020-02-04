@@ -129,8 +129,9 @@
 * ![][Sadistic Searing] Sadistic Searing: ![][burning]燃燒時效由4秒減至2秒
 * ![][Demonic Lore]Demonic Lore: ![][burning]燃燒時效由3秒減至1秒
 
-###### 貢獻者
-Richun, 赤木 (Alik.9651)
+## 貢獻者
+1. Richun
+2. Alik (赤木)
 
 [底下這些別動，上面才是正文]: https://wiki.guildwars2.com
 
