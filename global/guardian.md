@@ -17,7 +17,7 @@
 * ![][furious focus] Furious Focus: 當有 ![][fury]Fury 時攻擊目標會上 1 層 ![][vulnerability]Vulnerability。
 > * ![][binding jeopardy] Binding Jeopardy: 此特性被 Furious Focus 取代。
 
-#### 貢獻者
+## 貢獻者
 1. Richun
 2. Alik (赤木)
 
