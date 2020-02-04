@@ -179,8 +179,9 @@
 * ![][Legendary Lore] Legendary Lore: 額外![][burning]燃燒時效由20%減至10%. ![][regeneration]再生時效由3秒減至1.5秒. ![][protection]保護時效由2秒減至1秒
 * ![][Stoic Demeanor] Stoic Demeanor: ![][slow]遲緩時效由2.5秒減至1.5秒. ![][burning]燃燒時效由5秒減至2秒. 冷卻時間由3秒減至1秒.
 
-###### 貢獻者
-Richun, 赤木 (Alik.9651)
+## 貢獻者
+1. Richun
+2. Alik (赤木)
 
 [底下這些別動，上面才是正文]: https://wiki.guildwars2.com
 
