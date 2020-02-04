@@ -184,8 +184,9 @@
 * ![][Sun and Moon Style] Sun and Moon Style: ![][quickness]急速時效由3秒減至2秒
 * ![][Magebane Tether] Magebane Tether: ![][might]威能層數由2層減至1層
 
-###### 貢獻者
-Richun, 赤木 (Alik.9651)
+## 貢獻者
+1. Richun
+2. Alik (赤木)
 
 [底下這些別動，上面才是正文]: https://wiki.guildwars2.com
 
