@@ -118,7 +118,7 @@
 * ![]["Stand Your Ground!"] "Stand Your Ground!": 冷卻時間由30秒增至45秒. 目標上限由10減至5.
 * ![][Bane Signet] Bane Signet: 直傷系數由1.0減至0.01
 * ![][Bow of Truth] Bow of Truth: 持續治療系數由0.15減至0.05
-* ![][Hammer of Wisdom] Hammer of Wisdom: 直傷系數由1.2減至0.01. 子彈冷卻時間由25秒增至30秒
+* ![][Hammer of Wisdom] Hammer of Wisdom: 直傷系數由1.2減至0.01. 充能時間由25秒增至30秒
 * ![][Sword of Justice] Sword of Justice: ![][vulnerability]破甲時效由8秒減至6秒
 * ![][Fragments of Faith] Fragments of Faith: 冷卻時間由45秒增至60秒. 直傷系數由1.5減至1.0
 * ![][Test of Faith] Test of Faith: 穿透攻擊直傷系數由2.52增至2.8. 初擊直傷系數由1.4減至0.1. ![][protection]保護時效由6秒減至2秒. ![][crippled]殘廢時效由6秒減至3秒
@@ -135,7 +135,7 @@
 ## 菁英技能
 * ![]["Feel My Wrath!"] "Feel My Wrath!": ![][quickness]急速時效由8秒減至5秒
 * ![][Dragon's Maw] Dragon's Maw: 直傷系數由2.5減至0.01. ![][might]威能時效由8秒減至6秒. ![][slow]遲緩時效由4秒減至3秒. 冷卻時間由75秒減至50秒
-* ![][Mantra of Liberation] Mantra of Liberation: 冷卻時間由40秒增至60秒. 子彈冷卻時間由25秒增至45秒
+* ![][Mantra of Liberation] Mantra of Liberation: 冷卻時間由40秒增至60秒. 充能時間由25秒增至45秒
   * ![][Portent of Freedom] Portent of Freedom: ![][stability]穩固時效由5秒減至1秒
   * ![][Unhindered Delivery] Unhindered Delivery: ![][stability]穩固時效由5秒減至4秒
 
