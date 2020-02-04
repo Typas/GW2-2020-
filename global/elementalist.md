@@ -32,7 +32,7 @@
 > * [![][elemental contingency]][elemental contingency] Elemental Contingency: 此特性被 Elemental Lockdown 取代。
 
 
-#### 貢獻者
+## 貢獻者
 1. Richun
 2. Alik
 
