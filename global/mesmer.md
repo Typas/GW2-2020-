@@ -80,7 +80,7 @@ Richun (Richun.9045), Alik
 [phantasmal berserker 20]: https://wiki.guildwars2.com/images/thumb/e/e8/Phantasmal_Berserker.png/20px-Phantasmal_Berserker.png
 [bountiful blades]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
 [vicious expression]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
-[vicious expression 20]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
+[vicious expression 20]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/20px-Skill.png
 [imagined burden]: https://wiki.guildwars2.com/images/thumb/3/3c/Imagined_Burden.png/32px-Imagined_Burden.png
 
 [signet of domination wiki]: https://wiki.guildwars2.com/wiki/Signet_of_Domination
