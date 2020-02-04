@@ -123,7 +123,8 @@
 * ![][Fire for Effect]Fire for Effect: ![][might]威能時效由12秒減至6秒
 
 ###### 貢獻者
-Richun, 赤木 (Alik.9651)
+1. Richun
+2. Alik (赤木)
 
 [底下這些別動，上面才是正文]: https://wiki.guildwars2.com
 
