@@ -2,6 +2,7 @@
 
 ###### tags: `PvP` `WvW` `GW2` `2020 Feb Update` `Mesmer`
 
+> 全域性的更動在[這裡](https://hackmd.io/@Richun/S1fpvS7zL)，不會再重複列出。  
 > 翻譯參考：  
 > Power Coefficient: 直傷係數  
 > Heal Coefficient: 治療係數  
