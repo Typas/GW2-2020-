@@ -125,6 +125,6 @@ Richun (Richun.9045), Alik
 [shocking bolt wiki]: https://wiki.guildwars2.com/wiki/Shocking_Bolt
 [stomp wiki]: https://wiki.guildwars2.com/wiki/Stomp_(Glyph_of_Elementals_skill)
 [stone flesh wiki]: https://wiki.guildwars2.com/wiki/Stone_Flesh
-[blostered elements wiki]: https://wiki.guildwars2.com/wiki/Bolstered_Elements
+[bolstered elements wiki]: https://wiki.guildwars2.com/wiki/Bolstered_Elements
 [elemental lockdown wiki]: https://wiki.guildwars2.com/wiki/Elemental_Lockdown
 [elemental contingency wiki]: https://wiki.guildwars2.com/wiki/Elemental_Contingency
