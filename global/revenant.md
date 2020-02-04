@@ -71,7 +71,7 @@
     * ![][Fiendish Tenacity]Fiendish Tenacity **(新天賦)**: ![][Invoke Torment 20]"Invoke Torment"給予![][resistance]抵抗. ![][resistance]持有抵抗期間每秒回復生命.
     * ![][Pulsating Pestilence]Permeating Pestilence (更名): ![][Invoke Torment 20]"Invoke Torment"轉移癥狀予擊中的對象.
 
-#### 貢獻者
+## 貢獻者
 1. Richun
 2. Alik (赤木)
 
