@@ -36,12 +36,12 @@
 
 ### Scepter 權杖
 * ![][Blood Curse] 自動攻擊串: 直傷系數由0.35/0.35/0.5減至0.233/0.233/0.333
-* ![][Grasping Dead] Grasping Dead: ![][bleeding]流血由3層10秒改成2層12秒. ![][crippled]殘廢時效由7秒減至5秒. 直傷系數由0.8減至0.6
+* ![][Grasping Dead] Grasping Dead: ![][bleeding]流血由3層10秒改為2層12秒. ![][crippled]殘廢時效由7秒減至5秒. 直傷系數由0.8減至0.6
 * ![][Feast of Corruption] Feast of Corruption: 直傷系數由1.0減至0.75. 恩賜腐化量由2減至1
 
 ### Dagger 匕首
 * ![][Necrotic Slash] 自動攻擊串: 直傷系數由0.9/0.7/1.2減至0.6/0.466/0.8
-* ![][Life Siphon] Life Siphon: 每擊直傷系數由0.3減至0.25. 基本脈動回復量由450減至300
+* ![][Life Siphon] Life Siphon: 每擊直傷系數由0.3減至0.25. 基本持續回復量由450減至300
 * ![][Dark Pact] Dark Pact: 恩賜腐化量由2減至1
 #### Dagger Off-Hand 副手匕首
 * ![][Deathly Swarm] Deathly Swarm: 直傷系數由0.6減至0.1
@@ -61,7 +61,7 @@
 * ![][Oppressive Collapse] Oppressive Collapse: 直傷系數由1.2減至0.01. ![][might]威能時效由8秒減至6秒
 
 ## 治療技能
-* ![][Well of Blood] Well of Blood: 初始基本回復量由6026減至5122. 脈動回復量治療系數由0.4減至0.2
+* ![][Well of Blood] Well of Blood: 初始基本回復量由6026減至5122. 持續回復量治療系數由0.4減至0.2
 * ![][Sand Flare] Sand Flare: 治療對![][barrier]護盾的系數由1.5125減至0.75. 治療系數由1.1減至0.75. 冷卻時間由25秒增至30秒
 
 ## 通用技能
@@ -70,9 +70,9 @@
 * ![][Signet of Spite] Signet of Spite: ![][vulnerability]破甲時效由10秒減至6秒
 * ![][Spectral Armor] Spectral Armor: 冷卻時間由40秒增至45秒
 * ![][Spectral Walk] Spectral Walk: 冷卻時間由40秒增至50秒
-* ![][Well of Corruption] Well of Corruption: 脈動攻擊直傷系數由0.5減至0.45
+* ![][Well of Corruption] Well of Corruption: 持續攻擊直傷系數由0.5減至0.45
 * ![][Well of Power] Well of Power: ![][might]威能時效由8秒減至6秒
-* ![][Well of Suffering] Well of Suffering: 脈動攻擊直傷系數由1.0減至0.9
+* ![][Well of Suffering] Well of Suffering: 持續攻擊直傷系數由1.0減至0.9
 * ![]["Nothing Can Save You!"] "Nothing Can Save You!": ![][vulnerability]破甲時效由10秒減至6秒
 * ![]["Rise!"] "Rise!": 直傷系數由0.8減至0.4. 冷卻時間由60秒減至50秒
 * ![]["Suffer!"] "Suffer!": 直傷系數由0.7減至0.3
@@ -92,10 +92,10 @@
 * ![][Siphoned Power] Siphoned Power: ![][might]威能時效由8秒減至6秒. ![][might]威能層數由3層減至2層
 * ![][Bitter Chill] Bitter Chill: ![][vulnerability]破甲時效由8秒減至6秒
 * ![][Chill of Death] Chill of Death: 直傷系數變動如下
-* 0個恩賜: 0.35減至0.03
-* 1個恩賜: 0.525減至0.045
-* 2個恩賜: 0.875減至0.075
-* 3個恩賜: 1.225減至0.105
+  * 0個恩賜: 0.35減至0.03
+  * 1個恩賜: 0.525減至0.045
+  * 2個恩賜: 0.875減至0.075
+  * 3個恩賜: 1.225減至0.105
 * ![][Dread] Dread: 額外傷害由33%減至15%
 * ![][Spiteful Spirit] Spiteful Spirit: 直傷系數由0.4減至0.1. 恩賜腐化量由2減至1. 對50%血量以下敵人的額外恩賜腐化量由2減至1
 
@@ -109,8 +109,8 @@
 
 ### ![][Blood Magic] Blood Magic
 * ![][Lesser Mark of Blood] Lesser Mark of Blood: 直傷系數由0.33減至0.1. ![][bleeding]流血層數由2層減至1層
-* ![][Life From Death] Life From Death: 救援脈動由10%減至5%
-* ![][Transfusion] Transfusion (配合![][Scourge 20]Scourge菁英特化時): 基本脈動回復量由292減至204. 脈動回復的治療系數由0.3減至0.1. 救援脈動由2%減至1%
+* ![][Life From Death] Life From Death: 救援持續由10%減至5%
+* ![][Transfusion] Transfusion (配合![][Scourge 20]Scourge菁英特化時): 基本持續回復量由292減至204. 持續回復的治療系數由0.3減至0.1. 救援持續由2%減至1%
 
 ### ![][Soul Reaping] Soul Reaping
 * ![][Fear of Death] Fear of Death: 額外![][fear]恐怖時效由100%減至50%
