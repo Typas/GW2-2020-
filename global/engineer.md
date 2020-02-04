@@ -2,7 +2,7 @@
 
 ###### tags: `Global` `GW2` `2020 Feb Update` `Engineer`
 
-> 工程師的![][Explosives 25]Explosives天賦線在這次更新有一些重要的變動. 我們刪除了一些弱勢或效果乏善可陳的天賦, 如![][Minesweeper]Minesweeper, ![][Orbital Command]Orbital Command及![][Blasting Zone]Blasting Zone, 以及重組了別的天賦以統一功能性, 如![][Short Fuse 20]Short Fuse及![][Big Boomer 20]Big Boomer. ![][Evasive Powder Keg]Evasive Powder Keg已被刪除及被![][Explosive Entrance]Explosive Entrance取代, 依然是在迴避時追加攻擊, 但是一個更加可控和調整的方式. 最後, 我們令不同[grenade](https://wiki.guildwars2.com/wiki/Grenade)技能在競爭模式的差異更清晰, 因為在丟出時實在很難分辨不同的[grenade](https://wiki.guildwars2.com/wiki/Grenade)之間差異.
+> 工程師的![][Explosives 25]Explosives天賦線在這次更新有一些重要的變動. 我們刪除了一些弱勢或效果乏善可陳的天賦, 如![][Minesweeper]Minesweeper, ![][Orbital Command]Orbital Command及![][Blasting Zone]Blasting Zone, 以及重組了別的天賦以統一功能性, 如![][Short Fuse 20]Short Fuse及![][Big Boomer 20]Big Boomer. ![][Evasive Powder Keg]Evasive Powder Keg已被刪除及被![][Explosive Entrance 20]Explosive Entrance取代, 依然是在迴避時追加攻擊, 但是一個更加可控和調整的方式. 最後, 我們令不同[grenade](https://wiki.guildwars2.com/wiki/Grenade)技能在競爭模式的差異更清晰, 因為在丟出時實在很難分辨不同的[grenade](https://wiki.guildwars2.com/wiki/Grenade)之間差異.
 
 * ![][Overheat]Overheat: 與其禁用所有[toolbelt](https://wiki.guildwars2.com/wiki/Tool_belt)技能直到全部熱能流失, 現在會增加![][Photon Forge 20]Photon Forge以外的所有[toolbelt](https://wiki.guildwars2.com/wiki/Tool_belt)技能15秒冷卻時間. ![][Photon Forge 20]Photon Forge維持禁用直到全部熱能流失.
 * ![][Photonic Blasting Module]Photonic Blasting Module: 當裝備這天賦時, ![][Overheat 20]Overheat所造成的額外冷卻時間由15秒減至5秒.
@@ -25,7 +25,7 @@
 ![][Explosives]Explosives: 天賦線已被重製, 新天賦如下.
 
 * 次要天賦 Minor Traits
-    * ![][Explosive Entrance 32]Explosive Entrance **(新天賦)**: 進入戰鬥後第一次攻擊會爆炸並傷害附近敵人 (算![][Explosion]explosion攻擊). 迴避或脫離戰鬥後會重置.
+    * ![][Explosive Entrance]Explosive Entrance **(新天賦)**: 進入戰鬥後第一次攻擊會爆炸並傷害附近敵人 (算![][Explosion]explosion攻擊). 迴避或脫離戰鬥後會重置.
     * ![][Steel-Packed Powder]Steel-Packed Powder: 效果不變
     * ![][Shaped Charge]Shaped Charge: 效果不變
 
@@ -37,10 +37,10 @@
     大師 Master
     * ![][Aim-Assisted Rocket]Aim-Assisted Rocket (重製): 現在只有暴擊時會發射![][Aim-Assisted Rocket trait skill]Rockets. ![][Aim-Assisted Rocket trait skill]Rocket冷卻時間由10秒減至3秒. ![][Aim-Assisted Rocket trait skill]Rockets現在只有在距離目標最少450才會發射. 每第5個![][Aim-Assisted Rocket trait skill]rocket會變成發射![][Orbital Strike 20]orbital strike.
     * ![][Explosive Temper]Explosive Temper **(新天賦)**: ![][Explosion]Explosions每次命中會給予10秒 +20 [Ferocity](https://wiki.guildwars2.com/wiki/Ferocity) (上限10層).
-    * ![][Blast Shield]Blast Shield **(新天賦)**: ![][Explosive Entrance]Explosive Entrance給予![][barrier]護盾 (PvE基本1508, WvW/PvP基本340). 以及轉換10% power至vitality.
+    * ![][Blast Shield]Blast Shield **(新天賦)**: ![][Explosive Entrance 20]Explosive Entrance給予![][barrier]護盾 (PvE基本1508, WvW/PvP基本340). 以及轉換10% power至vitality.
 
 * 宗師 Grandmaster
-    * ![][Flashbang]Flashbang **(新天賦)**: ![][Explosive Entrance]Explosive Entrance命中時引致3秒![][blinded]致盲. 另外會對90%血量以上的敵人引致1秒![][daze]暈眩.
+    * ![][Flashbang]Flashbang **(新天賦)**: ![][Explosive Entrance 20]Explosive Entrance命中時引致3秒![][blinded]致盲. 另外會對90%血量以上的敵人引致1秒![][daze]暈眩.
     * ![][Shrapnel]Shrapnel: 效果不變
     * ![][Big Boomer]Big Boomer (重製): 對血量比率較工程師低的敵人增加10%傷害. 另外用![][Explosion]Explosion技能攻擊時會持續回復工程師的生命3秒, 每秒回復202. (效果不可堆疊.)
 
@@ -108,8 +108,8 @@ Richun (Richun.9045), 赤木 (Alik.9651)
 [Big Boomer]: https://wiki.guildwars2.com/images/thumb/8/83/Big_Boomer.png/32px-Big_Boomer.png
 [Big Boomer 20]: https://wiki.guildwars2.com/images/thumb/8/83/Big_Boomer.png/20px-Big_Boomer.png
 [Evasive Powder Keg]: https://wiki.guildwars2.com/images/thumb/a/a4/Evasive_Powder_Keg.png/20px-Evasive_Powder_Keg.png
-[Explosive Entrance 32]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
-[Explosive Entrance]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
+[Explosive Entrance]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
+[Explosive Entrance 20]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/20px-Skill.png
 [Overheat]: https://wiki.guildwars2.com/images/thumb/4/4b/Overheat.png/32px-Overheat.png
 [Overheat 20]: https://wiki.guildwars2.com/images/thumb/4/4b/Overheat.png/20px-Overheat.png
 [Photon Forge 20]: https://wiki.guildwars2.com/images/thumb/d/dd/Engage_Photon_Forge.png/20px-Engage_Photon_Forge.png
@@ -136,7 +136,7 @@ Richun (Richun.9045), 赤木 (Alik.9651)
 [Glass Cannon]: https://wiki.guildwars2.com/images/thumb/6/6e/Glass_Cannon.png/32px-Glass_Cannon.png
 [Aim-Assisted Rocket]: https://wiki.guildwars2.com/images/thumb/e/e3/Aim-Assisted_Rocket.png/32px-Aim-Assisted_Rocket.png
 [Aim-Assisted Rocket trait skill]: https://wiki.guildwars2.com/images/thumb/9/9e/Fire_Rocket_Barrage.png/20px-Fire_Rocket_Barrage.png
-[Explosive Temper]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
-[Blast Shield]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
-[Flashbang]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
+[Explosive Temper]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
+[Blast Shield]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
+[Flashbang]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
 [Shrapnel]: https://wiki.guildwars2.com/images/thumb/c/ce/Shrapnel.png/32px-Shrapnel.png
