@@ -20,8 +20,9 @@
 > * ![][Foot in the Grave]Foot in the Grave: 被Eternal Life取代.
 * ![][Flesh of the Master]Flesh of the Master: 修正給予錯誤![][Death's Carapace 20]Death's Carapace層數的bug.
 
-###### 貢獻者
-Richun (Richun.9045), 赤木 (Alik.9651)
+#### 貢獻者
+1. Richun
+2. Alik (赤木)
 
 [底下這些別動，上面才是正文]: https://wiki.guildwars2.com
 
