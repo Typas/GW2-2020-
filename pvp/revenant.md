@@ -9,7 +9,7 @@
 
 ## 職業機制
 * ![][Facet of Nature] Facet of Nature
-    * ![][Facet of Nature (Ventari)] Facet of Nature (Ventari): 基本脈動回復量由471減至306. 治療係數由0.4減至0.1
+    * ![][Facet of Nature (Ventari)] Facet of Nature (Ventari): 基本持續回復量由471減至306. 治療係數由0.4減至0.1
     * ![][True Nature] True Nature (Ventari): 清除每個癥狀的基本回復量由970減至323
     * ![][True Nature] True Nature (Mallyx): ![][might]威能時效由10秒減至6秒
 * ![][Heroic Command] Heroic Command: ![][might]威能時效由8秒減至6秒
@@ -50,8 +50,8 @@
 * ![][Temporal Rift] Temporal Rift: 直傷係數由0.75減至0.01. ![][torment]折磨由2層12秒改成1層1秒
 
 ### Shield 盾
-* ![][Envoy of Exuberance] Envoy of Exuberance: 基本脈動回復量由1620減至1215. ![][protection]保護時效由2秒增至3秒
-* ![][Crystal Hibernation] Crystal Hibernation: 脈動回復量治療係數由0.5減至0.125
+* ![][Envoy of Exuberance] Envoy of Exuberance: 基本持續回復量由1620減至1215. ![][protection]保護時效由2秒增至3秒
+* ![][Crystal Hibernation] Crystal Hibernation: 持續回復量治療係數由0.5減至0.125
 
 ### Short Bow 短弓
 * ![][Shattershot] Shattershot: 直傷係數由0.65減至0.44. ![][bleeding]流血時效由3秒增至4秒
@@ -80,7 +80,7 @@
 * ![][Chaotic Release] Chaotic Release: 直傷係數由2.0減至0.01. 冷卻時間由45秒減至35秒
 
 ### ![][Kalla] 叛逆 Kalla
-* ![][Breakrazor's Bastion] Breakrazor's Bastion: 脈動回復量治療係數由0.7減至0.3. 初始回復量治療係數由1.3減至0.8
+* ![][Breakrazor's Bastion] Breakrazor's Bastion: 持續回復量治療係數由0.7減至0.3. 初始回復量治療係數由1.3減至0.8
 
 ## 特性
 ### ![][Retribution] Retribution
