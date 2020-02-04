@@ -116,8 +116,9 @@
 * ![][All for One] All for One: ![][protection]保護時效由4秒減至3秒
 * ![][Lasting Legacy] Lasting Legacy: 額外![][might]威能時效由12秒減至6秒
 
-###### 貢獻者
-Richun, 赤木 (Alik.9651)
+## 貢獻者
+1. Richun
+2. Alik (赤木)
 
 [底下這些別動，上面才是正文]: https://wiki.guildwars2.com
 
