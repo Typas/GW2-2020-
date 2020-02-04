@@ -20,7 +20,7 @@
 > * ![][Foot in the Grave]Foot in the Grave: 被Eternal Life取代.
 * ![][Flesh of the Master]Flesh of the Master: 修正給予錯誤![][Death's Carapace 20]Death's Carapace層數的bug.
 
-#### 貢獻者
+## 貢獻者
 1. Richun
 2. Alik (赤木)
 
