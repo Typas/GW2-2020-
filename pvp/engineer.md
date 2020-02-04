@@ -66,7 +66,7 @@
 * ![][Elixir B] Elixir B: 恩賜時效由10秒減至6秒. 冷卻時間由40秒減至30秒
 * ![][Toss Elixir B] Toss Elixir B: ![][might]威能時效由10秒減至6秒
 * ![][Toss Elixir S] Toss Elixir S: ![][stealth]隱身時效由5秒減至3秒
-* ![][Personal Battering Ram] Personal Battering Ram: 直傷系數由1.25減至0.01. 子彈冷卻時間由25秒減至20秒
+* ![][Personal Battering Ram] Personal Battering Ram: 直傷系數由1.25減至0.01. 充能時間由25秒減至20秒
 * ![][Launch Personal Battering Ram] Launch Personal Battering Ram: 直傷系數由1.5減至0.5
 * ![][Rocket Boots] Rocket Boots: 直傷系數由1.25減至0.5
 * ![][Super Speed] Super Speed: ![][superspeed]超速時效由5秒減至3秒
@@ -134,8 +134,9 @@
 * ![][Heat Therapy] Heat Therapy: 每層基本治療量由49減至39
 * ![][Thermal Release Valve] Thermal Release Valve: 直傷系數由0.75減至0.1. ![][burning]燃燒時效由6秒減至2秒
 
-###### 貢獻者
-Richun, 赤木 (Alik.9651)
+## 貢獻者
+1. Richun
+2. Alik (赤木)
 
 [底下這些別動，上面才是正文]: https://wiki.guildwars2.com
 
