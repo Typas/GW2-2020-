@@ -172,8 +172,9 @@ Glyph of Rejuvenation
 * ![][Live Fast] Live Fast: ![][quickness]急速時效由3秒減至2秒
 * ![][Eternal Bond] Eternal Bond: 冷卻時間由90秒增至300秒
 
-###### 貢獻者
-Richun, 赤木 (Alik.9651)
+## 貢獻者
+1. Richun
+2. Alik (赤木)
 
 [底下這些別動，上面才是正文]: https://wiki.guildwars2.com
 
