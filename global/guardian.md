@@ -78,8 +78,8 @@ Richun (Richun.9045)
 [hunter's ward]: https://wiki.guildwars2.com/images/thumb/e/e6/Hunter%27s_Ward.png/32px-Hunter%27s_Ward.png
 [chains of light]: https://wiki.guildwars2.com/images/thumb/5/5a/Chains_of_Light.png/32px-Chains_of_Light.png
 [stoic demeanor]: https://wiki.guildwars2.com/images/thumb/6/66/Stoic_Demeanor.png/32px-Stoic_Demeanor.png
-[inspiring virtue]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
+[inspiring virtue]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
 [virtuous solace]: https://wiki.guildwars2.com/images/thumb/8/8f/Virtuous_Solace.png/32px-Virtuous_Solace.png
 [wrathful spirit]: https://wiki.guildwars2.com/images/thumb/0/03/Wrathful_Spirit.png/32px-Wrathful_Spirit.png
-[furious focus]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
+[furious focus]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
 [binding jeopardy]: https://wiki.guildwars2.com/images/thumb/2/2e/Binding_Jeopardy.png/32px-Binding_Jeopardy.png
