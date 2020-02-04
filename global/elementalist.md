@@ -29,7 +29,7 @@
   * ![][water] Water: 10 秒 ![][regeneration]
   * ![][air] Air: 5 秒 ![][fury]
   * ![][earth] Earth: 4 秒 ![][protection]
-> * [![][elemental contingency]][elemental contingency] Elemental Contingency: 此特性被 Elemental Lockdown 取代。
+> * [![][elemental contingency]][elemental contingency wiki] Elemental Contingency: 此特性被 Elemental Lockdown 取代。
 
 
 ## 貢獻者
