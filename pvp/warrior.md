@@ -61,7 +61,7 @@
   * ![][Double Chop] Double Chop: 初擊直傷系數由0.45減至0.3. 次擊直傷系數由1.05減至0.7
   * ![][Triple Chop] Triple Chop: 首兩擊直傷系數由0.75減至0.5. 終擊直傷系數由1.6減至1.06
 * ![][Cyclone Axe] Cyclone Axe: 每擊直傷系數由0.88減至0.66. 每擊![][fury]狂怒時效由2秒減至1秒. 每擊![][vulnerability]破甲由3層8秒改為1層6秒. 冷卻時間由6秒增至8秒
-* ![][Throw Axe] Throw Axe: 子彈冷卻時間由10秒增至15秒
+* ![][Throw Axe] Throw Axe: 充能時間由10秒增至15秒
 * ![][Eviscerate] Eviscerate: 直傷系數由2.0/2.5/3.0減至1.333/1.666/2.0. ![][might]威能層數由5層減至1層
 #### Axe Off-Hand 副手 斧
 * ![][Dual Strike] Dual Strike: 每擊直傷系數由1.175減至1.0. 每擊![][quickness]急速由1.5秒減至0.5秒. 冷卻時間由12秒增至15秒
@@ -116,10 +116,10 @@
 
 ## 通用技能
 * ![][Bull's Charge] Bull's Charge: 直傷系數由2.0減至0.01
-* ![][Kick] Kick: 直傷系數由1.0減至0.01. 子彈冷卻時間由30秒減至25秒
+* ![][Kick] Kick: 直傷系數由1.0減至0.01. 充能時間由30秒減至25秒
 * ![][Stomp] Stomp: 直傷系數由0.75減至0.01. 初始![][stability]穩固時效由6秒減至1秒. 命中時的![][stability]穩固時效由6秒減至3秒. 冷卻時間由40秒減至30秒
 * ![]["For Great Justice!"] "For Great Justice!": ![][might]威能時效由15秒減至6秒
-* ![]["Shake it Off!"] "Shake it Off!": 癥狀清除量由6減至4. 子彈冷卻時間由50秒增至75秒
+* ![]["Shake it Off!"] "Shake it Off!": 癥狀清除量由6減至4. 充能時間由50秒增至75秒
 * ![][Dolyak Signet] Dolyak Signet: ![][stability]穩固時效由8秒減至6秒. 冷卻時間由40秒增至60秒
 * ![][Balanced Stance] Balanced Stance: 冷卻時間由40秒增至60秒
 * ![][Berserker Stance] Berserker Stance: 冷卻時間由30秒增至40秒
