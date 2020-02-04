@@ -11,168 +11,168 @@
 
 ## 職業機制
 ### Celestial Avatar
-* ![][Cosmic Ray] Cosmic Ray: Reduced heal coefficient from 0.469 to 0.25
-* ![][Seed of Life] Seed of Life: Reduced heal coefficient from 0.4745 to 0.2. Increased number of conditions cleansed from 1 to 2. Increased cooldown from 3 seconds to 4 seconds
-* ![][Lunar Impact] Lunar Impact: Reduced base heal from 1620 to 1215. Reduced heal coefficient from 1.44 to 0.72. Increased daze duration from 1.5 seconds to 2 seconds
-* ![][Rejuvenating Tides] Rejuvenating Tides: Reduced pulse heal coefficient from 0.3 to 0.15
+* ![][Cosmic Ray] Cosmic Ray: 治療系數由0.469減至0.25
+* ![][Seed of Life] Seed of Life: 治療系數由0.4745減至0.2. 癥狀清除量由1增至2. 冷卻時間由3秒增至4秒
+* ![][Lunar Impact] Lunar Impact: 基本治療量由1620減至1215. 治療系數由1.44減至0.72. ![][daze]暈眩時效由1.5秒增至2秒
+* ![][Rejuvenating Tides] Rejuvenating Tides: 持續治療系數由0.3減至0.15
 
 ### Soulbeast Merge Skills
-* ![][Swoop] Swoop (Bird): Increased cooldown from 10 seconds to 18 seconds
-* ![][Brutal Charge (Canine)] Brutal Charge (Canine): Reduced power coefficient from 0.64 to 0.01
-* ![][Tail Lash] Tail Lash (Devourer): Reduced power coefficient from 0.5 to 0.01
-* ![][Call Lightning] Call Lightning (Jacaranda): Reduced power coefficient per hit from 0.5 to 0.4
-* ![][Maul] Maul (Porcine): Increased cooldown from 12 seconds to 15 seconds
-* ![][Brutal Charge (Porcine)] Brutal Charge (Porcine): Reduced power coefficient from 0.67 to 0.01
-* ![][Takedown] Takedown (Smokescale): Reduced power coefficient from 0.7 to 0.01
-* ![][Smoke Assault] Smoke Assault (Smokescale): Reduced might duration from 8 seconds to 6 seconds. Reduced power coefficient per hit from 0.5 to 0.35
-* ![][Wing Buffet] Wing Buffet (Wyvern): Reduced power coefficient from 0.3 to 0.01
+* ![][Swoop] Swoop (Bird): 冷卻時間由10秒增至18秒
+* ![][Brutal Charge (Canine)] Brutal Charge (Canine): 直傷系數由0.64減至0.01
+* ![][Tail Lash] Tail Lash (Devourer): 直傷系數由0.5減至0.01
+* ![][Call Lightning] Call Lightning (Jacaranda): 直傷系數per hit由0.5減至0.4
+* ![][Maul] Maul (Porcine): 冷卻時間由12秒增至15秒
+* ![][Brutal Charge (Porcine)] Brutal Charge (Porcine): 直傷系數由0.67減至0.01
+* ![][Takedown] Takedown (Smokescale): 直傷系數由0.7減至0.01
+* ![][Smoke Assault] Smoke Assault (Smokescale): ![][might]威能時效由8秒減至6秒. 每擊直傷系數由0.5減至0.35
+* ![][Wing Buffet] Wing Buffet (Wyvern): 直傷系數由0.3減至0.01
 
 ### Beast Skills
-* ![][Unflinching Fortitude] Unflinching Fortitude: Increased cooldown from 35 seconds to 50 seconds
-* ![][Worldly Impact] Worldly Impact: Reduced power coefficient from 1.89 to 1.512
+* ![][Unflinching Fortitude] Unflinching Fortitude: 冷卻時間由35秒增至50秒
+* ![][Worldly Impact] Worldly Impact: 直傷系數由1.89減至1.512
 
 ## Pet Skills
 ### Pig Family
-* ![][Brutal Charge (Porcine)] Brutal Charge: Reduced power coefficient from 0.67 to 0.01
+* ![][Brutal Charge (Porcine)] Brutal Charge: 直傷系數由0.67減至0.01
 ### Canine Family
-* ![][Brutal Charge (Canine)] Brutal Charge: Reduced power coefficient from 0.67 to 0.01
+* ![][Brutal Charge (Canine)] Brutal Charge: 直傷系數由0.67減至0.01
 ### Wolf
-* ![][Terrifying Howl] Terrifying Howl (F2): Reduced power coefficient from 0.2 to 0.01
+* ![][Terrifying Howl] Terrifying Howl (F2): 直傷系數由0.2減至0.01
 ### Devourer
-* ![][Tail Lash] Tail Lash: Reduced power coefficient from 0.5 to 0.01
+* ![][Tail Lash] Tail Lash: 直傷系數由0.5減至0.01
 ### Iboga
-* ![][Fang Grapple] Fang Grapple (F2): Reduced power coefficient from 0.2 to 0.01
+* ![][Fang Grapple] Fang Grapple (F2): 直傷系數由0.2減至0.01
 ### Bristleback
-* ![][Spike Barrage] Spike Barrage: Reduced power coefficient per strike from 0.22 to 0.165
+* ![][Spike Barrage] Spike Barrage: 每擊直傷系數由0.22減至0.165
 ### Rock Gazelle
-* ![][Head Toss] Head Toss (F2): Reduced power coefficient from 1.11 to 0.01
-* ![][Charge] Charge: Reduced power coefficient from 1.1 to 0.825
+* ![][Head Toss] Head Toss (F2): 直傷系數由1.11減至0.01
+* ![][Charge] Charge: 直傷系數由1.1減至0.825
 ### Smokescale
-* ![][Takedown] Takedown: Reduced power coefficient from 0.5 to 0.01
-* ![][Smoke Assault] Smoke Assault: Reduced power coefficient per strike from 0.25 to 0.2
+* ![][Takedown] Takedown: 直傷系數由0.5減至0.01
+* ![][Smoke Assault] Smoke Assault: 每擊直傷系數由0.25減至0.2
 ### Wyvern Family
-* ![][Wing Buffet] Wing Buffet: Reduced power coefficient from 0.3 to 0.01
+* ![][Wing Buffet] Wing Buffet: 直傷系數由0.3減至0.01
 ### Lightning Wyvern
-* ![][Lightning Assault] Lightning Assault (F2): Reduced power coefficient from 0.6 to 0.01
+* ![][Lightning Assault] Lightning Assault (F2): 直傷系數由0.6減至0.01
 
 ## 武器技能
 ### Greatsword 大劍
-* Autoattack Chain: Skills have been adjusted as follows: 
-  * ![][Slash] Slash: Reduced power coefficient from 0.64 to 0.45
-  * ![][Slice] Slice: Reduced power coefficient from 0.8 to 0.6
-  * ![][Enduring Swing] Enduring Swing: Reduced power coefficient from 1.3 to 0.866
-* ![][Maul GS] Maul: Reduced power coefficient from 1.75 to 1.5. Reduced vulnerability duration from 8 seconds to 6 seconds. Increased cooldown from 4 seconds to 6 seconds
-* ![][Swoop] Swoop: Reduced power coefficient from 1.0 to 0.91. Increased cooldown from 12 seconds to 15 seconds
-* ![][Counterattack] Counterattack: Increased cooldown from 15 seconds to 25 seconds.
-  * ![][Counterattack Kick] Counterattack Kick (from Counterattack): Reduced power coefficient from 1.3 to 0.01
-* ![][Hilt Bash] Hilt Bash: Reduced power coefficient from 0.72 to 0.01. Reduced cooldown from 25 seconds to 20 seconds
+* 自動攻擊串: 技能調整如下: 
+  * ![][Slash] Slash: 直傷系數由0.64減至0.45
+  * ![][Slice] Slice: 直傷系數由0.8減至0.6
+  * ![][Enduring Swing] Enduring Swing: 直傷系數由1.3減至0.866
+* ![][Maul GS] Maul: 直傷系數由1.75減至1.5. ![][vulnerability]破甲時效由8秒減至6秒. 冷卻時間由4秒增至6秒
+* ![][Swoop] Swoop: 直傷系數由1.0減至0.91. 冷卻時間由12秒增至15秒
+* ![][Counterattack] Counterattack: 冷卻時間由15秒增至25秒.
+  * ![][Counterattack Kick] Counterattack Kick: 直傷系數由1.3減至0.01
+* ![][Hilt Bash] Hilt Bash: 直傷系數由0.72減至0.01. 冷卻時間由25秒減至20秒
 
 ### Longbow 長弓
-* ![][Long Range Shot] Long Range Shot: Reduced maximum power coefficient from 0.9 to 0.6. Reduced minimum power coefficient from 0.7 to 0.466
-* ![][Rapid Fire] Rapid Fire: Reduced power coefficient per strike from 0.375 to 0.275. Reduced vulnerability duration from 10 seconds to 6 seconds
-* ![][Point Blank Shot] Point Blank Shot: Reduced power coefficient from 0.8 to 0.01
-* ![][Barrage] Barrage: Reduced power coefficient per strike from 0.5 to 0.381
+* ![][Long Range Shot] Long Range Shot: 最大直傷系數由0.9減至0.6. 最小直傷系數由0.7減至0.466
+* ![][Rapid Fire] Rapid Fire: 每擊直傷系數由0.375減至0.275. ![][vulnerability]破甲時效由10秒減至6秒
+* ![][Point Blank Shot] Point Blank Shot: 直傷系數由0.8減至0.01
+* ![][Barrage] Barrage: 每擊直傷系數由0.5減至0.381
 
 ### Short Bow 短弓
-* ![][Crossfire] Crossfire: Reduced power coefficient from 0.4 to 0.266
-* ![][Quick Shot] Quick Shot: Increased cooldown from 8 seconds to 12 seconds
-* ![][Concussion Shot] Concussion Shot: Reduced power coefficient from 0.4 to 0.01
+* ![][Crossfire] Crossfire: 直傷系數由0.4減至0.266
+* ![][Quick Shot] Quick Shot: 冷卻時間由8秒增至12秒
+* ![][Concussion Shot] Concussion Shot: 直傷系數由0.4減至0.01
 
 ### Sword 單手劍
-* Autoattack Chain: Skills have been adjusted as follows: 
-  * ![][Slash] Slash: Reduced power coefficient from 0.7 to 0.466
-  * ![][Crippling Thrust] Crippling Thrust: Reduced power coefficient from 0.7 to 0.466
-  * ![][Precision Swipe] Precision Swipe: Reduced power coefficient from 0.96 to 0.64
-* ![][Monarch's Leap] Monarch's Leap: Reduced power coefficient from 1.25 to 0.75
+* 自動攻擊串: 技能調整如下: 
+  * ![][Slash] Slash: 直傷系數由0.7減至0.466
+  * ![][Crippling Thrust] Crippling Thrust: 直傷系數由0.7減至0.466
+  * ![][Precision Swipe] Precision Swipe: 直傷系數由0.96減至0.64
+* ![][Monarch's Leap] Monarch's Leap: 直傷系數由1.25減至0.75
 
 ### Axe 斧
-* ![][Ricochet] Ricochet: Reduced power coefficient from 0.8 to 0.533. Reduced might duration from 10 seconds to 5 seconds
-* ![][Splitblade] Splitblade: Reduced power coefficient per axe from 0.4 to 0.1. Increased bleeding duration from 6 seconds to 12 seconds. Increased cooldown from 6 seconds to 8 seconds
-* ![][Winter's Bite] Winter's Bite: Reduced power coefficient from 1.5 to 1.0. Increased bleeding stacks from 2 to 3.
-#### Axe Off-Hand 副手斧
-* ![][Path of Scars] Path of Scars: Reduced power coefficient from 1.2 to 0.01
-* ![][Whirling Defense] Whirling Defense: reduced power coefficient per strike from 0.66 to 0.44. Reduced vulnerability duration from 10 seconds to 6 seconds
+* ![][Ricochet] Ricochet: 直傷系數由0.8減至0.533. ![][might]威能時效由10秒減至5秒
+* ![][Splitblade] Splitblade: 每斧頭直傷系數由0.4減至0.1. ![][bleeding]流血時效由6秒增至12秒. 冷卻時間由6秒增至8秒
+* ![][Winter's Bite] Winter's Bite: 直傷系數由1.5減至1.0. ![][bleeding]流血層數由2增至3.
+#### Axe Off-Hand 副手 斧
+* ![][Path of Scars] Path of Scars: 直傷系數由1.2減至0.01
+* ![][Whirling Defense] Whirling Defense: 每擊直傷系數由0.66減至0.44. ![][vulnerability]破甲時效由10秒減至6秒
 
-### Dagger Off-Hand 副手匕首
-* ![][Stalker's Strike] Stalker's Strike: Increased cooldown from 10 seconds to 15 seconds
-* ![][Crippling Talon] Crippling Talon: Reduced power coefficient from 0.75 to 0.5
+### Dagger Off-Hand 副手 匕首
+* ![][Stalker's Strike] Stalker's Strike: 冷卻時間由10秒增至15秒
+* ![][Crippling Talon] Crippling Talon: 直傷系數由0.75減至0.5
 
 ### Warhorn 號角
-* ![][Hunter's Call] Hunter's Call: Reduced power coefficient per strike from 0.15 to 0.1
-* ![][Call of the Wild] Call of the Wild: Reduced might duration from 10 seconds to 6 seconds
+* ![][Hunter's Call] Hunter's Call: 每擊直傷系數由0.15減至0.1
+* ![][Call of the Wild] Call of the Wild: ![][might]威能時效由10秒減至6秒
 
 ### Staff 長杖
-* ![][Solar Beam] Solar Beam: Reduced base heal per pulse from 66 to 30
-* ![][Ancestral Grace] Ancestral Grace: Reduced healing coefficient from 1.0 to 0.5
+* ![][Solar Beam] Solar Beam: 持續基本治療量由66減至30
+* ![][Ancestral Grace] Ancestral Grace: 治療系數由1.0減至0.5
 
 ### Dagger 匕首
-* Autoattack Chain: Skills have been adjusted as follows: 
-  * ![][Groundwork Gouge] Groundwork Gouge: Reduced power coefficient from 0.4 to 0.32
-  * ![][Leading Swipe] Leading Swipe: Reduced power coefficient from 0.42 to 0.336
-  * ![][Serpent Stab] Serpent Stab: Reduced power coefficient from 0.44 to 0.352
-  * ![][Deadly Delivery] Deadly Delivery: Reduced power coefficient from 0.88 to 0.704
-* ![][Double Arc] Double Arc: Adjusted bleeding per hit from 3 stacks for 6 seconds to 2 stacks for 9 seconds
-* ![][Instinctive Engage] Instinctive Engage: Reduced quickness duration from 3 seconds to 1.5 seconds
+* 自動攻擊串: 技能調整如下: 
+  * ![][Groundwork Gouge] Groundwork Gouge: 直傷系數由0.4減至0.32
+  * ![][Leading Swipe] Leading Swipe: 直傷系數由0.42減至0.336
+  * ![][Serpent Stab] Serpent Stab: 直傷系數由0.44減至0.352
+  * ![][Deadly Delivery] Deadly Delivery: 直傷系數由0.88減至0.704
+* ![][Double Arc] Double Arc: 每擊![][bleeding]流血由3層數6秒改為2層9秒
+* ![][Instinctive Engage] Instinctive Engage: ![][quickness]急速時效由3秒減至1.5秒
 
 ## 治療技能
-* ![]["We Heal As One!"] "We Heal As One!": Increased cooldown from 25 seconds to 30 seconds
-* ![][Troll Unguent] Troll Unguent: Increased cooldown from 25 seconds to 30 seconds
+* ![]["We Heal As One!"] "We Heal As One!": 冷卻時間由25秒增至30秒
+* ![][Troll Unguent] Troll Unguent: 冷卻時間由25秒增至30秒
 Glyph of Rejuvenation
-* ![][Glyph of Rejuvenation Non-Celestial] Glyph of Rejuvenation (Non-Celestial): Reduced self heal coefficient from 1.708 to 1.25. Reduced ally heal coefficient from 1.4 to 1.0
-* ![][Glyph of Rejuvenation Celestial] Glyph of Rejuvenation (Celestial): Reduced self heal coefficient from 1.4 to 1.0. Reduced ally heal coefficient from 1.708 to 1.25
-* ![][Bear Stance] Bear Stance: Increased cooldown from 25 seconds to 30 seconds
+* ![][Glyph of Rejuvenation Non-Celestial] Glyph of Rejuvenation (Non-Celestial): 自身治療系數由1.708減至1.25. 友軍治療系數由1.4減至1.0
+* ![][Glyph of Rejuvenation Celestial] Glyph of Rejuvenation (Celestial): 自身治療系數由1.4減至1.0. 友軍治療系數由1.708減至1.25
+* ![][Bear Stance] Bear Stance: 冷卻時間由25秒增至30秒
 
 ## 通用技能
-* ![][Lightning Reflexes] Lightning Reflexes: Reduced power coefficient from 1.0 to 0.1
-* ![][Quickening Zephyr] Quickening Zephyr: Reduced quickness and superspeed duration from 6 seconds to 4 seconds. Reduced cooldown from 45 seconds to 40 seconds
-* ![][Glyph of Alignment] Glyph of Alignment: Increased cooldown from 20 seconds to 25 seconds
-* ![][Glyph of the Tides] Glyph of the Tides: Reduced power coefficient from 1.5 to 0.01. Reduced cooldown from 25 seconds to 20 seconds
-* ![][Dolyak Stance] Dolyak Stance: Increased cooldown from 40 seconds to 60 seconds
-* ![][Griffon Stance] Griffon Stance: Reduced might duration from 8 seconds to 6 seconds
-* ![][Moa Stance] Moa Stance: Reduced bonus boon duration from 66% to 20%
-* ![][Glyph of Equality non-celestial] Glyph of Equality (non-celestial): Reduced power coefficient from 1.5 to 0.01
-* ![][Spike Trap] Spike Trap: Reduced power coefficient from 0.2 to 0.01. Adjusted bleeding from 6 stacks from 6.25 seconds to 1 stack for 1 second. Reduced cooldown from 30 seconds to 20 seconds
+* ![][Lightning Reflexes] Lightning Reflexes: 直傷系數由1.0減至0.1
+* ![][Quickening Zephyr] Quickening Zephyr: ![][quickness]急速及![][superspeed]超速時效由6秒減至4秒. 冷卻時間由45秒減至40秒
+* ![][Glyph of Alignment] Glyph of Alignment: 冷卻時間由20秒增至25秒
+* ![][Glyph of the Tides] Glyph of the Tides: 直傷系數由1.5減至0.01. 冷卻時間由25秒減至20秒
+* ![][Dolyak Stance] Dolyak Stance: 冷卻時間由40秒增至60秒
+* ![][Griffon Stance] Griffon Stance: ![][might]威能時效由8秒減至6秒
+* ![][Moa Stance] Moa Stance: 額外恩賜時效由66%減至20%
+* ![][Glyph of Equality non-celestial] Glyph of Equality (non-celestial): 直傷系數由1.5減至0.01
+* ![][Spike Trap] Spike Trap: 直傷系數由0.2減至0.01. ![][bleeding]流血由6層6.25秒改為1層1秒. 冷卻時間由30秒減至20秒
 
 ## 菁英技能
-* ![][Strength of the Pack] Strength of the Pack: Reduced might duration from 10 seconds to 6 seconds. Reduced stability duration from 8 seconds to 6 seconds
+* ![][Strength of the Pack] Strength of the Pack: ![][might]威能時效由10秒減至6秒. ![][stability]穩固時效由8秒減至6秒
 
 ## 特性
-### Marksmanship
-* ![][Stoneform] Stoneform: Increased cooldown from 90 seconds to 300 seconds
-* ![][Lesser Call of the Wild] Lesser Call of the Wild (from Clarion Bond): Reduced boon durations from 15 seconds to 6 seconds
+### ![][Marksmanship] Marksmanship
+* ![][Stoneform] Stoneform: 冷卻時間由90秒增至300秒
+* ![][Lesser Call of the Wild] Lesser Call of the Wild: 恩賜時效由15秒減至6秒
 
-### Skirmishing
-* ![][Sharpened Edges] Sharpened Edges: Reduced bleeding duration from 3 seconds to 1 second
-* ![][Primal Reflexes] Primal Reflexes: Reduced vigor duration from 8 seconds to 4 seconds
-* ![][Strider's Defense] Strider's Defense: Reduced quickness duration from 3 seconds to 1.5 seconds
+### ![][Skirmishing] Skirmishing
+* ![][Sharpened Edges] Sharpened Edges: ![][bleeding]流血時效由3秒減至1秒
+* ![][Primal Reflexes] Primal Reflexes: ![][vigor]活力時效由8秒減至4秒
+* ![][Strider's Defense] Strider's Defense: ![][quickness]急速時效由3秒減至1.5秒
 
-### Wilderness Survival
-* ![][Rugged Growth] Rugged Growth: Reduced base heal from 259 to 155
-* ![][Lesser Muddy Terrain] Lesser Muddy Terrain (from Child of Earth): Reduced duration from 10 seconds to 4 seconds
-* ![][Taste for Danger] Taste for Danger: Reduced vitality to expertise conversion from 7% to 4%
-* ![][Refined Toxins] Refined Toxins: Reduced poison duration from 6 seconds to 4 seconds
-* ![][Shared Anguish] Shared Anguish: Increased cooldown from 90 seconds to 300 seconds
+### ![][Wilderness Survival] Wilderness Survival
+* ![][Rugged Growth] Rugged Growth: 基本治療量由259減至155
+* ![][Lesser Muddy Terrain] Lesser Muddy Terrain: 時效由10秒減至4秒
+* ![][Taste for Danger] Taste for Danger: Vitality至Expertise轉換率由7%減至4%
+* ![][Refined Toxins] Refined Toxins: ![][poisoned]中毒時效由6秒減至4秒
+* ![][Shared Anguish] Shared Anguish: 冷卻時間由90秒增至300秒
 
-### Nature Magic
-* ![][Rejuvenation] Rejuvenation: Reduced regeneration duration from 5 seconds to 3 seconds
-* ![][Lingering Magic] Lingering Magic: Reduced concentration from 240 to 120
-* ![][Instinctive Reaction] Instinctive Reaction: Reduced quickness duration from 3 seconds to 2 seconds
-* ![][Windborne Notes] Windborne Notes: Reduced regeneration duration from 6 seconds to 4 seconds
-* ![][Protective Ward] Protective Ward: Reduced weakness duration from 6 seconds to 4 seconds
+### ![][Nature Magic] Nature Magic
+* ![][Rejuvenation] Rejuvenation: ![][regeneration]再生時效由5秒減至3秒
+* ![][Lingering Magic] Lingering Magic: Concentration由240減至120
+* ![][Instinctive Reaction] Instinctive Reaction: ![][quickness]急速時效由3秒減至2秒
+* ![][Windborne Notes] Windborne Notes: ![][regeneration]再生時效由6秒減至4秒
+* ![][Protective Ward] Protective Ward: ![][weakness]衰弱時效由6秒減至4秒
 
-### Beastmastery
-* ![][Wilting Strike] Wilting Strike: Reduced weakness duration from 4 seconds to 3 seconds
-* ![][Lesser Quickening Zephyr] Lesser Quickening Zephyr (from Zephyr's Speed): Reduced quickness and superspeed durations from 3 seconds to 2 seconds
+### ![][Beastmastery] Beastmastery
+* ![][Wilting Strike] Wilting Strike: ![][weakness]衰弱時效由4秒減至3秒
+* ![][Lesser Quickening Zephyr] Lesser Quickening Zephyr: ![][quickness]急速及![][superspeed]超速時效由3秒減至2秒
 
-### Druid
-* ![][Live Vicariously] Live Vicariously: Reduced base healing from 207 to 144
-* ![][Natural Mender] Natural Mender: Reduced bonus outgoing healing per stack from 2% to 1%
-* ![][Celestial Shadow] Celestial Shadow: Reduced stealth duration from 3 seconds to 2 seconds
-* ![][Grace of the Land] Grace of the Land: Reduced might duration from 12 seconds to 6 seconds. Reduced target cap from 10 to 5
+### ![][Druid] Druid
+* ![][Live Vicariously] Live Vicariously: 基本治療量由207減至144
+* ![][Natural Mender] Natural Mender: 額外對外治療量每層由2%減至1%
+* ![][Celestial Shadow] Celestial Shadow: ![][stealth]隱身時效由3秒減至2秒
+* ![][Grace of the Land] Grace of the Land: ![][might]威能時效由12秒減至6秒. 目標上限由10減至5
 
-### Soulbeast
-* ![][Live Fast] Live Fast: Reduced quickness duration from 3 seconds to 2 seconds
-* ![][Eternal Bond] Eternal Bond: Increased cooldown from 90 seconds to 300 seconds
+### ![][Soulbeast] Soulbeast
+* ![][Live Fast] Live Fast: ![][quickness]急速時效由3秒減至2秒
+* ![][Eternal Bond] Eternal Bond: 冷卻時間由90秒增至300秒
 
 ###### 貢獻者
 Richun, 赤木 (Alik.9651)
@@ -303,6 +303,13 @@ Richun, 赤木 (Alik.9651)
 [Glyph of Equality non-celestial]: https://wiki.guildwars2.com/images/thumb/d/db/Glyph_of_Equality.png/32px-Glyph_of_Equality.png
 [Spike Trap]: https://wiki.guildwars2.com/images/thumb/2/2c/Spike_Trap.png/32px-Spike_Trap.png
 [Strength of the Pack]: https://wiki.guildwars2.com/images/thumb/4/4b/%22Strength_of_the_Pack%21%22.png/32px-%22Strength_of_the_Pack%21%22.png
+[Marksmanship]: https://wiki.guildwars2.com/images/thumb/6/69/Marksmanship.png/32px-Marksmanship.png
+[Skirmishing]: https://wiki.guildwars2.com/images/thumb/3/31/Skirmishing.png/32px-Skirmishing.png
+[Wilderness Survival]: https://wiki.guildwars2.com/images/thumb/8/8e/Wilderness_Survival.png/32px-Wilderness_Survival.png
+[Nature Magic]: https://wiki.guildwars2.com/images/thumb/5/5b/Nature_Magic.png/32px-Nature_Magic.png
+[Beastmastery]: https://wiki.guildwars2.com/images/thumb/7/75/Beastmastery.png/32px-Beastmastery.png
+[Druid]: https://wiki.guildwars2.com/images/thumb/9/9d/Druid.png/32px-Druid.png
+[Soulbeast]: https://wiki.guildwars2.com/images/thumb/7/70/Soulbeast.png/32px-Soulbeast.png
 [Stoneform]: https://wiki.guildwars2.com/images/thumb/f/ff/Stoneform.png/32px-Stoneform.png
 [Lesser Call of the Wild]: https://wiki.guildwars2.com/images/thumb/8/8d/Call_of_the_Wild.png/32px-Call_of_the_Wild.png
 [Sharpened Edges]: https://wiki.guildwars2.com/images/thumb/f/fb/Sharpened_Edges.png/32px-Sharpened_Edges.png
