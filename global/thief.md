@@ -34,7 +34,7 @@
 * ![][Tooth Stab]Tooth Stab: 傷害增加166% (系數由0.75增至2). ![][bleeding]流血時效由60秒減至10秒. ![][bleeding]流血層數由1層增至6層.
 * ![][Use Staff]Use Staff: 落雷傷害增加50% (系數由0.8增至1.2).
 
-#### 貢獻者
+## 貢獻者
 1. Richun
 2. Alik (赤木)
 
