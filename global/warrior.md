@@ -18,7 +18,7 @@
 * ![][signet of might] Signet of Might: 主動技從 6 秒 ![][unblockable SoM] Unblockable 狀態改為給 10 層 6 秒 ![][unblockable SoM] Unblockable。
 
 ## 貢獻者
-1. Richun (Richun.9045)
+1. Richun
 2. Sia
 
 [底下這些別動，上面才是正文]: https://wiki.guildwars2.com
