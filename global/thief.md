@@ -35,7 +35,7 @@
 * ![][Use Staff]Use Staff: 落雷傷害增加50% (系數由0.8增至1.2).
 
 ###### 貢獻者
-Richun、
+Richun, 赤木 (Alik.9651)
 
 [底下這些別動，上面才是正文]: https://wiki.guildwars2.com
 
