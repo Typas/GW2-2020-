@@ -4,32 +4,32 @@
 
 > 我們覺得元素的召喚時間太短了，但又為了不要重覆到死靈的所以只好延長。我們又認為小的跟菁英的差不多，所以小的改成能召多隻而沒主動技能用。
 
-* ![][overload fire] Overload Fire: 在 PvE 中 ![][might]Might 的層數從每次 1 層增加到 2 層。修正技能說明。
-* ![][feel the burn] "Feel the Burn!": 技能的 ![][burning]Burning 從 4 秒 1 層增為 4 秒 2 層。修正會導致無法分享給友軍 ![][might]Might 的 bug。
-* ![][obsidan flesh] Obsidan Flesh: 在 invulnerable 時技能會被鎖定。
+* [![][overload fire]][overload fire wiki] Overload Fire: 在 PvE 中 ![][might]Might 的層數從每次 1 層增加到 2 層。修正技能說明。
+* [![][feel the burn]][feel the burn wiki] "Feel the Burn!": 技能的 ![][burning]Burning 從 4 秒 1 層增為 4 秒 2 層。修正會導致無法分享給友軍 ![][might]Might 的 bug。
+* [![][obsidian flesh]][obsidian flesh wiki] Obsidian Flesh: 在 invulnerable 時技能會被鎖定。
 * 以下幾個技能新增在技能使用時會生成 ![][stability]Stability，PvE 5 秒、PvP 與 WvW 3 秒。
-  * ![][stone resonance] Stone Resonance
-  * ![][lava skin] Lava Skin
-  * ![][lahar] Lahar
-  * ![][grinding stones] Grinding Stones
-  * ![][glacial drift] Glacial Drift
-  * ![][molten burst] Molten Burst
+  * [![][stone resonance]][stone resonance wiki] Stone Resonance
+  * [![][lava skin]][lava skin wiki] Lava Skin
+  * [![][lahar]][lahar wiki] Lahar
+  * [![][grinding stones]][grinding stones wiki] Grinding Stones
+  * [![][glacial drift]][glacial drift wiki] Glacial Drift
+  * [![][molten burst]][molten burst wiki] Molten Burst
 * Summoned Elementals: 元素召喚時間從 60 秒延長到 120 秒。增加顯示剩餘時間的 buff。
-  * ![][glyph of lesser elementals] Glyph of Lesser Elementals: 現在召出來的不能用主動技能，但可以同時召出多隻。換技能時召出來的會全死。
-  * ![][glyph of elementals] Glyph of Elementals: PvE 的 CD 時間從 90 秒縮短到 40 秒。命令技能現在會被當成普通的菁英技來觸發 trait/rune 的效果。現在命令技能會像死靈的 golem 一樣能在任何時間使用，而且會有新的特效。
-  * ![][flame burst] Flame Burst (Fire Elemental/Lesser Fire Elemental): 以 1 層 3 秒的 ![][burning]Burning 取代 ![][crippled]Crippled。
-  * ![][flame barrage] Flame Barrage (Fire Elemental): 射程 300 -> 360 以對齊 360 的爆炸範圍，傷害增為 1.5 倍，CD 從 10 秒增為 15 秒。
-  * ![][windborne speed] Windborne Speed (Air Elemental/Lesser Air Elemental): 範圍半徑從 240 增為 360。
-  * ![][shocking bolt] Shocking Bolt (Air Elemental): ![][stun]Stun 時間從 1 秒增為 1.5 秒，CD 從 10 秒增為 15 秒。
-  * ![][stomp] Stomp (Earth Elemental): 增加 ![][immobile]Immobilized 1 秒的效果。
-* ![][stone flesh] Stone Flesh: 不再增加 150 Toughness，改成切換到 ![][earth]Earth 時減傷 7%。
-* ![][bolstered elements] Bolstered Elements: 使用 stance 技能時不再產生 ![][stability]Stability，改為產生 ![][barrier]Barrier。
-* ![][elemental lockdown] Elemental Lockdown: 你在 disable 一個敵人時會根據所在 attunement 得到 boon
+  * [![][glyph of lesser elementals]][glyph of lesser elementals wiki] Glyph of Lesser Elementals: 現在召出來的不能用主動技能，但可以同時召出多隻。換技能時召出來的會全死。
+  * [![][glyph of elementals]][glyph of elementals wiki] Glyph of Elementals: PvE 的 CD 時間從 90 秒縮短到 40 秒。命令技能現在會被當成普通的菁英技來觸發 trait/rune 的效果。現在命令技能會像死靈的 golem 一樣能在任何時間使用，而且會有新的特效。
+  * [![][flame burst]][flame burst wiki] Flame Burst (Fire Elemental/Lesser Fire Elemental): 以 1 層 3 秒的 ![][burning]Burning 取代 ![][crippled]Crippled。
+  * [![][flame barrage]][flame barrage wiki] Flame Barrage (Fire Elemental): 射程 300 -> 360 以對齊 360 的爆炸範圍，傷害增為 1.5 倍，CD 從 10 秒增為 15 秒。
+  * [![][windborne speed]][windborne speed wiki] Windborne Speed (Air Elemental/Lesser Air Elemental): 範圍半徑從 240 增為 360。
+  * [![][shocking bolt]][shocking bolt wiki] Shocking Bolt (Air Elemental): ![][stun]Stun 時間從 1 秒增為 1.5 秒，CD 從 10 秒增為 15 秒。
+  * [![][stomp]][stomp wiki] Stomp (Earth Elemental): 增加 ![][immobile]Immobilized 1 秒的效果。
+* [![][stone flesh]][stone flesh wiki] Stone Flesh: 不再增加 150 Toughness，改成切換到 ![][earth]Earth 時減傷 7%。
+* [![][bolstered elements]][bolstered elements wiki] Bolstered Elements: 使用 stance 技能時不再產生 ![][stability]Stability，改為產生 ![][barrier]Barrier。
+* [![][elemental lockdown]][elemental lockdown wiki] Elemental Lockdown: 你在 disable 一個敵人時會根據所在 attunement 得到 boon
   * ![][fire] Fire: 5 層 5 秒的 ![][might]
   * ![][water] Water: 10 秒 ![][regeneration]
   * ![][air] Air: 5 秒 ![][fury]
   * ![][earth] Earth: 4 秒 ![][protection]
-> * ![][elemental contingency] Elemental Contingency: 此特性被 Elemental Lockdown 取代。
+> * [![][elemental contingency]][elemental contingency] Elemental Contingency: 此特性被 Elemental Lockdown 取代。
 
 
 ###### 貢獻者
@@ -85,7 +85,7 @@ Richun (Richun.9045), Alik
 [shocking aura]: https://wiki.guildwars2.com/images/thumb/3/31/Shocking_Aura.png/20px-Shocking_Aura.png
 [overload fire]: https://wiki.guildwars2.com/images/thumb/1/13/Overload_Fire.png/32px-Overload_Fire.png
 [feel the burn]: https://wiki.guildwars2.com/images/thumb/d/d8/%22Feel_the_Burn%21%22.png/32px-%22Feel_the_Burn%21%22.png
-[obsidan flesh]: https://wiki.guildwars2.com/images/thumb/c/c1/Obsidian_Flesh.png/32px-Obsidian_Flesh.png
+[obsidian flesh]: https://wiki.guildwars2.com/images/thumb/c/c1/Obsidian_Flesh.png/32px-Obsidian_Flesh.png
 [stone resonance]: https://wiki.guildwars2.com/images/thumb/5/57/Stone_Resonance.png/32px-Stone_Resonance.png
 [lava skin]: https://wiki.guildwars2.com/images/thumb/7/71/Lava_Skin.png/32px-Lava_Skin.png
 [lahar]: https://wiki.guildwars2.com/images/thumb/4/48/Lahar.png/32px-Lahar.png
@@ -107,3 +107,24 @@ Richun (Richun.9045), Alik
 [fire]: https://wiki.guildwars2.com/images/thumb/b/b4/Fire_Attunement.png/20px-Fire_Attunement.png
 [water]: https://wiki.guildwars2.com/images/thumb/3/31/Water_Attunement.png/20px-Water_Attunement.png
 [air]: https://wiki.guildwars2.com/images/thumb/9/91/Air_Attunement.png/20px-Air_Attunement.png
+
+[overload fire wiki]: https://wiki.guildwars2.com/wiki/Overload_Fire
+[feel the burn wiki]: https://wiki.guildwars2.com/wiki/%22Feel_the_Burn!%22
+[obsidian flesh wiki]: https://wiki.guildwars2.com/wiki/Obsidian_Flesh
+[stone resonance wiki]: https://wiki.guildwars2.com/wiki/Stone_Resonance
+[lava skin wiki]: https://wiki.guildwars2.com/wiki/Lava_Skin
+[lahar wiki]: https://wiki.guildwars2.com/wiki/Lahar
+[grinding stones wiki]: https://wiki.guildwars2.com/wiki/Grinding_Stones
+[glacial drift wiki]: https://wiki.guildwars2.com/wiki/Glacial_Drift
+[molten burst wiki]: https://wiki.guildwars2.com/wiki/Molten_Burst
+[glyph of lesser elementals wiki]: https://wiki.guildwars2.com/wiki/Glyph_of_Lesser_Elementals
+[glyph of elementals wiki]: https://wiki.guildwars2.com/wiki/Glyph_of_Elementals
+[flame burst wiki]: https://wiki.guildwars2.com/wiki/Flame_Burst_(Glyph_of_Lesser_Elementals_skill)
+[flame barrage wiki]: https://wiki.guildwars2.com/wiki/Flame_Barrage
+[windborne speed wiki]: https://wiki.guildwars2.com/wiki/Windborne_Speed_(Glyph_of_Lesser_Elementals_skill)
+[shocking bolt wiki]: https://wiki.guildwars2.com/wiki/Shocking_Bolt
+[stomp wiki]: https://wiki.guildwars2.com/wiki/Stomp_(Glyph_of_Elementals_skill)
+[stone flesh wiki]: https://wiki.guildwars2.com/wiki/Stone_Flesh
+[blostered elements wiki]: https://wiki.guildwars2.com/wiki/Bolstered_Elements
+[elemental lockdown wiki]: https://wiki.guildwars2.com/wiki/Elemental_Lockdown
+[elemental contingency wiki]: https://wiki.guildwars2.com/wiki/Elemental_Contingency
