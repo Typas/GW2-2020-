@@ -83,7 +83,7 @@ Richun (Richun.9045), 赤木 (Alik.9651)
 [Doom]: https://wiki.guildwars2.com/images/thumb/0/0b/Doom.png/32px-Doom.png
 [Death's Carapace]: https://wiki.guildwars2.com/images/thumb/5/58/Death%27s_Carapace.png/32px-Death%27s_Carapace.png
 [Death's Carapace 20]: https://wiki.guildwars2.com/images/thumb/5/58/Death%27s_Carapace.png/20px-Death%27s_Carapace.png
-[Eternal Life]: https://github.com/Typas/GW2-2020-Feb-Balance-TC
+[Eternal Life]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
 [Foot in the Grave]: https://wiki.guildwars2.com/images/thumb/8/85/Foot_in_the_Grave.png/32px-Foot_in_the_Grave.png
 [Flesh of the Master]: https://wiki.guildwars2.com/images/thumb/e/e9/Flesh_of_the_Master.png/32px-Flesh_of_the_Master.png
 
