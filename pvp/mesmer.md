@@ -146,8 +146,8 @@
   * ![][renewing oasis] Renewing Oasis: ![][regeneration] Regeneration 的時長從 4 秒降為 2.5 秒
   * ![][dune cloak] Dune Cloak: 直傷係數從 1.0 下修到 0.5
 
-###### 貢獻者
-Richun (Richun.9045)
+## 貢獻者
+1. Richun
 
 [底下這些別動，上面才是正文]: https://wiki.guildwars2.com
 
