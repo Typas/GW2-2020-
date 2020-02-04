@@ -4,7 +4,7 @@
 
 > 返魂者在本次更新有大量的變化. 除了![][Devastation 20]Devastation及![][Corruption 20]Corruption天賦線的重製, 我們也重新審視一些相關的技能. ![][Precision Strike 20]Precision Strike被重新設計為一個近戰攻擊, 因為我們覺得它現在作為一個拋射技能是不合理的. 然而, 如果你能夠隔離目標, 它依然是一個強力的單體傷害技能. ![][confusion]混亂已經從各返魂者的技能中移除, 因為沒有任何有意義的方式來利用它, 我們用折磨取代了它以更切合各種build.
 
-* [![][Surge of the Mists]][Surge of the Mist wiki] Surge of the Mists: 在實際攻擊前增加500ms的熱身. 迴避效果於熱身開始時已經有效.
+* [![][Surge of the Mists]][Surge of the Mists wiki] Surge of the Mists: 在實際攻擊前增加500ms的熱身. 迴避效果於熱身開始時已經有效.
 * [![][Temporal Rift]][Temporal Rift wiki] Temporal Rift: 不再引致![][confusion]混亂. 在PvE ![][torment]折磨層數由2層增至4層.
 * [![][Rift Slash]][Rift Slash wiki] Rift Slash: 更變為一個更加顯眼的技能動畫. 整體技能動作時間不變.
 * [![][Precision Strike]][Precision Strike wiki] Precision Strike: 被重製為"Chilling Isolation". 在半徑240範圍內對最多5名敵人造成2次攻擊並引致![][chilled]凍結. 如果第2擊只打中1名敵人, 將會有額外傷害. 在PvP及WvW冷卻時間由6秒增至8秒.
