@@ -20,7 +20,7 @@
 * ![][Executioner's Scythe] Executioner's Scythe: 直傷系數由2.0/2.6/3.2減至0.01/0.015/0.02 (大於50%/低於50%/低於25%). ![][stun]休克時效由1.5秒增至2.5秒
 
 ### [Shade Skills](https://wiki.guildwars2.com/wiki/Shade)
-* ![][Manifest Sand Shade] Manifest Sand Shade: 直傷系數由0.666減至0.1. ![][torment]折磨時效由2秒減至1秒. 全遊戲模式使用PvE的子彈系統8秒冷卻時間
+* ![][Manifest Sand Shade] Manifest Sand Shade: 直傷系數由0.666減至0.1. ![][torment]折磨時效由2秒減至1秒. 全遊戲模式使用PvE的充能8秒冷卻時間
 * ![][Nefarious Favor] Nefarious Favor: 癥狀轉換恩賜數由1增至2. 冷卻時間由10秒增至12秒
 * ![][Sand Cascade] Sand Cascade: 冷卻時間由10秒增至12秒
 * ![][Desert Shroud] Desert Shroud: 每擊直傷系數由0.45減至0.3
@@ -66,7 +66,7 @@
 * ![][Sand Flare] Sand Flare: 治療對![][barrier]護盾的系數由1.5125減至0.75. 治療系數由1.1減至0.75. 冷卻時間由25秒增至30秒
 
 ## 通用技能
-* ![][Corrupt Boon] Corrupt Boon: 恩賜腐化量由3減至2. 子彈冷卻時間18秒增至24秒
+* ![][Corrupt Boon] Corrupt Boon: 恩賜腐化量由3減至2. 充能時間18秒增至24秒
 * ![][Plague Signet] Plague Signet: 冷卻時間由40秒增至45秒
 * ![][Signet of Spite] Signet of Spite: ![][vulnerability]破甲時效由10秒減至6秒
 * ![][Spectral Armor] Spectral Armor: 冷卻時間由40秒增至45秒
