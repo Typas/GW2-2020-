@@ -32,8 +32,9 @@
 > * [![][elemental contingency]][elemental contingency] Elemental Contingency: 此特性被 Elemental Lockdown 取代。
 
 
-###### 貢獻者
-Richun (Richun.9045), Alik
+#### 貢獻者
+1. Richun
+2. Alik
 
 [底下這些別動，上面才是正文]: https://wiki.guildwars2.com
 
