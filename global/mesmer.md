@@ -92,4 +92,4 @@ Richun (Richun.9045), Alik
 [confounding suggestions wiki]: https://wiki.guildwars2.com/wiki/Confounding_Suggestions
 [vicious expression wiki]: https://wiki.guildwars2.com/wiki/Vicious_Expression
 [imagined burden wiki]: https://wiki.guildwars2.com/wiki/Imagined_Burden
-[elusive mind wiki]: https://wiki.guildwars2.com/images/4/4c/Elusive_Mind.png
+[elusive mind wiki]: https://wiki.guildwars2.com/wiki/Elusive_Mind
