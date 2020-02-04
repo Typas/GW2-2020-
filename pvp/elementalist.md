@@ -225,8 +225,8 @@
   * ![][woven stride] Woven Stride: ICD 從 3 秒延長到 5 秒
   * ![][invigorating strikes] Invigorating Strikes: 基本 ![][barrier] Barrier 量從 894 下修到 670
 
-###### 貢獻者
-Richun
+## 貢獻者
+1. Richun
 
 [底下這些別動，上面才是正文]: https://wiki.guildwars2.com
 
