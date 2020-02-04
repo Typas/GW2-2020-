@@ -5,182 +5,181 @@
 > 請以 `![][might]` 的方式來取用 buff 的圖片。
 > 目前支援的 buff: aegis, alacrity, fury, might, protection, quickness, regeneration, resistance, retaliation, stability, swiftness, vigor, bleeding, burning, confusion, poisoned, torment, blinded, chilled, crippled, fear, immobile, slow, taunt, weakness, vulnerability, stealth, revealed, daze, stun, knockdown, pull, knockback, launch, float, sink, superspeed, breakstun, barrier, chaos aura, dark aura, fire aura, frost aura, light aura, magnetic aura, shocking aura
 
-> 全域性的更動在[這裡](https://hackmd.io/@Richun/SyB9UrXMI)，不會再重複列出。  
 > 翻譯參考：  
 > Power Coefficient: 直傷係數  
 > Heal Coefficient: 治療係數  
 
 ## 職業機制
-* ![][Spear of Justice] Spear of Justice: Reduced damage from 0.6 to 0.01. Reduced cripple duration from 1.5 seconds to 1 second
+* ![][Spear of Justice] Spear of Justice: 直傷系數由0.6減至0.01. ![][crippled]殘廢時效由1.5秒減至1秒
 
 #### Tome of Justice
-* ![][Searing Spell] Searing Spell: Reduced power coefficient from 1.1 to 0.6
-* ![][Igniting Burst] Igniting Burst: Reduced weakness duration from 4 seconds to 2 seconds
-* ![][Heated Rebuke] Heated Rebuke: Reduced power coefficient from 0.45 to 0.01. Increased cooldown from 8 seconds to 10 seconds
-* ![][Scorched Aftermath] Scorched Aftermath: Reduced power coefficient per strike from from 0.64 to 0.4
+* ![][Searing Spell] Searing Spell: 直傷系數由1.1減至0.6
+* ![][Igniting Burst] Igniting Burst: ![][weakness]衰弱時效由4秒減至2秒
+* ![][Heated Rebuke] Heated Rebuke: 直傷系數由0.45減至0.01. 冷卻時間由8秒增至10秒
+* ![][Scorched Aftermath] Scorched Aftermath: 每擊直傷系數由0.64減至0.4
 #### Tome of Resolve
-* ![][Desert Bloom] Desert Bloom: Reduced heal coefficient from 0.7272 to 0.3
-* ![][Radiant Recovery] Radiant Recovery: Reduced number of conditions cleansed from 2 to 1
-* ![][Shining River] Shining River: Reduced pulse heal coefficient from 0.26 to 0.1
-* ![][Eternal Oasis] Eternal Oasis: Reduced number of conditions converted to boons from 5 to 2
+* ![][Desert Bloom] Desert Bloom: 治療系數由0.7272減至0.3
+* ![][Radiant Recovery] Radiant Recovery: 癥狀清除量由2減至1
+* ![][Shining River] Shining River: 持續治療系數由0.26減至0.1
+* ![][Eternal Oasis] Eternal Oasis: 癥狀轉為恩賜數由5減至2
 #### Tome of Courage
-* ![][Unflinching Charge] Unflinching Charge: Reduced stability duration from 2 seconds to 1 second.
-* ![][Daring Challenge] Daring Challenge: Reduced power coefficient from 1.4 to 0.01
+* ![][Unflinching Charge] Unflinching Charge: ![][stability]穩固時效由2秒減至1秒.
+* ![][Daring Challenge] Daring Challenge: 直傷系數由1.4減至0.01
 
 ## 武器技能
 ### Greatsword 大劍
-* Autoattack Chain: Skills have been adjusted as follows: 
-  * ![][Strike] Strike: Reduced power coefficient from 0.8 to 0.533
-  * ![][Vengeful Strike] Vengeful Strike: Reduced power coefficient from 0.8 to 0.533
-  * ![][Wrathful Strike] Wrathful Strike: Reduced power coefficient from 1.2 to 0.8
-* ![][Whirling Wrath] Whirling Wrath: Reduced power coefficient per strike from 0.45 to 0.3. Reduced projectile power coefficient from 0.375 to 0.25. Fixed a bug where the projectiles fired by this skill did less damage than expected.
-* ![][Leap of Faith] Leap of Faith: Increased cooldown from 12 seconds to 15 seconds
-* ![][Symbol of Wrath] Symbol of Wrath: Reduced power coefficient per strike from 0.67 to 0.4
-* ![][Binding Blade] Binding Blade: Reduced initial strike power coefficient from 1.0 to 0.01. Reduced pulse damage power coefficient from 0.2 to 0.1
+* 自動攻擊串: 技能調整如下: 
+  * ![][Strike] Strike: 直傷系數由0.8減至0.533
+  * ![][Vengeful Strike] Vengeful Strike: 直傷系數由0.8減至0.533
+  * ![][Wrathful Strike] Wrathful Strike: 直傷系數由1.2減至0.8
+* ![][Whirling Wrath] Whirling Wrath: 每擊直傷系數由0.45減至0.3. 投射物直傷系數由0.375減至0.25. 傷正投射物傷害比預期低的錯誤.
+* ![][Leap of Faith] Leap of Faith: 冷卻時間由12秒增至15秒
+* ![][Symbol of Wrath] Symbol of Wrath: 每擊直傷系數由0.67減至0.4
+* ![][Binding Blade] Binding Blade: 初擊直傷系數由1.0減至0.01. 持續傷害直傷系數由0.2減至0.1
 
 ### Hammer 大槌
-* Autoattack Chain: Skills have been adjusted as follows: 
-  * ![][Hammer Swing] Hammer Swing: Reduced power coefficient from 0.8 to 0.533
-  * ![][Hammer Bash] Hammer Bash: Reduced power coefficient from 0.8 to 0.533
-  * ![][Symbol of Protection] Symbol of Protection: Reduced power coefficient from 1.0 to 0.666
-* ![][Symbol of Protection] Symbol of Protection: Reduced power coefficient per strike from 0.5 to 0.4
-* ![][Mighty Blow] Mighty Blow: Increased power coefficient from 1.75 to 1.82. Increased cooldown from 4 seconds to 10 seconds
-* ![][Zealot's Embrace] Zealot's Embrace: Increased cooldown from 12 seconds to 15 seconds
-* ![][Banish] Banish: Reduced power coefficient from 1.0 to 0.01
+* 自動攻擊串: 技能調整如下: 
+  * ![][Hammer Swing] Hammer Swing: 直傷系數由0.8減至0.533
+  * ![][Hammer Bash] Hammer Bash: 直傷系數由0.8減至0.533
+  * ![][Symbol of Protection] Symbol of Protection: 直傷系數由1.0減至0.666
+* ![][Symbol of Protection] Symbol of Protection: 每擊直傷系數由0.5減至0.4
+* ![][Mighty Blow] Mighty Blow: 直傷系數由1.75增至1.82. 冷卻時間由4秒增至10秒
+* ![][Zealot's Embrace] Zealot's Embrace: 冷卻時間由12秒增至15秒
+* ![][Banish] Banish: 直傷系數由1.0減至0.01
 
 ### Staff 長杖
-* Autoattack Chain: Skills have been adjusted as follows: 
-  * ![][Bolt of Wrath] Bolt of Wrath: Reduced power coefficient from 0.55 to 0.366
-  * ![][Searing Light] Searing Light: Reduced power coefficient from 0.65 to 0.433
-  * ![][Seeking Judgment] Seeking Judgment: Reduced power coefficient from 0.75 to 0.5
-* ![][Holy Strike] Holy Strike: Reduced pulse base heal from 221 to 177. Reduced pulse heal coefficient from 0.25 to 0.1
-* ![][Symbol of Swiftness] Symbol of Swiftness: Reduced power coefficient per strike from 0.5 to 0.4
-* ![][Empower] Empower: Reduced might duration from 12 seconds to 6 seconds
+* 自動攻擊串: 技能調整如下: 
+  * ![][Bolt of Wrath] Bolt of Wrath: 直傷系數由0.55減至0.366
+  * ![][Searing Light] Searing Light: 直傷系數由0.65減至0.433
+  * ![][Seeking Judgment] Seeking Judgment: 直傷系數由0.75減至0.5
+* ![][Holy Strike] Holy Strike: 持續基本治療量由221減至177. 持續治療系數由0.25減至0.1
+* ![][Symbol of Swiftness] Symbol of Swiftness: 每擊直傷系數由0.5減至0.4
+* ![][Empower] Empower: ![][might]威能時效由12秒減至6秒
 
 ### Mace 小錘
-* Autoattack Chain: Skills have been adjusted as follows: 
-  * ![][True Strike] True Strike: Reduced power coefficient from 0.8 to 0.533
-  * ![][Pure Strike] Pure Strike: Reduced power coefficient from 1.0 to 0.666
-  * ![][Faithful Strike] Faithful Strike: Reduced power coefficient from 1.55 to 1.033
-* ![][Symbol of Faith] Symbol of Faith: Reduced power coefficient per strike from 0.65 to 0.45
-* ![][Protector's Strike] Protector's Strike: Reduced power coefficient from 2.0 to 1.5
+* 自動攻擊串: 技能調整如下: 
+  * ![][True Strike] True Strike: 直傷系數由0.8減至0.533
+  * ![][Pure Strike] Pure Strike: 直傷系數由1.0減至0.666
+  * ![][Faithful Strike] Faithful Strike: 直傷系數由1.55減至1.033
+* ![][Symbol of Faith] Symbol of Faith: 每擊直傷系數由0.65減至0.45
+* ![][Protector's Strike] Protector's Strike: 直傷系數由2.0減至1.5
 
 ### Scepter 權杖
-* ![][Orb of Wrath]Orb of Wrath: Reduced power coefficient from 0.666 to 0.444
-* ![][Symbol of Punishment]Symbol of Punishment: Reduced power coefficient per strike from 0.5 to 0.45. Increased cooldown from 6 seconds to 8 seconds
+* ![][Orb of Wrath]Orb of Wrath: 直傷系數由0.666減至0.444
+* ![][Symbol of Punishment]Symbol of Punishment: 每擊直傷系數由0.5減至0.45. 冷卻時間由6秒增至8秒
 
 ### Sword 單手劍
-* Autoattack Chain: Skills have been adjusted as follows: 
-  * ![][Sword of Wrath] Sword of Wrath: Reduced power coefficient from 0.666 to 0.444
-  * ![][Sword Arc] Sword Arc: Reduced power coefficient from 0.725 to 0.483
-  * ![][Sword Wave] Sword Wave: Reduced power coefficient from 1.5 to 1.0
-* ![][Symbol of Blades] Symbol of Blades: Reduced power coefficient per strike from 0.6 to 0.45
-* ![][Zealot's Defense] Zealot's Defense: Reduced power coefficient per strike from 0.33 to 0.22
+* 自動攻擊串: 技能調整如下: 
+  * ![][Sword of Wrath] Sword of Wrath: 直傷系數由0.666減至0.444
+  * ![][Sword Arc] Sword Arc: 直傷系數由0.725減至0.483
+  * ![][Sword Wave] Sword Wave: 直傷系數由1.5減至1.0
+* ![][Symbol of Blades] Symbol of Blades: 直傷系數per strike由0.6減至0.45
+* ![][Zealot's Defense] Zealot's Defense: 直傷系數per strike由0.33減至0.22
 
 ### Focus 聚能器
-* ![][Ray of Judgment] Ray of Judgment: Reduced power coefficient per strike from 0.33 to 0.21
-* ![][Shield of Wrath] Shield of Wrath: Reduced power coefficient from 2.5 to 1.66
+* ![][Ray of Judgment] Ray of Judgment: 每擊直傷系數由0.33減至0.21
+* ![][Shield of Wrath] Shield of Wrath: 直傷系數由2.5減至1.66
 
 ### Shield 盾
-* ![][Shield of Judgment] Shield of Judgment: Reduced power coefficient from 1.0 to 0.67
+* ![][Shield of Judgment] Shield of Judgment: 直傷系數由1.0減至0.67
 
 ### Torch 火把
-* ![][Zealot's Flame] Zealot's Flame: Reduced pulsing burn duration from 3 seconds to 2 seconds
-* ![][Zealot's Fire] Zealot's Fire (from Zealot's Flame): Reduced power coefficient from 2.25 to 1.75
-* ![][Cleansing Flame] Cleansing Flame: Reduced power coefficient per strike from 0.4 to 0.28
+* ![][Zealot's Flame] Zealot's Flame: 持續![][burning]燃燒時效由3秒減至2秒
+* ![][Zealot's Fire] Zealot's Fire: 直傷系數由2.25減至1.75
+* ![][Cleansing Flame] Cleansing Flame: 每擊直傷系數由0.4減至0.28
 
 ### Longbow 長弓
-* ![][Puncture Shot] Puncture Shot: Reduced power coefficient from 0.85 to 0.566
-* ![][True Shot] True Shot: Reduced power coefficient from 2.0 to 1.91. Increased cooldown from 6 seconds to 8 seconds
-* ![][Symbol of Energy] Symbol of Energy: Reduced power coefficient per strike from 0.69 to 0.43
-* ![][Hunter's Ward] Hunter's Ward: Reduced pulsing strike power coefficient from 0.25 to 0.1. Reduced final impact power coefficient from 2.0 to 1.666
+* ![][Puncture Shot] Puncture Shot: 直傷系數由0.85減至0.566
+* ![][True Shot] True Shot: 直傷系數由2.0減至1.91. 冷卻時間由6秒g增至8秒
+* ![][Symbol of Energy] Symbol of Energy: 每擊直傷系數由0.69減至0.43
+* ![][Hunter's Ward] Hunter's Ward: 持續攻擊直傷系數由0.25減至0.1. 終擊直傷系數由2.0減至1.666
 
 ### Axe 斧
-* Autoattack Chain: Skills have been adjusted as follows: 
-  * ![][Core Cleave] Core Cleave: Reduced power coefficient from 0.72 to 0.48
-  * ![][Bleeding Edge] Bleeding Edge: Reduced power coefficient from 0.72 to 0.48
-  * ![][Searing Slash] Searing Slash: Reduced power coefficient from 2.4 to 1.6
-* ![][Symbol of Vengeance] Symbol of Vengeance: Reduced power coefficient per strike from 0.6 to 0.45
-* ![][Blazing Edge] Blazing Edge: Reduced power coefficient from 0.8 to 0.01. Reduced burning duration from 3 seconds to 1 second. Increased cooldown from 12 seconds to 15 seconds
+* 自動攻擊串: 技能調整如下: 
+  * ![][Core Cleave] Core Cleave: 直傷系數由0.72減至0.48
+  * ![][Bleeding Edge] Bleeding Edge: 直傷系數由0.72減至0.48
+  * ![][Searing Slash] Searing Slash: 直傷系數由2.4減至1.6
+* ![][Symbol of Vengeance] Symbol of Vengeance: 每擊直傷系數由0.6減至0.45
+* ![][Blazing Edge] Blazing Edge: 直傷系數由0.8減至0.01. ![][burning]燃燒時效由3秒減至1秒. 冷卻時間由12秒增至15秒
 
 ## 治療技能
-* ![][Receive the Light] "Receive the Light!": Reduced initial self-heal coefficient from 0.8 to 0.4. Reduced allied pulse heal coefficient from 0.6 to 0.2
-* ![][Litany of Wrath] Litany of Wrath: Increased cooldown from 25 seconds to 30 seconds
-* ![][Signet of Resolve] Signet of Resolve: Increased cooldown from 30 seconds to 35 seconds
-* ![][Purification] Purification: Reduced trap heal coefficient from 1.0 to 0.667. Reduced trap base heal from 5475 to 4380
+* ![]["Receive the Light!"] "Receive the Light!": 初始自身治療系數由0.8減至0.4. 友軍持續治療系數由0.6減至0.2
+* ![][Litany of Wrath] Litany of Wrath: 冷卻時間由25秒增至30秒
+* ![][Signet of Resolve] Signet of Resolve: 冷卻時間由30秒增至35秒
+* ![][Purification] Purification: 治療系數由1.0減至0.667. 基本治療量由5475減至4380
 * ![][Mantra of Solace] Mantra of Solace
-  * ![][Restoring Reprieve] Restoring Reprieve: Reduced heal coefficient from 0.54 to 0.25. Reduced base heal from 1330 to 998
-  * ![][Rejuvenating Respite] Rejuvenating Respite: Reduced heal coefficient from 0.81 to 0.5
+  * ![][Restoring Reprieve] Restoring Reprieve: 治療系數由0.54減至0.25. 基本治療量由1330減至998
+  * ![][Rejuvenating Respite] Rejuvenating Respite: 治療系數由0.81減至0.5
 
 ## 通用技能
-* ![][Hallowed Ground] Hallowed Ground: Increased cooldown from 45 seconds to 60 seconds
-* ![][Judge's Intervention] Judge's Intervention: Reduced power coefficient from 0.5 to 0.1. Reduced burning duration from 8 seconds to 3 seconds
-* ![][Merciful Intervention] Merciful Intervention: WvW will now use the PvP version of the skill (5% revive pulse)
-* ![][Smite Condition] Smite Condition: Reduced base power coefficient from 0.85 to 0.2. Reduced power coefficient when cleansing a condition from 1.5 to 0.3. Increased the number of conditions cleansed from 2 to 3
-* ![][Hold the Line] "Hold the Line!": Reduced protection duration from 6 seconds to 4 seconds
-* ![][Stand Your Ground] "Stand Your Ground!": Increased cooldown from 30 seconds to 45 seconds. Reduced target cap from 10 to 5.
-* ![][Bane Signet] Bane Signet: Reduced power coefficient from 1.0 to 0.01
-* ![][Bow of Truth] Bow of Truth: Reduced pulse healing coefficient from 0.15 to 0.05
-* ![][Hammer of Wisdom] Hammer of Wisdom: Reduced power coefficient from 1.2 to 0.01. Increased ammo recharge from 25 seconds to 30 seconds
-* ![][Sword of Justice] Sword of Justice: Reduced vulnerability duration from 8 seconds to 6 seconds
-* ![][Fragments of Faith] Fragments of Faith: Increased cooldown from 45 seconds to 60 seconds. Reduced power coefficient from 1.5 to 1.0
-* ![][Test of Faith] Test of Faith: Increased power coefficient of passthrough attack from 2.52 to 2.8. Reduced power coefficient of initial attack from 1.4 to 0.1. Reduced protection duration from 6 seconds to 2 seconds. Reduced cripple duration from 6 seconds to 3 seconds
+* ![][Hallowed Ground] Hallowed Ground: 冷卻時間由45秒增至60秒
+* ![][Judge's Intervention] Judge's Intervention: 直傷系數由0.5減至0.1. ![][burning]燃燒時效由8秒減至3秒
+* ![][Merciful Intervention] Merciful Intervention: WvW現在會使用PvP版本 (5%救援量)
+* ![][Smite Condition] Smite Condition: 基本直傷系數由0.85減至0.2. 清除癥狀時直傷系數由1.5減至0.3. 癥狀清除量由2增至3
+* ![]["Hold the Line!"] "Hold the Line!": ![][protection]保護時效由6秒減至4秒
+* ![]["Stand Your Ground!"] "Stand Your Ground!": 冷卻時間由30秒增至45秒. 目標上限由10減至5.
+* ![][Bane Signet] Bane Signet: 直傷系數由1.0減至0.01
+* ![][Bow of Truth] Bow of Truth: 持續治療系數由0.15減至0.05
+* ![][Hammer of Wisdom] Hammer of Wisdom: 直傷系數由1.2減至0.01. 子彈冷卻時間由25秒增至30秒
+* ![][Sword of Justice] Sword of Justice: ![][vulnerability]破甲時效由8秒減至6秒
+* ![][Fragments of Faith] Fragments of Faith: 冷卻時間由45秒增至60秒. 直傷系數由1.5減至1.0
+* ![][Test of Faith] Test of Faith: 穿透攻擊直傷系數由2.52增至2.8. 初擊直傷系數由1.4減至0.1. ![][protection]保護時效由6秒減至2秒. ![][crippled]殘廢時效由6秒減至3秒
 * ![][Mantra of Flame] Mantra of Flame:
-  * ![][Flame Rush] Flame Rush: Reduced power coefficient from 0.7 to 0.3. Reduced burning duration from 4 seconds to 2 seconds
-  * ![][Flame Surge] Flame Surge: Reduced power coefficient from 0.7 to 0.3. Reduced burning duration from 4 seconds to 2 seconds
+  * ![][Flame Rush] Flame Rush: 直傷系數由0.7減至0.3. ![][burning]燃燒時效由4秒減至2秒
+  * ![][Flame Surge] Flame Surge: 直傷系數由0.7減至0.3. ![][burning]燃燒時效由4秒減至2秒
 * ![][Mantra of Truth] Mantra of Truth:
-  * ![][Echo of Truth] Echo of Truth: Reduced condition durations from 4 seconds to 2 seconds. Reduced power coefficient from 0.7 to 0.3
-  * ![][Voice of Truth] Voice of Truth: Reduced vulnerability, blind, and weakness durations from 8 seconds to 6 seconds. Reduced immobilize duration from 2 seconds to 1 second. Reduced power coefficient from 0.7 to 0.3
+  * ![][Echo of Truth] Echo of Truth: 癥狀時效由4秒減至2秒. 直傷系數由0.7減至0.3
+  * ![][Voice of Truth] Voice of Truth: ![][vulnerability]破甲, ![][blinded]致盲,及![][weakness]衰弱時效由8秒減至6秒. ![][immobile]綁定時效由2秒減至1秒. 直傷系數由0.7減至0.3
 * ![][Mantra of Potence] Mantra of Potence:
-  * ![][Potent Haste] Potent Haste: Reduced quickness duration from 2.5 seconds to 1 second
-  * ![][Overwhelming Celerity] Overwhelming Celerity: Reduced quickness duration from 5 seconds to 4 seconds. Reduced might duration from 10 seconds to 6 seconds
+  * ![][Potent Haste] Potent Haste: ![][quickness]急速時效由2.5秒減至1秒
+  * ![][Overwhelming Celerity] Overwhelming Celerity: ![][quickness]急速時效由5秒減至4秒. ![][might]威能時效由10秒減至6秒
 
 ## 菁英技能
-* ![][Feel My Wrath] "Feel My Wrath!": Reduced quickness duration from 8 seconds to 5 seconds
-* ![][Dragon's Maw] Dragon's Maw: Reduced power coefficient from 2.5 to 0.01. Reduced might duration from 8 seconds to 6 seconds. Reduced slow duration from 4 seconds to 3 seconds. Reduced cooldown from 75 seconds to 50 seconds
-* ![][Mantra of Liberation] Mantra of Liberation: Increased cooldown from 40 seconds to 60 seconds. Increased ammo recharge from 25 seconds to 45 seconds
-  * ![][Portent of Freedom] Portent of Freedom (from Mantra of Liberation): Reduced stability duration from 5 seconds to 1 second
-  * ![][Unhindered Delivery] Unhindered Delivery (from Mantra of Liberation): Reduced stability duration from 5 seconds to 4 seconds
+* ![]["Feel My Wrath!"] "Feel My Wrath!": ![][quickness]急速時效由8秒減至5秒
+* ![][Dragon's Maw] Dragon's Maw: 直傷系數由2.5減至0.01. ![][might]威能時效由8秒減至6秒. ![][slow]遲緩時效由4秒減至3秒. 冷卻時間由75秒減至50秒
+* ![][Mantra of Liberation] Mantra of Liberation: 冷卻時間由40秒增至60秒. 子彈冷卻時間由25秒增至45秒
+  * ![][Portent of Freedom] Portent of Freedom: ![][stability]穩固時效由5秒減至1秒
+  * ![][Unhindered Delivery] Unhindered Delivery: ![][stability]穩固時效由5秒減至4秒
 
 ## 特性
-### Zeal
-* ![][Lesser Symbol of Wrath] Lesser Symbol of Wrath (from Zealot's Speed): Reduced power coefficient per pulse from 0.5 to 0.25
-* ![][Zealous Scepter] Zealous Scepter: Reduced might duration from 10 seconds to 6 seconds
+### ![][Zeal] Zeal
+* ![][Lesser Symbol of Wrath] Lesser Symbol of Wrath: 持續直傷系數由0.5減至0.25
+* ![][Zealous Scepter] Zealous Scepter: ![][might]威能時效由10秒減至6秒
 
-### Radiance
-* ![][Lesser Signet of Wrath] Lesser Signet of Wrath (from Wrath of Justice): Reduced immobilize duration from 3 seconds to 1 second
-* ![][Radiant Fire] Radiant Fire: Reduced bonus burning duration from 20% to 7%
+### ![][Radiance] Radiance
+* ![][Lesser Signet of Wrath] Lesser Signet of Wrath: ![][immobile]綁定時效由3秒減至1秒
+* ![][Radiant Fire] Radiant Fire: 額外![][burning]燃燒時效由20%減至7%
 
-### Valor
-* ![][Might of the Protector] Might of the Protector: Reduced might duration from 15 seconds to 6 seconds
-* ![][Smiter's Boon] Smiter's Boon: Reduced base power coefficient from 0.5 to 0.2. Reduced power coefficient when cleansing a condition from 0.9 to 0.3
-* ![][Monk's Focus] Monk's Focus: Reduced base heal from 1960 to 1470
+### ![][Valor] Valor
+* ![][Might of the Protector] Might of the Protector: ![][might]威能時效由15秒減至6秒
+* ![][Smiter's Boon] Smiter's Boon: 基本直傷系數由0.5減至0.2. 清除癥狀時直傷系數由0.9減至0.3
+* ![][Monk's Focus] Monk's Focus: 基本治療量由1960減至1470
 
-### Honor
-* ![][Selfless Daring] Selfless Daring: Reduced healing coefficient from 1.0 to 0.6
-* ![][Invigorated Bulwark] Invigorated Bulwark: Reduced bonus outgoing healing per stack from 5% to 2%
-* ![][Honorable Staff] Honorable Staff: Reduced base concentration from 120 to 60. Reduced bonus concentration while wielding a staff from 120 to 60
-* ![][Pure of Heart] Pure of Heart: Reduced base heal from 645 to 516. Reduced healing coefficient from 0.5 to 0.3
-* ![][Empowering Might] Empowering Might: Reduced might duration from 8 seconds to 6 seconds
-* ![][Writ of Persistence] Writ of Persistence: Reduced base heal from 107 to 64. Reduced healing coefficient from 0.075 to 0.04
-* ![][Force of Will] Force of Will: Reduced bonus outgoing healing per 100 vitality from 1% to 0.5%
+### ![][Honor] Honor
+* ![][Selfless Daring] Selfless Daring: 治療系數由1.0減至0.6
+* ![][Invigorated Bulwark] Invigorated Bulwark: 額外對外治療量每層由5%減至2%
+* ![][Honorable Staff] Honorable Staff: 基本Concentration由120減至60. 持長杖時額外Concentration由120減至60
+* ![][Pure of Heart] Pure of Heart: 基本治療量由645減至516. 治療系數由0.5減至0.3
+* ![][Empowering Might] Empowering Might: ![][might]威能時效由8秒減至6秒
+* ![][Writ of Persistence] Writ of Persistence: 基本治療量由107減至64. 治療系數由0.075減至0.04
+* ![][Force of Will] Force of Will: 每100 Vitality的額外對外治療量由1%減至0.5%
 
-### Virtues
-* ![][Retaliatory Subconscious] Retaliatory Subconscious: Increased cooldown from 30 seconds to 60 seconds
-* ![][Glacial Heart] Glacial Heart: Reduced power coefficient of the skill that fires when controlling a foe from 0.5 to 0.1
+### ![][Virtues] Virtues
+* ![][Retaliatory Subconscious] Retaliatory Subconscious: 冷卻時間由30秒增至60秒
+* ![][Glacial Heart] Glacial Heart: 控敵時獨發技能的直傷系數由0.5減至0.1
 
-### Dragonhunter
-* ![][Defender's Dogma] Defender's Dogma: Reduced Justice recharge from 3 seconds to 1 second. Reduced internal cooldown from 3 seconds to 1 second
-* ![][Dulled Senses] Dulled Senses: Reduced vulnerability duration from 8 seconds to 6 seconds
-* ![][Soaring Devastation] Soaring Devastation: Reduced power coefficient from 1.5 to 0.5
-* ![][Hunter's Determination] Hunter's Determination: Increased cooldown from 90 seconds to 300 seconds
-* ![][Heavy Light] Heavy Light: Reduced stability duration from 6 seconds to 3 seconds
+### ![][Dragonhunter] Dragonhunter
+* ![][Defender's Dogma] Defender's Dogma: Justice冷卻時間由3秒減至1秒. 冷卻時間由3秒減至1秒
+* ![][Dulled Senses] Dulled Senses: ![][vulnerability]破甲時效由8秒減至6秒
+* ![][Soaring Devastation] Soaring Devastation: 直傷系數由1.5減至0.5
+* ![][Hunter's Determination] Hunter's Determination: 冷卻時間由90秒增至300秒
+* ![][Heavy Light] Heavy Light: ![][stability]穩固時效由6秒減至3秒
 
-### Firebrand
-* ![][Swift Scholar] Swift Scholar: Reduced quickness duration from 3 seconds to 1.5 seconds
-* ![][Unrelenting Criticism] Unrelenting Criticism: Reduced bleeding duration from 3 seconds to 1 second
-* ![][Legendary Lore] Legendary Lore: Reduced bonus burning duration from 20% to 10%. Reduced regeneration duration from 3 seconds to 1.5 seconds. Reduced protection duration from 2 seconds to 1 second
-* ![][Stoic Demeanor] Stoic Demeanor: Reduced slow duration from 2.5 seconds to 1.5 seconds. Reduced burning duration from 5 seconds to 2 seconds. Reduced internal cooldown from 3 seconds to 1 second.
+### ![][Firebrand] Firebrand
+* ![][Swift Scholar] Swift Scholar: ![][quickness]急速時效由3秒減至1.5秒
+* ![][Unrelenting Criticism] Unrelenting Criticism: ![][bleeding]流血時效由3秒減至1秒
+* ![][Legendary Lore] Legendary Lore: 額外![][burning]燃燒時效由20%減至10%. ![][regeneration]再生時效由3秒減至1.5秒. ![][protection]保護時效由2秒減至1秒
+* ![][Stoic Demeanor] Stoic Demeanor: ![][slow]遲緩時效由2.5秒減至1.5秒. ![][burning]燃燒時效由5秒減至2秒. 冷卻時間由3秒減至1秒.
 
 ###### 貢獻者
 Richun, 赤木 (Alik.9651)
@@ -296,7 +295,7 @@ Richun, 赤木 (Alik.9651)
 [Hunter's Ward]: https://wiki.guildwars2.com/images/thumb/e/e6/Hunter%27s_Ward.png/32px-Hunter%27s_Ward.png
 [Symbol of Vengeance]: https://wiki.guildwars2.com/images/thumb/8/80/Symbol_of_Vengeance.png/32px-Symbol_of_Vengeance.png
 [Blazing Edge]: https://wiki.guildwars2.com/images/thumb/9/94/Blazing_Edge.png/32px-Blazing_Edge.png
-[Receive the Light]: https://wiki.guildwars2.com/images/thumb/e/eb/%22Receive_the_Light%21%22.png/32px-%22Receive_the_Light%21%22.png
+["Receive the Light!"]: https://wiki.guildwars2.com/images/thumb/e/eb/%22Receive_the_Light%21%22.png/32px-%22Receive_the_Light%21%22.png
 [Litany of Wrath]: https://wiki.guildwars2.com/images/thumb/4/4a/Litany_of_Wrath.png/32px-Litany_of_Wrath.png
 [Signet of Resolve]: https://wiki.guildwars2.com/images/thumb/7/75/Signet_of_Resolve.png/32px-Signet_of_Resolve.png
 [Purification]: https://wiki.guildwars2.com/images/thumb/7/79/Purification.png/32px-Purification.png
@@ -306,8 +305,8 @@ Richun, 赤木 (Alik.9651)
 [Judge's Intervention]: https://wiki.guildwars2.com/images/thumb/8/8e/Judge%27s_Intervention.png/32px-Judge%27s_Intervention.png
 [Merciful Intervention]: https://wiki.guildwars2.com/images/thumb/1/15/Merciful_Intervention.png/32px-Merciful_Intervention.png
 [Smite Condition]: https://wiki.guildwars2.com/images/thumb/b/bd/Smite_Condition.png/32px-Smite_Condition.png
-[Hold the Line]: https://wiki.guildwars2.com/images/thumb/8/82/%22Hold_the_Line%21%22.png/32px-%22Hold_the_Line%21%22.png
-[Stand Your Ground]: https://wiki.guildwars2.com/images/thumb/3/31/%22Stand_Your_Ground%21%22.png/32px-%22Stand_Your_Ground%21%22.png
+["Hold the Line!"]: https://wiki.guildwars2.com/images/thumb/8/82/%22Hold_the_Line%21%22.png/32px-%22Hold_the_Line%21%22.png
+["Stand Your Ground!"]: https://wiki.guildwars2.com/images/thumb/3/31/%22Stand_Your_Ground%21%22.png/32px-%22Stand_Your_Ground%21%22.png
 [Bane Signet]: https://wiki.guildwars2.com/images/thumb/5/56/Bane_Signet.png/32px-Bane_Signet.png
 [Bow of Truth]: https://wiki.guildwars2.com/images/thumb/a/a2/Bow_of_Truth.png/32px-Bow_of_Truth.png
 [Hammer of Wisdom]: https://wiki.guildwars2.com/images/thumb/b/bd/Hammer_of_Wisdom.png/32px-Hammer_of_Wisdom.png
@@ -320,11 +319,18 @@ Richun, 赤木 (Alik.9651)
 [Voice of Truth]: https://wiki.guildwars2.com/images/thumb/7/7d/Voice_of_Truth.png/32px-Voice_of_Truth.png
 [Potent Haste]: https://wiki.guildwars2.com/images/thumb/9/93/Potent_Haste.png/32px-Potent_Haste.png
 [Overwhelming Celerity]: https://wiki.guildwars2.com/images/thumb/7/7c/Overwhelming_Celerity.png/32px-Overwhelming_Celerity.png
-[Feel My Wrath]: https://wiki.guildwars2.com/images/thumb/6/6f/%22Feel_My_Wrath%21%22.png/32px-%22Feel_My_Wrath%21%22.png
+["Feel My Wrath!"]: https://wiki.guildwars2.com/images/thumb/6/6f/%22Feel_My_Wrath%21%22.png/32px-%22Feel_My_Wrath%21%22.png
 [Dragon's Maw]: https://wiki.guildwars2.com/images/thumb/0/02/Dragon%27s_Maw.png/32px-Dragon%27s_Maw.png
 [Mantra of Liberation]: https://wiki.guildwars2.com/images/thumb/d/d2/Mantra_of_Liberation.png/32px-Mantra_of_Liberation.png
 [Portent of Freedom]: https://wiki.guildwars2.com/images/thumb/3/34/Portent_of_Freedom.png/32px-Portent_of_Freedom.png
 [Unhindered Delivery]: https://wiki.guildwars2.com/images/thumb/b/b7/Unhindered_Delivery.png/32px-Unhindered_Delivery.png
+[Zeal]: https://wiki.guildwars2.com/images/thumb/b/b8/Zeal.png/32px-Zeal.png
+[Radiance]: https://wiki.guildwars2.com/images/thumb/7/71/Radiance.png/32px-Radiance.png
+[Valor]: https://wiki.guildwars2.com/images/thumb/e/e9/Valor.png/32px-Valor.png
+[Honor]: https://wiki.guildwars2.com/images/thumb/d/d4/Honor.png/32px-Honor.png
+[Virtues]: https://wiki.guildwars2.com/images/thumb/8/81/Virtues.png/32px-Virtues.png
+[Dragonhunter]: https://wiki.guildwars2.com/images/thumb/3/3d/Dragonhunter.png/32px-Dragonhunter.png
+[Firebrand]: https://wiki.guildwars2.com/images/thumb/1/11/Firebrand.png/32px-Firebrand.png
 [Lesser Symbol of Wrath]: https://wiki.guildwars2.com/images/thumb/f/fc/Symbol_of_Swiftness.png/32px-Symbol_of_Swiftness.png
 [Zealous Scepter]: https://wiki.guildwars2.com/images/thumb/1/1e/Zealous_Scepter.png/32px-Zealous_Scepter.png
 [Lesser Signet of Wrath]: https://wiki.guildwars2.com/images/thumb/1/18/Signet_of_Wrath.png/32px-Signet_of_Wrath.png
