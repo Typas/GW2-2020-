@@ -58,7 +58,7 @@
 
 ## 通用技能
 * ![][Smoke Screen]Smoke Screen: 冷卻時間由25秒增至35秒
-* ![][Pitfall]Pitfall: ![][knockdown]擊倒攻擊的直傷系數由1.25減至0.01. 脈動攻擊直傷系數由0.5減至0.3
+* ![][Pitfall]Pitfall: ![][knockdown]擊倒攻擊的直傷系數由1.25減至0.01. 持續攻擊直傷系數由0.5減至0.3
 * ![][Infiltrator's Signet]Infiltrator's Signet: 冷卻時間由30秒增至35秒
 * ![][Haste]Haste: ![][quickness]急速時效由6秒減至4秒. 冷卻時間由30秒增至45秒
 * ![][Roll for Initiative]Roll for Initiative: 冷卻時間由40秒增至50秒
