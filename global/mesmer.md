@@ -90,6 +90,6 @@ Richun (Richun.9045), Alik
 [phantasmal berserker wiki]: https://wiki.guildwars2.com/wiki/Phantasmal_Berserker
 [bountiful blades wiki]: https://wiki.guildwars2.com/wiki/Bountiful_Blades
 [confounding suggestions wiki]: https://wiki.guildwars2.com/wiki/Confounding_Suggestions
-[vicious expression wiki]: https://wiki.guildwars2.com/wiki/Confounding_Suggestions
+[vicious expression wiki]: https://wiki.guildwars2.com/wiki/Vicious_Expression
 [imagined burden wiki]: https://wiki.guildwars2.com/wiki/Imagined_Burden
 [elusive mind wiki]: https://wiki.guildwars2.com/images/4/4c/Elusive_Mind.png
