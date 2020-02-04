@@ -15,8 +15,9 @@
 > * [![][imagined burden]][imagined burden wiki] Imagined Burden: 此特性被 Vicious Expression 取代。
 * [![][elusive mind]][elusive mind wiki] Elusive Mind: 不再會 ![][breakstun]Break Stun 與造成 ![][exhaustion]Exhaustion。在 PvE 的症狀移除數量從 1 -> 3，在 PvP 與 WvW 則是 1 -> 2。
 
-###### 貢獻者
-Richun (Richun.9045), Alik
+#### 貢獻者
+1. Richun
+2. Alik (赤木)
 
 [底下這些別動，上面才是正文]: https://wiki.guildwars2.com
 
