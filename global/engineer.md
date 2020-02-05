@@ -15,14 +15,14 @@
 * [![][Fire Bomb]][fire bomb wiki] Fire Bomb: 冷卻時間由10秒減至8秒.
 * [![][Concussion Bomb]][concussion bomb wiki] Concussion Bomb: 冷卻時間由20秒減至16秒.
 * [![][Smoke Bomb]][smoke bomb wiki] Smoke Bomb: 冷卻時間由25秒減至20秒.
-* ![][Glue Bomb]Glue Bomb: 冷卻時間由25秒減至20秒. 修正技能特效比實際範圍大的問題.
-* [![][Big Ol' Bomb]][big ol' bomb wiki]Big Ol' Bomb: 冷卻時間由25秒減至20秒.
+* [![][Glue Bomb]][glue bomb wiki] Glue Bomb: 冷卻時間由25秒減至20秒. 修正技能特效比實際範圍大的問題.
+* [![][Big Ol' Bomb]][big ol' bomb wiki] Big Ol' Bomb: 冷卻時間由25秒減至20秒.
 
 
 ---
 
 
-[![][Explosives]][explosive wiki] Explosives: 天賦線已被重製, 新天賦如下.
+[![][Explosives]][explosives wiki] Explosives: 天賦線已被重製, 新天賦如下.
 
 * 次要天賦 Minor Traits
     * [![][Explosive Entrance]][explosive entrance wiki] Explosive Entrance **(新天賦)**: 進入戰鬥後第一擊會爆炸並傷害附近敵人 (算![][Explosion]explosion攻擊). 迴避或脫離戰鬥後會重置.
