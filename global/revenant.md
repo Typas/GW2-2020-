@@ -185,7 +185,6 @@
 [Diabolic Inferno]: https://wiki.guildwars2.com/images/thumb/9/98/Diabolic_Inferno.png/32px-Diabolic_Inferno.png
 [Fiendish Tenacity]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
 [Pulsating Pestilence]: https://wiki.guildwars2.com/images/thumb/7/77/Pulsating_Pestilence.png/32px-Pulsating_Pestilence.png
-
 [Surge of the Mists wiki]: https://wiki.guildwars2.com/wiki/Surge_of_the_Mists
 [Temporal Rift wiki]: https://wiki.guildwars2.com/wiki/Temporal_Rift
 [Rift Slash wiki]: https://wiki.guildwars2.com/wiki/Rift_Slash
