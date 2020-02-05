@@ -26,7 +26,7 @@
 [![][Devastation]][Devastation wiki] Devastation: ![][Devastation 20]Devastation天賦線已被重製, 新天賦如下.
 
 * 次要天賦 Minor Traits
-    * [![][Expose Defenses]][Expose Defenses wiki] Expose Defenses: 效果不變
+    * ![][Expose Defenses] Expose Defenses: 效果不變
         * > 進入戰鬥後第一擊會引致![][vulnerability]破甲, 使用菁英技能時會重置效果
     * [![][Destructive Impulses]][Destructive Impulses wiki] Destructive Impulses **(新天賦)**: 每個正在裝備的武器增加5%傷害.
     * [![][Targeted Destruction]][Targeted Destruction wiki] Targeted Destruction: 移到宗師次要天賦.
@@ -63,7 +63,7 @@
 
 * 熟練 Adept
     * [![][Acolyte of Torment]][Acolyte of Torment wiki] Acolyte of Torment **(新天賦)**: ![][torment]折磨+10%傷害.
-    * [![][Demonic Defiance]][Demonic Defiance wiki] Demonic Defiance: 效果不變
+    * ![][Demonic Defiance] Demonic Defiance: 效果不變
         * > 使用[惡魔姿態技能](https://wiki.guildwars2.com/wiki/Legendary_Demon_Stance)會獲得短時效的![][resistance]抵抗
     * [![][Replenishing Despair]][Replenishing Despair wiki] Replenishing Despair (重製): 每個[upkeeping](https://wiki.guildwars2.com/wiki/Energy#Upkeep)技能會+1[能量回復速度](https://wiki.guildwars2.com/wiki/Energy#Mechanics). 但會每5秒對自己造成1層![][torment]折磨.
 
@@ -194,7 +194,6 @@
 [Bold Reversal wiki]: https://wiki.guildwars2.com/wiki/Bold_Reversal
 [Sudden Reversal wiki]: https://wiki.guildwars2.com/wiki/Sudden_Reversal
 [Devastation wiki]: https://wiki.guildwars2.com/wiki/Devastation
-[Expose Defenses wiki]: https://wiki.guildwars2.com/wiki/Expose_Defenses
 [Destructive Impulses wiki]: https://wiki.guildwars2.com/wiki/Destructive_Impulses
 [Targeted Destruction wiki]: https://wiki.guildwars2.com/wiki/Targeted_Destruction
 [Aggressive Agility wiki]: https://wiki.guildwars2.com/wiki/Aggressive_Agility
@@ -212,7 +211,6 @@
 [Seething Malice wiki]: https://wiki.guildwars2.com/wiki/Seething_Malice
 [Yearning Empowerment wiki]: https://wiki.guildwars2.com/wiki/Yearning_Empowerment
 [Acolyte of Torment wiki]: https://wiki.guildwars2.com/wiki/Acolyte_of_Torment
-[Demonic Defiance wiki]: https://wiki.guildwars2.com/wiki/Demonic_Defiance
 [Replenishing Despair wiki]: https://wiki.guildwars2.com/wiki/Replenishing_Despair
 [Abyssal Chill wiki]: https://wiki.guildwars2.com/wiki/Abyssal_Chill
 [Demonic Resistance wiki]: https://wiki.guildwars2.com/wiki/Demonic_Resistance
