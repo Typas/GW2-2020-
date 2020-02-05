@@ -27,8 +27,10 @@
 
 * 次要天賦 Minor Traits
     * ![][Expose Defenses]Expose Defenses: 效果不變
+        * > 進入戰鬥後第一擊會引致![][vulnerability]破甲, 使用菁英技能時會重置效果
     * ![][Destructive Impulses]Destructive Impulses **(新天賦)**: 每個正在裝備的武器增加5%傷害.
     * ![][Targeted Destruction]Targeted Destruction: 移到宗師次要天賦.
+        * > 依據目標的![][vulnerability]破甲層數增加傷害
 
 * 熟練 Adept
     * ![][Aggressive Agility]Aggressive Agility **(新天賦)**: 移動類技能會移除![][immobile]綁定.
@@ -37,12 +39,15 @@
 
 * 大師 Master
     * ![][Assassin's Presence]Assassin's Presence: 移到同階的上層
+        * > 增加附近友軍的Ferocity
     * ![][Notoriety]Notoriety: 使用刺客技能時不在給予額外的![][might]威能.
     * ![][Thrill of Combat]Thrill of Combat **(新天賦)**: 進戰後每秒給予1層![][Battle Scar 20]Battle Scars.
 
 * 宗師 Grandmaster
     * ![][Brutality]Brutality: 與![][Swift Termination 20]Swift Termination互換位置.
+        * > 於戰鬥中切換武器獲得![][quickness]急速, 持有![][quickness]時攻擊會移除![][stability]穩固
     * ![][Swift Termination]Swift Termination: 與![][Brutality 20]Brutality互換位置.
+        * > 對50%生命以下的敵人傷害增加
     * ![][Dance of Death]Dance of Death **(新天賦)**: 對敵人造成每層![][vulnerability]破甲時獲得1層![][Battle Scar 20]Battle Scars. 半血以下時![][Battle Scar 20]Battle Scars的回復雙倍.
 
 ---
@@ -59,10 +64,12 @@
 * 熟練 Adept
     * ![][Acolyte of Torment]Acolyte of Torment **(新天賦)**: ![][torment]折磨+10%傷害.
     * ![][Demonic Defiance]Demonic Defiance: 效果不變
+        * > 使用[惡魔姿態技能](https://wiki.guildwars2.com/wiki/Legendary_Demon_Stance)會獲得短時效的![][resistance]抵抗
     * ![][Replenishing Despair]Replenishing Despair (重製): 每個[upkeeping](https://wiki.guildwars2.com/wiki/Energy#Upkeep)技能會+1[能量回復速度](https://wiki.guildwars2.com/wiki/Energy#Mechanics). 但會每5秒對自己造成1層![][torment]折磨.
 
 * 大師 Master
     * ![][Abyssal Chill]Abyssal Chill : 移到同階的新位置.
+        * > 引致![][chilled]凍結時追加![][torment]折磨
     * ![][Demonic Resistance]Demonic Resistance: 移到同階的新位置. 不再依據癥狀傷害增加生命. 傷害抵抗在PvE由20%增至33%. 在PvP/WvW保持20%.
     * ![][Pact of Pain]Pact of Pain **(新天賦)**: 對敵癥狀時效+15%. 對自身癥狀時效+10%.
 
