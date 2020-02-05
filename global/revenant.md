@@ -123,13 +123,7 @@
 [superspeed]: https://wiki.guildwars2.com/images/thumb/1/1a/Super_Speed.png/20px-Super_Speed.png
 [breakstun]: https://wiki.guildwars2.com/images/thumb/7/7a/Breaks_stun.png/20px-Breaks_stun.png
 [barrier]: https://wiki.guildwars2.com/images/thumb/c/cc/Barrier.png/20px-Barrier.png
-[chaos aura]: https://wiki.guildwars2.com/images/thumb/1/1b/Chaos_Armor.png/20px-Chaos_Armor.png
-[dark aura]: https://wiki.guildwars2.com/images/thumb/e/ef/Dark_Aura.png/20px-Dark_Aura.png
-[fire aura]: https://wiki.guildwars2.com/images/thumb/1/18/Fire_Shield.png/20px-Fire_Shield.png
-[frost aura]: https://wiki.guildwars2.com/images/thumb/6/68/Frost_Aura.png/20px-Frost_Aura.png
-[light aura]: https://wiki.guildwars2.com/images/thumb/5/5a/Light_Aura.png/20px-Light_Aura.png
-[magnetic aura]: https://wiki.guildwars2.com/images/thumb/5/5a/Magnetic_Aura.png/20px-Magnetic_Aura.png
-[shocking aura]: https://wiki.guildwars2.com/images/thumb/3/31/Shocking_Aura.png/20px-Shocking_Aura.png
+
 [Devastation]: https://wiki.guildwars2.com/images/thumb/8/8c/Devastation.png/32px-Devastation.png
 [Devastation 20]: https://wiki.guildwars2.com/images/thumb/8/8c/Devastation.png/20px-Devastation.png
 [Corruption]: https://wiki.guildwars2.com/images/thumb/0/0f/Corruption_%28specialization%29.png/32px-Corruption_%28specialization%29.png
@@ -205,6 +199,7 @@
 [Targeted Destruction wiki]: https://wiki.guildwars2.com/wiki/Targeted_Destruction
 [Aggressive Agility wiki]: https://wiki.guildwars2.com/wiki/Aggressive_Agility
 [Unsuspecting Strikes wiki]: https://wiki.guildwars2.com/wiki/Unsuspecting_Strikes
+
 [Battle Scarred wiki]: https://wiki.guildwars2.com/wiki/Battle Scarred
 [Assassin's Presence wiki]: https://wiki.guildwars2.com/wiki/Assassin%27s_Presence
 [Notoriety wiki]: https://wiki.guildwars2.com/wiki/Notoriety
@@ -224,4 +219,4 @@
 [Pact of Pain wiki]: https://wiki.guildwars2.com/wiki/Pact_of_Pain
 [Diabolic Inferno wiki]: https://wiki.guildwars2.com/wiki/Diabolic_Inferno
 [Fiendish Tenacity wiki]: https://wiki.guildwars2.com/wiki/Fiendish_Tenacity
-[Pulsating Pestilence wiki]: https://wiki.guildwars2.com/wiki/Pulsating_Pestilence
+[Permeating Pestilence wiki]: https://wiki.guildwars2.com/wiki/Permeating_Pestilence
