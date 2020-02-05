@@ -35,7 +35,7 @@
 * 熟練 Adept
     * [![][Aggressive Agility]][Aggressive Agility wiki] Aggressive Agility **(新天賦)**: 移動類技能會移除![][immobile]綁定.
     * [![][Unsuspecting Strikes]][Unsuspecting Strikes wiki] Unsuspecting Strikes **(新天賦)**: 對80%血量以上敵人的傷害增加. 在PvE增加25%, 在PvP/WvW增加10%.
-    * [![][Battle Scarred]][Battle Scarred wiki] Battle Scarred **(新天賦)**: 使用回復技能後給予5層![][Battle Scar 20]Battle Scars.
+    * ![][Battle Scarred] Battle Scarred **(新天賦)**: 使用回復技能後給予5層![][Battle Scar 20]Battle Scars.
 
 * 大師 Master
     * [![][Assassin's Presence]][Assassin's Presence wiki] Assassin's Presence: 移到同階的上層
