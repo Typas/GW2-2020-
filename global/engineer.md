@@ -25,14 +25,18 @@
 ![][Explosives]Explosives: 天賦線已被重製, 新天賦如下.
 
 * 次要天賦 Minor Traits
-    * ![][Explosive Entrance]Explosive Entrance **(新天賦)**: 進入戰鬥後第一次攻擊會爆炸並傷害附近敵人 (算![][Explosion]explosion攻擊). 迴避或脫離戰鬥後會重置.
+    * ![][Explosive Entrance]Explosive Entrance **(新天賦)**: 進入戰鬥後第一擊會爆炸並傷害附近敵人 (算![][Explosion]explosion攻擊). 迴避或脫離戰鬥後會重置.
     * ![][Steel-Packed Powder]Steel-Packed Powder: 效果不變
+        * > ![][Explosion]Explosions引致![][vulnerability]破甲.
     * ![][Shaped Charge]Shaped Charge: 效果不變
+        * > 依據目標的![][vulnerability]破甲層數增加傷害
 
 * 熟練 Adept
     * ![][Grenadier]Grenadier: 效果不變
+        * > 手雷速度及半徑增加, 使用回復技能時施![][Lesser Grenade Barrage 20]Lesser Grenade Barrage
     * ![][Short Fuse]Short Fuse (重製): 不再減少[bomb](https://wiki.guildwars2.com/wiki/Bomb_Kit)技能的引爆或冷卻時間. 用![][Explosion]explosion技能打中敵人會給予4秒![][fury]狂怒 (3秒內建冷卻)
     * ![][Glass Cannon]Glass Cannon: 效果不變
+        * > 生命75%以上時傷害增加
 
     大師 Master
     * ![][Aim-Assisted Rocket]Aim-Assisted Rocket (重製): 現在只有暴擊時會發射![][Aim-Assisted Rocket trait skill]Rockets. ![][Aim-Assisted Rocket trait skill]Rocket冷卻時間由10秒減至3秒. ![][Aim-Assisted Rocket trait skill]Rockets現在只有在距離目標最少450才會發射. 每第5個![][Aim-Assisted Rocket trait skill]rocket會變成發射![][Orbital Strike 20]orbital strike.
@@ -42,6 +46,7 @@
 * 宗師 Grandmaster
     * ![][Flashbang]Flashbang **(新天賦)**: ![][Explosive Entrance 20]Explosive Entrance命中時引致3秒![][blinded]致盲. 另外會對90%血量以上的敵人引致1秒![][daze]暈眩.
     * ![][Shrapnel]Shrapnel: 效果不變
+        * > ![][Explosion]Explosion機率引致![][crippled]殘廢及![][bleeding]流血
     * ![][Big Boomer]Big Boomer (重製): 對血量比率較工程師低的敵人增加10%傷害. 另外用![][Explosion]Explosion技能攻擊時會持續回復工程師的生命3秒, 每秒回復202. (效果不可堆疊.)
 
 
@@ -134,6 +139,7 @@
 [Steel-Packed Powder]: https://wiki.guildwars2.com/images/thumb/f/f4/Steel-Packed_Powder.png/32px-Steel-Packed_Powder.png
 [Shaped Charge]: https://wiki.guildwars2.com/images/thumb/f/f3/Explosive_Powder.png/32px-Explosive_Powder.png
 [Grenadier]: https://wiki.guildwars2.com/images/thumb/6/69/Grenadier.png/32px-Grenadier.png
+[Lesser Grenade Barrage 20]: https://wiki.guildwars2.com/images/thumb/e/ed/Grenade_Barrage.png/20px-Grenade_Barrage.png
 [Glass Cannon]: https://wiki.guildwars2.com/images/thumb/6/6e/Glass_Cannon.png/32px-Glass_Cannon.png
 [Aim-Assisted Rocket]: https://wiki.guildwars2.com/images/thumb/e/e3/Aim-Assisted_Rocket.png/32px-Aim-Assisted_Rocket.png
 [Aim-Assisted Rocket trait skill]: https://wiki.guildwars2.com/images/thumb/9/9e/Fire_Rocket_Barrage.png/20px-Fire_Rocket_Barrage.png
