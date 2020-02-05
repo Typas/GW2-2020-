@@ -29,13 +29,13 @@
     * ![][Expose Defenses] Expose Defenses: 效果不變
         * > 進入戰鬥後第一擊會引致![][vulnerability]破甲, 使用菁英技能時會重置效果
     * [![][Destructive Impulses]][Destructive Impulses wiki] Destructive Impulses **(新天賦)**: 每個正在裝備的武器增加5%傷害.
-    * [![][Targeted Destruction]][Targeted Destruction wiki] Targeted Destruction: 移到宗師次要天賦.
+    * ![][Targeted Destruction] Targeted Destruction: 移到宗師次要天賦.
         * > 依據目標的![][vulnerability]破甲層數增加傷害
 
 * 熟練 Adept
     * [![][Aggressive Agility]][Aggressive Agility wiki] Aggressive Agility **(新天賦)**: 移動類技能會移除![][immobile]綁定.
     * [![][Unsuspecting Strikes]][Unsuspecting Strikes wiki] Unsuspecting Strikes **(新天賦)**: 對80%血量以上敵人的傷害增加. 在PvE增加25%, 在PvP/WvW增加10%.
-    * ![][Battle Scarred] Battle Scarred **(新天賦)**: 使用回復技能後給予5層![][Battle Scar 20]Battle Scars.
+    * [![][Battle Scarred]][Battle Scarred wiki] Battle Scarred **(新天賦)**: 使用回復技能後給予5層![][Battle Scar 20]Battle Scars.
 
 * 大師 Master
     * [![][Assassin's Presence]][Assassin's Presence wiki] Assassin's Presence: 移到同階的上層
@@ -195,7 +195,6 @@
 [Sudden Reversal wiki]: https://wiki.guildwars2.com/wiki/Sudden_Reversal
 [Devastation wiki]: https://wiki.guildwars2.com/wiki/Devastation
 [Destructive Impulses wiki]: https://wiki.guildwars2.com/wiki/Destructive_Impulses
-[Targeted Destruction wiki]: https://wiki.guildwars2.com/wiki/Targeted_Destruction
 [Aggressive Agility wiki]: https://wiki.guildwars2.com/wiki/Aggressive_Agility
 [Unsuspecting Strikes wiki]: https://wiki.guildwars2.com/wiki/Unsuspecting_Strikes
 
