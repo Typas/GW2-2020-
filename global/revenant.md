@@ -13,11 +13,11 @@
 * [![][Unwavering Avoidance]][Unwavering Avoidance wiki] Unwavering Avoidance: 現在於迴避時給予![][vigor]活力而非![][stability]穩固. 冷卻時間由8秒減至5秒.
 * [![][Determined Resolution]][Determined Resolution wiki] Determined Resolution: 現在會於持有![][vigor]活力時有減傷效果而非![][stability]穩固. 不再增加![][stability]穩固的時效.
 * [![][Glaring Resolve]][Glaring Resolve wiki] Glaring Resolve: ![][breakstun]破控時給予![][stability]穩固及回復生命.
-> * [![][Fierce Infusion]][Fierce Infusion wiki] Fierce Infusion: 被Glaring Resolve取代.
+  * [![][Fierce Infusion]][Fierce Infusion wiki] Fierce Infusion: 被Glaring Resolve取代.
 * [![][Contained Temper]][Contained Temper wiki] Contained Temper: 控場時給予![][fury]狂怒.
-> * [![][Empty Vessel]][Empty Vessel wiki] Empty Vessel: 被Contained Temper取代.
+  * [![][Empty Vessel]][Empty Vessel wiki] Empty Vessel: 被Contained Temper取代.
 * [![][Bold Reversal]][Bold Reversal wiki] Bold Reversal: ![][breakstun]破控時, 給予數個攻擊系的恩賜及![][Kalla's Fervor]Kalla's Fervor全滿.
-> * [![][Sudden Reversal]][Sudden Reversal wiki] Sudden Reversal: 被Bold Reversal取代.
+  * [![][Sudden Reversal]][Sudden Reversal wiki] Sudden Reversal: 被Bold Reversal取代.
 
 ---
 
@@ -198,7 +198,7 @@
 [Aggressive Agility wiki]: https://wiki.guildwars2.com/wiki/Aggressive_Agility
 [Unsuspecting Strikes wiki]: https://wiki.guildwars2.com/wiki/Unsuspecting_Strikes
 
-[Battle Scarred wiki]: https://wiki.guildwars2.com/wiki/Battle Scarred
+[Battle Scarred wiki]: https://wiki.guildwars2.com/wiki/Battle_Scarred
 [Assassin's Presence wiki]: https://wiki.guildwars2.com/wiki/Assassin%27s_Presence
 [Notoriety wiki]: https://wiki.guildwars2.com/wiki/Notoriety
 [Thrill of Combat wiki]: https://wiki.guildwars2.com/wiki/Thrill_of_Combat
