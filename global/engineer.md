@@ -4,50 +4,50 @@
 
 > 工程師的![][Explosives 25]Explosives天賦線在這次更新有一些重要的變動. 我們刪除了一些弱勢或效果乏善可陳的天賦, 如![][Minesweeper]Minesweeper, ![][Orbital Command]Orbital Command及![][Blasting Zone]Blasting Zone, 以及重組了別的天賦以統一功能性, 如![][Short Fuse 20]Short Fuse及![][Big Boomer 20]Big Boomer. ![][Evasive Powder Keg]Evasive Powder Keg已被刪除及被![][Explosive Entrance 20]Explosive Entrance取代, 依然是在迴避時追加攻擊, 但是一個更加可控和調整的方式. 最後, 我們令不同[grenade](https://wiki.guildwars2.com/wiki/Grenade)技能在競爭模式的差異更清晰, 因為在丟出時實在很難分辨不同的[grenade](https://wiki.guildwars2.com/wiki/Grenade)之間差異.
 
-* ![][Overheat]Overheat: 與其禁用所有[toolbelt](https://wiki.guildwars2.com/wiki/Tool_belt)技能直到全部熱能流失, 現在會增加![][Photon Forge 20]Photon Forge以外的所有[toolbelt](https://wiki.guildwars2.com/wiki/Tool_belt)技能15秒冷卻時間. ![][Photon Forge 20]Photon Forge維持禁用直到全部熱能流失.
-* ![][Photonic Blasting Module]Photonic Blasting Module: 當裝備這天賦時, ![][Overheat 20]Overheat所造成的額外冷卻時間由15秒減至5秒.
-* ![][Overcharged Shot]Overcharged Shot: 發射前的技能動作由240ms延長至550ms.
-* ![][Personal Battering Ram]Personal Battering Ram: 攻擊前的技能動作由300ms延長至600ms.
-* ![][Orbital Strike]Orbital Strike: 現在全使用一個更精緻的特效. 友軍, 敵軍及在顯示設定勾選了"Effect LoD"的觀眾會顯示低特效版本.
-* ![][Grenade Kit]Grenade Kit: 這工具包的依據各個技能有不同的熱身特效. 修正熱身時![][Grenade Kit 20]grenade kit技能令到手雷消失了的問題.
-* ![][Crystal Configuration: Eclipse]Crystal Configuration: Eclipse: 不再令![][Corona Burst 25]Corona Burst給予穩固. 基本![][barrier]護盾由374增加至991(PvE)或748(PvP/WvW).
-> * ![][Short Fuse]Short Fuse: 刪除了天賦, 縮減冷卻時間效果已併入至以下技能.
-* ![][Fire Bomb]Fire Bomb: 冷卻時間由10秒減至8秒.
-* ![][Concussion Bomb]Concussion Bomb: 冷卻時間由20秒減至16秒.
-* ![][Smoke Bomb]Smoke Bomb: 冷卻時間由25秒減至20秒.
+* [![][Overheat]][overheat wiki] Overheat: 與其禁用所有[toolbelt](https://wiki.guildwars2.com/wiki/Tool_belt)技能直到全部熱能流失, 現在會增加![][Photon Forge 20]Photon Forge以外的所有[toolbelt](https://wiki.guildwars2.com/wiki/Tool_belt)技能15秒冷卻時間. ![][Photon Forge 20]Photon Forge維持禁用直到全部熱能流失.
+* [![][Photonic Blasting Module]][photonic blasting module wiki] Photonic Blasting Module: 當裝備這天賦時, ![][Overheat 20]Overheat所造成的額外冷卻時間由15秒減至5秒.
+* [![][Overcharged Shot]][overcharged shot wiki] Overcharged Shot: 發射前的技能動作由240ms延長至550ms.
+* [![][Personal Battering Ram]][personal battering ram wiki] Personal Battering Ram: 攻擊前的技能動作由300ms延長至600ms.
+* [![][Orbital Strike]][orbital strike wiki] Orbital Strike: 現在全使用一個更精緻的特效. 友軍, 敵軍及在顯示設定勾選了"Effect LoD"的觀眾會顯示低特效版本.
+* [![][Grenade Kit]][grenade kit wiki] Grenade Kit: 這工具包的依據各個技能有不同的熱身特效. 修正熱身時![][Grenade Kit 20]grenade kit技能令到手雷消失了的問題.
+* [![][Crystal Configuration: Eclipse]][crystal configuration eclipse wiki] Crystal Configuration: Eclipse: 不再令![][Corona Burst 25]Corona Burst給予穩固. 基本![][barrier]護盾由374增加至991(PvE)或748(PvP/WvW).
+> * [![][Short Fuse]][short fuse wiki] Short Fuse: 刪除了天賦, 縮減冷卻時間效果已併入至以下技能.
+* [![][Fire Bomb]][fire bomb wiki] Fire Bomb: 冷卻時間由10秒減至8秒.
+* [![][Concussion Bomb]][concussion bomb wiki] Concussion Bomb: 冷卻時間由20秒減至16秒.
+* [![][Smoke Bomb]][smoke bomb wiki] Smoke Bomb: 冷卻時間由25秒減至20秒.
 * ![][Glue Bomb]Glue Bomb: 冷卻時間由25秒減至20秒. 修正技能特效比實際範圍大的問題.
-* ![][Big Ol' Bomb]Big Ol' Bomb: 冷卻時間由25秒減至20秒.
+* [![][Big Ol' Bomb]][big ol' bomb wiki]Big Ol' Bomb: 冷卻時間由25秒減至20秒.
 
 
 ---
 
 
-![][Explosives]Explosives: 天賦線已被重製, 新天賦如下.
+[![][Explosives]][explosive wiki] Explosives: 天賦線已被重製, 新天賦如下.
 
 * 次要天賦 Minor Traits
-    * ![][Explosive Entrance]Explosive Entrance **(新天賦)**: 進入戰鬥後第一擊會爆炸並傷害附近敵人 (算![][Explosion]explosion攻擊). 迴避或脫離戰鬥後會重置.
-    * ![][Steel-Packed Powder]Steel-Packed Powder: 效果不變
+    * [![][Explosive Entrance]][explosive entrance wiki] Explosive Entrance **(新天賦)**: 進入戰鬥後第一擊會爆炸並傷害附近敵人 (算![][Explosion]explosion攻擊). 迴避或脫離戰鬥後會重置.
+    * [![][Steel-Packed Powder]][steel-packed powder wiki] Steel-Packed Powder: 效果不變
         * > ![][Explosion]Explosions引致![][vulnerability]破甲.
-    * ![][Shaped Charge]Shaped Charge: 效果不變
+    * [![][Shaped Charge]][shaped charge wiki] Shaped Charge: 效果不變
         * > 依據目標的![][vulnerability]破甲層數增加傷害
 
 * 熟練 Adept
-    * ![][Grenadier]Grenadier: 效果不變
+    * [![][Grenadier]][grenadier wiki] Grenadier: 效果不變
         * > 手雷速度及半徑增加, 使用回復技能時施![][Lesser Grenade Barrage 20]Lesser Grenade Barrage
-    * ![][Short Fuse]Short Fuse (重製): 不再減少[bomb](https://wiki.guildwars2.com/wiki/Bomb_Kit)技能的引爆或冷卻時間. 用![][Explosion]explosion技能打中敵人會給予4秒![][fury]狂怒 (3秒內建冷卻)
-    * ![][Glass Cannon]Glass Cannon: 效果不變
+    * [![][Short Fuse]][short fuse wiki] Short Fuse (重製): 不再減少[bomb](https://wiki.guildwars2.com/wiki/Bomb_Kit)技能的引爆或冷卻時間. 用![][Explosion]explosion技能打中敵人會給予4秒![][fury]狂怒 (3秒內建冷卻)
+    * [![][Glass Cannon]][glass cannon wiki] Glass Cannon: 效果不變
         * > 生命75%以上時傷害增加
 
     大師 Master
-    * ![][Aim-Assisted Rocket]Aim-Assisted Rocket (重製): 現在只有暴擊時會發射![][Aim-Assisted Rocket trait skill]Rockets. ![][Aim-Assisted Rocket trait skill]Rocket冷卻時間由10秒減至3秒. ![][Aim-Assisted Rocket trait skill]Rockets現在只有在距離目標最少450才會發射. 每第5個![][Aim-Assisted Rocket trait skill]rocket會變成發射![][Orbital Strike 20]orbital strike.
-    * ![][Explosive Temper]Explosive Temper **(新天賦)**: ![][Explosion]Explosions每次命中會給予10秒 +20 [Ferocity](https://wiki.guildwars2.com/wiki/Ferocity) (上限10層).
-    * ![][Blast Shield]Blast Shield **(新天賦)**: ![][Explosive Entrance 20]Explosive Entrance給予![][barrier]護盾 (PvE基本1508, WvW/PvP基本340). 以及轉換10% power至vitality.
+    * [![][Aim-Assisted Rocket]][aim-assisted rocket wiki] Aim-Assisted Rocket (重製): 現在只有暴擊時會發射![][Aim-Assisted Rocket trait skill]Rockets. ![][Aim-Assisted Rocket trait skill]Rocket冷卻時間由10秒減至3秒. ![][Aim-Assisted Rocket trait skill]Rockets現在只有在距離目標最少450才會發射. 每第5個![][Aim-Assisted Rocket trait skill]rocket會變成發射![][Orbital Strike 20]orbital strike.
+    * [![][Explosive Temper]][explosive temper wiki] Explosive Temper **(新天賦)**: ![][Explosion]Explosions每次命中會給予10秒 +20 [Ferocity](https://wiki.guildwars2.com/wiki/Ferocity) (上限10層).
+    * [![][Blast Shield]][blast shield wiki] Blast Shield **(新天賦)**: ![][Explosive Entrance 20]Explosive Entrance給予![][barrier]護盾 (PvE基本1508, WvW/PvP基本340). 以及轉換10% power至vitality.
 
 * 宗師 Grandmaster
-    * ![][Flashbang]Flashbang **(新天賦)**: ![][Explosive Entrance 20]Explosive Entrance命中時引致3秒![][blinded]致盲. 另外會對90%血量以上的敵人引致1秒![][daze]暈眩.
-    * ![][Shrapnel]Shrapnel: 效果不變
+    * [![][Flashbang]][flashbang wiki] Flashbang **(新天賦)**: ![][Explosive Entrance 20]Explosive Entrance命中時引致3秒![][blinded]致盲. 另外會對90%血量以上的敵人引致1秒![][daze]暈眩.
+    * [![][Shrapnel]][shrapnel wiki] Shrapnel: 效果不變
         * > ![][Explosion]Explosion機率引致![][crippled]殘廢及![][bleeding]流血
-    * ![][Big Boomer]Big Boomer (重製): 對血量比率較工程師低的敵人增加10%傷害. 另外用![][Explosion]Explosion技能攻擊時會持續回復工程師的生命3秒, 每秒回復202. (效果不可堆疊.)
+    * [![][Big Boomer]][big boomer wiki] Big Boomer (重製): 對血量比率較工程師低的敵人增加10%傷害. 另外用![][Explosion]Explosion技能攻擊時會持續回復工程師的生命3秒, 每秒回復202. (效果不可堆疊.)
 
 
 
@@ -147,3 +147,30 @@
 [Blast Shield]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
 [Flashbang]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
 [Shrapnel]: https://wiki.guildwars2.com/images/thumb/c/ce/Shrapnel.png/32px-Shrapnel.png
+
+[overheat wiki]: https://wiki.guildwars2.com/wiki/Overheat
+[photonic blasting module wiki]: https://wiki.guildwars2.com/wiki/Photonic_Blasting_Module
+[overcharged shot wiki]: https://wiki.guildwars2.com/wiki/Overcharged_Shot
+[personal battering ram wiki]: https://wiki.guildwars2.com/wiki/Personal_Battering_Ram
+[orbital strike wiki]: https://wiki.guildwars2.com/wiki/Orbital_Strike
+[grenade kit wiki]: https://wiki.guildwars2.com/wiki/Grenade_Kit
+[crystal configuration eclipse wiki]: https://wiki.guildwars2.com/wiki/Crystal_Configuration:_Eclipse
+[short fuse wiki]: https://wiki.guildwars2.com/wiki/Short_Fuse
+[fire bomb wiki]: https://wiki.guildwars2.com/wiki/Fire_Bomb
+[concussion bomb wiki]: https://wiki.guildwars2.com/wiki/Concussion_Bomb
+[smoke bomb wiki]: https://wiki.guildwars2.com/wiki/Smoke_Bomb_(engineer_skill)
+[glue bomb wiki]: https://wiki.guildwars2.com/wiki/Glue_Bomb
+[big ol' bomb wiki]: https://wiki.guildwars2.com/wiki/Big_Ol%27_Bomb
+[explosives wiki]: https://wiki.guildwars2.com/wiki/Explosives
+[explosive entrance wiki]: https://wiki.guildwars2.com/wiki/Explosive_Entrance
+[steel-packed powder wiki]: https://wiki.guildwars2.com/wiki/Steel-Packed_Powder
+[shaped charge wiki]: https://wiki.guildwars2.com/wiki/Shaped_Charge
+[grenadier wiki]: https://wiki.guildwars2.com/wiki/Grenadier
+[short fuse wiki]: https://wiki.guildwars2.com/wiki/Short_Fuse
+[glass cannon wiki]: https://wiki.guildwars2.com/wiki/Glass_Cannon
+[aim-assisted rocket wiki]: https://wiki.guildwars2.com/wiki/Aim-Assisted_Rocket
+[explosive temper wiki]: https://wiki.guildwars2.com/wiki/Explosive_Temper
+[blast shield wiki]: https://wiki.guildwars2.com/wiki/Blast_Shield
+[flashbang wiki]: https://wiki.guildwars2.com/wiki/Flashbang
+[shrapnel wiki]: https://wiki.guildwars2.com/wiki/Shrapnel
+[big boomer wiki]: https://wiki.guildwars2.com/wiki/Big_Boomer
