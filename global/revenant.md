@@ -21,62 +21,62 @@
 
 ---
 
-> ![][Devastation]Devastation天賦的變化旨在兩大領域. 首先是幾個熱門天賦, 如![][Malicious Reprisal]Malicious Reprisal及![][Jade Echo]Jade Echo. 這些天賦都被移除並被具有更廣泛應用的新天賦所取代. 第二個問題是相反的, 有些太相似的天賦如![][Ferocious Strikes]Ferocious Strikes及![][Vicious Lacerations]Vicious Lacerations. 吸血天賦是這次更新的對象, 我們正在統一吸血效果為一個buff以便記錄戰鬥, 以及使之成為天賦線中一個更大的部分. 新的吸血效果以[Shiro](https://wiki.guildwars2.com/wiki/Legendary_Assassin_Stance)的經典技能"[Battle Scars](https://wiki.guildwars.com/wiki/Battle_Scars)"為名, 是一個每次攻擊都會被消耗的可堆疊層數型的buff, 有更多的使用限制, 但會比以前的吸血天賦更強大.
+> ![][Devastation 20]Devastation天賦的變化旨在兩大領域. 首先是幾個熱門天賦, 如![][Malicious Reprisal]Malicious Reprisal及![][Jade Echo]Jade Echo. 這些天賦都被移除並被具有更廣泛應用的新天賦所取代. 第二個問題是相反的, 有些太相似的天賦如![][Ferocious Strikes]Ferocious Strikes及![][Vicious Lacerations]Vicious Lacerations. 吸血天賦是這次更新的對象, 我們正在統一吸血效果為一個buff以便記錄戰鬥, 以及使之成為天賦線中一個更大的部分. 新的吸血效果以[Shiro](https://wiki.guildwars2.com/wiki/Legendary_Assassin_Stance)的經典技能"[Battle Scars](https://wiki.guildwars.com/wiki/Battle_Scars)"為名, 是一個每次攻擊都會被消耗的可堆疊層數型的buff, 有更多的使用限制, 但會比以前的吸血天賦更強大.
 
-![][Devastation]Devastation: ![][Devastation 20]Devastation天賦線已被重製, 新天賦如下.
+[![][Devastation]][Devastation wiki] Devastation: ![][Devastation 20]Devastation天賦線已被重製, 新天賦如下.
 
 * 次要天賦 Minor Traits
-    * ![][Expose Defenses]Expose Defenses: 效果不變
+    * [![][Expose Defenses]][Expose Defenses wiki] Expose Defenses: 效果不變
         * > 進入戰鬥後第一擊會引致![][vulnerability]破甲, 使用菁英技能時會重置效果
-    * ![][Destructive Impulses]Destructive Impulses **(新天賦)**: 每個正在裝備的武器增加5%傷害.
-    * ![][Targeted Destruction]Targeted Destruction: 移到宗師次要天賦.
+    * [![][Destructive Impulses]][Destructive Impulses wiki] Destructive Impulses **(新天賦)**: 每個正在裝備的武器增加5%傷害.
+    * [![][Targeted Destruction]][Targeted Destruction wiki] Targeted Destruction: 移到宗師次要天賦.
         * > 依據目標的![][vulnerability]破甲層數增加傷害
 
 * 熟練 Adept
-    * ![][Aggressive Agility]Aggressive Agility **(新天賦)**: 移動類技能會移除![][immobile]綁定.
-    * ![][Unsuspecting Strikes]Unsuspecting Strikes **(新天賦)**: 對80%血量以上敵人的傷害增加. 在PvE增加25%, 在PvP/WvW增加10%.
-    * ![][Battle Scarred]Battle Scarred **(新天賦)**: 使用回復技能後給予5層![][Battle Scar 20]Battle Scars.
+    * [![][Aggressive Agility]][Aggressive Agility wiki] Aggressive Agility **(新天賦)**: 移動類技能會移除![][immobile]綁定.
+    * [![][Unsuspecting Strikes]][Unsuspecting Strikes wiki] Unsuspecting Strikes **(新天賦)**: 對80%血量以上敵人的傷害增加. 在PvE增加25%, 在PvP/WvW增加10%.
+    * [![][Battle Scarred]][Battle Scarred wiki] Battle Scarred **(新天賦)**: 使用回復技能後給予5層![][Battle Scar 20]Battle Scars.
 
 * 大師 Master
-    * ![][Assassin's Presence]Assassin's Presence: 移到同階的上層
+    * [![][Assassin's Presence]][Assassin's Presence wiki] Assassin's Presence: 移到同階的上層
         * > 增加附近友軍的Ferocity
-    * ![][Notoriety]Notoriety: 使用刺客技能時不在給予額外的![][might]威能.
-    * ![][Thrill of Combat]Thrill of Combat **(新天賦)**: 進戰後每秒給予1層![][Battle Scar 20]Battle Scars.
+    * [![][Notoriety]][Notoriety wiki] Notoriety: 使用刺客技能時不在給予額外的![][might]威能.
+    * [![][Thrill of Combat]][Thrill of Combat wiki] Thrill of Combat **(新天賦)**: 進戰後每秒給予1層![][Battle Scar 20]Battle Scars.
 
 * 宗師 Grandmaster
-    * ![][Brutality]Brutality: 與![][Swift Termination 20]Swift Termination互換位置.
+    * [![][Brutality]][Brutality wiki] Brutality: 與![][Swift Termination 20]Swift Termination互換位置.
         * > 於戰鬥中切換武器獲得![][quickness]急速, 持有![][quickness]時攻擊會移除![][stability]穩固
-    * ![][Swift Termination]Swift Termination: 與![][Brutality 20]Brutality互換位置.
+    * [![][Swift Termination]][Swift Termination wiki] Swift Termination: 與![][Brutality 20]Brutality互換位置.
         * > 對50%生命以下的敵人傷害增加
-    * ![][Dance of Death]Dance of Death **(新天賦)**: 對敵人造成每層![][vulnerability]破甲時獲得1層![][Battle Scar 20]Battle Scars. 半血以下時![][Battle Scar 20]Battle Scars的回復雙倍.
+    * [![][Dance of Death]][Dance of Death wiki] Dance of Death **(新天賦)**: 對敵人造成每層![][vulnerability]破甲時獲得1層![][Battle Scar 20]Battle Scars. 半血以下時![][Battle Scar 20]Battle Scars的回復雙倍.
 
 ---
 
 > 與重製![][Devastation 20]Devastation類似, 我們重置了![][Corruption 20]Corruption天賦線的核心. 切換傳說會生成"Invoke Torment", 對附近敵人造成![][torment]折磨. 這能力會依據你的風格以宗師天賦有不同的強化. 移除恩賜的天賦也被刪除了, 因為我們覺得他們的效果太小. 作為交換我們增加了會有一些有副作用的強力天賦, 因為我們認為這是[Mallyx](https://wiki.guildwars2.com/wiki/Legendary_Demon_Stance)的特色, 如![][Pain Absorption]Pain Absorption.
 
-![][Corruption]Corruption: ![][Corruption 20]Corruption天賦線已被重製, 新天賦如下.
+[![][Corruption]][Corruption wiki] Corruption: ![][Corruption 20]Corruption天賦線已被重製, 新天賦如下.
 
 * 次要天賦 Minor Traits
-    * ![][Invoking Torment]Invoking Torment **(新天賦)**: 切換傳說對附近敵人造成![][torment]折磨. 這攻擊名為![][Invoke Torment 20]"Invoke Torment", 並會被其他天賦影響.
-    * ![][Seething Malice]Seething Malice **(新天賦)**: 癥狀傷害+120.
-    * ![][Yearning Empowerment]Yearning Empowerment (重製): 所有傷害類癥狀+10%傷害.
+    * [![][Invoking Torment]][Invoking Torment wiki] Invoking Torment **(新天賦)**: 切換傳說對附近敵人造成![][torment]折磨. 這攻擊名為![][Invoke Torment 20]"Invoke Torment", 並會被其他天賦影響.
+    * [![][Seething Malice]][Seething Malice wiki] Seething Malice **(新天賦)**: 癥狀傷害+120.
+    * [![][Yearning Empowerment]][Yearning Empowerment wiki] Yearning Empowerment (重製): 所有傷害類癥狀+10%傷害.
 
 * 熟練 Adept
-    * ![][Acolyte of Torment]Acolyte of Torment **(新天賦)**: ![][torment]折磨+10%傷害.
-    * ![][Demonic Defiance]Demonic Defiance: 效果不變
+    * [![][Acolyte of Torment]][Acolyte of Torment wiki] Acolyte of Torment **(新天賦)**: ![][torment]折磨+10%傷害.
+    * [![][Demonic Defiance]][Demonic Defiance wiki] Demonic Defiance: 效果不變
         * > 使用[惡魔姿態技能](https://wiki.guildwars2.com/wiki/Legendary_Demon_Stance)會獲得短時效的![][resistance]抵抗
-    * ![][Replenishing Despair]Replenishing Despair (重製): 每個[upkeeping](https://wiki.guildwars2.com/wiki/Energy#Upkeep)技能會+1[能量回復速度](https://wiki.guildwars2.com/wiki/Energy#Mechanics). 但會每5秒對自己造成1層![][torment]折磨.
+    * [![][Replenishing Despair]][Replenishing Despair wiki] Replenishing Despair (重製): 每個[upkeeping](https://wiki.guildwars2.com/wiki/Energy#Upkeep)技能會+1[能量回復速度](https://wiki.guildwars2.com/wiki/Energy#Mechanics). 但會每5秒對自己造成1層![][torment]折磨.
 
 * 大師 Master
-    * ![][Abyssal Chill]Abyssal Chill : 移到同階的新位置.
+    * [![][Abyssal Chill]][Abyssal Chill wiki] Abyssal Chill : 移到同階的新位置.
         * > 引致![][chilled]凍結時追加![][torment]折磨
-    * ![][Demonic Resistance]Demonic Resistance: 移到同階的新位置. 不再依據癥狀傷害增加生命. 傷害抵抗在PvE由20%增至33%. 在PvP/WvW保持20%.
-    * ![][Pact of Pain]Pact of Pain **(新天賦)**: 對敵癥狀時效+15%. 對自身癥狀時效+10%.
+    * [![][Demonic Resistance]][Demonic Resistance wiki] Demonic Resistance: 移到同階的新位置. 不再依據癥狀傷害增加生命. 傷害抵抗在PvE由20%增至33%. 在PvP/WvW保持20%.
+    * [![][Pact of Pain]][Pact of Pain wiki] Pact of Pain **(新天賦)**: 對敵癥狀時效+15%. 對自身癥狀時效+10%.
 
 * 宗師 Grandmaster
-    * ![][Diabolic Inferno]Diabolic Inferno (重製): ![][Invoke Torment 20]"Invoke Torment"造成燃燒及中毒.
-    * ![][Fiendish Tenacity]Fiendish Tenacity **(新天賦)**: ![][Invoke Torment 20]"Invoke Torment"給予![][resistance]抵抗. ![][resistance]持有抵抗期間每秒回復生命.
-    * ![][Pulsating Pestilence]Permeating Pestilence (更名): ![][Invoke Torment 20]"Invoke Torment"轉移癥狀予擊中的對象.
+    * [![][Diabolic Inferno]][Diabolic Inferno wiki] Diabolic Inferno (重製): ![][Invoke Torment 20]"Invoke Torment"造成燃燒及中毒.
+    * [![][Fiendish Tenacity]][Fiendish Tenacity wiki] Fiendish Tenacity **(新天賦)**: ![][Invoke Torment 20]"Invoke Torment"給予![][resistance]抵抗. ![][resistance]持有抵抗期間每秒回復生命.
+    * [![][Pulsating Pestilence]][Permeating Pestilence wiki] Permeating Pestilence (更名): ![][Invoke Torment 20]"Invoke Torment"轉移癥狀予擊中的對象.
 
 ## 貢獻者
 1. Richun
@@ -200,3 +200,29 @@
 [Empty Vessel wiki]: https://wiki.guildwars2.com/wiki/Empty_Vessel
 [Bold Reversal wiki]: https://wiki.guildwars2.com/wiki/Bold_Reversal
 [Sudden Reversal wiki]: https://wiki.guildwars2.com/wiki/Sudden_Reversal
+[Devastation wiki]: https://wiki.guildwars2.com/wiki/Devastation
+[Expose Defenses wiki]: https://wiki.guildwars2.com/wiki/Expose_Defenses
+[Destructive Impulses wiki]: https://wiki.guildwars2.com/wiki/Destructive_Impulses
+[Targeted Destruction wiki]: https://wiki.guildwars2.com/wiki/Targeted_Destruction
+[Aggressive Agility wiki]: https://wiki.guildwars2.com/wiki/Aggressive_Agility
+[Unsuspecting Strikes wiki]: https://wiki.guildwars2.com/wiki/Unsuspecting_Strikes
+[Battle Scarred wiki]: https://wiki.guildwars2.com/wiki/Battle Scarred
+[Assassin's Presence wiki]: https://wiki.guildwars2.com/wiki/Assassin%27s_Presence
+[Notoriety wiki]: https://wiki.guildwars2.com/wiki/Notoriety
+[Thrill of Combat wiki]: https://wiki.guildwars2.com/wiki/Thrill_of_Combat
+[Brutality wiki]: https://wiki.guildwars2.com/wiki/Brutality
+[Swift Termination wiki]: https://wiki.guildwars2.com/wiki/Swift_Termination
+[Dance of Death wiki]: https://wiki.guildwars2.com/wiki/Dance_of_Death
+[Corruption wiki]: https://wiki.guildwars2.com/wiki/Corruption_(specialization)
+[Invoking Torment wiki]: https://wiki.guildwars2.com/wiki/Invoking_Torment
+[Seething Malice wiki]: https://wiki.guildwars2.com/wiki/Seething_Malice
+[Yearning Empowerment wiki]: https://wiki.guildwars2.com/wiki/Yearning_Empowerment
+[Acolyte of Torment wiki]: https://wiki.guildwars2.com/wiki/Acolyte_of_Torment
+[Demonic Defiance wiki]: https://wiki.guildwars2.com/wiki/Demonic_Defiance
+[Replenishing Despair wiki]: https://wiki.guildwars2.com/wiki/Replenishing_Despair
+[Abyssal Chill wiki]: https://wiki.guildwars2.com/wiki/Abyssal_Chill
+[Demonic Resistance wiki]: https://wiki.guildwars2.com/wiki/Demonic_Resistance
+[Pact of Pain wiki]: https://wiki.guildwars2.com/wiki/Pact_of_Pain
+[Diabolic Inferno wiki]: https://wiki.guildwars2.com/wiki/Diabolic_Inferno
+[Fiendish Tenacity wiki]: https://wiki.guildwars2.com/wiki/Fiendish_Tenacity
+[Pulsating Pestilence wiki]: https://wiki.guildwars2.com/wiki/Pulsating_Pestilence
