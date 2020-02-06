@@ -24,7 +24,7 @@
 > 現在這個技能將永遠變成範圍技能（不再受到特性影響），增加 ![][bleeding] Bleeding 層數，由 2 層提升為 3 層。![][bleeding] Bleeding 持續時間也提升，由 8s 提升到 12s。
 
 [![][Honed Axes]][honed axes wiki] Honed Axes
-> 現在寵物也會受惠於此特性所提升的 Ferocity，同時不再影響 ![][Winter's Bite 20] Winter's Bite 的範圍傷害。
+> 現在寵物也會受惠於此特性所提升的 Ferocity，同時不再影響 ![][Winter's Bite 25] Winter's Bite 的範圍傷害。
 
 [![][Hunter's Tactics]][hunter's tactics wiki] Hunter's Tactics
 > 現在這個特性使玩家從側邊或後方攻擊敵方時增加 10% 傷害。
@@ -110,7 +110,7 @@
 [Call of the Wild]: https://wiki.guildwars2.com/images/thumb/8/8d/Call_of_the_Wild.png/32px-Call_of_the_Wild.png
 [Throw Torch]: https://wiki.guildwars2.com/images/thumb/b/b4/Throw_Torch.png/32px-Throw_Torch.png
 [Winter's Bite]: https://wiki.guildwars2.com/images/thumb/c/c2/Winter%27s_Bite.png/32px-Winter%27s_Bite.png
-[Winter's Bite 20]: https://wiki.guildwars2.com/images/thumb/c/c2/Winter%27s_Bite.png/20px-Winter%27s_Bite.png
+[Winter's Bite 25]: https://wiki.guildwars2.com/images/thumb/c/c2/Winter%27s_Bite.png/25px-Winter%27s_Bite.png
 [Honed Axes]: https://wiki.guildwars2.com/images/thumb/f/fa/Honed_Axes.png/32px-Honed_Axes.png
 [Hunter's Tactics]: https://wiki.guildwars2.com/images/thumb/b/bb/Hunter%27s_Tactics.png/32px-Hunter%27s_Tactics.png
 [Lead the Wind]: https://wiki.guildwars2.com/images/thumb/6/65/Lead_the_Wind.png/32px-Lead_the_Wind.png
