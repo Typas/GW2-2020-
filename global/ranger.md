@@ -24,7 +24,7 @@
 > 現在這個技能將永遠變成範圍技能（不再受到特性影響），增加 ![][bleeding] Bleeding 層數，由 2 層提升為 3 層。![][bleeding] Bleeding 持續時間也提升，由 8s 提升到 12s。
 
 [![][Honed Axes]][honed axes wiki] Honed Axes
-> 現在寵物也會受惠於此特性所提升的 Ferocity，同時不再影響 ![][Winter's Bite] Winter's Bite 的範圍傷害。
+> 現在寵物也會受惠於此特性所提升的 Ferocity，同時不再影響 ![][Winter's Bite 20] Winter's Bite 的範圍傷害。
 
 [![][Hunter's Tactics]][hunter's tactics wiki] Hunter's Tactics
 > 現在這個特性使玩家從側邊或後方攻擊敵方時增加 10% 傷害。
@@ -32,7 +32,7 @@
 [![][Lead the Wind]][lead the wind wiki] Lead the Wind
 > 玩家完成了 Projectile 任何類型的 Combo 後，將不會再讓玩家獲得 ![][swiftness] Swiftness，取而代之的特性是，當玩家在距離 1200 之外攻擊敵方時，將獲得 10s ![][swiftness] Swiftness 與 5s ![][quickness] Quickness，冷卻時間 15s。
 
-[![][Druidic Clarity]][druidic clarity] Druidic Clarity
+[![][Druidic Clarity]][druidic clarity wiki] Druidic Clarity
 > 這個特性將不會再讓玩家進入 Celestial Avatar 時 ![][breakstun] Stunbreak。
 
 [![][Unstoppable Union]][unstoppable union wiki] Unstoppable Union
