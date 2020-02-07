@@ -27,7 +27,7 @@
   + 第 4 項效果為增加所有 boon 或 condition 持續時間的從 10% 降為 3%
   + 第 6 項效果為增加所有 boon 或 condition 持續時間的從 10% 降為 5%
 
-舉例來說，![][rune of afflicated]Rune of Afflicated 從
+舉例來說，![][rune of afflicated] Rune of Afflicated 從
 > (1) +25 Condition Damage  
 > (2) +10% Poison 持續時間  
 > (3) +50 Condition Damage  
