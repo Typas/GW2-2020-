@@ -27,26 +27,25 @@
   + 第 4 項效果為增加所有 boon 或 condition 持續時間的從 10% 降為 3%
   + 第 6 項效果為增加所有 boon 或 condition 持續時間的從 10% 降為 5%
 
-> 舉例來說，![][rune of afflicated]Rune of Afflicated 從
-> > (1) +25 Condition Damage  
-> > (2) +10% Poison 持續時間  
-> > (3) +50 Condition Damage  
-> > (4) +20% Bleeding 持續時間  
-> > (5) +100 Condition Damage  
-> > (6) +10% Condition 持續時間；在目標死透時在其所在創造一個 death nova。  
->   
-> 改成  
->   
-> > (1) +25 Condition Damage  
-> > (2) +4% Poison 持續時間  
-> > (3) +50 Condition Damage  
-> > (4) +6% Bleeding 持續時間  
-> > (5) +100 Condition Damage  
-> > (6) +5% Condition 持續時間；在目標死透時在其所在創造一個 death nova。  
+舉例來說，![][rune of afflicated]Rune of Afflicated 從
+> (1) +25 Condition Damage  
+> (2) +10% Poison 持續時間  
+> (3) +50 Condition Damage  
+> (4) +20% Bleeding 持續時間  
+> (5) +100 Condition Damage  
+> (6) +10% Condition 持續時間；在目標死透時在其所在創造一個 death nova。    
+改成  
+> (1) +25 Condition Damage  
+> (2) +4% Poison 持續時間  
+> (3) +50 Condition Damage  
+> (4) +6% Bleeding 持續時間  
+> (5) +100 Condition Damage  
+> (6) +5% Condition 持續時間；在目標死透時在其所在創造一個 death nova。  
 
 被影響的 rune 請到 [官方 wiki](https://wiki.guildwars2.com/wiki/Upcoming_changes_and_features/Game_updates/2020-02/PvP#Build_Items) 查閱。
 
-###### 貢獻者: Richun (Richun.9045)
+## 貢獻者
+1. Richun
 
 [sigil of annulment]: https://wiki.guildwars2.com/images/thumb/c/c6/Sigil_of_Annulment_%28PvP%29.png/20px-Sigil_of_Annulment_%28PvP%29.png
 [sigil of agility]: https://wiki.guildwars2.com/images/thumb/3/3a/Superior_Sigil_of_Agility.png/20px-Superior_Sigil_of_Agility.png
