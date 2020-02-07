@@ -13,7 +13,7 @@
 * [![][rifle butt]][rifle butt wiki] Rifle Butt: 冷卻時間從 15 秒提升到 20 秒，動作時間從 367 ms 延後至 600 ms。當你用這技能擊中目標時所有的 Rifle 技能回填 1 發。
 * [![][fierce blow]][fierce blow wiki] Fierce Blow: 在 PvE 中對被 disable 的目標再增傷 25%。
 * [![][backbreaker]][backbreaker wiki] Backbreaker: 在成功 ![][knockdown] knockdown 或是對有 CC 條的目標攻擊時，![][fierce blow 20] Fierce Blow 冷卻歸零。
-* [![][disrupting stab]][disrupting stab wiki] Disrupting Stab: 對使用技能中的敵人攻擊時，從 stun 改為延長 daze 時間。在 PvE 延長到 1.5 秒，在 PvP/WvW 延長到 1 秒。移除增傷。僅在 PvE 增加 50% 傷害。
+* [![][disrupting stab]][disrupting stab wiki] Disrupting Stab: 對使用技能中的敵人攻擊時，從 ![][stun] stun 改為延長 ![][daze] daze 時間。在 PvE 延長到 1.5 秒，在 PvP/WvW 延長到 1 秒。移除增傷。僅在 PvE 增加 50% 傷害。
 * [![][imminent threat]][imminent threat wiki] Imminent Threat: 技能時間從 333 ms 延長至 600 ms。
 * [![][signet of might]][signet of might wiki] Signet of Might: 主動技從 6 秒 ![][unblockable] Unblockable 狀態改為給 10 層 6 秒 ![][unblockable] Unblockable。
 
