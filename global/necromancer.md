@@ -4,21 +4,21 @@
 
 > 死靈法師一直被設計為一個有彈性但缺少![][stability]穩固的職業. 由於本次更新特別刪除他們會給予![][stability]穩固的天賦, 但我們會強化他們的![][breakstun]破控技能以作補償. 另外, 我們還修正了一些爪牙的反應問題, 並強化了一些較弱的爪牙命令技能.
 
-* ![][Well of Power]Well of Power: 在PvE冷卻時間由40秒減至30秒
-* ![][Plague Signet]Plague Signet: 在PvE冷卻時間由30秒減至25秒
-* ![][Spectral Armor]Spectral Armor: 在PvE冷卻時間由40秒減至30秒
-* ![][Spectral Walk]Spectral Walk: 在PvE冷卻時間由40秒減至30秒, ![][swiftness]瞬捷時效由30秒減至24秒
-* ![]["Nothing can save you!"]"Nothing can save you!": 新增5層10秒的新型unblockable效果, 每打中1名敵人會額外給予2層.
+* [![][Well of Power]][Well of Power wiki] Well of Power: 在PvE冷卻時間由40秒減至30秒
+* [![][Plague Signet]][Plague Signet wiki] Plague Signet: 在PvE冷卻時間由30秒減至25秒
+* [![][Spectral Armor]][Spectral Armor wiki] Spectral Armor: 在PvE冷卻時間由40秒減至30秒
+* [![][Spectral Walk]][Spectral Walk wiki] Spectral Walk: 在PvE冷卻時間由40秒減至30秒, ![][swiftness]瞬捷時效由30秒減至24秒
+* [![]["Nothing can save you!"]]["Nothing can save you!" wiki]"Nothing can save you!": 新增5層10秒的新型unblockable效果, 每打中1名敵人會額外給予2層.
 * [Minions](https://wiki.guildwars2.com/wiki/Minion): 死靈的爪牙被下達命令時會有特別的效果以資識別.
-* ![][Rigor Mortis]Rigor Mortis: [Bone Fiend](https://wiki.guildwars2.com/wiki/Bone_Fiend)現在立即中斷正在使用的技能以即時執行命令.
-* ![][Haunt]Haunt: 技能半徑由120增至300.
+* [![][Rigor Mortis]][Rigor Mortis wiki] Rigor Mortis: [Bone Fiend](https://wiki.guildwars2.com/wiki/Bone_Fiend)現在立即中斷正在使用的技能以即時執行命令.
+* [![][Haunt]][Haunt wiki] Haunt: 技能半徑由120增至300.
 * [Flesh Wurm](https://wiki.guildwars2.com/wiki/Flesh_Wurm): 在PvE冷卻時間由32秒減至25秒
-* ![][Necrotic Traversal]Necrotic Traversal: 技能半徑由180增至240.
-* ![][Doom]Doom: 現在有一個640ms的技能動作. ![][fear]恐怖時效不論距離, 由1秒/1.5秒增至接近2秒.
-* ![][Death's Carapace]Death's Carapace: 增加一個根據層數的視覺效果.
-* ![][Eternal Life]Eternal Life (NEW): 不在F1時持續獲得[生命能量](https://wiki.guildwars2.com/wiki/Life_force)直至特定數值 (PvE為66%, PvP/WvW為20%). 進入F1時獲得保護.
-> * ![][Foot in the Grave]Foot in the Grave: 被Eternal Life取代.
-* ![][Flesh of the Master]Flesh of the Master: 修正給予錯誤![][Death's Carapace 20]Death's Carapace層數的bug.
+* [![][Necrotic Traversal]][Necrotic Traversal wiki] Necrotic Traversal: 技能半徑由180增至240.
+* [![][Doom]][Doom wiki] Doom: 現在有一個640ms的技能動作. ![][fear]恐怖時效不論距離, 由1秒/1.5秒增至接近2秒.
+* [![][Death's Carapace]][Death's Carapace wiki] Death's Carapace: 增加一個根據層數的視覺效果.
+* [![][Eternal Life]][Eternal Life wiki] Eternal Life (NEW): 不在F1時持續獲得[生命能量](https://wiki.guildwars2.com/wiki/Life_force)直至特定數值 (PvE為66%, PvP/WvW為20%). 進入F1時獲得保護.
+> * [![][Foot in the Grave]][Foot in the Grave wiki] Foot in the Grave: 被Eternal Life取代.
+* [![][Flesh of the Master]][Flesh of the Master wiki] Flesh of the Master: 修正給予錯誤![][Death's Carapace 20]Death's Carapace層數的bug.
 
 ## 貢獻者
 1. Richun
@@ -88,3 +88,16 @@
 [Foot in the Grave]: https://wiki.guildwars2.com/images/thumb/8/85/Foot_in_the_Grave.png/32px-Foot_in_the_Grave.png
 [Flesh of the Master]: https://wiki.guildwars2.com/images/thumb/e/e9/Flesh_of_the_Master.png/32px-Flesh_of_the_Master.png
 
+[Well of Power wiki]: https://wiki.guildwars2.com/wiki/Well_of_Power
+[Plague Signet wiki]: https://wiki.guildwars2.com/wiki/Plague_Signet
+[Spectral Armor wiki]: https://wiki.guildwars2.com/wiki/Spectral_Armor
+[Spectral Walk wiki]: https://wiki.guildwars2.com/wiki/Spectral_Walk
+["Nothing can save you!" wiki]: https://wiki.guildwars2.com/wiki/%22Nothing_Can_Save_You!%22
+[Rigor Mortis wiki]: https://wiki.guildwars2.com/wiki/Rigor_Mortis
+[Haunt wiki]: https://wiki.guildwars2.com/wiki/Haunt
+[Necrotic Traversal wiki]: https://wiki.guildwars2.com/wiki/Necrotic_Traversal
+[Doom wiki]: https://wiki.guildwars2.com/wiki/Doom
+[Death's Carapace wiki]: https://wiki.guildwars2.com/wiki/Death%27s_Carapace
+[Eternal Life wiki]: https://wiki.guildwars2.com/wiki/Eternal_Life
+[Foot in the Grave wiki]: https://wiki.guildwars2.com/wiki/Foot_in_the_Grave
+[Flesh of the Master wiki]: https://wiki.guildwars2.com/wiki/Flesh_of_the_Master
