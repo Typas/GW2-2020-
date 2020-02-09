@@ -4,18 +4,18 @@
 
 > DH 是穩定的傷害來源，不過有些地方需要調整。像是 ![][deflecting shot 20]Deflecting Shot 有非常短的施放時間，搭配 ![][heavy light 20]Heavy Light 還能 CC。我們把 CC 能力放進技能裡，並延長了其施放動作來確保效果的合理性。還有許多特性提升了其易懂性，像是 ![][dulled senses 20]Dulled Senses 在你 CC 任何目標時作動，而不僅止於 ![][knockback]Knockback。一些 Virtues 線特別沒人用的特性被換成新的了。
 
-* ![][true shot] True Shot: 在 PvE 增傷 10%，改進沒目標時的發射方向。
-* ![][deflecting shot] Deflecting Shot: 增加 ![][knockback]Knockback 效果，放慢技能動作，從 280 ms 延長到 740 ms。PvP 與 WvW 的傷害係數從 1.8 減為 0.01。
-* ![][hunter's ward] Hunter's Ward: 最後一擊的傷害增加 10%。
-* ![][chains of light] Chains of Light: 放慢技能動作，從 400 ms 延後至 600 ms。對目標造成 3 -> 5 層 ![][vulnerability]Vulnerability，在 PvE 延長 ![][immobile]Immobilize 時間為 5 秒。
-* ![][dulled senses] Dulled Senses: 不再對目標造成 ![][crippled]Crippled 時給予 ![][vulnerability]Vulnerability。當你 ![][knockback] -> disable 目標時給予 ![][crippled]Crippled。
-* ![][heavy light] Heavy Light: 不再使 ![][deflecting shot 20]Deflecting Shot 能夠 ![][knockback]。當你 disable 目標時得到 ![][stability]Stability，對被 disable 的目標增傷。
-* ![][stoic demeanor] Stoic Demeanor: 對同一目標的 CD 從 3 秒減為 1 秒。
-* ![][inspiring virtue] Inspiring Virtue: 使用 virtue 的主動技時會增傷。
-> * ![][virtuous solace] Virtuous Solace: 此特性被 Inspiring Virtue 取代。
-* ![][wrathful spirit] Wrathful Spirit: 當 ![][aegis]Aegis 結束時，原效果外，會多得到 ![][fury]Fury。
-* ![][furious focus] Furious Focus: 當有 ![][fury]Fury 時攻擊目標會上 1 層 ![][vulnerability]Vulnerability。
-> * ![][binding jeopardy] Binding Jeopardy: 此特性被 Furious Focus 取代。
+* [![][true shot]][true shot wiki] True Shot: 在 PvE 增傷 10%，改進沒目標時的發射方向。
+* [![][deflecting shot]][deflecting shot wiki] Deflecting Shot: 增加 ![][knockback]Knockback 效果，放慢技能動作，從 280 ms 延長到 740 ms。PvP 與 WvW 的傷害係數從 1.8 減為 0.01。
+* [![][hunter's ward]][hunter's ward wiki] Hunter's Ward: 最後一擊的傷害增加 10%。
+* [![][chains of light]][chains of light wiki] Chains of Light: 放慢技能動作，從 400 ms 延後至 600 ms。對目標造成 3 -> 5 層 ![][vulnerability]Vulnerability，在 PvE 延長 ![][immobile]Immobilize 時間為 5 秒。
+* [![][dulled senses]][dulled senses wiki] Dulled Senses: 不再對目標造成 ![][crippled]Crippled 時給予 ![][vulnerability]Vulnerability。當你 ![][knockback] -> disable 目標時給予 ![][crippled]Crippled。
+* [![][heavy light]][heavy light wiki] Heavy Light: 不再使 ![][deflecting shot 20]Deflecting Shot 能夠 ![][knockback]。當你 disable 目標時得到 ![][stability]Stability，對被 disable 的目標增傷。
+* [![][stoic demeanor]][stoic demeanor wiki] Stoic Demeanor: 對同一目標的 CD 從 3 秒減為 1 秒。
+* [![][inspiring virtue]][inspiring virtue wiki] Inspiring Virtue: 使用 virtue 的主動技時會增傷。
+> * [![][virtuous solace]][virtuous solace wiki] Virtuous Solace: 此特性被 Inspiring Virtue 取代。
+* [![][wrathful spirit]][wrathful spirit wiki] Wrathful Spirit: 當 ![][aegis]Aegis 結束時，原效果外，會多得到 ![][fury]Fury。
+* [![][furious focus]][furious focus wiki] Furious Focus: 當有 ![][fury]Fury 時攻擊目標會上 1 層 ![][vulnerability]Vulnerability。
+> * [![][binding jeopardy]][binding jeopardy wiki] Binding Jeopardy: 此特性被 Furious Focus 取代。
 
 ## 貢獻者
 1. Richun
@@ -69,6 +69,7 @@
 [light aura]: https://wiki.guildwars2.com/images/thumb/5/5a/Light_Aura.png/20px-Light_Aura.png
 [magnetic aura]: https://wiki.guildwars2.com/images/thumb/5/5a/Magnetic_Aura.png/20px-Magnetic_Aura.png
 [shocking aura]: https://wiki.guildwars2.com/images/thumb/3/31/Shocking_Aura.png/20px-Shocking_Aura.png
+
 [deflecting shot]: https://wiki.guildwars2.com/images/thumb/d/d2/Deflecting_Shot.png/32px-Deflecting_Shot.png
 [deflecting shot 20]: https://wiki.guildwars2.com/images/thumb/d/d2/Deflecting_Shot.png/20px-Deflecting_Shot.png
 [heavy light]: https://wiki.guildwars2.com/images/thumb/a/a3/Heavy_Light.png/32px-Heavy_Light.png
@@ -84,3 +85,16 @@
 [wrathful spirit]: https://wiki.guildwars2.com/images/thumb/0/03/Wrathful_Spirit.png/32px-Wrathful_Spirit.png
 [furious focus]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
 [binding jeopardy]: https://wiki.guildwars2.com/images/thumb/2/2e/Binding_Jeopardy.png/32px-Binding_Jeopardy.png
+
+[deflecting shot wiki]: https://wiki.guildwars2.com/wiki/Deflecting_Shot
+[heavy light wiki]: https://wiki.guildwars2.com/wiki/Heavy_Light
+[dulled senses wiki]: https://wiki.guildwars2.com/wiki/Dulled_Senses
+[true shot wiki]: https://wiki.guildwars2.com/wiki/True_Shot
+[hunter's ward wiki]: https://wiki.guildwars2.com/wiki/Hunter%27s_Ward
+[chains of light wiki]: https://wiki.guildwars2.com/wiki/Chains_of_Light
+[stoic demeanor wiki]: https://wiki.guildwars2.com/wiki/Stoic_Demeanor
+[inspiring virtue wiki]: https://wiki.guildwars2.com/wiki/Inspiring_Virtue
+[virtuous solace wiki]: https://wiki.guildwars2.com/wiki/Virtuous_Solace
+[wrathful spirit wiki]: https://wiki.guildwars2.com/wiki/Wrathful_Spirit
+[furious focus wiki]: https://wiki.guildwars2.com/wiki/Furious_Focus
+[binding jeopardy wiki]: https://wiki.guildwars2.com/wiki/Binding_Jeopardy
