@@ -192,7 +192,7 @@
 [Foot in the Grave]: https://wiki.guildwars2.com/images/thumb/8/85/Foot_in_the_Grave.png/32px-Foot_in_the_Grave.png
 [Flesh of the Master]: https://wiki.guildwars2.com/images/thumb/e/e9/Flesh_of_the_Master.png/32px-Flesh_of_the_Master.png
 [Death Shroud]: https://wiki.guildwars2.com/images/thumb/f/f5/Death_Shroud.png/32px-Death_Shroud.png
-[Reaper Shroud]: https://wiki.guildwars2.com/images/thumb/1/11/Reaper%27s_Shroud.png/32px-Reaper%27s_Shroud.png
+[Reaper Shroud]: https://i.imgur.com/fZq6rIM.png
 [Life Blast]: https://wiki.guildwars2.com/images/thumb/c/c1/Life_Blast.png/32px-Life_Blast.png
 [Life Transfer]: https://wiki.guildwars2.com/images/thumb/1/14/Life_Transfer.png/32px-Life_Transfer.png
 [Life Rend]: https://wiki.guildwars2.com/images/thumb/e/e5/Life_Rend.png/32px-Life_Rend.png
