@@ -2,6 +2,8 @@
 
 ###### tags: `Global` `GW2` `2020 Feb Update` `Guardian`
 
+#### [Guild Wars 2 Wiki Game Updates](https://wiki.guildwars2.com/wiki/Game_updates/2020-02-11)
+
 > DH 是穩定的傷害來源，不過有些地方需要調整。像是 ![][deflecting shot 20]Deflecting Shot 有非常短的施放時間，搭配 ![][heavy light 20]Heavy Light 還能 CC。我們把 CC 能力放進技能裡，並延長了其施放動作來確保效果的合理性。還有許多特性提升了其易懂性，像是 ![][dulled senses 20]Dulled Senses 在你 CC 任何目標時作動，而不僅止於 ![][knockback]Knockback。一些 Virtues 線特別沒人用的特性被換成新的了。
 
 * [![][true shot]][true shot wiki] True Shot: 在 PvE 增傷 10%，改進沒目標時的發射方向。
@@ -71,7 +73,7 @@
 [shocking aura]: https://wiki.guildwars2.com/images/thumb/3/31/Shocking_Aura.png/20px-Shocking_Aura.png
 
 [deflecting shot]: https://wiki.guildwars2.com/images/thumb/d/d2/Deflecting_Shot.png/32px-Deflecting_Shot.png
-[deflecting shot 20]: https://wiki.guildwars2.com/images/thumb/d/d2/Deflecting_Shot.png/20px-Deflecting_Shot.png
+[deflecting shot 20]: https://i.imgur.com/2kxaWRY.png
 [heavy light]: https://wiki.guildwars2.com/images/thumb/a/a3/Heavy_Light.png/32px-Heavy_Light.png
 [heavy light 20]: https://wiki.guildwars2.com/images/thumb/a/a3/Heavy_Light.png/20px-Heavy_Light.png
 [dulled senses]: https://wiki.guildwars2.com/images/thumb/a/a5/Dulled_Senses.png/32px-Dulled_Senses.png
