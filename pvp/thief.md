@@ -227,7 +227,7 @@
 [Finishing Blow]: https://wiki.guildwars2.com/images/thumb/a/a4/Finishing_Blow.png/32px-Finishing_Blow.png
 [Shadow Meld]: https://wiki.guildwars2.com/images/thumb/3/32/Shadow_Meld.png/32px-Shadow_Meld.png
 [Deadly Arts]: https://wiki.guildwars2.com/images/thumb/5/5b/Deadly_Arts.png/32px-Deadly_Arts.png
-[Critical Strikes]: https://wiki.guildwars2.com/images/thumb/e/e3/Critical_Strikes.png/32px-Critical_Strikes.png
+[Critical Strikes]: https://i.imgur.com/zL6mb2P.png
 [Shadow Arts]: https://wiki.guildwars2.com/images/thumb/e/e1/Shadow_Arts.png/32px-Shadow_Arts.png
 [Acrobatics]: https://wiki.guildwars2.com/images/thumb/d/db/Acrobatics.png/32px-Acrobatics.png
 [Trickery]: https://wiki.guildwars2.com/images/thumb/e/e6/Trickery.png/32px-Trickery.png
