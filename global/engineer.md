@@ -2,7 +2,7 @@
 
 ###### tags: `Global` `GW2` `2020 Feb Update` `Engineer`
 
-> 工程師的![][Explosives 25]Explosives天賦線在這次更新有一些重要的變動. 我們刪除了一些弱勢或效果乏善可陳的天賦, 如![][Minesweeper]Minesweeper, ![][Orbital Command]Orbital Command及![][Blasting Zone]Blasting Zone, 以及重組了別的天賦以統一功能性, 如![][Short Fuse 20]Short Fuse及![][Big Boomer 20]Big Boomer. ![][Evasive Powder Keg]Evasive Powder Keg已被刪除及被![][Explosive Entrance 20]Explosive Entrance取代, 依然是在迴避時追加攻擊, 但是一個更加可控和調整的方式. 最後, 我們令不同[grenade](https://wiki.guildwars2.com/wiki/Grenade)技能在競爭模式的差異更清晰, 因為在丟出時實在很難分辨不同的[grenade](https://wiki.guildwars2.com/wiki/Grenade)之間差異.
+> 工程師的![][Explosives 20]Explosives天賦線在這次更新有一些重要的變動. 我們刪除了一些弱勢或效果乏善可陳的天賦, 如![][Minesweeper]Minesweeper, ![][Orbital Command]Orbital Command及![][Blasting Zone 20]Blasting Zone, 以及重組了別的天賦以統一功能性, 如![][Short Fuse 20]Short Fuse及![][Big Boomer 20]Big Boomer. ![][Evasive Powder Keg]Evasive Powder Keg已被刪除及被![][Explosive Entrance 20]Explosive Entrance取代, 依然是在迴避時追加攻擊, 但是一個更加可控和調整的方式. 最後, 我們令不同[grenade](https://wiki.guildwars2.com/wiki/Grenade)技能在競爭模式的差異更清晰, 因為在丟出時實在很難分辨不同的[grenade](https://wiki.guildwars2.com/wiki/Grenade)之間差異.
 
 * [![][Overheat]][overheat wiki] Overheat: 與其禁用所有[toolbelt](https://wiki.guildwars2.com/wiki/Tool_belt)技能直到全部熱能流失, 現在會增加![][Photon Forge 20]Photon Forge以外的所有[toolbelt](https://wiki.guildwars2.com/wiki/Tool_belt)技能15秒冷卻時間. ![][Photon Forge 20]Photon Forge維持禁用直到全部熱能流失.
 * [![][Photonic Blasting Module]][photonic blasting module wiki] Photonic Blasting Module: 當裝備這天賦時, ![][Overheat 20]Overheat所造成的額外冷卻時間由15秒減至5秒.
@@ -10,7 +10,7 @@
 * [![][Personal Battering Ram]][personal battering ram wiki] Personal Battering Ram: 攻擊前的技能動作由300ms延長至600ms.
 * [![][Orbital Strike]][orbital strike wiki] Orbital Strike: 現在全使用一個更精緻的特效. 友軍, 敵軍及在顯示設定勾選了"Effect LoD"的觀眾會顯示低特效版本.
 * [![][Grenade Kit]][grenade kit wiki] Grenade Kit: 這工具包的依據各個技能有不同的熱身特效. 修正熱身時![][Grenade Kit 20]grenade kit技能令到手雷消失了的問題.
-* [![][Crystal Configuration: Eclipse]][crystal configuration eclipse wiki] Crystal Configuration: Eclipse: 不再令![][Corona Burst 25]Corona Burst給予穩固. 基本![][barrier]護盾由374增加至991(PvE)或748(PvP/WvW).
+* [![][Crystal Configuration: Eclipse]][crystal configuration eclipse wiki] Crystal Configuration: Eclipse: 不再令![][Corona Burst 20]Corona Burst給予穩固. 基本![][barrier]護盾由374增加至991(PvE)或748(PvP/WvW).
 > * [![][Short Fuse]][short fuse wiki] Short Fuse: 刪除了天賦, 縮減冷卻時間效果已併入至以下技能.
 * [![][Fire Bomb]][fire bomb wiki] Fire Bomb: 冷卻時間由10秒減至8秒.
 * [![][Concussion Bomb]][concussion bomb wiki] Concussion Bomb: 冷卻時間由20秒減至16秒.
@@ -105,10 +105,10 @@
 [shocking aura]: https://wiki.guildwars2.com/images/thumb/3/31/Shocking_Aura.png/20px-Shocking_Aura.png
 
 [Explosives]: https://wiki.guildwars2.com/images/thumb/1/10/Explosives.png/32px-Explosives.png
-[Explosives 20]: https://wiki.guildwars2.com/images/thumb/1/10/Explosives.png/20px-Explosives.png
-[Explosives 25]: https://wiki.guildwars2.com/images/thumb/1/10/Explosives.png/25px-Explosives.png
+[Explosives 20]: https://i.imgur.com/S3DGRMK.png
 [Minesweeper]: https://wiki.guildwars2.com/images/thumb/4/41/Thermobaric_Detonation.png/20px-Thermobaric_Detonation.png
 [Orbital Command]: https://wiki.guildwars2.com/images/thumb/6/62/Orbital_Command.png/20px-Orbital_Command.png
+[Blasting Zone 20]: https://wiki.guildwars2.com/images/thumb/9/99/Explosive_Descent.png/20px-Explosive_Descent.png
 [Short Fuse]: https://wiki.guildwars2.com/images/thumb/2/22/Short_Fuse.png/32px-Short_Fuse.png
 [Short Fuse 20]: https://wiki.guildwars2.com/images/thumb/2/22/Short_Fuse.png/20px-Short_Fuse.png
 [Big Boomer]: https://wiki.guildwars2.com/images/thumb/8/83/Big_Boomer.png/32px-Big_Boomer.png
@@ -127,8 +127,7 @@
 [Grenade Kit]: https://wiki.guildwars2.com/images/thumb/d/dd/Grenade_Kit.png/32px-Grenade_Kit.png
 [Grenade Kit 20]: https://wiki.guildwars2.com/images/thumb/d/dd/Grenade_Kit.png/20px-Grenade_Kit.png
 [Crystal Configuration: Eclipse]: https://wiki.guildwars2.com/images/thumb/0/0a/Crystal_Configuration-_Eclipse.png/32px-Crystal_Configuration-_Eclipse.png
-[Corona Burst]: https://wiki.guildwars2.com/images/thumb/b/b3/Corona_Burst.png/20px-Corona_Burst.png
-[Corona Burst 25]: https://wiki.guildwars2.com/images/thumb/b/b3/Corona_Burst.png/25px-Corona_Burst.png
+[Corona Burst 20]: https://i.imgur.com/78MxMhA.png
 [Fire Bomb]: https://wiki.guildwars2.com/images/thumb/f/f8/Fire_Bomb.png/32px-Fire_Bomb.png
 [Concussion Bomb]: https://wiki.guildwars2.com/images/thumb/8/8d/Concussion_Bomb.png/32px-Concussion_Bomb.png
 [Smoke Bomb]: https://wiki.guildwars2.com/images/thumb/0/02/Smoke_Bomb_%28engineer_skill%29.png/32px-Smoke_Bomb_%28engineer_skill%29.png
