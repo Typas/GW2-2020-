@@ -323,7 +323,7 @@
 [Mantra of Liberation]: https://wiki.guildwars2.com/images/thumb/d/d2/Mantra_of_Liberation.png/32px-Mantra_of_Liberation.png
 [Portent of Freedom]: https://wiki.guildwars2.com/images/thumb/3/34/Portent_of_Freedom.png/32px-Portent_of_Freedom.png
 [Unhindered Delivery]: https://wiki.guildwars2.com/images/thumb/b/b7/Unhindered_Delivery.png/32px-Unhindered_Delivery.png
-[Zeal]: https://wiki.guildwars2.com/images/thumb/b/b8/Zeal.png/32px-Zeal.png
+[Zeal]: https://i.imgur.com/HMVICzB.png
 [Radiance]: https://wiki.guildwars2.com/images/thumb/7/71/Radiance.png/32px-Radiance.png
 [Valor]: https://wiki.guildwars2.com/images/thumb/e/e9/Valor.png/32px-Valor.png
 [Honor]: https://wiki.guildwars2.com/images/thumb/d/d4/Honor.png/32px-Honor.png
