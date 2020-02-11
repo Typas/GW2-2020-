@@ -303,7 +303,7 @@ Glyph of Rejuvenation
 [Spike Trap]: https://wiki.guildwars2.com/images/thumb/2/2c/Spike_Trap.png/32px-Spike_Trap.png
 [Strength of the Pack]: https://wiki.guildwars2.com/images/thumb/4/4b/%22Strength_of_the_Pack%21%22.png/32px-%22Strength_of_the_Pack%21%22.png
 [Marksmanship]: https://wiki.guildwars2.com/images/thumb/6/69/Marksmanship.png/32px-Marksmanship.png
-[Skirmishing]: https://wiki.guildwars2.com/images/thumb/3/31/Skirmishing.png/32px-Skirmishing.png
+[Skirmishing]: https://i.imgur.com/mgIuUSH.png
 [Wilderness Survival]: https://wiki.guildwars2.com/images/thumb/8/8e/Wilderness_Survival.png/32px-Wilderness_Survival.png
 [Nature Magic]: https://wiki.guildwars2.com/images/thumb/5/5b/Nature_Magic.png/32px-Nature_Magic.png
 [Beastmastery]: https://wiki.guildwars2.com/images/thumb/7/75/Beastmastery.png/32px-Beastmastery.png
