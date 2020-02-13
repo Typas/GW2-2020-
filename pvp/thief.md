@@ -21,6 +21,7 @@
 
 ### Dagger 匕首 主手
 * ![][Double Strike]自動攻擊串: 直傷系數由0.6/0.65/1.1減至0.4/0.433/0.733
+* ![][Malicious Backstab]Malicious Backstab: 直傷系數由1.2/2.4減至0.9/1.8
 * ![][Shadow Shot]Shadow Shot: 行動點消費由4增至5
 * ![][Death Blossom]Death Blossom: 行動點消費由4增至5
 * ![][Backstab]Backstab: base 直傷系數由1.2減至0.9. 側翼攻擊直傷系數由2.4減至1.8
@@ -57,8 +58,9 @@
 * ![][Malicious Restoration]Malicious Restoration: 冷卻時間由25秒增至30秒
 
 ## 通用技能
-* ![][Smoke Screen]Smoke Screen: 冷卻時間由25秒增至35秒
+* ![][Smoke Screen]Smoke Screen: 冷卻時間由25秒增至45秒
 * ![][Pitfall]Pitfall: ![][knockdown]擊倒攻擊的直傷系數由1.25減至0.01. 持續攻擊直傷系數由0.5減至0.3
+* ![][Assassin's Signet]Assassin's Signet: 冷卻時間由20秒增至30秒
 * ![][Infiltrator's Signet]Infiltrator's Signet: 冷卻時間由30秒增至35秒
 * ![][Haste]Haste: ![][quickness]急速時效由6秒減至4秒. 冷卻時間由30秒增至45秒
 * ![][Roll for Initiative]Roll for Initiative: 冷卻時間由40秒增至50秒
@@ -92,8 +94,11 @@
 * ![][Ankle Shots]Ankle Shots: ![][crippled]殘廢時效由3秒減至2秒
 
 ### ![][Shadow Arts]Shadow Arts
+* ![][Concealing Restoration]Concealing Restoration: ![][stealth]隱身時效由2秒減至1秒
 * ![][Merciful Ambush]Merciful Ambush: 救援比率由3%減至1%
+* ![][Leeching Venoms]Leeching Venoms: ![][Spider Venom 20]Spider Venom上限層數由6減至2
 * ![][Shadow's Rejuvenation]Shadow's Rejuvenation: 基本回復由293減至219
+* ![][Rending Shade]Rending Shade: 恩賜偷取量由2減至1
 
 ### ![][Acrobatics]Acrobatics
 * ![][Feline Grace]Feline Grace: ![][vigor]活力時效由5秒減至3秒
@@ -179,6 +184,7 @@
 [Detonate Cluster Bomb]: https://wiki.guildwars2.com/images/thumb/6/68/Detonate_Cluster.png/32px-Detonate_Cluster.png
 [Disabling Shot]: https://wiki.guildwars2.com/images/thumb/5/52/Disabling_Shot_%28thief_short_bow_skill%29.png/32px-Disabling_Shot_%28thief_short_bow_skill%29.png
 [Double Strike]: https://wiki.guildwars2.com/images/thumb/6/65/Double_Strike.png/32px-Double_Strike.png
+[Malicious Backstab]: https://wiki.guildwars2.com/images/thumb/7/79/Malicious_Backstab.png/32px-Malicious_Backstab.png
 [Infiltrator's Strike]: https://wiki.guildwars2.com/images/thumb/2/2c/Infiltrator%27s_Strike.png/32px-Infiltrator%27s_Strike.png
 [Flanking Strike]: https://wiki.guildwars2.com/images/thumb/1/1f/Flanking_Strike.png/32px-Flanking_Strike.png
 [Pistol Whip]: https://wiki.guildwars2.com/images/thumb/3/37/Pistol_Whip.png/32px-Pistol_Whip.png
@@ -209,6 +215,7 @@
 [Malicious Restoration]: https://wiki.guildwars2.com/images/thumb/f/f7/Malicious_Restoration.png/32px-Malicious_Restoration.png
 [Smoke Screen]: https://wiki.guildwars2.com/images/thumb/e/e5/Smoke_Screen.png/32px-Smoke_Screen.png
 [Pitfall]: https://wiki.guildwars2.com/images/thumb/6/67/Pitfall.png/32px-Pitfall.png
+[Assassin's Signet]: https://wiki.guildwars2.com/images/thumb/2/23/Assassin%27s_Signet.png/32px-Assassin%27s_Signet.png
 [Infiltrator's Signet]: https://wiki.guildwars2.com/images/thumb/8/8e/Infiltrator%27s_Signet.png/32px-Infiltrator%27s_Signet.png
 [Haste]: https://wiki.guildwars2.com/images/thumb/3/35/Haste.png/32px-Haste.png
 [Roll for Initiative]: https://wiki.guildwars2.com/images/thumb/8/80/Roll_for_Initiative.png/32px-Roll_for_Initiative.png
@@ -240,8 +247,12 @@
 [Potent Poison]: https://wiki.guildwars2.com/images/thumb/a/a6/Potent_Poison.png/32px-Potent_Poison.png
 [Assassin's Fury]: https://wiki.guildwars2.com/images/thumb/d/de/Assassin%27s_Fury.png/32px-Assassin%27s_Fury.png
 [Ankle Shots]: https://wiki.guildwars2.com/images/thumb/9/9f/Ankle_Shots.png/32px-Ankle_Shots.png
+[Concealing Restoration]: https://wiki.guildwars2.com/images/thumb/a/a6/Concealing_Restoration.png/32px-Concealing_Restoration.png
 [Merciful Ambush]: https://wiki.guildwars2.com/images/thumb/8/80/Merciful_Ambush.png/32px-Merciful_Ambush.png
+[Leeching Venoms]: https://wiki.guildwars2.com/images/thumb/0/0d/Leeching_Venoms.png/32px-Leeching_Venoms.png
+[Spider Venom 20]: https://wiki.guildwars2.com/images/thumb/3/39/Spider_Venom.png/20px-Spider_Venom.png
 [Shadow's Rejuvenation]: https://wiki.guildwars2.com/images/thumb/1/16/Shadow%27s_Rejuvenation.png/32px-Shadow%27s_Rejuvenation.png
+[Rending Shade]: https://wiki.guildwars2.com/images/thumb/3/36/Rending_Shade.png/32px-Rending_Shade.png
 [Feline Grace]: https://wiki.guildwars2.com/images/thumb/6/6e/Feline_Grace.png/32px-Feline_Grace.png
 [Endless Stamina]: https://wiki.guildwars2.com/images/thumb/8/81/Endless_Stamina.png/32px-Endless_Stamina.png
 [Pain Response]: https://wiki.guildwars2.com/images/thumb/f/f8/Pain_Response.png/32px-Pain_Response.png
