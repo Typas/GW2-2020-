@@ -111,6 +111,7 @@
 [fire]: https://wiki.guildwars2.com/images/thumb/b/b4/Fire_Attunement.png/20px-Fire_Attunement.png
 [water]: https://wiki.guildwars2.com/images/thumb/3/31/Water_Attunement.png/20px-Water_Attunement.png
 [air]: https://wiki.guildwars2.com/images/thumb/9/91/Air_Attunement.png/20px-Air_Attunement.png
+[elemental polyphony]: https://wiki.guildwars2.com/images/thumb/e/e2/Elemental_Polyphony.png/32px-Elemental_Polyphony.png
 
 [overload fire wiki]: https://wiki.guildwars2.com/wiki/Overload_Fire
 [feel the burn wiki]: https://wiki.guildwars2.com/wiki/%22Feel_the_Burn!%22
@@ -132,3 +133,4 @@
 [bolstered elements wiki]: https://wiki.guildwars2.com/wiki/Bolstered_Elements
 [elemental lockdown wiki]: https://wiki.guildwars2.com/wiki/Elemental_Lockdown
 [elemental contingency wiki]: https://wiki.guildwars2.com/wiki/Elemental_Contingency
+[elemental polyphony wiki]: https://wiki.guildwars2.com/wiki/Elemental_Polyphony
