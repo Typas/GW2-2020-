@@ -30,6 +30,7 @@
   * ![][air] Air: 5 秒 ![][fury]
   * ![][earth] Earth: 4 秒 ![][protection]
 > * [![][elemental contingency]][elemental contingency wiki] Elemental Contingency: 此特性被 Elemental Lockdown 取代。
+* [![][elemental polyphony]][elemental polyphony wiki] Elemental Polyphony: 當切換到 ![][earth]Earth 時從增加 Toughness 改為增加 Vitality。
 
 
 ## 貢獻者
