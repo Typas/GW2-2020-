@@ -10,6 +10,7 @@
 * [![][deflecting shot]][deflecting shot wiki] Deflecting Shot: 增加 ![][knockback]Knockback 效果，放慢技能動作，從 280 ms 延長到 740 ms。PvP 與 WvW 的傷害係數從 1.8 減為 0.01。
 * [![][hunter's ward]][hunter's ward wiki] Hunter's Ward: 最後一擊的傷害增加 10%。
 * [![][chains of light]][chains of light wiki] Chains of Light: 放慢技能動作，從 400 ms 延後至 600 ms。對目標造成 3 -> 5 層 ![][vulnerability]Vulnerability，在 PvE 延長 ![][immobile]Immobilize 時間為 5 秒。
+* [![][feel my wrath]][feel my wrath wiki] "Feel My Wrath!": 與 PvP 及 WvW 同步，冷卻時間為 35 秒，![][quickness]Quickness 時間從 8 秒縮短為 5 秒，![][fury]Fury 時間維持 10 秒。
 * [![][dulled senses]][dulled senses wiki] Dulled Senses: 不再對目標造成 ![][crippled]Crippled 時給予 ![][vulnerability]Vulnerability。當你 ![][knockback] -> disable 目標時給予 ![][crippled]Crippled。
 * [![][heavy light]][heavy light wiki] Heavy Light: 不再使 ![][deflecting shot 20]Deflecting Shot 能夠 ![][knockback]。當你 disable 目標時得到 ![][stability]Stability，對被 disable 的目標增傷。
 * [![][stoic demeanor]][stoic demeanor wiki] Stoic Demeanor: 對同一目標的 CD 從 3 秒減為 1 秒。
@@ -18,6 +19,7 @@
 * [![][wrathful spirit]][wrathful spirit wiki] Wrathful Spirit: 當 ![][aegis]Aegis 結束時，原效果外，會多得到 ![][fury]Fury。
 * [![][furious focus]][furious focus wiki] Furious Focus: 當有 ![][fury]Fury 時攻擊目標會上 1 層 ![][vulnerability]Vulnerability。
 > * [![][binding jeopardy]][binding jeopardy wiki] Binding Jeopardy: 此特性被 Furious Focus 取代。
+* [![][imbued haste]][imbued haste wiki] Imbued Haste: 有 ![][quickness]Quickness 時從增加 Toughness 改為 增加 Vitality。
 
 ## 貢獻者
 1. Richun
@@ -81,12 +83,14 @@
 [true shot]: https://wiki.guildwars2.com/images/thumb/3/35/True_Shot.png/32px-True_Shot.png
 [hunter's ward]: https://wiki.guildwars2.com/images/thumb/e/e6/Hunter%27s_Ward.png/32px-Hunter%27s_Ward.png
 [chains of light]: https://wiki.guildwars2.com/images/thumb/5/5a/Chains_of_Light.png/32px-Chains_of_Light.png
+[feel my wrath]: https://wiki.guildwars2.com/images/thumb/6/6f/%22Feel_My_Wrath%21%22.png/32px-%22Feel_My_Wrath%21%22.png
 [stoic demeanor]: https://wiki.guildwars2.com/images/thumb/6/66/Stoic_Demeanor.png/32px-Stoic_Demeanor.png
 [inspiring virtue]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
 [virtuous solace]: https://wiki.guildwars2.com/images/thumb/8/8f/Virtuous_Solace.png/32px-Virtuous_Solace.png
 [wrathful spirit]: https://wiki.guildwars2.com/images/thumb/0/03/Wrathful_Spirit.png/32px-Wrathful_Spirit.png
 [furious focus]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
 [binding jeopardy]: https://wiki.guildwars2.com/images/thumb/2/2e/Binding_Jeopardy.png/32px-Binding_Jeopardy.png
+[imbued haste]: https://wiki.guildwars2.com/images/thumb/0/0e/Imbued_Haste.png/32px-Imbued_Haste.png
 
 [deflecting shot wiki]: https://wiki.guildwars2.com/wiki/Deflecting_Shot
 [heavy light wiki]: https://wiki.guildwars2.com/wiki/Heavy_Light
@@ -94,9 +98,11 @@
 [true shot wiki]: https://wiki.guildwars2.com/wiki/True_Shot
 [hunter's ward wiki]: https://wiki.guildwars2.com/wiki/Hunter%27s_Ward
 [chains of light wiki]: https://wiki.guildwars2.com/wiki/Chains_of_Light
+[feel my wrath wiki]: https://wiki.guildwars2.com/wiki/%22Feel_My_Wrath!%22
 [stoic demeanor wiki]: https://wiki.guildwars2.com/wiki/Stoic_Demeanor
 [inspiring virtue wiki]: https://wiki.guildwars2.com/wiki/Inspiring_Virtue
 [virtuous solace wiki]: https://wiki.guildwars2.com/wiki/Virtuous_Solace
 [wrathful spirit wiki]: https://wiki.guildwars2.com/wiki/Wrathful_Spirit
 [furious focus wiki]: https://wiki.guildwars2.com/wiki/Furious_Focus
 [binding jeopardy wiki]: https://wiki.guildwars2.com/wiki/Binding_Jeopardy
+[imbued haste wiki]: https://wiki.guildwars2.com/wiki/Imbued_Haste
