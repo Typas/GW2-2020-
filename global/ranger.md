@@ -15,7 +15,7 @@
 > 減少冷卻時間，由 90s 降至 60s。
 
 [![][Call of the Wild]][call of the wild wiki] Call of the Wild
-> 這個技能現在將會使用新的「無法隔擋」的效果。（請前往 [通用更新](https://hackmd.io/@Richun/Hy13BrQfU) 查看詳細內容。）
+> 這個技能現在將會使用新的 ![][unblockable] Unblockable 效果。（請前往 [通用更新](https://hackmd.io/@Richun/Hy13BrQfU) 查看詳細內容。）
 
 [![][Throw Torch]][throw torch wiki] Throw Torch
 > 火炬擊中目標的同時，目標的半徑 180 範圍內野同時會受到火炬的傷害。
@@ -42,7 +42,7 @@
 > 現在這個特性將會在寵物的 ![][taunt] Taunt 發動之前，增加 1s 的延遲時間。修正水下的寵物無法使用這個特性的的 bug。
 
 [![][Clarion Bond]][clarion bond wiki] Clarion Bond
-> 這個技能現在將會使用新的「無法隔擋」的效果。（請前往 [通用更新](https://hackmd.io/@Richun/Hy13BrQfU) 查看詳細內容。）
+> 這個技能現在將會使用新的 ![][unblockable] Unblockable 效果。（請前往 [通用更新](https://hackmd.io/@Richun/Hy13BrQfU) 查看詳細內容。）
 
 [![][Twice as Vicious]][twice as vicious wiki] Twice as Vicious
 > 現在這個特性增加 5% 傷害以及 10% Condition 傷害。
@@ -102,6 +102,7 @@
 [light aura]: https://wiki.guildwars2.com/images/thumb/5/5a/Light_Aura.png/20px-Light_Aura.png
 [magnetic aura]: https://wiki.guildwars2.com/images/thumb/5/5a/Magnetic_Aura.png/20px-Magnetic_Aura.png
 [shocking aura]: https://wiki.guildwars2.com/images/thumb/3/31/Shocking_Aura.png/20px-Shocking_Aura.png
+[unblockable]: https://wiki.guildwars2.com/images/thumb/6/6e/Unblockable.png/20px-Unblockable.png
 
 [Soulbeast]: https://wiki.guildwars2.com/images/thumb/7/70/Soulbeast.png/32px-Soulbeast.png
 [Zephyr's Speed]: https://wiki.guildwars2.com/images/thumb/0/0e/Zephyr%27s_Speed_%28ranger%29.png/20px-Zephyr%27s_Speed_%28ranger%29.png
