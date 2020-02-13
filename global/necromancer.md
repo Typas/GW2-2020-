@@ -8,7 +8,7 @@
 * [![][Plague Signet]][Plague Signet wiki] Plague Signet: 在PvE冷卻時間由30秒減至25秒
 * [![][Spectral Armor]][Spectral Armor wiki] Spectral Armor: 在PvE冷卻時間由40秒減至30秒
 * [![][Spectral Walk]][Spectral Walk wiki] Spectral Walk: 在PvE冷卻時間由40秒減至30秒, ![][swiftness]瞬捷時效由30秒減至24秒
-* [![]["Nothing can save you!"]]["Nothing can save you!" wiki]"Nothing can save you!": 新增5層10秒的新型unblockable效果, 每打中1名敵人會額外給予2層.
+* [![]["Nothing can save you!"]]["Nothing can save you!" wiki]"Nothing can save you!": 新增5層10秒的![][unblockable]無法格擋效果, 每打中1名敵人會額外給予2層.
 * [Minions](https://wiki.guildwars2.com/wiki/Minion): 死靈的爪牙被下達命令時會有特別的效果以資識別.
 * [![][Rigor Mortis]][Rigor Mortis wiki] Rigor Mortis: [Bone Fiend](https://wiki.guildwars2.com/wiki/Bone_Fiend)現在立即中斷正在使用的技能以即時執行命令.
 * [![][Haunt]][Haunt wiki] Haunt: 技能半徑由120增至300.
@@ -72,6 +72,7 @@
 [light aura]: https://wiki.guildwars2.com/images/thumb/5/5a/Light_Aura.png/20px-Light_Aura.png
 [magnetic aura]: https://wiki.guildwars2.com/images/thumb/5/5a/Magnetic_Aura.png/20px-Magnetic_Aura.png
 [shocking aura]: https://wiki.guildwars2.com/images/thumb/3/31/Shocking_Aura.png/20px-Shocking_Aura.png
+[unblockable]: https://wiki.guildwars2.com/images/thumb/6/6e/Unblockable.png/20px-Unblockable.png
 
 [Well of Power]: https://wiki.guildwars2.com/images/thumb/b/b7/Well_of_Power.png/32px-Well_of_Power.png
 [Plague Signet]: https://wiki.guildwars2.com/images/thumb/c/c5/Plague_Signet.png/32px-Plague_Signet.png
