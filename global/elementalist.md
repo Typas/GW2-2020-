@@ -2,6 +2,8 @@
 
 ###### tags: `Global` `GW2` `2020 Feb Update` `Elementalist`
 
+#### [Guild Wars 2 Wiki Game Updates](https://wiki.guildwars2.com/wiki/Game_updates)
+
 > 我們覺得元素的召喚時間太短了，但又為了不要重覆到死靈的所以只好延長。我們又認為小的跟菁英的差不多，所以小的改成能召多隻而沒主動技能用。
 
 * [![][overload fire]][overload fire wiki] Overload Fire: 在 PvE 中 ![][might]Might 的層數從每次 1 層增加到 2 層。修正技能說明。
