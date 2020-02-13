@@ -193,6 +193,7 @@
 ### Air Magic
   * ![][electric discharge] Electric Discharge: 直傷係數從 0.25 降為 0.05，![][vulnerability] Vulnerability 從 1 層 8 秒調整到 8 層 6 秒。
   * ![][inscription] Inscription: ![][might] Might 從 1 層 10 秒調整到 3 層 6 秒，![][regeneration] Regeneration 的時長從 10 秒縮短為 5 秒。
+  * ![][lightning rod] Lightning Rod: Lightning Rod 的直傷係數從 1.5 降為 1.2。
 
 ### Earth Magic
   * ![][earthen blast] Earthen Blast: 直傷係數從 0.36 降為 0.1
