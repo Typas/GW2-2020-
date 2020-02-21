@@ -120,8 +120,8 @@
 * ![][Stomp] Stomp: 直傷系數由0.75減至0.01. 初始![][stability]穩固時效由6秒減至1秒. 命中時的![][stability]穩固時效由6秒減至3秒. 冷卻時間由40秒減至30秒
 * ![]["For Great Justice!"] "For Great Justice!": ![][might]威能時效由15秒減至6秒
 * ![]["Shake it Off!"] "Shake it Off!": 癥狀清除量由6減至4. 充能時間由50秒增至75秒
-* ![][Dolyak Signet] Dolyak Signet: ![][stability]穩固時效由8秒減至6秒. 冷卻時間由40秒增至60秒
-* ![][Balanced Stance] Balanced Stance: 冷卻時間由40秒增至60秒
+* ![][Dolyak Signet] Dolyak Signet: PvP模式![][stability]穩固時效由8秒減至6秒. 冷卻時間由40秒增至60秒
+* ![][Balanced Stance] Balanced Stance: PvP模式冷卻時間由40秒增至60秒
 * ![][Berserker Stance] Berserker Stance: 冷卻時間由30秒增至40秒
 * ![][Endure Pain] Endure Pain: 冷卻時間由30秒增至40秒. 技能時效由2秒增至3秒
 * ![][Frenzy] Frenzy: ![][quickness]急速時效由6秒減至4秒. 冷卻時間由40秒增至45秒
