@@ -133,7 +133,6 @@
   * ![][Overwhelming Celerity] Overwhelming Celerity: ![][quickness]急速時效由5秒減至4秒. ![][might]威能時效由10秒減至6秒
 
 ## 菁英技能
-* ![]["Feel My Wrath!"] "Feel My Wrath!": ![][quickness]急速時效由8秒減至5秒
 * ![][Dragon's Maw] Dragon's Maw: 直傷系數由2.5減至0.01. ![][might]威能時效由8秒減至6秒. ![][slow]遲緩時效由4秒減至3秒. 冷卻時間由75秒減至50秒
 * ![][Mantra of Liberation] Mantra of Liberation: 冷卻時間由40秒增至60秒. 充能時間由25秒增至45秒
   * ![][Portent of Freedom] Portent of Freedom: ![][stability]穩固時效由5秒減至1秒
@@ -168,7 +167,6 @@
 
 ### ![][Dragonhunter] Dragonhunter
 * ![][Defender's Dogma] Defender's Dogma: Justice冷卻時間由3秒減至1秒. 冷卻時間由3秒減至1秒
-* ![][Dulled Senses] Dulled Senses: ![][vulnerability]破甲時效由8秒減至6秒
 * ![][Soaring Devastation] Soaring Devastation: 直傷系數由1.5減至0.5
 * ![][Hunter's Determination] Hunter's Determination: 冷卻時間由90秒增至300秒
 * ![][Heavy Light] Heavy Light: ![][stability]穩固時效由6秒減至3秒
