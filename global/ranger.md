@@ -45,7 +45,7 @@
 > 這個技能現在將會使用新的 ![][unblockable] Unblockable 效果。（請前往 [通用更新](https://hackmd.io/@Richun/Hy13BrQfU) 查看詳細內容。）
 
 [![][Twice as Vicious]][twice as vicious wiki] Twice as Vicious
-> 現在這個特性增加 5% 傷害以及 10% Condition 傷害。
+> 現在這個特性在 PvE 會增加 10% 傷害以及 10% Condition 傷害。
 
 
 
