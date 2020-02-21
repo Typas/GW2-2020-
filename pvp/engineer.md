@@ -11,7 +11,7 @@
 ### Photon Forge
 * 自動攻擊串: 技能調整如下: 
   * ![][Light Strike] Light Strike: 直傷系數由0.6減至0.4
-  * ![][Bright Slash] Bright Slash: 直傷系數由1.0減至.666
+  * ![][Bright Slash] Bright Slash: 直傷系數由1.0減至0.666
   * ![][Flash Cutter] Flash Cutter: 直傷系數由1.6減至1.066
 * ![][Holo Leap] Holo Leap: 直傷系數由1.25減至0.91
 * ![][Corona Burst] Corona Burst: ![][might]威能及![][vulnerability]破甲時效由8秒減至6秒
