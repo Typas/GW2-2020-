@@ -5,14 +5,14 @@
 更新了盜賊的手槍(及魚叉槍的)技能及相關的天賦令遊玩時更流暢, ![][Ankle Shots 20]Ankle Shots, 已被新的天賦![][Deadly Aim 20]Deadly Aim取代, 令到相關的武器有![][Piercing]穿透效果, 對敵時可以有更好的走位.
 
 * [![][Vital Shot]][Vital Shot wiki] Vital Shot: 更新了技能圖示.
-* [![][Body Shot]][Body Shot wiki] Body Shot: 更名為Bolas Shot, 更新了說明及圖示.
+* [![][Body Shot]][Body Shot wiki] Body Shot: 更名為[Bola Shot](https://wiki.guildwars2.com/wiki/Bola_Shot), 更新了說明及圖示.
 * [![][Head Shot]][Head Shot wiki] Head Shot: 在PvE![][daze]暈眩時效由0.25秒增至2秒.
 * [![][Black Powder]][Black Powder wiki] Black Powder: ![][blinded]致盲及[煙領域](https://wiki.guildwars2.com/wiki/Smoke_field)的範圍由半徑120增至180. 更新了說明.
 > * [![][Ankle Shots]][Ankle Shots wiki] Ankle Shots:  被![][Deadly Aim 20]Deadly Aim取代.
 * [![][Deadly Aim]][Deadly Aim wiki] Deadly Aim **(新天賦)**: 令手槍及魚叉槍有![][Piercing]穿透效果, 上限可攻擊5個目標, 但技能傷害減少5%.
 * [![][Trick Shot]][Trick Shot wiki] Trick Shot: 更新了說明以更貼合實際功能.
 * [![][Disabling Shot]][Disabling Shot wiki] Disabling Shot: 更新了說明以更貼合實際功能.
-* [![][Choking Gas]][Choking Gas wiki] Choking Gas: 現在只會在最初的一擊會引致有指定層數或以上的![][poisoned]中毒敵人![][daze]暈眩. ![][daze]暈眩由0.5秒增至1秒. PvP/WvW行動點消費由4增至6.
+* [![][Choking Gas]][Choking Gas wiki] Choking Gas: 現在只會在最初的一擊會引致![][poisoned]中毒有指定層數以上的敵人![][daze]暈眩. ![][daze]暈眩由0.5秒增至1秒. PvP/WvW行動點消費由4增至6.
 
 
 ---
