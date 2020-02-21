@@ -20,7 +20,6 @@
 * [![][wrathful spirit]][wrathful spirit wiki] Wrathful Spirit: 當 ![][aegis]Aegis 結束時，原效果外，會多得到 ![][fury]Fury。
 * [![][furious focus]][furious focus wiki] Furious Focus: 當有 ![][fury]Fury 時攻擊目標會上 1 層 ![][vulnerability]Vulnerability。
 > * [![][binding jeopardy]][binding jeopardy wiki] Binding Jeopardy: 此特性被 Furious Focus 取代。
-* [![][imbued haste]][imbued haste wiki] Imbued Haste: 有 ![][quickness]Quickness 時從增加 Toughness 改為增加 Vitality。
 
 ## 貢獻者
 1. Richun
