@@ -2,14 +2,15 @@
 
 ###### tags: `Global` `GW2` `2020 Feb Update` `Revenant`
 
-> 返魂者在本次更新有大量的變化. 除了![][Devastation 20]Devastation及![][Corruption 20]Corruption天賦線的重製, 我們也重新審視一些相關的技能. ![][Precision Strike 20]Precision Strike被重新設計為一個近戰攻擊, 因為我們覺得它現在作為一個拋射技能是不合理的. 然而, 如果你能夠隔離目標, 它依然是一個強力的單體傷害技能. ![][confusion]混亂已經從各返魂者的技能中移除, 因為沒有任何有意義的方式來利用它, 我們用折磨取代了它以更切合各種build.
+> 返魂者在本次更新有大量的變化. 除了![][Devastation 20]Devastation及![][Corruption 20]Corruption天賦線的重製, 我們也重新審視一些相關的技能. ![][Precision Strike 20]Precision Strike被重新設計為一個近戰攻擊, 因為我們覺得它現在作為一個拋射技能是不合理的. 然而, 如果你能夠孤立目標, 它依然是一個強力的單體傷害技能. ![][confusion]混亂已經從各返魂者的技能中移除, 因為沒有任何有意義的方式能利用它, 我們用![][torment]折磨取代了它以更切合各種build.
 
 * [![][Surge of the Mists]][Surge of the Mists wiki] Surge of the Mists: 在實際攻擊前增加500ms的熱身. 迴避效果於熱身開始時已經有效.
 * [![][Temporal Rift]][Temporal Rift wiki] Temporal Rift: 不再引致![][confusion]混亂. 在PvE ![][torment]折磨層數由2層增至4層.
-* [![][Rift Slash]][Rift Slash wiki] Rift Slash: 更變為一個更加顯眼的技能動畫. 整體技能動作時間不變.
-* [![][Precision Strike]][Precision Strike wiki] Precision Strike: 被重製為"Chilling Isolation". 在半徑240範圍內對最多5名敵人造成2次攻擊並引致![][chilled]凍結. 如果第2擊只打中1名敵人, 將會有額外傷害. 在PvP及WvW冷卻時間由6秒增至8秒.
+* [![][Rift Slash]][Rift Slash wiki] Rift Slash: 技能動畫改得更加顯眼. 整體技能動作時間不變.
+* [![][Precision Strike]][Precision Strike wiki] Precision Strike: 被重製為"Chilling Isolation". 
+* [![][Chilling Isolation]][Chilling Isolation wiki] Chilling Isolation: 在半徑240範圍內對最多5名敵人造成2次攻擊並引致![][chilled]凍結. 如果第2擊只打中1名敵人, 將會有額外傷害. 在PvP及WvW冷卻時間由6秒增至8秒.
 * [![][Banish Enchantment]][Banish Enchantment wiki] Banish Enchantment: 不再引致![][confusion]混亂. 每次攻擊會造成1秒![][chilled]凍結並移除1個恩賜. 攻擊次數由1次增至3次. 在PvE傷害增加380% (系數 0.25 => 1.2). 在**PvE以外**傷害增加20% (系數 0.25 => 0.3)
-* [![][Phase Traversal]][Phase Traversal wiki] Phase Traversal: 不再增加技能使用後數次攻擊傷害. 在PvE傷害增加100%. 在WvW能量消費由30增至35.
+* [![][Phase Traversal]][Phase Traversal wiki] Phase Traversal: 不再增加技能使用後數次攻擊傷害, 現在使用新的![][unblockable]無法格擋效果. 在PvE傷害增加100%. 在WvW能量消費由30增至35.
 * [![][Unwavering Avoidance]][Unwavering Avoidance wiki] Unwavering Avoidance: 現在於迴避時給予![][vigor]活力而非![][stability]穩固. 冷卻時間由8秒減至5秒.
 * [![][Determined Resolution]][Determined Resolution wiki] Determined Resolution: 現在會於持有![][vigor]活力時有減傷效果而非![][stability]穩固. 不再增加![][stability]穩固的時效.
 * [![][Glaring Resolve]][Glaring Resolve wiki] Glaring Resolve: ![][breakstun]破控時給予![][stability]穩固及回復生命.
@@ -123,6 +124,7 @@
 [superspeed]: https://wiki.guildwars2.com/images/thumb/1/1a/Super_Speed.png/20px-Super_Speed.png
 [breakstun]: https://wiki.guildwars2.com/images/thumb/7/7a/Breaks_stun.png/20px-Breaks_stun.png
 [barrier]: https://wiki.guildwars2.com/images/thumb/c/cc/Barrier.png/20px-Barrier.png
+[unblockable]: https://wiki.guildwars2.com/images/thumb/6/6e/Unblockable.png/20px-Unblockable.png
 
 [Devastation]: https://wiki.guildwars2.com/images/thumb/8/8c/Devastation.png/32px-Devastation.png
 [Devastation 20]: https://wiki.guildwars2.com/images/thumb/8/8c/Devastation.png/20px-Devastation.png
@@ -133,6 +135,7 @@
 [Surge of the Mists]: https://wiki.guildwars2.com/images/thumb/5/59/Surge_of_the_Mists.png/32px-Surge_of_the_Mists.png
 [Temporal Rift]: https://wiki.guildwars2.com/images/thumb/8/87/Temporal_Rift.png/32px-Temporal_Rift.png
 [Rift Slash]: https://wiki.guildwars2.com/images/thumb/a/a8/Rift_Slash.png/32px-Rift_Slash.png
+[Chilling Isolation]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
 [Banish Enchantment]: https://wiki.guildwars2.com/images/thumb/e/ec/Banish_Enchantment.png/32px-Banish_Enchantment.png
 [Phase Traversal]: https://wiki.guildwars2.com/images/thumb/f/f2/Phase_Traversal.png/32px-Phase_Traversal.png
 [Unwavering Avoidance]: https://wiki.guildwars2.com/images/thumb/e/e3/Unwavering_Avoidance.png/32px-Unwavering_Avoidance.png
@@ -184,6 +187,7 @@
 [Temporal Rift wiki]: https://wiki.guildwars2.com/wiki/Temporal_Rift
 [Rift Slash wiki]: https://wiki.guildwars2.com/wiki/Rift_Slash
 [Precision Strike wiki]: https://wiki.guildwars2.com/wiki/Precision_Strike
+[Chilling Isolation wiki]: https://wiki.guildwars2.com/wiki/Chilling_Isolation
 [Banish Enchantment wiki]: https://wiki.guildwars2.com/wiki/Banish_Enchantment
 [Phase Traversal wiki]: https://wiki.guildwars2.com/wiki/Phase_Traversal
 [Unwavering Avoidance wiki]: https://wiki.guildwars2.com/wiki/Unwavering_Avoidance
