@@ -12,11 +12,11 @@
 * [Minions](https://wiki.guildwars2.com/wiki/Minion): 死靈的爪牙被下達命令時會有特別的效果以資識別.
 * [![][Rigor Mortis]][Rigor Mortis wiki] Rigor Mortis: [Bone Fiend](https://wiki.guildwars2.com/wiki/Bone_Fiend)現在立即中斷正在使用的技能以即時執行命令.
 * [![][Haunt]][Haunt wiki] Haunt: 技能半徑由120增至300.
-* [Flesh Wurm](https://wiki.guildwars2.com/wiki/Flesh_Wurm): 在PvE冷卻時間由32秒減至25秒
+* [![][Summon Flesh Wurm]][Summon Flesh Wurm wiki] Summon Flesh Wurm: 在PvE冷卻時間由32秒減至25秒
 * [![][Necrotic Traversal]][Necrotic Traversal wiki] Necrotic Traversal: 技能半徑由180增至240.
 * [![][Doom]][Doom wiki] Doom: 現在有一個640ms的技能動作. ![][fear]恐怖時效不論距離, 由1秒/1.5秒增至接近2秒.
 * [![][Death's Carapace]][Death's Carapace wiki] Death's Carapace: 增加一個根據層數的視覺效果.
-* [![][Eternal Life]][Eternal Life wiki] Eternal Life (NEW): 不在F1時持續獲得[生命能量](https://wiki.guildwars2.com/wiki/Life_force)直至特定數值 (PvE為66%, PvP/WvW為20%). 進入F1時獲得保護.
+* [![][Eternal Life]][Eternal Life wiki] Eternal Life (NEW): 不在F1時持續獲得[生命能量](https://wiki.guildwars2.com/wiki/Life_force)直至特定數值 (PvE為66%, PvP/WvW為20%). 進入F1時獲得![][protection]保護.
 > * [![][Foot in the Grave]][Foot in the Grave wiki] Foot in the Grave: 被Eternal Life取代.
 * [![][Flesh of the Master]][Flesh of the Master wiki] Flesh of the Master: 修正給予錯誤![][Death's Carapace 20]Death's Carapace層數的bug.
 
@@ -81,6 +81,7 @@
 ["Nothing can save you!"]: https://wiki.guildwars2.com/images/thumb/6/69/%22Nothing_Can_Save_You%21%22.png/32px-%22Nothing_Can_Save_You%21%22.png
 [Rigor Mortis]: https://wiki.guildwars2.com/images/thumb/0/0d/Rigor_Mortis.png/32px-Rigor_Mortis.png
 [Haunt]: https://wiki.guildwars2.com/images/thumb/3/37/Haunt.png/32px-Haunt.png
+[Summon Flesh Wurm]: https://wiki.guildwars2.com/images/thumb/4/49/Summon_Flesh_Wurm.png/32px-Summon_Flesh_Wurm.png
 [Necrotic Traversal]: https://wiki.guildwars2.com/images/thumb/9/98/Necrotic_Traversal.png/32px-Necrotic_Traversal.png
 [Doom]: https://wiki.guildwars2.com/images/thumb/0/0b/Doom.png/32px-Doom.png
 [Death's Carapace]: https://wiki.guildwars2.com/images/thumb/5/58/Death%27s_Carapace.png/32px-Death%27s_Carapace.png
@@ -96,6 +97,7 @@
 ["Nothing can save you!" wiki]: https://wiki.guildwars2.com/wiki/%22Nothing_Can_Save_You!%22
 [Rigor Mortis wiki]: https://wiki.guildwars2.com/wiki/Rigor_Mortis
 [Haunt wiki]: https://wiki.guildwars2.com/wiki/Haunt
+[Summon Flesh Wurm wiki]: https://wiki.guildwars2.com/wiki/Summon_Flesh_Wurm
 [Necrotic Traversal wiki]: https://wiki.guildwars2.com/wiki/Necrotic_Traversal
 [Doom wiki]: https://wiki.guildwars2.com/wiki/Doom
 [Death's Carapace wiki]: https://wiki.guildwars2.com/wiki/Death%27s_Carapace
