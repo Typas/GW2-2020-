@@ -94,10 +94,9 @@
 * ![][Ankle Shots]Ankle Shots: ![][crippled]殘廢時效由3秒減至2秒
 
 ### ![][Shadow Arts]Shadow Arts
-* ![][Concealing Restoration]Concealing Restoration: ![][stealth]隱身時效由2秒減至1秒
 * ![][Merciful Ambush]Merciful Ambush: 救援比率由3%減至1%
-* ![][Leeching Venoms]Leeching Venoms: ![][Spider Venom 20]Spider Venom上限層數由6減至2
 * ![][Shadow's Rejuvenation]Shadow's Rejuvenation: 基本回復由293減至219
+* ![][Concealing Restoration]Concealing Restoration: ![][stealth]隱身時效由2秒減至1秒
 * ![][Rending Shade]Rending Shade: 恩賜偷取量由2減至1
 
 ### ![][Acrobatics]Acrobatics
