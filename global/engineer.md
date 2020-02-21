@@ -4,13 +4,13 @@
 
 > 工程師的![][Explosives 20]Explosives天賦線在這次更新有一些重要的變動. 我們刪除了一些弱勢或效果乏善可陳的天賦, 如![][Minesweeper]Minesweeper, ![][Orbital Command]Orbital Command及![][Blasting Zone 20]Blasting Zone, 以及重組了別的天賦以統一功能性, 如![][Short Fuse 20]Short Fuse及![][Big Boomer 20]Big Boomer. ![][Evasive Powder Keg]Evasive Powder Keg已被刪除及被![][Explosive Entrance 20]Explosive Entrance取代, 依然是在迴避時追加攻擊, 但是一個更加可控和調整的方式. 最後, 我們令不同[grenade](https://wiki.guildwars2.com/wiki/Grenade)技能在競爭模式的差異更清晰, 因為在丟出時實在很難分辨不同的[grenade](https://wiki.guildwars2.com/wiki/Grenade)之間差異.
 
-* [![][Overheat]][overheat wiki] Overheat: 與其禁用所有[toolbelt](https://wiki.guildwars2.com/wiki/Tool_belt)技能直到全部熱能流失, 現在會增加![][Photon Forge 20]Photon Forge以外的所有[toolbelt](https://wiki.guildwars2.com/wiki/Tool_belt)技能15秒冷卻時間. ![][Photon Forge 20]Photon Forge維持禁用直到全部熱能流失.
+* [![][Overheat]][overheat wiki] Overheat: 現在過熱後到全部熱能流失前，以增加![][Photon Forge 20]Photon Forge以外的所有[toolbelt](https://wiki.guildwars2.com/wiki/Tool_belt)技能15秒冷卻時間取代禁用所有[toolbelt](https://wiki.guildwars2.com/wiki/Tool_belt)技能. ![][Photon Forge 20]Photon Forge仍維持禁用.
 * [![][Photonic Blasting Module]][photonic blasting module wiki] Photonic Blasting Module: 當裝備這天賦時, ![][Overheat 20]Overheat所造成的額外冷卻時間由15秒減至5秒.
 * [![][Overcharged Shot]][overcharged shot wiki] Overcharged Shot: 發射前的技能動作由240ms延長至550ms.
 * [![][Personal Battering Ram]][personal battering ram wiki] Personal Battering Ram: 攻擊前的技能動作由300ms延長至600ms.
 * [![][Orbital Strike]][orbital strike wiki] Orbital Strike: 現在全使用一個更精緻的特效. 友軍, 敵軍及在顯示設定勾選了"Effect LoD"的觀眾會顯示低特效版本.
 * [![][Grenade Kit]][grenade kit wiki] Grenade Kit: 這工具包的依據各個技能有不同的熱身特效. 修正熱身時![][Grenade Kit 20]grenade kit技能令到手雷消失了的問題.
-* [![][Crystal Configuration: Eclipse]][crystal configuration eclipse wiki] Crystal Configuration: Eclipse: 不再令![][Corona Burst 20]Corona Burst給予穩固. 基本![][barrier]護盾由374增加至991(PvE)或748(PvP/WvW).
+* [![][Crystal Configuration: Eclipse]][crystal configuration eclipse wiki] Crystal Configuration: Eclipse: 不再令![][Corona Burst 20]Corona Burst給予![][stability]穩固. 基本![][barrier]護盾由374增加至991(PvE)或748(PvP/WvW).
 > * [![][Short Fuse]][short fuse wiki] Short Fuse: 刪除了天賦, 縮減冷卻時間效果已併入至以下技能.
 * [![][Fire Bomb]][fire bomb wiki] Fire Bomb: 冷卻時間由10秒減至8秒.
 * [![][Concussion Bomb]][concussion bomb wiki] Concussion Bomb: 冷卻時間由20秒減至16秒.
@@ -38,7 +38,7 @@
     * [![][Glass Cannon]][glass cannon wiki] Glass Cannon: 效果不變
         * > 生命75%以上時傷害增加
 
-    大師 Master
+ * 大師 Master
     * [![][Aim-Assisted Rocket]][aim-assisted rocket wiki] Aim-Assisted Rocket (重製): 現在只有暴擊時會發射![][Aim-Assisted Rocket trait skill]Rockets. ![][Aim-Assisted Rocket trait skill]Rocket冷卻時間由10秒減至3秒. ![][Aim-Assisted Rocket trait skill]Rockets現在只有在距離目標最少450才會發射. 每第5個![][Aim-Assisted Rocket trait skill]rocket會變成發射![][Orbital Strike 20]orbital strike.
     * [![][Explosive Temper]][explosive temper wiki] Explosive Temper **(新天賦)**: ![][Explosion]Explosions每次命中會給予10秒 +20 [Ferocity](https://wiki.guildwars2.com/wiki/Ferocity) (上限10層).
     * [![][Blast Shield]][blast shield wiki] Blast Shield **(新天賦)**: ![][Explosive Entrance 20]Explosive Entrance給予![][barrier]護盾 (PvE基本1508, WvW/PvP基本340). 以及轉換10% power至vitality.
@@ -47,7 +47,7 @@
     * [![][Flashbang]][flashbang wiki] Flashbang **(新天賦)**: ![][Explosive Entrance 20]Explosive Entrance命中時引致3秒![][blinded]致盲. 另外會對90%血量以上的敵人引致1秒![][daze]暈眩.
     * [![][Shrapnel]][shrapnel wiki] Shrapnel: 效果不變
         * > ![][Explosion]Explosion機率引致![][crippled]殘廢及![][bleeding]流血
-    * [![][Big Boomer]][big boomer wiki] Big Boomer (重製): 對血量比率較工程師低的敵人增加10%傷害. 另外用![][Explosion]Explosion技能攻擊時會持續回復工程師的生命3秒, 每秒回復202. (效果不可堆疊.)
+    * [![][Big Boomer]][big boomer wiki] Big Boomer (重製): 對血量比率較自身低的敵人增加10%傷害. 另外用![][Explosion]Explosion技能攻擊時會持續回復自身血量3秒, 每秒回復202. (效果不可堆疊.)
 
 
 
