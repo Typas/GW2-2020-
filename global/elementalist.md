@@ -16,7 +16,7 @@
   * [![][grinding stones]][grinding stones wiki] Grinding Stones
   * [![][glacial drift]][glacial drift wiki] Glacial Drift
   * [![][molten burst]][molten burst wiki] Molten Burst
-* Summoned Elementals: 元素召喚時間從 60 秒延長到 120 秒。增加顯示剩餘時間的 buff。
+* Summoned Elementals: 元素召喚時間從 60 秒延長到 120 秒。增加顯示剩餘時間的效果。
   * [![][glyph of lesser elementals]][glyph of lesser elementals wiki] Glyph of Lesser Elementals: 現在召出來的不能用主動技能，但可以同時召出多隻。換技能時召出來的會全死。
   * [![][glyph of elementals]][glyph of elementals wiki] Glyph of Elementals: PvE 的 CD 時間從 90 秒縮短到 40 秒。命令技能現在會被當成普通的菁英技來觸發 trait/rune 的效果。現在命令技能會像死靈的 golem 一樣能在任何時間使用，而且會有新的特效。
   * [![][flame burst]][flame burst wiki] Flame Burst (Fire Elemental/Lesser Fire Elemental): 以 1 層 3 秒的 ![][burning]Burning 取代 ![][crippled]Crippled。
@@ -32,7 +32,6 @@
   * ![][air] Air: 5 秒 ![][fury]
   * ![][earth] Earth: 4 秒 ![][protection]
 > * [![][elemental contingency]][elemental contingency wiki] Elemental Contingency: 此特性被 Elemental Lockdown 取代。
-* [![][elemental polyphony]][elemental polyphony wiki] Elemental Polyphony: 當切換到 ![][earth]Earth 時從增加 Toughness 改為增加 Vitality。
 
 
 ## 貢獻者
