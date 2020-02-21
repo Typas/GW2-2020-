@@ -7,13 +7,13 @@
 * [![][signet of domination]][signet of domination wiki] Signet of Domination: 放慢動作時間，從 360 ms 延長至 560 ms。
 * [![][spatial surge]][spatial surge wiki] Spatial Surge: 文字說明會先寫最大攻擊再寫最小攻擊。
 * [![][mirror blade]][mirror blade wiki] Mirror Blade: 修正效果會在玩家而不是目標身上的 bug。CD 從 8 秒降為 5 秒。攻擊係數從 1.0/0.6 改成每次反彈會降低 15% 傷害。
-* [![][mind stab]][mind stab wiki] Mind Stab: CD 從 12 秒降為 10 秒。不再拔 boon，改為在 PvE 造成 5 秒 ![][crippled]Crippled，在 PvP/WvW 造成 ??? 秒 ![][crippled]Crippled。
-* [![][phantasmal berserker]][phantasmal berserker wiki] Phantasmal Berserker: CD 從 15 秒降為 12 秒。幻影不再造成 ![][crippled]Crippled，改為其投射物會移除 2 個 boon，但投射物不再是迴力鏢型。
-* [![][bountiful blades]][bountiful blades wiki] Bountiful Blades: ![][mirror blade 20]Mirror Blade 會多反彈 2 次。![][phantasmal berserker 20]Phantasmal Berserker 會多召喚一個 berserker，但兩個 berserker 都會減傷 33%。
+* [![][mind stab]][mind stab wiki] Mind Stab: CD 從 12 秒降為 10 秒。不再會拔 boon，改為造成 5 秒 ![][crippled]Cripple。
+* [![][phantasmal berserker]][phantasmal berserker wiki] Phantasmal Berserker: CD 從 15 秒降為 12 秒。幻影不再造成 ![][crippled]Cripple，改為其投射物會移除 2 個 boon，但投射物不再是迴力鏢型。
+* [![][bountiful blades]][bountiful blades wiki] Bountiful Blades: ![][mirror blade 20]Mirror Blade 會多反彈 2 次。![][phantasmal berserker 20]Phantasmal Berserker 會多召喚一個 berserker，但兩個 berserker 都會減傷 33% 而非先前的 25%。
 > * [![][confounding suggestions]][confounding suggestions wiki] Confounding Suggestions: 此特性被 Bountiful Blades 取代。
-* [![][vicious expression]][vicious expression wiki] Vicious Expression: 玩家與幻影對沒 boon 的目標增傷。對目標造成 disable 在 PvE 會移除其 2 個 boon，在 PvP 與 WvW 則是 1 個。
+* [![][vicious expression]][vicious expression wiki] Vicious Expression: 玩家與幻影對沒 boon 的目標增傷。對目標造成 disable 在 PvE 會移除其 2 個 boon，在 PvP 與 WvW 則是移除 1 個 boon。
 > * [![][imagined burden]][imagined burden wiki] Imagined Burden: 此特性被 Vicious Expression 取代。
-* [![][elusive mind]][elusive mind wiki] Elusive Mind: 不再會 ![][breakstun]Break Stun 與造成 ![][exhaustion]Exhaustion。在 PvE 的症狀移除數量從 1 -> 3，在 PvP 與 WvW 則是 1 -> 2。
+* [![][elusive mind]][elusive mind wiki] Elusive Mind: 不再會 ![][breakstun]Break Stun 與對自己造成 ![][exhaustion]Exhaustion。在 PvE 的症狀移除數量從 1 -> 3，在 PvP 與 WvW 則是 1 -> 2。
 
 ## 貢獻者
 1. Richun
