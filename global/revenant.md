@@ -41,7 +41,7 @@
 * 大師 Master
     * [![][Assassin's Presence]][Assassin's Presence wiki] Assassin's Presence: 移到同階的上層
         * > 增加附近友軍的Ferocity
-    * [![][Notoriety]][Notoriety wiki] Notoriety: 使用刺客技能時不在給予額外的![][might]威能.
+    * [![][Notoriety]][Notoriety wiki] Notoriety: 使用刺客技能時不再給予額外的![][might]威能.
     * [![][Thrill of Combat]][Thrill of Combat wiki] Thrill of Combat **(新天賦)**: 進戰後每秒給予1層![][Battle Scar 20]Battle Scars.
 
 * 宗師 Grandmaster
@@ -75,8 +75,8 @@
     * [![][Pact of Pain]][Pact of Pain wiki] Pact of Pain **(新天賦)**: 對敵癥狀時效+15%. 對自身癥狀時效+10%.
 
 * 宗師 Grandmaster
-    * [![][Diabolic Inferno]][Diabolic Inferno wiki] Diabolic Inferno (重製): ![][Invoke Torment 20]"Invoke Torment"造成燃燒及中毒.
-    * [![][Fiendish Tenacity]][Fiendish Tenacity wiki] Fiendish Tenacity **(新天賦)**: ![][Invoke Torment 20]"Invoke Torment"給予![][resistance]抵抗. ![][resistance]持有抵抗期間每秒回復生命.
+    * [![][Diabolic Inferno]][Diabolic Inferno wiki] Diabolic Inferno (重製): ![][Invoke Torment 20]"Invoke Torment"造成![][burning]燃燒及![][poisoned]中毒.
+    * [![][Fiendish Tenacity]][Fiendish Tenacity wiki] Fiendish Tenacity **(新天賦)**: ![][Invoke Torment 20]"Invoke Torment"給予![][resistance]抵抗. 持有![][resistance]抵抗期間每秒回復生命.
     * [![][Pulsating Pestilence]][Permeating Pestilence wiki] Permeating Pestilence (更名): ![][Invoke Torment 20]"Invoke Torment"轉移癥狀予擊中的對象.
 
 ## 貢獻者
