@@ -11,10 +11,12 @@
 * [![][hunter's ward]][hunter's ward wiki] Hunter's Ward: 最後一擊的傷害增加 10%。
 * [![][chains of light]][chains of light wiki] Chains of Light: 放慢技能動作，從 400 ms 延長到 600 ms。在所有模式對目標造成 3 -> 5 層 ![][vulnerability]Vulnerability，在 PvE 延長 ![][immobile]Immobilize 時間為 5 秒。
 * [![][feel my wrath]][feel my wrath wiki] "Feel My Wrath!": 所有模式同步，冷卻時間為 35 秒，![][quickness]Quickness 時間從 8 秒縮短為 5 秒，![][fury]Fury 時間維持 10 秒。
-* [![][dulled senses]][dulled senses wiki] Dulled Senses: 不再對目標造成 ![][crippled]Crippled 時給予 ![][vulnerability]Vulnerability。當你 ![][knockback] -> disable 目標時給予 ![][crippled]Crippled。
-* [![][heavy light]][heavy light wiki] Heavy Light: 不再使 ![][deflecting shot 20]Deflecting Shot 能夠 ![][knockback]。當你 disable 目標時得到 ![][stability]Stability，對被 disable 的目標增傷。
+* [![][dulled senses]][dulled senses wiki] Dulled Senses: 不再對目標造成 ![][crippled]Crippled 時給予 ![][vulnerability]Vulnerability。當你 ![][knockback]Knockback -> disable 目標時給予 ![][crippled]Crippled。
+* [![][heavy light]][heavy light wiki] Heavy Light: 不再使 ![][deflecting shot 20]Deflecting Shot 能夠 ![][knockback]Knockback。當你 disable 目標時得到 ![][stability]Stability，對被 disable 的目標增傷。
+* [![][zealous blade]][zealous blade wiki] Zealous Blade: 修正這個 trait 會多給隱藏的 10% 增傷的 bug。
 * [![][big game hunter]][big game hunter wiki] Big Game Hunter: 此特性所增加的攻擊從 20% 下修到 15%，持續時間從增加 33% 延長到增加 66%。
 * [![][stoic demeanor]][stoic demeanor wiki] Stoic Demeanor: 對同一目標的 CD 從 3 秒減為 1 秒。
+* [![][imbued haste]][imbued haste wiki] Imbued Haste: 增加的 Toughness 改為 Vitality，其餘不變。
 * [![][inspiring virtue]][inspiring virtue wiki] Inspiring Virtue: 使用 virtue 的主動技時會增傷。
 > * [![][virtuous solace]][virtuous solace wiki] Virtuous Solace: 此特性被 Inspiring Virtue 取代。
 * [![][wrathful spirit]][wrathful spirit wiki] Wrathful Spirit: 當 ![][aegis]Aegis 結束時，原效果外，會多得到 ![][fury]Fury。
@@ -84,6 +86,7 @@
 [hunter's ward]: https://wiki.guildwars2.com/images/thumb/e/e6/Hunter%27s_Ward.png/32px-Hunter%27s_Ward.png
 [chains of light]: https://wiki.guildwars2.com/images/thumb/5/5a/Chains_of_Light.png/32px-Chains_of_Light.png
 [feel my wrath]: https://wiki.guildwars2.com/images/thumb/6/6f/%22Feel_My_Wrath%21%22.png/32px-%22Feel_My_Wrath%21%22.png
+[zealous blade]: https://wiki.guildwars2.com/images/thumb/f/f3/Zealous_Blade.png/32px-Zealous_Blade.png
 [big game hunter]: https://wiki.guildwars2.com/images/thumb/7/76/Big_Game_Hunter.png/32px-Big_Game_Hunter.png
 [stoic demeanor]: https://wiki.guildwars2.com/images/thumb/6/66/Stoic_Demeanor.png/32px-Stoic_Demeanor.png
 [inspiring virtue]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
@@ -100,6 +103,7 @@
 [hunter's ward wiki]: https://wiki.guildwars2.com/wiki/Hunter%27s_Ward
 [chains of light wiki]: https://wiki.guildwars2.com/wiki/Chains_of_Light
 [feel my wrath wiki]: https://wiki.guildwars2.com/wiki/%22Feel_My_Wrath!%22
+[zealous blade wiki]: https://wiki.guildwars2.com/wiki/Zealous_Blade
 [big game hunter wiki]: https://wiki.guildwars2.com/wiki/Big_Game_Hunter
 [stoic demeanor wiki]: https://wiki.guildwars2.com/wiki/Stoic_Demeanor
 [inspiring virtue wiki]: https://wiki.guildwars2.com/wiki/Inspiring_Virtue
