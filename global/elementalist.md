@@ -8,7 +8,7 @@
 
 * [![][overload fire]][overload fire wiki] Overload Fire: 在 PvE 中 ![][might]Might 的層數從每次 1 層增加到 2 層。修正技能說明。
 * [![][feel the burn]][feel the burn wiki] "Feel the Burn!": 技能的 ![][burning]Burning 從 4 秒 1 層增為 4 秒 2 層。修正會導致無法分享給友軍 ![][might]Might 的 bug。
-* [![][obsidian flesh]][obsidian flesh wiki] Obsidian Flesh: 在 invulnerable 時技能會被鎖定。
+* [![][obsidian flesh]][obsidian flesh wiki] Obsidian Flesh: 在 invulnerable 時玩家的技能會被鎖定。
 * 以下幾個技能新增在技能使用時會生成 ![][stability]Stability，PvE 5 秒、PvP 與 WvW 3 秒。
   * [![][stone resonance]][stone resonance wiki] Stone Resonance
   * [![][lava skin]][lava skin wiki] Lava Skin
@@ -26,12 +26,13 @@
   * [![][stomp]][stomp wiki] Stomp (Earth Elemental): 增加 ![][immobile]Immobilized 1 秒的效果。
 * [![][stone flesh]][stone flesh wiki] Stone Flesh: 不再增加 150 Toughness，改成切換到 ![][earth]Earth 時減傷 7%。
 * [![][bolstered elements]][bolstered elements wiki] Bolstered Elements: 使用 stance 技能時不再產生 ![][stability]Stability，改為產生 ![][barrier]Barrier。
-* [![][elemental lockdown]][elemental lockdown wiki] Elemental Lockdown: 你在 disable 一個敵人時會根據所在 attunement 得到 boon
+* [![][elemental contingency]][elemental lockdown wiki] Elemental Lockdown: 你在 disable 一個敵人時會根據所在 attunement 得到 boon
   * ![][fire] Fire: 5 層 5 秒的 ![][might]
   * ![][water] Water: 10 秒 ![][regeneration]
   * ![][air] Air: 5 秒 ![][fury]
   * ![][earth] Earth: 4 秒 ![][protection]
 > * [![][elemental contingency]][elemental contingency wiki] Elemental Contingency: 此特性被 Elemental Lockdown 取代。
+* [![][elemental polyphony]][elemental polyphony wiki] Elemental Polyphony: 當在 ![][earth]Earth Attunement 時從增加 Toughness 改為增加 Vitality。
 
 
 ## 貢獻者
