@@ -17,6 +17,7 @@
 * [![][Smoke Bomb]][smoke bomb wiki] Smoke Bomb: 冷卻時間由25秒減至20秒.
 * [![][Glue Bomb]][glue bomb wiki] Glue Bomb: 冷卻時間由25秒減至20秒. 修正技能特效比實際範圍大的問題.
 * [![][Big Ol' Bomb]][big ol' bomb wiki] Big Ol' Bomb: 冷卻時間由25秒減至20秒.
+* [![][Blast Gyro]][blast gyro wiki] Blast Gyro: 現在會被當成 ![][explosion]Explosion，以對應到Explosives特性線。
 
 
 ---
@@ -133,6 +134,7 @@
 [Smoke Bomb]: https://wiki.guildwars2.com/images/thumb/0/02/Smoke_Bomb_%28engineer_skill%29.png/32px-Smoke_Bomb_%28engineer_skill%29.png
 [Glue Bomb]: https://wiki.guildwars2.com/images/thumb/4/42/Glue_Bomb.png/32px-Glue_Bomb.png
 [Big Ol' Bomb]: https://wiki.guildwars2.com/images/thumb/7/7f/Big_Ol%27_Bomb.png/32px-Big_Ol%27_Bomb.png
+[Blast Gyro]: https://wiki.guildwars2.com/images/thumb/b/b0/Blast_Gyro.png/32px-Blast_Gyro.png
 
 [Explosion]: https://wiki.guildwars2.com/images/thumb/0/09/Explosion.png/20px-Explosion.png
 [Steel-Packed Powder]: https://wiki.guildwars2.com/images/thumb/f/f4/Steel-Packed_Powder.png/32px-Steel-Packed_Powder.png
@@ -160,6 +162,8 @@
 [smoke bomb wiki]: https://wiki.guildwars2.com/wiki/Smoke_Bomb_(engineer_skill)
 [glue bomb wiki]: https://wiki.guildwars2.com/wiki/Glue_Bomb
 [big ol' bomb wiki]: https://wiki.guildwars2.com/wiki/Big_Ol%27_Bomb
+[blast gyro wiki]: https://wiki.guildwars2.com/wiki/Blast_Gyro
+
 [explosives wiki]: https://wiki.guildwars2.com/wiki/Explosives
 [explosive entrance wiki]: https://wiki.guildwars2.com/wiki/Explosive_Entrance
 [steel-packed powder wiki]: https://wiki.guildwars2.com/wiki/Steel-Packed_Powder
