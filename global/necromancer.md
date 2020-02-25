@@ -19,6 +19,7 @@
 * [![][Eternal Life]][Eternal Life wiki] Eternal Life (NEW): 不在F1時持續獲得[生命能量](https://wiki.guildwars2.com/wiki/Life_force)直至特定數值 (PvE為66%, PvP/WvW為20%). 進入F1時獲得![][protection]保護.
 > * [![][Foot in the Grave]][Foot in the Grave wiki] Foot in the Grave: 被Eternal Life取代.
 * [![][Flesh of the Master]][Flesh of the Master wiki] Flesh of the Master: 修正給予錯誤![][Death's Carapace 20]Death's Carapace層數的bug.
+* [![][Signets of Suffering]][Signets of Suffering wiki] Signets of Suffering: 修正這個特性在 Death Shroud 中會比說明多影響 ![][Signet of Undeath 20]Signet of Undeath 4% 冷卻時間的 bug。
 
 ## 貢獻者
 1. Richun
@@ -89,6 +90,8 @@
 [Eternal Life]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
 [Foot in the Grave]: https://wiki.guildwars2.com/images/thumb/8/85/Foot_in_the_Grave.png/32px-Foot_in_the_Grave.png
 [Flesh of the Master]: https://wiki.guildwars2.com/images/thumb/e/e9/Flesh_of_the_Master.png/32px-Flesh_of_the_Master.png
+[Signets of Suffering]: https://wiki.guildwars2.com/images/thumb/6/67/Signets_of_Suffering.png/32px-Signets_of_Suffering.png
+[Signet of Undeath 20]: https://wiki.guildwars2.com/images/thumb/9/9c/Signet_of_Undeath.png/20px-Signet_of_Undeath.png
 
 [Well of Power wiki]: https://wiki.guildwars2.com/wiki/Well_of_Power
 [Plague Signet wiki]: https://wiki.guildwars2.com/wiki/Plague_Signet
@@ -104,3 +107,4 @@
 [Eternal Life wiki]: https://wiki.guildwars2.com/wiki/Eternal_Life
 [Foot in the Grave wiki]: https://wiki.guildwars2.com/wiki/Foot_in_the_Grave
 [Flesh of the Master wiki]: https://wiki.guildwars2.com/wiki/Flesh_of_the_Master
+[Signets of Suffering wiki]: https://wiki.guildwars2.com/wiki/Signets_of_Suffering
