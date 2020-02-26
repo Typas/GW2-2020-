@@ -13,7 +13,7 @@
     * ![][True Nature] True Nature (Ventari): 清除每個癥狀的基本回復量由970減至323
     * ![][True Nature] True Nature (Mallyx): ![][might]威能時效由10秒減至6秒
 * ![][Heroic Command] Heroic Command: ![][might]威能時效由8秒減至6秒
-* [Healing Orb](https://wiki.guildwars2.com/wiki/Healing_Orb): 治療係數由0.15減至0.075
+* ![][Healing Orb] [Healing Orb](https://wiki.guildwars2.com/wiki/Healing_Orb): 治療係數由0.15減至0.075
 
 ## 武器技能
 ### Hammer 大鎚
@@ -231,6 +231,7 @@
 [Facet of Nature (Ventari)]: https://wiki.guildwars2.com/images/thumb/7/74/Facet_of_Nature%E2%80%95Centaur.png/32px-Facet_of_Nature%E2%80%95Centaur.png
 [True Nature]: https://wiki.guildwars2.com/images/thumb/9/95/One_with_Nature.png/32px-One_with_Nature.png
 [Heroic Command]: https://wiki.guildwars2.com/images/thumb/f/fb/Heroic_Command.png/32px-Heroic_Command.png
+[Healing Orb]: https://wiki.guildwars2.com/images/thumb/8/8a/Legendary_Centaur_Stance.png/32px-Legendary_Centaur_Stance.png
 [Hammer Bolt]: https://wiki.guildwars2.com/images/thumb/7/7d/Hammer_Bolt.png/32px-Hammer_Bolt.png
 [Coalescence of Ruin]: https://wiki.guildwars2.com/images/thumb/1/10/Coalescence_of_Ruin.png/32px-Coalescence_of_Ruin.png
 [Phase Smash]: https://wiki.guildwars2.com/images/thumb/9/91/Phase_Smash.png/32px-Phase_Smash.png
