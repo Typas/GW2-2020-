@@ -88,7 +88,7 @@
 
 ### Longbow 長弓
 * ![][Puncture Shot] Puncture Shot: 直傷系數由0.85減至0.566
-* ![][True Shot] True Shot: 直傷系數由2.0減至1.91. 冷卻時間由6秒g增至8秒
+* ![][True Shot] True Shot: 直傷系數由2.0減至1.91. 冷卻時間由6秒增至8秒
 * ![][Symbol of Energy] Symbol of Energy: 每擊直傷系數由0.69減至0.43
 * ![][Hunter's Ward] Hunter's Ward: 持續攻擊直傷系數由0.25減至0.1. 終擊直傷系數由2.0減至1.666
 
