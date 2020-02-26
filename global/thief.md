@@ -8,8 +8,8 @@
 * [![][Body Shot]][Body Shot wiki] Body Shot: 更名為[Bola Shot](https://wiki.guildwars2.com/wiki/Bola_Shot), 更新了說明及圖示.
 * [![][Head Shot]][Head Shot wiki] Head Shot: 在PvE![][daze]暈眩時效由0.25秒增至2秒.
 * [![][Black Powder]][Black Powder wiki] Black Powder: ![][blinded]致盲及[煙領域](https://wiki.guildwars2.com/wiki/Smoke_field)的範圍由半徑120增至180. 更新了說明.
-> * [![][Ankle Shots]][Ankle Shots wiki] Ankle Shots:  被![][Deadly Aim 20]Deadly Aim取代.
 * [![][Deadly Aim]][Deadly Aim wiki] Deadly Aim **(新天賦)**: 令手槍及魚叉槍有![][Piercing]穿透效果, 上限可攻擊5個目標, 但技能傷害減少5%.
+> * [![][Ankle Shots]][Ankle Shots wiki] Ankle Shots:  被![][Deadly Aim 20]Deadly Aim取代.
 * [![][Trick Shot]][Trick Shot wiki] Trick Shot: 更新了說明以更貼合實際功能.
 * [![][Disabling Shot]][Disabling Shot wiki] Disabling Shot: 更新了說明以更貼合實際功能.
 * [![][Choking Gas]][Choking Gas wiki] Choking Gas: 現在只會在最初的一擊會引致![][poisoned]中毒有指定層數以上的敵人![][daze]暈眩. ![][daze]暈眩由0.5秒增至1秒. PvP/WvW行動點消費由4增至6.
@@ -89,11 +89,11 @@
 
 [Ankle Shots]: https://wiki.guildwars2.com/images/thumb/9/9f/Ankle_Shots.png/32px-Ankle_Shots.png
 [Ankle Shots 20]: https://wiki.guildwars2.com/images/thumb/9/9f/Ankle_Shots.png/20px-Ankle_Shots.png
-[Deadly Aim]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
-[Deadly Aim 20]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/20px-Skill.png
+[Deadly Aim]: https://wiki.guildwars2.com/images/thumb/9/9f/Ankle_Shots.png/32px-Ankle_Shots.png
+[Deadly Aim 20]: https://wiki.guildwars2.com/images/thumb/9/9f/Ankle_Shots.png/20px-Ankle_Shots.png
 [Piercing]: https://wiki.guildwars2.com/images/thumb/a/ae/Pierces.png/20px-Pierces.png
-[Vital Shot]: https://wiki.guildwars2.com/images/thumb/7/76/Vital_Shot.png/32px-Vital_Shot.png
-[Body Shot]: https://wiki.guildwars2.com/images/thumb/c/c7/Body_Shot.png/32px-Body_Shot.png
+[Vital Shot]: https://wiki.guildwars2.com/images/thumb/c/c7/Body_Shot.png/32px-Body_Shot.png
+[Body Shot]:https://wiki.guildwars2.com/images/thumb/7/7e/Bola_Shot.png/32px-Bola_Shot.png
 [Head Shot]: https://wiki.guildwars2.com/images/thumb/9/94/Headshot.png/32px-Headshot.png
 [Black Powder]: https://wiki.guildwars2.com/images/thumb/3/3e/Black_Powder.png/32px-Black_Powder.png
 [Trick Shot]: https://wiki.guildwars2.com/images/thumb/a/af/Trick_Shot.png/32px-Trick_Shot.png
