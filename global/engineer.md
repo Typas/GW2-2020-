@@ -115,8 +115,8 @@
 [Big Boomer]: https://wiki.guildwars2.com/images/thumb/8/83/Big_Boomer.png/32px-Big_Boomer.png
 [Big Boomer 20]: https://wiki.guildwars2.com/images/thumb/8/83/Big_Boomer.png/20px-Big_Boomer.png
 [Evasive Powder Keg]: https://wiki.guildwars2.com/images/thumb/a/a4/Evasive_Powder_Keg.png/20px-Evasive_Powder_Keg.png
-[Explosive Entrance]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
-[Explosive Entrance 20]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/20px-Skill.png
+[Explosive Entrance]: https://wiki.guildwars2.com/images/thumb/3/33/Explosive_Entrance.png/32px-Explosive_Entrance.png
+[Explosive Entrance 20]: https://wiki.guildwars2.com/images/thumb/3/33/Explosive_Entrance.png/20px-Explosive_Entrance.png
 [Overheat]: https://wiki.guildwars2.com/images/thumb/4/4b/Overheat.png/32px-Overheat.png
 [Overheat 20]: https://wiki.guildwars2.com/images/thumb/4/4b/Overheat.png/20px-Overheat.png
 [Photon Forge 20]: https://wiki.guildwars2.com/images/thumb/d/dd/Engage_Photon_Forge.png/20px-Engage_Photon_Forge.png
@@ -144,9 +144,9 @@
 [Glass Cannon]: https://wiki.guildwars2.com/images/thumb/6/6e/Glass_Cannon.png/32px-Glass_Cannon.png
 [Aim-Assisted Rocket]: https://wiki.guildwars2.com/images/thumb/e/e3/Aim-Assisted_Rocket.png/32px-Aim-Assisted_Rocket.png
 [Aim-Assisted Rocket trait skill]: https://wiki.guildwars2.com/images/thumb/9/9e/Fire_Rocket_Barrage.png/20px-Fire_Rocket_Barrage.png
-[Explosive Temper]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
-[Blast Shield]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
-[Flashbang]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
+[Explosive Temper]: https://wiki.guildwars2.com/images/thumb/c/c1/Explosive_Temper.png/32px-Explosive_Temper.png
+[Blast Shield]: https://wiki.guildwars2.com/images/thumb/c/cd/Blast_Shield.png/32px-Blast_Shield.png
+[Flashbang]: https://wiki.guildwars2.com/images/thumb/8/86/Flashbang.png/32px-Flashbang.png
 [Shrapnel]: https://wiki.guildwars2.com/images/thumb/c/ce/Shrapnel.png/32px-Shrapnel.png
 
 [overheat wiki]: https://wiki.guildwars2.com/wiki/Overheat
