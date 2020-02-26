@@ -115,9 +115,9 @@
 ## 治療技能
 * ![]["We Heal As One!"] "We Heal As One!": 冷卻時間由25秒增至30秒
 * ![][Troll Unguent] Troll Unguent: 冷卻時間由25秒增至30秒
-Glyph of Rejuvenation
-* ![][Glyph of Rejuvenation Non-Celestial] Glyph of Rejuvenation (Non-Celestial): 自身治療系數由1.708減至1.25. 友軍治療系數由1.4減至1.0
-* ![][Glyph of Rejuvenation Celestial] Glyph of Rejuvenation (Celestial): 自身治療系數由1.4減至1.0. 友軍治療系數由1.708減至1.25
+* ![][Glyph of Rejuvenation Non-Celestial] Glyph of Rejuvenation
+  * ![][Glyph of Rejuvenation Non-Celestial] Glyph of Rejuvenation (Non-Celestial): 自身治療系數由1.708減至1.25. 友軍治療系數由1.4減至1.0
+  * ![][Glyph of Rejuvenation Celestial] Glyph of Rejuvenation (Celestial): 自身治療系數由1.4減至1.0. 友軍治療系數由1.708減至1.25
 * ![][Bear Stance] Bear Stance: 冷卻時間由25秒增至30秒
 
 ## 通用技能
@@ -243,7 +243,7 @@ Glyph of Rejuvenation
 [Swoop]: https://wiki.guildwars2.com/images/thumb/7/7b/Swoop.png/32px-Swoop.png
 [Brutal Charge (Canine)]: https://wiki.guildwars2.com/images/thumb/2/2c/Brutal_Charge_%28canine%29.png/32px-Brutal_Charge_%28canine%29.png
 [Tail Lash]: https://wiki.guildwars2.com/images/thumb/f/f5/Tail_Lash.png/32px-Tail_Lash.png
-[Call Lightning]: https://wiki.guildwars2.com/images/thumb/2/27/Call_Lightning.png/32px-Call_Lightning.png
+[Call Lightning]: https://wiki.guildwars2.com/images/thumb/f/f0/Call_Lightning_%28soulbeast%29.png/32px-Call_Lightning_%28soulbeast%29.png
 [Maul]: https://wiki.guildwars2.com/images/thumb/1/1f/Maul_%28porcine%29.png/32px-Maul_%28porcine%29.png
 [Brutal Charge (Porcine)]: https://wiki.guildwars2.com/images/thumb/a/a5/Brutal_Charge_%28porcine%29.png/32px-Brutal_Charge_%28porcine%29.png
 [Takedown]: https://wiki.guildwars2.com/images/thumb/e/e6/Takedown.png/32px-Takedown.png
