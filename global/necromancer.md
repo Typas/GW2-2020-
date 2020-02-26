@@ -73,7 +73,7 @@
 [light aura]: https://wiki.guildwars2.com/images/thumb/5/5a/Light_Aura.png/20px-Light_Aura.png
 [magnetic aura]: https://wiki.guildwars2.com/images/thumb/5/5a/Magnetic_Aura.png/20px-Magnetic_Aura.png
 [shocking aura]: https://wiki.guildwars2.com/images/thumb/3/31/Shocking_Aura.png/20px-Shocking_Aura.png
-[unblockable]: https://wiki.guildwars2.com/images/thumb/6/6e/Unblockable.png/20px-Unblockable.png
+[unblockable]: https://wiki.guildwars2.com/images/thumb/f/f0/Unblockable_%28effect%29.png/20px-Unblockable_%28effect%29.png
 
 [Well of Power]: https://wiki.guildwars2.com/images/thumb/b/b7/Well_of_Power.png/32px-Well_of_Power.png
 [Plague Signet]: https://wiki.guildwars2.com/images/thumb/c/c5/Plague_Signet.png/32px-Plague_Signet.png
