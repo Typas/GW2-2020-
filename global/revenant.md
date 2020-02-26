@@ -7,8 +7,8 @@
 * [![][Surge of the Mists]][Surge of the Mists wiki] Surge of the Mists: 在實際攻擊前增加500ms的熱身. 迴避效果於熱身開始時已經有效.
 * [![][Temporal Rift]][Temporal Rift wiki] Temporal Rift: 不再引致![][confusion]混亂. 在PvE ![][torment]折磨層數由2層增至4層.
 * [![][Rift Slash]][Rift Slash wiki] Rift Slash: 技能動畫改得更加顯眼. 整體技能動作時間不變.
-* [![][Precision Strike]][Precision Strike wiki] Precision Strike: 被重製為"Chilling Isolation". 
 * [![][Chilling Isolation]][Chilling Isolation wiki] Chilling Isolation: 在半徑240範圍內對最多5名敵人造成2次攻擊並引致![][chilled]凍結. 如果第2擊只打中1名敵人, 將會有額外傷害. 在PvP及WvW冷卻時間由6秒增至8秒.
+> * [![][Precision Strike]][Precision Strike wiki] Precision Strike: 被重製為"Chilling Isolation". 
 * [![][Banish Enchantment]][Banish Enchantment wiki] Banish Enchantment: 不再引致![][confusion]混亂. 每次攻擊會造成1秒![][chilled]凍結並移除1個恩賜. 攻擊次數由1次增至3次. 在PvE傷害增加380% (系數 0.25 => 1.2). 在**PvE以外**傷害增加20% (系數 0.25 => 0.3)
 * [![][Phase Traversal]][Phase Traversal wiki] Phase Traversal: 不再增加技能使用後數次攻擊傷害, 現在使用新的![][unblockable]無法格擋效果. 在PvE傷害增加100%. 在WvW能量消費由30增至35.
 * [![][Unwavering Avoidance]][Unwavering Avoidance wiki] Unwavering Avoidance: 現在於迴避時給予![][vigor]活力而非![][stability]穩固. 冷卻時間由8秒減至5秒.
@@ -66,13 +66,14 @@
     * [![][Acolyte of Torment]][Acolyte of Torment wiki] Acolyte of Torment **(新天賦)**: ![][torment]折磨+10%傷害.
     * [![][Demonic Defiance]][Demonic Defiance wiki] Demonic Defiance: 效果不變
         * > 使用[惡魔姿態技能](https://wiki.guildwars2.com/wiki/Legendary_Demon_Stance)會獲得短時效的![][resistance]抵抗
-    * [![][Replenishing Despair]][Replenishing Despair wiki] Replenishing Despair (重製): 每個[upkeeping](https://wiki.guildwars2.com/wiki/Energy#Upkeep)技能會+1[能量回復速度](https://wiki.guildwars2.com/wiki/Energy#Mechanics). 但會每5秒對自己造成1層![][torment]折磨.
+    * [![][Replenishing Despair]][Replenishing Despair wiki] Replenishing Despair (重製): 使用[upkeeping](https://wiki.guildwars2.com/wiki/Energy#Upkeep)技能會+1[能量回復速度](https://wiki.guildwars2.com/wiki/Energy#Mechanics). 但會每秒對自己造成1層5秒![][torment]折磨.
+      * >(不會堆疊. 龍返開5 upkeep也只有+1)
 
 * 大師 Master
     * [![][Abyssal Chill]][Abyssal Chill wiki] Abyssal Chill : 移到同階的新位置.
         * > 引致![][chilled]凍結時追加![][torment]折磨
     * [![][Demonic Resistance]][Demonic Resistance wiki] Demonic Resistance: 移到同階的新位置. 不再依據癥狀傷害增加生命. 傷害抵抗在PvE由20%增至33%. 在PvP/WvW保持20%.
-    * [![][Pact of Pain]][Pact of Pain wiki] Pact of Pain **(新天賦)**: 對敵癥狀時效+15%. 對自身癥狀時效+10%.
+    * [![][Pact of Pain]][Pact of Pain wiki] Pact of Pain **(新天賦)**: 對敵癥狀時效+15%(PvE)/7%(WvW, PvP). 對自身癥狀時效+10%(PvE)/5%(WvW, PvP).
 
 * 宗師 Grandmaster
     * [![][Diabolic Inferno]][Diabolic Inferno wiki] Diabolic Inferno (重製): ![][Invoke Torment 20]"Invoke Torment"造成![][burning]燃燒及![][poisoned]中毒.
@@ -135,17 +136,17 @@
 [Surge of the Mists]: https://wiki.guildwars2.com/images/thumb/5/59/Surge_of_the_Mists.png/32px-Surge_of_the_Mists.png
 [Temporal Rift]: https://wiki.guildwars2.com/images/thumb/8/87/Temporal_Rift.png/32px-Temporal_Rift.png
 [Rift Slash]: https://wiki.guildwars2.com/images/thumb/a/a8/Rift_Slash.png/32px-Rift_Slash.png
-[Chilling Isolation]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
+[Chilling Isolation]: https://wiki.guildwars2.com/images/thumb/b/bc/Precision_Strike.png/32px-Precision_Strike.png
 [Banish Enchantment]: https://wiki.guildwars2.com/images/thumb/e/ec/Banish_Enchantment.png/32px-Banish_Enchantment.png
 [Phase Traversal]: https://wiki.guildwars2.com/images/thumb/f/f2/Phase_Traversal.png/32px-Phase_Traversal.png
 [Unwavering Avoidance]: https://wiki.guildwars2.com/images/thumb/e/e3/Unwavering_Avoidance.png/32px-Unwavering_Avoidance.png
 [Determined Resolution]: https://wiki.guildwars2.com/images/thumb/c/c7/Determined_Resolution.png/32px-Determined_Resolution.png
 [Fierce Infusion]: https://wiki.guildwars2.com/images/thumb/5/55/Fierce_Infusion.png/32px-Fierce_Infusion.png
-[Glaring Resolve]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
+[Glaring Resolve]: https://wiki.guildwars2.com/images/thumb/5/55/Fierce_Infusion.png/32px-Fierce_Infusion.png
 [Empty Vessel]: https://wiki.guildwars2.com/images/thumb/1/16/Empty_Vessel.png/32px-Empty_Vessel.png
-[Contained Temper]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
+[Contained Temper]: https://wiki.guildwars2.com/images/thumb/1/16/Empty_Vessel.png/32px-Empty_Vessel.png
 [Sudden Reversal]: https://wiki.guildwars2.com/images/thumb/9/98/Sudden_Reversal.png/32px-Sudden_Reversal.png
-[Bold Reversal]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
+[Bold Reversal]: https://wiki.guildwars2.com/images/thumb/9/98/Sudden_Reversal.png/32px-Sudden_Reversal.png
 [Kalla's Fervor]: https://wiki.guildwars2.com/images/thumb/9/9e/Kalla%27s_Fervor.png/20px-Kalla%27s_Fervor.png
 [Malicious Reprisal]: https://wiki.guildwars2.com/images/thumb/0/00/Malicious_Reprisal.png/20px-Malicious_Reprisal.png
 [Jade Echo]: https://wiki.guildwars2.com/images/thumb/4/43/Jade_Echo.png/20px-Jade_Echo.png
@@ -155,13 +156,13 @@
 [Destructive Impulses]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
 [Targeted Destruction]: https://wiki.guildwars2.com/images/thumb/e/ed/Targeted_Destruction.png/32px-Targeted_Destruction.png
 [Aggressive Agility]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
-[Unsuspecting Strikes]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
+[Unsuspecting Strikes]: https://wiki.guildwars2.com/images/thumb/c/cd/Vicious_Lacerations.png/32px-Vicious_Lacerations.png
 [Battle Scarred]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
 [Battle Scar]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
 [Battle Scar 20]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/20px-Skill.png
 [Assassin's Presence]: https://wiki.guildwars2.com/images/thumb/5/54/Assassin%27s_Presence.png/32px-Assassin%27s_Presence.png
 [Notoriety]: https://wiki.guildwars2.com/images/thumb/9/9c/Notoriety.png/32px-Notoriety.png
-[Thrill of Combat]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
+[Thrill of Combat]: https://wiki.guildwars2.com/images/thumb/3/30/Thrill_of_Combat.png/32px-Thrill_of_Combat.png
 [Brutality]: https://wiki.guildwars2.com/images/thumb/b/ba/Brutality.png/32px-Brutality.png
 [Brutality 20]: https://wiki.guildwars2.com/images/thumb/b/ba/Brutality.png/20px-Brutality.png
 [Swift Termination]: https://wiki.guildwars2.com/images/thumb/b/bb/Swift_Termination.png/32px-Swift_Termination.png
