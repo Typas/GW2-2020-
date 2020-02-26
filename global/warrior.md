@@ -82,7 +82,7 @@
 [disrupting stab]: https://wiki.guildwars2.com/images/thumb/7/77/Disrupting_Stab.png/32px-Disrupting_Stab.png
 [imminent threat]: https://wiki.guildwars2.com/images/thumb/0/06/Imminent_Threat.png/32px-Imminent_Threat.png
 [signet of might]: https://wiki.guildwars2.com/images/thumb/4/40/Signet_of_Might.png/32px-Signet_of_Might.png
-[unblockable]: https://wiki.guildwars2.com/images/thumb/6/6e/Unblockable.png/20px-Unblockable.png
+[unblockable]: https://wiki.guildwars2.com/images/thumb/f/f0/Unblockable_%28effect%29.png/20px-Unblockable_%28effect%29.png
 
 [aimed shot wiki]: https://wiki.guildwars2.com/wiki/Aimed_Shot
 [volley wiki]: https://wiki.guildwars2.com/wiki/Volley
