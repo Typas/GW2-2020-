@@ -102,7 +102,7 @@
 [light aura]: https://wiki.guildwars2.com/images/thumb/5/5a/Light_Aura.png/20px-Light_Aura.png
 [magnetic aura]: https://wiki.guildwars2.com/images/thumb/5/5a/Magnetic_Aura.png/20px-Magnetic_Aura.png
 [shocking aura]: https://wiki.guildwars2.com/images/thumb/3/31/Shocking_Aura.png/20px-Shocking_Aura.png
-[unblockable]: https://wiki.guildwars2.com/images/thumb/6/6e/Unblockable.png/20px-Unblockable.png
+[unblockable]: https://wiki.guildwars2.com/images/thumb/f/f0/Unblockable_%28effect%29.png/20px-Unblockable_%28effect%29.png
 
 [Soulbeast]: https://wiki.guildwars2.com/images/thumb/7/70/Soulbeast.png/32px-Soulbeast.png
 [Zephyr's Speed]: https://wiki.guildwars2.com/images/thumb/0/0e/Zephyr%27s_Speed_%28ranger%29.png/20px-Zephyr%27s_Speed_%28ranger%29.png
