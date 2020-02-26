@@ -2,7 +2,7 @@
 
 ###### tags: `Global` `GW2` `2020 Feb Update` `Guardian`
 
-#### [Guild Wars 2 Wiki Game Updates](https://wiki.guildwars2.com/wiki/Game_updates)
+#### [Guild Wars 2 Wiki Game Updates](https://wiki.guildwars2.com/wiki/Game_updates/2020-02-25#Guardian_2)
 
 > DH 是穩定的傷害來源，不過有些地方需要調整。像是 ![][deflecting shot 20]Deflecting Shot 有非常短的施放時間，搭配 ![][heavy light 20]Heavy Light 還能 CC。我們把 CC 能力放進技能裡，並延長了其施放動作來確保效果的合理性。還有許多特性提升了其易懂性，像是 ![][dulled senses 20]Dulled Senses 在你 CC 任何目標時作動，而不僅止於 ![][knockback]Knockback。一些 Virtues 線特別沒人用的特性被換成新的了。
 
@@ -89,10 +89,10 @@
 [zealous blade]: https://wiki.guildwars2.com/images/thumb/f/f3/Zealous_Blade.png/32px-Zealous_Blade.png
 [big game hunter]: https://wiki.guildwars2.com/images/thumb/7/76/Big_Game_Hunter.png/32px-Big_Game_Hunter.png
 [stoic demeanor]: https://wiki.guildwars2.com/images/thumb/6/66/Stoic_Demeanor.png/32px-Stoic_Demeanor.png
-[inspiring virtue]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
+[inspiring virtue]: https://wiki.guildwars2.com/images/thumb/8/8f/Virtuous_Solace.png/32px-Virtuous_Solace.png
 [virtuous solace]: https://wiki.guildwars2.com/images/thumb/8/8f/Virtuous_Solace.png/32px-Virtuous_Solace.png
 [wrathful spirit]: https://wiki.guildwars2.com/images/thumb/0/03/Wrathful_Spirit.png/32px-Wrathful_Spirit.png
-[furious focus]: https://wiki.guildwars2.com/images/thumb/7/74/Skill.png/32px-Skill.png
+[furious focus]: https://wiki.guildwars2.com/images/thumb/2/2e/Binding_Jeopardy.png/32px-Binding_Jeopardy.png
 [binding jeopardy]: https://wiki.guildwars2.com/images/thumb/2/2e/Binding_Jeopardy.png/32px-Binding_Jeopardy.png
 [imbued haste]: https://wiki.guildwars2.com/images/thumb/0/0e/Imbued_Haste.png/32px-Imbued_Haste.png
 
